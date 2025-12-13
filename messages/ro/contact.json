@@ -1,0 +1,11 @@
+{
+  "contact": {
+    "forms": {
+      "offerButton": "Cere o ofertă",
+      "carrierButton": "Devino partener",
+      "loadingForm": "Se încarcă formularul…",
+      "offerTitle": "Cerere ofertă",
+      "carrierTitle": "Formular partener"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "CareersPage": {
+    "hero": {
+      "title": "Dołącz do Zespołu Crystal Logistics",
+      "subtitle": "Zawsze szukamy osób ambitnych, pełnych pasji i zaangażowania. Jeśli chcesz się rozwijać u boku silnego zespołu, to jest miejsce dla Ciebie.",
+      "applyBtn": "Aplikuj Teraz"
+    },
+    "join": {
+      "title": "Dlaczego warto do nas dołączyć?",
+      "item1": {
+        "title": "Stabilność zawodowa",
+        "text": "Pracuj w solidnej firmie logistycznej z międzynarodowym doświadczeniem."
+      },
+      "item2": {
+        "title": "Elastyczny grafik",
+        "text": "Bierzemy pod uwagę życie osobiste i oferujemy Ci prawdziwą równowagę."
+      },
+      "item3": {
+        "title": "Zgrany zespół",
+        "text": "Jesteśmy młodym, profesjonalnym i bardzo przyjaznym zespołem."
+      },
+      "item4": {
+        "title": "Dynamiczna branża",
+        "text": "Logistyka to idealna dziedzina, jeśli lubisz codzienne wyzwania."
+      },
+      "item5": {
+        "title": "Perspektywy międzynarodowe",
+        "text": "Współpracuj z firmami z całej Europy i nie tylko."
+      },
+      "item6": {
+        "title": "Kultura zawodowa",
+        "text": "Szacunek, zaangażowanie i wyniki – to są nasze wartości."
+      },
+      "button": "Aplikuj Teraz"
+    },
+    "jobs": {
+      "title": "Dostępne stanowiska",
+      "applyBtn": "Aplikuj Teraz!"
+    },
+    "form": {
+      "title": "Wypełnij Formularz Aplikacyjny"
+    }
+  }
+}

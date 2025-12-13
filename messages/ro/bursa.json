@@ -1,0 +1,170 @@
+{
+  "Bursa": {
+    "Client": {
+      "eyebrow": "SOLUȚII CLIENT",
+      "title": "Descoperă beneficiile cotației instant de transport",
+      "intro": "Prin cotația instant de Transport, ai oportunitatea de a-ți posta mărfurile pe platformă și de a primi oferte atât de la CLS, cât și de la rețeaua noastră de parteneri CLS. Astfel, te asiguri că mărfurile tale ajung la destinație în siguranță, la timp și la un preț competitiv.",
+      "Accordion": {
+        "items": {
+          "class1": {
+            "title": "Este gratuit",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Postarea mărfurilor nu te costă nimic."]
+          },
+          "class2": {
+            "title": "Durează 30 de secunde",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Procesul este rapid și eficient."]
+          },
+          "class3": {
+            "title": "Primești ofertă în cel mult 3 ore",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Nu pierzi timp așteptând răspunsuri."]
+          },
+          "class4": {
+            "title": "Acces la mii de transportatori verificați",
+            "short": "Lucrezi doar cu parteneri atent selectați de CLS.",
+            "paragraphs": [
+              "Transportatorii înscriși la CLS trec printr-un proces de verificare a documentelor și a istoricului de colaborare.",
+              "Ai garanția că marfa ta este preluată de profesioniști cu experiență în domeniu."
+            ],
+            "listItems": [
+              "Rețea extinsă de transportatori în toată Europa",
+              "Parteneri cu flotă diversificată și modernă",
+              "Colaborare cu firme stabile și de încredere"
+            ]
+          },
+          "class5": {
+            "title": "Transportul este asigurat",
+            "short": "Marfa ta este protejată pe tot parcursul transportului.",
+            "paragraphs": [
+              "Ai acces la soluții de transport cu acoperire asigurată, adaptată tipului de marfă.",
+              "Monitorizăm atent derularea transportului pentru a minimiza orice risc."
+            ],
+            "listItems": [
+              "Protecție suplimentară pentru mărfuri sensibile",
+              "Trasabilitate și comunicare pe durata cursei",
+              "Soluții rapide în caz de situații neprevăzute"
+            ]
+          },
+          "class6": {
+            "title": "Asistență 24/7",
+            "short": "Echipa CLS este disponibilă permanent pentru tine.",
+            "paragraphs": [
+              "Indiferent de oră, ai un punct de contact dedicat pentru întrebări sau situații speciale.",
+              "Te ajutăm să găsești rapid soluții alternative atunci când ai nevoie."
+            ],
+            "listItems": [
+              "Suport telefonic și prin e-mail",
+              "Consultanță în timp real pentru curse urgente",
+              "Comunicare clară de la încărcare până la descărcare"
+            ]
+          },
+          "class7": {
+            "title": "Consultanță completă",
+            "short": "Te ajutăm să alegi cea mai bună variantă de transport.",
+            "paragraphs": [
+              "Analizăm tipul de marfă, destinația și bugetul pentru a-ți propune soluții eficiente.",
+              "Ne asigurăm că beneficiezi de un raport optim între cost, timp și siguranță."
+            ],
+            "listItems": [
+              "Recomandări personalizate pentru fiecare transport",
+              "Optimizarea rutelor și a costurilor",
+              "Suport pentru gestionarea fluxului de transport pe termen lung"
+            ]
+          }
+        }
+      }
+    },
+    "Carrier": {
+      "eyebrow": "BENEFICII TRANSPORTATOR",
+      "title": "Beneficiile colaborării cu CLS",
+      "intro": "Cauți marfă și nu găsești suficient? Ai camioane parcate sau parcurgi mii de kilometri lunar fără profit? Prin cotația instant de Transport CLS îți punem la dispoziție curse potrivite flotei tale, astfel încât să îți crești gradul de încărcare și să treci pe profit.",
+      "Accordion": {
+        "items": {
+          "class1": {
+            "title": "Acces la mii de mărfuri spot",
+            "short": "Ai mereu la dispoziție curse noi, potrivite camioanelor tale.",
+            "paragraphs": [
+              "Prin platforma CLS ai acces la o bază largă de mărfuri spot, din multiple industrii și regiuni.",
+              "Poți selecta doar cursele care se potrivesc flotei și rutelor tale preferate."
+            ],
+            "listItems": [
+              "Plăți rapide și sigure",
+              "Flux constant de oportunități",
+              "Reducerea timpilor morți dintre curse"
+            ]
+          },
+          "class2": {
+            "title": "Contracte de tip tracționist",
+            "short": "Stabilitate și volum constant de transport.",
+            "paragraphs": [
+              "Poți încheia contracte de tip tracționist cu CLS, prin care asiguri un volum recurent de curse.",
+              "Astfel, îți poți planifica mai ușor activitatea și investițiile în flotă."
+            ],
+            "listItems": [
+              "Colaborări pe termen mediu și lung",
+              "Grad de încărcare mai bun pentru camioane",
+              "Predictibilitate în încasări și cash-flow"
+            ]
+          },
+          "class3": {
+            "title": "Posibilitate de închiriere semi-remorcă",
+            "short": "Flexibilitate pentru dezvoltarea flotei tale.",
+            "paragraphs": [
+              "Dacă ai cap tractor, dar nu suficientă semi-remorcă, poți beneficia de soluții de închiriere prin CLS.",
+              "Astfel, poți prelua mai multe curse fără să blochezi capital în achiziții imediate."
+            ],
+            "listItems": [
+              "Acces rapid la echipamente suplimentare",
+              "Reducerea riscului de supra-investire",
+              "Adaptare ușoară la vârfurile de cerere"
+            ]
+          },
+          "class4": {
+            "title": "Plăți punctuale și încasare garantată",
+            "short": "Ne asigurăm că munca ta este plătită la timp.",
+            "paragraphs": [
+              "Punem accent pe termene de plată corecte și respectate, astfel încât să îți poți planifica cheltuielile.",
+              "Lucrăm cu clienți stabili, cu bonitate bună, pentru a reduce riscul de neîncasare."
+            ],
+            "listItems": [
+              "Termene de plată transparente",
+              "Flux de încasări predictibil",
+              "Reducerea riscului financiar"
+            ]
+          },
+          "class5": {
+            "title": "Prețuri competitive",
+            "short": "Tarife aliniate cu piața, negociate corect.",
+            "paragraphs": [
+              "Ofertele din bursă sunt în linie cu realitățile pieței de transport, astfel încât să îți poți acoperi costurile și să obții profit.",
+              "Ai acces la curse atât spot, cât și contractuale, în funcție de strategia ta."
+            ],
+            "listItems": [
+              "Transparență în structura tarifelor",
+              "Posibilitate de negociere acolo unde este cazul",
+              "Echilibru între volum și profitabilitate"
+            ]
+          },
+          "class6": {
+            "title": "O paletă largă de opțiuni",
+            "short": "Poți alege exact tipul de colaborare de care ai nevoie.",
+            "paragraphs": [
+              "Indiferent dacă ești o firmă mică sau o flotă mare, găsești în CLS opțiuni adaptate modelului tău de business.",
+              "Poți combina curse spot, contracte pe termen lung și soluții flexibile de echipamente."
+            ],
+            "listItems": [
+              "Curse interne și internaționale",
+              "Colaborări dedicate sau ocazionale",
+              "Sprijin pentru dezvoltarea afacerii tale de transport"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

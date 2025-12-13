@@ -1,0 +1,136 @@
+{
+  "contact": {
+    "badge": "Contact",
+    "title": "We are here to help you!",
+    "subtitle": "At Crystal Logistics Services, we are dedicated to providing personalized solutions for clients, carriers, and candidates wishing to join our team.",
+    "requestQuote": "Request a quote",
+    "hours_ro": "Monday–Friday, 09:00–17:30",
+    "hours_ch": "Monday–Friday, 09:00–17:00",
+    "mapLoading": "Loading map…"
+  },
+  "contactForms": {
+    "offerButton": "Request a quote",
+    "carrierButton": "Become a carrier",
+    "loadingForm": "Loading form…",
+    "offerTitle": "Quote request",
+    "carrierTitle": "Carrier registration form"
+  },
+  "Footer": {
+    "about": {
+      "title": "About Crystal Logistics Services",
+      "text": "Crystal Logistics Services offers complete road, maritime, air, and multimodal transport solutions, tailored to the requirements of clients worldwide.",
+      "contactTitle": "Contact",
+      "address": "25 Exemplu St., Bucharest, Romania",
+      "phone": "+40 123 456 789",
+      "email": "office@crystallogistics.ro",
+      "followUs": "Follow Us"
+    },
+    "columns": {
+      "services": {
+        "title": "Services",
+        "links": [
+          "Instant Quote",
+          "Multimodal Transport",
+          "Road Transport",
+          "Air Transport",
+          "Maritime Transport",
+          "Rail Transport"
+        ]
+      },
+      "about": {
+        "title": "About Us",
+        "links": [
+          "Become a CLS Partner",
+          "Careers",
+          "Our Team",
+          "Blog",
+          "Reviews",
+          "Brochures"
+        ]
+      },
+      "contact": {
+        "title": "Contact",
+        "address": "Our Locations",
+        "phone": "+40 723 344 599",
+        "email": "logistics@crystal-logistics-services.com",
+        "hours": "Hours: 09:00–17:30"
+      },
+      "licenses": {
+        "title": "Licenses",
+        "text": "Brokerage License series CI no. 0010969\nTransport License no. 023173"
+      }
+    },
+    "bottom": {
+      "rights": "© 2025 Crystal Logistics Services. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "cookies": "Cookie Policy"
+    }
+  },
+  "Components": {
+    "whyUs": {
+      "title": "Why Work With Us?",
+      "items": {
+        "assistance": "24/7 TRANSPORT ASSISTANCE",
+        "response": "WE RESPOND QUICKLY",
+        "insured": "INSURED TRANSPORT",
+        "fairPrice": "FAIR PRICE",
+        "fullPackage": "COMPLETE SERVICE PACKAGE"
+      }
+    }
+  },
+  "Services": {
+    "title": "Services",
+    "learnMore": "Learn More",
+    "cards": {
+      "road": {
+        "title": "Road Transport",
+        "text": "Freight transport services cover a complete range of solutions tailored to each client's needs, from domestic transport to European routes.\n\nWe provide road transport for general cargo, oversized, ADR, refrigerated, tanker, or tipper trucks."
+      },
+      "maritime": {
+        "title": "Maritime Transport",
+        "text": "Ideal solutions for large volumes, containers, or bulk transport, to and from major commercial ports.\n\nIncludes loading, customs documentation, tracking, and optional insurance."
+      },
+      "air": {
+        "title": "Air Transport",
+        "text": "The fast and efficient solution for international freight transport.\n\nIdeal for urgent or sensitive deliveries."
+      },
+      "rail": {
+        "title": "Rail Transport",
+        "text": "The economical and sustainable alternative for large volumes of general or oversized cargo.\n\nRecommended for complex logistics projects."
+      },
+      "multimodal": {
+        "title": "Multimodal Transport",
+        "text": "Combines road, maritime, air, and rail for efficiency and optimized costs.\n\nSuitable for integrated supply chains and firm deadlines."
+      }
+    }
+  },
+  "Stats": {
+    "title": "Our results speak",
+    "items": {
+      "km": "km traveled",
+      "clients": "satisfied clients",
+      "cargo": "cargo transported",
+      "revenue": "million €",
+      "satisfaction": "satisfaction rate"
+    }
+  },
+  "Newsletter": {
+    "title": "Subscribe to our newsletter",
+    "emailLabel": "Your email address",
+    "emailPlaceholder": "name@email.com",
+    "consentText": "I have read and agree to the",
+    "privacyPolicy": "Privacy Policy",
+    "submit": "Submit"
+  },
+  "Reviews": {
+    "title": "What our clients say",
+    "cta": "See all reviews on Google",
+    "readMore": "read more",
+    "readLess": "show less"
+  },
+  "Organizatii": {
+    "orgTitle": "Organizations we belong to",
+    "clientsTitle": "Clients and partners"
+  }
+}

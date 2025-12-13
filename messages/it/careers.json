@@ -1,0 +1,44 @@
+{
+  "CareersPage": {
+    "hero": {
+      "title": "Unisciti al Team Crystal Logistics",
+      "subtitle": "Siamo sempre alla ricerca di persone ambiziose, appassionate e dedicate. Se vuoi crescere al fianco di un team forte, questo è il posto che fa per te.",
+      "applyBtn": "Candidati Ora"
+    },
+    "join": {
+      "title": "Perché unirti a noi?",
+      "item1": {
+        "title": "Stabilità professionale",
+        "text": "Lavora in un'azienda logistica solida, con esperienza internazionale."
+      },
+      "item2": {
+        "title": "Orario flessibile",
+        "text": "Teniamo conto della vita personale e ti offriamo un reale equilibrio."
+      },
+      "item3": {
+        "title": "Team unito",
+        "text": "Siamo un team giovane, professionale e molto amichevole."
+      },
+      "item4": {
+        "title": "Settore dinamico",
+        "text": "La logistica è il campo perfetto se ti piacciono le sfide quotidiane."
+      },
+      "item5": {
+        "title": "Prospettive internazionali",
+        "text": "Collabora con aziende di tutta Europa e non solo."
+      },
+      "item6": {
+        "title": "Cultura professionale",
+        "text": "Rispetto, coinvolgimento e risultati, questi sono i nostri valori."
+      },
+      "button": "Candidati Ora"
+    },
+    "jobs": {
+      "title": "Posizioni disponibili",
+      "applyBtn": "Candidati Ora!"
+    },
+    "form": {
+      "title": "Compila il Modulo di Candidatura"
+    }
+  }
+}

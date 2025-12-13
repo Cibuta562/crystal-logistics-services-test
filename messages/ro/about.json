@@ -1,0 +1,171 @@
+{
+  "about": {
+    "hero": {
+      "tag": "Despre noi",
+      "title": "Experiență, încredere și performanță",
+      "subtitle": "Cu o experiență vastă în domeniul transporturilor, echipa noastră oferă soluții logistice personalizate, adaptate nevoilor fiecărui client."
+    },
+
+    "workWithUs": {
+      "title": "DE CE SĂ LUCREZI CU NOI",
+      "items": [
+        {
+          "title": "Timp salvat și zero griji",
+          "desc": "preluăm responsabilitatea completă"
+        },
+        {
+          "title": "Viteză de reacție",
+          "desc": "ofertare sub 10 min, confirmări sub 30 min"
+        },
+        {
+          "title": "Trasabilitate",
+          "desc": "status live + comunicare proactivă"
+        },
+        { "title": "Predictibilitate", "desc": "SLA-uri și KPI măsurabili" },
+        {
+          "title": "Flexibilitate",
+          "desc": "spot, contract, tracționist, multimodal"
+        },
+        {
+          "title": "Siguranță",
+          "desc": "documente impecabile, conformitate, asigurări"
+        }
+      ]
+    },
+
+    "benefits": {
+      "title": "BENEFICII SUPLIMENTARE",
+      "items": [
+        { "title": "Suport dedicat", "desc": "echipă disponibilă 24/7" },
+        {
+          "title": "Rețea extinsă",
+          "desc": "parteneri validați la nivel european"
+        },
+        {
+          "title": "Consultanță personalizată",
+          "desc": "soluții logistice optimizate"
+        },
+        {
+          "title": "Transparență totală",
+          "desc": "raportare și comunicare constantă"
+        }
+      ]
+    },
+
+    "quote": {
+      "name": "Onișoară Rafael Emre",
+      "role": "CEO & Founder, Crystal Logistics Services",
+      "paragraphs": [
+        "Crystal Logistics Services este o companie privată creată cu scopul de a deveni un pilon al dezvoltării și automatizării proceselor din transporturi și logistică.",
+        "Am început această afacere singur și mi-am dorit nu doar profit, ci și un mediu de lucru bazat pe valori și o misiune clară: să livrăm clienților servicii premium la un cost corect, să fim consultanți de încredere astfel încât aceștia să primească exact ce le trebuie în afacerile lor.",
+        "Viziunea noastră: implementarea de sisteme și automatizări care să ne permită să rămânem competitivi și să ridicăm standardul industriei."
+      ]
+    },
+
+    "fleet": {
+      "title": "FLOTA NOASTRĂ & REȚEA DE PARTENERI",
+      "paragraphs": [
+        "Capacitate zilnică: flotă proprie & 4000+ parteneri verificați. Operăm cu flotă proprie și cu o rețea extinsă de transportatori validați financiar și operațional.",
+        "Asta înseamnă disponibilitate zilnică, tipuri multiple de semiremorci (tautliner, frigorific, mega, dube), monitorizare GPS și standardizare documente.",
+        "Rezultatul: calitate premium, costuri corecte, livrare la timp."
+      ]
+    },
+
+    "dataAbout": {
+      "statsTitle": "Cifre, nu promisiuni",
+      "timelineTitle": "Evoluția cifrei de afaceri",
+      "stats": {
+        "clients": "CLIENȚI ACTIVI",
+        "partners": "PARTENERI TRANSPORTATORI",
+        "orders": "COMENZI / LUNĂ",
+        "satisfaction": "RATA DE SATISFACȚIE A CLIENȚILOR"
+      }
+    },
+
+    "whyCrystal": {
+      "sectionTitle": "De ce Crystal – ce ne diferențiază",
+
+      "innovation": {
+        "title": "Inovație & automatizare",
+        "desc": "Tehnologie aplicată la fiecare kilometru – procese digitale, semnătură electronică, urmărire în timp real, integrări."
+      },
+
+      "consulting": {
+        "title": "Consultanță logistică integrată",
+        "desc": "Ne gândim înainte de încărcare – rute eficiente, structuri de preț, documentație și suport vamal."
+      },
+
+      "efficiency": {
+        "title": "Eficiență comercială",
+        "desc": "Costul potrivit, fără compromisuri – 4500+ furnizori/parteneri, soluții LTL/FTL optimizate."
+      },
+
+      "performance": {
+        "title": "Performanță în execuție",
+        "desc": "Transport fără stres, la timp – echipe specializate, SLA-uri, predictibilitate operațională."
+      },
+
+      "safety": {
+        "title": "Siguranță & responsabilitate",
+        "desc": "Rămânem alături când apar probleme – flote verificate, asigurări, comunicare proactivă, control total."
+      },
+
+      "ethics": {
+        "title": "Etică & stabilitate",
+        "desc": "Transparent. Corect. Predictibil. – istoric clar, indicatori de calitate, parteneriate pe termen lung."
+      }
+    },
+
+    "team": {
+      "title": "Echipa noastră",
+      "members": [
+        {
+          "name": "Rafael Emre Onișoară",
+          "role": "CEO & Fondator",
+          "img": "/images/team/Rafael.webp"
+        },
+        {
+          "name": "Serafim Bogdan",
+          "role": "Manager Departament Expediții",
+          "img": "/images/team/Serafim.webp"
+        },
+        {
+          "name": "Liță Alin",
+          "role": "Manager Departament Expediții",
+          "img": "/images/team/Lita.webp"
+        },
+        {
+          "name": "Ciobănoiu Bogdan",
+          "role": "Agent Vânzări & Transport",
+          "img": "/images/team/Ciobanoiu.webp"
+        },
+        {
+          "name": "Ionescu Denisa",
+          "role": "Agent Vânzări & Transport",
+          "img": "/images/team/Denisa.webp"
+        },
+        {
+          "name": "Nedelcu Alexandru",
+          "role": "Agent Vânzări & Transport",
+          "img": "/images/team/Nedelcu.webp"
+        },
+        {
+          "name": "Paraschiv Alexandru",
+          "role": "Agent Vânzări & Transport",
+          "img": "/images/team/Paraschiv.webp"
+        },
+        {
+          "name": "Păuna Andrei",
+          "role": "Agent Vânzări & Transport",
+          "img": "/images/team/Pauna.webp"
+        }
+      ]
+    },
+
+    "buttons": {
+      "quote": "Cere o cotație ↗",
+      "quote3": "Cere o ofertă",
+      "quote2": "Vezi toate serviciile"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Navbar": {
+    "nav": {
+      "home": "Startseite",
+      "despreNoi": "Über Uns",
+      "transport": "Lösungen",
+      "transportatori": "Spediteure",
+      "blog": "Blog",
+      "contact": "Kontakt"
+    },
+    "submenu": {
+      "transport": {
+        "road": "Straßentransport",
+        "sea": "Seetransport",
+        "air": "Luftfracht",
+        "rail": "Schienentransport",
+        "multimodal": "Multimodaler Transport",
+        "roadSub": {
+          "transportInt": "Nationaler & Internationaler Transport",
+          "relocari": "Internationale Umzüge",
+          "armament": "Waffentransport",
+          "agabaritic": "Schwertransport",
+          "frigo": "Kühltransport",
+          "adr": "ADR-Transport",
+          "marfaVrac": "Schüttguttransport",
+          "autoturisme": "Autotransport",
+          "other": "Sonstige Dienste",
+          "bursa": "Sofortangebot"
+        }
+      }
+    },
+    "locale": {
+      "label": "Sprache",
+      "short": {
+        "ro": "RO",
+        "en": "EN",
+        "de": "DE",
+        "fr": "FR",
+        "it": "IT",
+        "pl": "PL"
+      }
+    },
+    "cta": {
+      "quote": "Angebot anfordern",
+      "short": "Angebot",
+      "contact": "Kontaktieren Sie uns"
+    },
+    "menu": {
+      "title": "Menü"
+    },
+    "labels": {
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "language": "Sprache"
+    },
+    "a11y": {
+      "home": "Zur Startseite",
+      "menu": "Menü öffnen",
+      "call": "Rufen Sie uns an",
+      "email": "E-Mail senden"
+    }
+  }
+}

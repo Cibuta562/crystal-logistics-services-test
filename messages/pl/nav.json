@@ -1,0 +1,63 @@
+{
+  "Navbar": {
+    "nav": {
+      "home": "Strona główna",
+      "despreNoi": "O Nas",
+      "transport": "Rozwiązania",
+      "transportatori": "Przewoźnicy",
+      "blog": "Blog",
+      "contact": "Kontakt"
+    },
+    "submenu": {
+      "transport": {
+        "road": "Transport Drogowy",
+        "sea": "Transport Morski",
+        "air": "Transport Lotniczy",
+        "rail": "Transport Kolejowy",
+        "multimodal": "Transport Multimodalny",
+        "roadSub": {
+          "transportInt": "Transport Krajowy i Międzynarodowy",
+          "relocari": "Przeprowadzki Międzynarodowe",
+          "armament": "Transport Uzbrojenia",
+          "agabaritic": "Transport Ponadgabarytowy",
+          "frigo": "Transport Chłodniczy",
+          "adr": "Transport ADR",
+          "marfaVrac": "Transport Masowy",
+          "autoturisme": "Transport Samochodów",
+          "other": "Inne Usługi",
+          "bursa": "Natychmiastowa Wycena"
+        }
+      }
+    },
+    "locale": {
+      "label": "Język",
+      "short": {
+        "ro": "RO",
+        "en": "EN",
+        "de": "DE",
+        "fr": "FR",
+        "it": "IT",
+        "pl": "PL"
+      }
+    },
+    "cta": {
+      "quote": "Poproś o wycenę",
+      "short": "Wycena",
+      "contact": "Skontaktuj się"
+    },
+    "menu": {
+      "title": "Menu"
+    },
+    "labels": {
+      "phone": "Telefon",
+      "email": "E-mail",
+      "language": "Język"
+    },
+    "a11y": {
+      "home": "Idź do strony głównej",
+      "menu": "Otwórz menu",
+      "call": "Zadzwoń do nas",
+      "email": "Wyślij e-mail"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "HomePage": {
+    "subtitle": {
+      "about": "Despre Crystal Logistics Services",
+      "transport": "Soluții de transport și logistică"
+    },
+    "cta": {
+      "contact": "Contactează-ne",
+      "learnMore": "Află mai multe"
+    }
+  },
+  "BasicHero": {
+    "title": "Crystal Logistics Services",
+    "paragraph": "Fie că e vorba de transporturi complete sau în regim de grupaj, atât național cât și global, noi îți punem la dispoziție o gamă largă de soluții pentru a-ți transporta marfa la cele mai bune costuri.",
+    "ctaPrimary": "Cere o ofertă!",
+    "ctaSecondary": "Devino transportator partener",
+    "hasCargoTitle": "Ai Marfă de Transportat?",
+    "hasCargoText1": "Ai nevoie de transport marfă intern sau internațional?",
+    "hasCargoText2": "Crystal Logistics Services îți oferă servicii complete de transport rutier, maritim, aerian și feroviar pentru orice tip de marfă – de la transport standard și agabaritic, până la expediții urgente și mărfuri speciale.",
+    "hasCargoText3": "Completează formularul și primești o ofertă logistică completă în maximum 30 de minute!",
+    "fillForm": "Completează formularul"
+  },
+  "Services": {
+    "title": "Alege soluția de transport potrivită pentru tine",
+    "learnMore": "Află mai multe",
+    "cards": {
+      "road": {
+        "title": "Transport Rutier Internațional",
+        "text": "Soluții complete de transport marfă rutier (FTL, LTL, expres, agabaritic, mărfuri periculoase). Flotă proprie și parteneriate de încredere."
+      },
+      "maritime": {
+        "title": "Transport Maritim",
+        "text": "Acoperim cele mai importante porturi. Oferim soluții flexibile și eficiente pentru transportul containerizat (FTL/LTL) sau mărfuri convenționale."
+      },
+      "air": {
+        "title": "Transport Aerian",
+        "text": "Transport rapid și sigur al mărfurilor, cu acoperire globală. Opțiuni de transport standard sau expres, adaptate nevoilor tale urgente."
+      },
+      "rail": {
+        "title": "Transport Feroviar",
+        "text": "O alternativă eficientă pentru volume mari, pe distanțe lungi. Servicii competitive de transport marfă feroviar, inclusiv combinat."
+      },
+      "multimodal": {
+        "title": "Transport Multimodal (Combinat)",
+        "text": "Optimizăm costurile și timpul de livrare utilizând o combinație de rute. Soluția perfectă pentru eficiență și sustenabilitate."
+      }
+    }
+  },
+  "Stats": {
+    "title": "Cifrele care ne recomandă",
+    "items": {
+      "km": "Km parcurși",
+      "clients": "Clienți mulțumiți",
+      "cargo": "Tone de marfă",
+      "revenue": "Valoarea marfurilor transportate",
+      "satisfaction": "Rată de satisfacție (%)"
+    }
+  },
+
+  "Reviews": {
+    "title": "Părerile clienților noștri",
+    "cta": "Citește toate recenziile pe Google",
+    "readMore": "Citește mai mult",
+    "readLess": "Citește mai puțin"
+  },
+  "Organizatii": {
+    "orgTitle": "Afilieri și Organizații",
+    "clientsTitle": "Partenerii noștri (Selectați)"
+  },
+
+  "Newsletter": {
+    "title": "Abonează-te la newsletter",
+    "iframeTitle": "Formular de înscriere la newsletter",
+    "emailLabel": "Adresa ta de e-mail",
+    "emailPlaceholder": "nume@email.com",
+    "consentText": "Am citit și sunt de acord cu",
+    "privacyPolicy": "Politica de confidențialitate",
+    "submit": "Trimite",
+    "loading": "Se încarcă formularul de abonare..."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "HomePage": {
+    "subtitle": {
+      "about": "Informazioni su Crystal Logistics Services",
+      "transport": "Soluzioni di trasporto e logistica"
+    },
+    "cta": {
+      "contact": "Contattaci",
+      "learnMore": "Scopri di più"
+    }
+  },
+  "BasicHero": {
+    "title": "Crystal Logistics Services",
+    "paragraph": "Che si tratti di trasporti completi o in regime di groupage, sia a livello nazionale che globale, ti offriamo una vasta gamma di soluzioni per trasportare le tue merci ai costi migliori.",
+    "ctaPrimary": "Richiedi un preventivo!",
+    "ctaSecondary": "Diventa trasportatore partner",
+    "hasCargoTitle": "Hai merce da trasportare?",
+    "hasCargoText1": "Hai bisogno di trasporto merci nazionale o internazionale?",
+    "hasCargoText2": "Crystal Logistics Services ti offre servizi completi di trasporto stradale, trasporto eccezionale e spedizioni rapide attraverso la borsa di trasporto CLS.",
+    "hasCargoText3": "Compila il modulo e ricevi un preventivo logistico completo in un massimo di 30 minuti!",
+    "fillForm": "Compila il modulo"
+  },
+  "Services": {
+    "title": "Scegli la soluzione di trasporto giusta per te",
+    "learnMore": "Scopri di più",
+    "cards": {
+      "road": {
+        "title": "Trasporto Stradale Internazionale",
+        "text": "Soluzioni complete di trasporto merci su strada (FCL, LCL, espresso, eccezionale, merci pericolose). Flotta propria e partnership affidabili."
+      },
+      "maritime": {
+        "title": "Trasporto Marittimo",
+        "text": "Copriamo i porti più importanti. Offriamo soluzioni flessibili ed efficienti per il trasporto containerizzato (FCL/LCL) o merci convenzionali."
+      },
+      "air": {
+        "title": "Trasporto Aereo",
+        "text": "Trasporto rapido e sicuro delle merci, con copertura globale. Opzioni di trasporto standard o espresso, adattate alle tue esigenze urgenti."
+      },
+      "rail": {
+        "title": "Trasporto Ferroviario",
+        "text": "Un'alternativa efficiente per grandi volumi, su lunghe distanze. Servizi competitivi di trasporto merci ferroviario, incluso combinato."
+      },
+      "multimodal": {
+        "title": "Trasporto Multimodale (Combinato)",
+        "text": "Ottimizziamo i costi e i tempi di consegna utilizzando una combinazione di rotte. La soluzione perfetta per efficienza e sostenibilità."
+      }
+    }
+  },
+  "Stats": {
+    "title": "I numeri che ci raccomandano",
+    "items": {
+      "km": "Km percorsi",
+      "clients": "Clienti soddisfatti",
+      "cargo": "Tonnellate di carico",
+      "revenue": "Milioni € Fatturato",
+      "satisfaction": "Tasso di soddisfazione (%)"
+    }
+  },
+  "Reviews": {
+    "title": "Cosa dicono i nostri clienti",
+    "cta": "Leggi tutte le recensioni su Google",
+    "readMore": "Leggi di più",
+    "readLess": "Leggi di meno"
+  },
+  "Organizatii": {
+    "orgTitle": "Affiliazioni e Organizzazioni",
+    "clientsTitle": "I Nostri Partner (Clienti Selezionati)"
+  },
+  "BlogFAQ": {
+    "latestPosts": "Ultimi articoli",
+    "faqTitle": "Domande Frequenti (FAQ)",
+    "faqs": [
+      {
+        "question": "Quali tipi di trasporto offrite?",
+        "answer": {
+          "intro": "Offriamo una vasta gamma di soluzioni logistiche, adattate alle esigenze dei nostri clienti:",
+          "item1": "Trasporto su strada (FCL, LCL, espresso, eccezionale)",
+          "item2": "Trasporto marittimo (FCL, LCL)",
+          "item3": "Trasporto aereo (standard ed espresso)",
+          "item4": "Trasporto ferroviario e multimodale (combinato)"
+        }
+      },
+      {
+        "question": "I trasporti sono assicurati?",
+        "answer": "Sì, tutti i trasporti effettuati tramite Crystal Logistics Services beneficiano di assicurazione CMR, in conformità con le normative internazionali, per darvi completa tranquillità."
+      },
+      {
+        "question": "Come posso richiedere un preventivo?",
+        "answer": "Puoi richiedere un preventivo direttamente compilando il modulo disponibile sul sito. Garantiamo una risposta tempestiva e un'offerta personalizzata entro un massimo di 30 minuti."
+      }
+    ]
+  },
+  "Newsletter": {
+    "title": "Iscriviti alla newsletter",
+    "iframeTitle": "Modulo di iscrizione alla newsletter",
+    "emailLabel": "Il tuo indirizzo email",
+    "emailPlaceholder": "nome@email.com",
+    "consentText": "Ho letto e accetto l'",
+    "privacyPolicy": "Informativa sulla privacy",
+    "submit": "Invia",
+    "loading": "Caricamento del modulo di iscrizione..."
+  }
+}

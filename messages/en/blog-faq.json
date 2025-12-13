@@ -1,0 +1,35 @@
+{
+  "BlogFAQ": {
+    "latestPosts": "Ultimele postări",
+    "faqTitle": "Întrebări frecvente",
+    "loadingText": "Se încarcă articolele...",
+    "faqs": [
+      {
+        "question": "Transport rutier public de mărfuri",
+        "answer": {
+          "intro": "Poate fi realizat doar cu respectarea anumitor condiții, inclusiv deținerea documentelor necesare:",
+          "item1": "Copie conformă a licenței de transport (licențe ARR și copii conforme ARR)",
+          "item2": "Document de transport, pentru justificarea transportului în fața Inspectoratului",
+          "item3": "Certificat privind încadrarea vehiculului în normele de poluare și siguranță rutieră",
+          "item4": "Autorizație de transport internațional (doar pentru transportul internațional)"
+        }
+      },
+      {
+        "question": "Ce documente sunt necesare pentru transport intern?",
+        "answer": "Este necesară o licență ARR validă și certificatul de conformitate al vehiculului."
+      },
+      {
+        "question": "Pot solicita o cotație internațională online?",
+        "answer": "Da, poți face acest lucru direct pe platforma noastră, oricând."
+      }
+    ]
+  },
+
+  "Blog": {
+    "Header": {
+      "section": "CRYSTAL LOGISTICS SERVICES",
+      "title": "BLOG",
+      "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+    }
+  }
+}

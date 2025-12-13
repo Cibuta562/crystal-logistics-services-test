@@ -1,0 +1,163 @@
+{
+  "Carriers": {
+    "Rutier": {
+      "Transportatori": {
+        "Header": {
+          "section": "Chcesz maksymalnie wykorzystać potencjał swojej floty? W Crystal Logistics Services oferujemy kompleksowe rozwiązania transportowe, zarówno w zakresie współpracy spotowej, jak i umów długoterminowych, płatnych za kilometr. Jesteśmy niezawodnym partnerem, który zapewnia Ci stałość, elastyczność i rentowność!",
+          "title": "Firma Spedycyjna dedykowana przewoźnikom",
+          "alt": "Zdjęcie przewoźnicy"
+        },
+        "section_1": {
+          "title": "Dlaczego warto wybrać Crystal Logistics Services na swojego partnera transportowego?",
+          "alt": "TransportatoriCrystal",
+          "paragraphs": [
+            "Crystal Logistics Services to więcej niż firma spedycyjna – jesteśmy partnerem, którego potrzebujesz, aby przenieść swój biznes transportowy na wyższy poziom. Dzięki doświadczonemu zespołowi i szerokiemu portfolio klientów, oferujemy spersonalizowane rozwiązania dostosowane do Twoich potrzeb operacyjnych. Niezależnie od tego, czy szukasz ładunków spotowych, czy chcesz zawrzeć długoterminową umowę płatną za kilometr, jesteśmy Twoim zaufanym rozwiązaniem."
+          ]
+        },
+        "partnerTransport": {
+          "badge": "Współpracuj z Crystal Logistics Services",
+          "title": "Zostań naszym partnerem transportowym",
+          "subtitle": "Opowiedz nam o swojej flocie i preferowanych trasach, a my połączymy Cię z odpowiednimi projektami, jasnymi procedurami i przewidywalną współpracą.",
+          "card1": {
+            "title": "Kursy towarowe",
+            "text": "Transport krajowy i międzynarodowy, z wyraźnymi oknami czasowymi załadunku i dostawy."
+          },
+          "card2": {
+            "title": "Stabilna współpraca",
+            "text": "Przejrzyste warunki, jasne umowy i wizja długoterminowego partnerstwa."
+          },
+          "card3": {
+            "title": "Szybkie wdrożenie (Onboarding)",
+            "text": "Analizujemy każdą aplikację i wracamy z jasną odpowiedzią w krótkim czasie."
+          }
+        },
+        "form": {
+          "badge": "Aplikacje otwarte",
+          "title": "Formularz partnerski",
+          "subtitle": "Wypełnienie zajmuje mniej niż 5 minut. Odpowiadamy po przeanalizowaniu wszystkich przesłanych szczegółów.",
+          "button": "Wypełnij formularz",
+          "paragraphs": [
+            "Po przesłaniu formularza weryfikujemy pojemność floty, preferowane typy tras i dostępność załóg.",
+            "Niezależnie od wielkości Twojej floty, w Crystal Logistics zawsze znajdziesz dostępne ładunki i dobrze zdefiniowane trasy.",
+            "Nasza szeroka sieć klientów pozwala nam oferować Ci stałe możliwości transportowe, zarówno krajowe, jak i w ramach Wspólnoty.",
+            "Każdy dzień przynosi nowe możliwe współprace na dochodowe transporty, niezależnie od rodzaju ładunku czy przeznaczenia."
+          ]
+        },
+        "Accordion": {
+          "title": "Korzyści ze współpracy z Crystal Logistics Services",
+          "intro": "Odkryj, dlaczego coraz więcej przewoźników wybiera Crystal Logistics, aby zwiększyć swoją efektywność i przychody. Dołącz do nas i ciesz się korzyściami płynącymi z solidnego partnerstwa.",
+          "items": {
+            "class1": {
+              "title": "Dostęp do tysięcy ładunków, każdego dnia",
+              "paragraphs": [
+                "Niezależnie od wielkości Twojej floty, w Crystal Logistics zawsze znajdziesz dostępne ładunki. Nasza szeroka sieć klientów pozwala nam oferować Ci stałe możliwości transportowe, zarówno w kraju, jak i na terenie Wspólnoty. Każdy dzień przynosi nowe możliwości współpracy na dochodowe transporty, niezależnie od rodzaju ładunku czy przeznaczenia.",
+                "Nasze oferty ładunków są aktualizowane w czasie rzeczywistym, dzięki czemu możesz podejmować szybkie decyzje i utrzymywać swoje ciężarówki w ruchu. Co więcej, nie tylko oferujemy Ci dostęp do tysięcy ładunków, ale również udostępniamy Ci nasze dedykowane zespoły, które zapewnią Ci ciągłe wsparcie w realizacji każdego transportu."
+              ]
+            },
+            "class2": {
+              "title": "Umowy współpracy trakcyjnej długoterminowej, płatne za kilometr",
+              "paragraphs": [
+                "Jeśli szukasz stabilności finansowej i długoterminowej współpracy, umowy typu trakcyjnego są idealnym rozwiązaniem dla Ciebie. W Crystal Logistics gwarantujemy minimalną liczbę kilometrów miesięcznie, co oznacza stałe i przewidywalne przychody dla Twojej firmy.",
+                "Ten rodzaj umowy oferuje Ci elastyczność w wyborze tras i rodzaju transportu – czy to transport krajowy, kursy Tam i Z Powrotem, czy transport na terenie Wspólnoty, zapewniamy Ci stałe ładunki i szybkie płatności za każdy przejechany kilometr."
+              ]
+            },
+            "class3": {
+              "title": "Szybkie i gwarantowane płatności",
+              "paragraphs": [
+                "Jedną z największych korzyści, jaką oferujemy naszym partnerskim przewoźnikom, jest szybka i gwarantowana płatność. Rozumiemy, jak ważny jest stały przepływ gotówki dla Twojej firmy, i zobowiązujemy się to zapewnić poprzez szybkie i efektywne terminy płatności.",
+                "W Crystal Logistics możesz na nas polegać w kwestii punktualnych płatności, niezależnie od wybranego rodzaju umowy. Zajmujemy się wszystkimi aspektami administracyjnymi, abyś Ty mógł skupić się na tym, co najważniejsze – efektywnym zarządzaniu swoją flotą."
+              ]
+            },
+            "class4": {
+              "title": "Dodatkowe korzyści i zwrot kosztów",
+              "paragraphs": [
+                "Współpracując z Crystal Logistics Services, zyskujesz nie tylko szybkie i gwarantowane płatności, ale także liczne dodatkowe korzyści. Oferujemy atrakcyjne bonusy za dodatkowe załadunki i rozładunki, co może znacznie zwiększyć zysk z każdej zrealizowanej trasy.",
+                "Zapewniamy również, że wszystkie koszty związane z opłatami drogowymi, mostami, portami i zezwoleniami są przez nas zwracane, dzięki czemu nie masz dodatkowych zmartwień związanych z zarządzaniem kosztami operacyjnymi."
+              ]
+            },
+            "class5": {
+              "title": "Wynajem naczep dla zwiększonej elastyczności",
+              "paragraphs": [
+                "Rozbudowa floty może być kosztownym procesem, ale w Crystal Logistics Services oferujemy Ci efektywną alternatywę – możliwość wynajmu naczep, gdy ich potrzebujesz. W ten sposób będziesz mógł szybko reagować na popyt rynkowy bez konieczności dokonywania dużych inwestycji początkowych.",
+                "Niezależnie od tego, czy potrzebujesz naczep standardowych, mega czy chłodniczych, oferujemy Ci elastyczne i efektywne rozwiązania, które pomogą Ci zrealizować wszystkie zlecenia, zwiększając tym samym Twoją zdolność przewozową."
+              ]
+            },
+            "class6": {
+              "title": "Dedykowana pomoc 24/7 i profesjonalny dyspozytor",
+              "paragraphs": [
+                "Nie tylko oferujemy Ci dostęp do tysięcy ładunków i korzystnych umów, ale jesteśmy również z Tobą przez cały czas trwania transportów, zapewniając, że wszystkie kursy przebiegają sprawnie. Nasz zespół dyspozytorów jest dostępny 24/7, aby pomóc Ci w każdej sprawie lub pytaniu związanym z transportem.",
+                "Niezależnie od tego, czy napotkasz trudności na trasie, czy potrzebujesz szybkich rozwiązań w nieprzewidzianej sytuacji, nasi doświadczeni dyspozytorzy są zawsze gotowi do interwencji i zaoferowania niezbędnego wsparcia."
+              ]
+            },
+            "class7": {
+              "title": "Karty paliwowe – efektywne rozwiązania do redukcji kosztów",
+              "paragraphs": [
+                "Redukcja kosztów operacyjnych jest priorytetem dla każdego przewoźnika, a Crystal Logistics Services pomaga Ci w tym, oferując karty paliwowe. Pozwalają one na zakup paliwa po preferencyjnych cenach, co obniża koszty ponoszone przy każdej trasie.",
+                "Korzystając z naszych kart paliwowych, będziesz mógł zoptymalizować swoje wydatki i zwiększyć długoterminową rentowność."
+              ]
+            },
+            "class8": {
+              "title": "Elastyczność w wyborze rodzaju transportu",
+              "paragraphs": [
+                "Kolejną ważną zaletą, jaką oferujemy, jest elastyczność w wyborze rodzaju transportu. Niezależnie od tego, czy preferujesz kursy Tam i Z Powrotem, czy chcesz działać na terenie Wspólnoty lub w kraju, w Crystal Logistics Services oferujemy różnorodne i spersonalizowane opcje.",
+                "Ta elastyczność pozwala Ci dostosować działalność swojej floty do wymagań rynku i Twojej zdolności operacyjnej, maksymalizując w ten sposób efektywność i zwiększając przychody."
+              ]
+            }
+          }
+        },
+        "Accordion2": {
+          "title": "Jak działa umowa współpracy z Crystal Logistics Services?",
+          "intro": "W Crystal Logistics oferujemy przewoźnikom elastyczność w wyborze najbardziej odpowiadającego im rodzaju umowy, w zależności od ich preferencji i celów biznesowych. Mamy trzy warianty współpracy, każdy z określonymi zaletami i jasnymi korzyściami, aby zapewnić stabilność finansową i stałe przychody.",
+          "items": {
+            "class_a": {
+              "title": "1. Tam i Z Powrotem (Import-Eksport) – Współpraca na trasach międzynarodowych z gwarantowanymi kilometrami",
+              "paragraphs": [
+                "Transporty typu Tam i Z Powrotem obejmują kursy międzynarodowe, podczas których Twoje ciężarówki będą się przemieszczać między Rumunią a różnymi krajami Unii Europejskiej, a także poza nią. Te trasy są idealne dla tych, którzy chcą uzyskać połączenie kursów międzynarodowych i krajowych, z znaczącymi zaletami:",
+                "Ten rodzaj współpracy oferuje Ci elastyczność w zarządzaniu transportami międzynarodowymi i pomaga osiągnąć stałe zyski przy minimalnym ryzyku."
+              ],
+              "listItems": [
+                "Uwzględnione destynacje: większość krajów UE, takich jak Niemcy, Francja, Włochy, Hiszpania, Holandia, Belgia, Austria, Węgry, Bułgaria, Grecja, Polska, Czechy, Słowacja, Chorwacja, Słowenia, a także kraje poza UE: Szwajcaria (CH), Turcja (TR), Wielka Brytania (GB), Norwegia (NO).",
+                "Gwarantowane kilometry: Zapewniamy minimalną liczbę kilometrów miesięcznie, dzięki czemu masz pewność, że Twoja flota będzie miała stałe przychody.",
+                "Szybkie płatności: Korzystasz z gwarantowanych, szybkich i bez opóźnień płatności, zapewniając sobie solidną stabilność finansową.",
+                "Dodatkowe korzyści: Dostęp do tysięcy ładunków, bonusy za dodatkowe załadunki oraz zwrot kosztów operacyjnych (opłaty drogowe, mosty, porty)."
+              ]
+            },
+            "class_b": {
+              "title": "2. Wspólnota – Wyłącznie transporty międzynarodowe na terenie Europy",
+              "paragraphs": [
+                "Współpraca typu Wspólnota jest skierowana do przewoźników, którzy chcą działać wyłącznie na trasach międzynarodowych, bez powrotu do Rumunii przez dłuższy czas. Ta opcja jest idealna do maksymalizacji zysków i optymalizacji operacji.",
+                "Dzięki temu rodzajowi umowy masz elastyczność, aby skoncentrować się na trasach międzynarodowych, nie martwiąc się o częste powroty do kraju, co optymalizuje czas operacyjny i maksymalizuje Twój zysk."
+              ],
+              "listItems": [
+                "Czas trwania współpracy: 2 miesiące ciągłych transportów na terenie Europy, obejmujące wiele krajów i destynacji.",
+                "Opłaty drogowe: W ramach tego rodzaju umowy Crystal Logistics oddzielnie płaci wszystkie opłaty drogowe związane z transportami, co znacznie obniża Twoje koszty operacyjne.",
+                "Największy potencjał zysku: Współpraca na terenie Wspólnoty oferuje największy potencjał zarobkowy, biorąc pod uwagę dużą liczbę przejechanych kilometrów i stałe wolumeny przewożonego towaru.",
+                "Stabilność i bezpieczeństwo finansowe: Oprócz szybkich i bezpiecznych płatności, oferujemy Ci stałą pomoc i dostępność dyspozytora 24/7, dzięki czemu możesz skupić się na swoich trasach bez obaw."
+              ]
+            },
+            "class_c": {
+              "title": "3. Krajowy – Wyłącznie transport krajowy",
+              "paragraphs": [
+                "Dla tych, którzy chcą działać wyłącznie w kraju, współpraca typu Krajowy stanowi najprostsze i najefektywniejsze rozwiązanie. Pozwala Ci ona skoncentrować się na lokalnych trasach, pokrywając zapotrzebowanie na transport na całym terytorium Rumunii.",
+                "Współpraca typu Krajowy oferuje Ci możliwość skupienia się na rynku lokalnym, utrzymując stały przepływ transportów i zysków."
+              ],
+              "listItems": [
+                "Stabilność długoterminowa: Oferujemy dostęp do ładunków spotowych i krajowych umów transportowych, zapewniając regularne kursy i stałe przychody.",
+                "Zredukowane koszty operacyjne: Ponieważ jest to transport krajowy, koszty operacyjne, w tym opłaty drogowe i wydatki dodatkowe, są niższe, co oznacza wyższy zysk z każdej trasy.",
+                "Szybkie i efektywne rozwiązania: Dzięki naszej szerokiej sieci klientów w Rumunii, Twoje ciężarówki nigdy nie będą stać bez ładunku. Zapewniamy efektywne planowanie tras, co pozwala zoptymalizować każdy dzień operacyjny."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Chcesz zostać partnerem?",
+          "messages": [
+            "Jesteśmy gotowi do współpracy z poważnymi i profesjonalnymi przewoźnikami.",
+            "Porozmawiajmy o dostępnych możliwościach."
+          ],
+          "buttonLabel": "Skontaktuj się z nami"
+        }
+      }
+    }
+  }
+}

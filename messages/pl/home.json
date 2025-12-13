@@ -1,0 +1,81 @@
+{
+  "HomePage": {
+    "subtitle": {
+      "about": "O Crystal Logistics Services",
+      "transport": "Rozwiązania transportowe i logistyczne"
+    },
+    "cta": {
+      "contact": "Skontaktuj się z nami",
+      "learnMore": "Dowiedz się więcej"
+    }
+  },
+  "BasicHero": {
+    "title": "Crystal Logistics Services",
+    "paragraph": "Niezależnie od tego, czy chodzi o transporty całopojazdowe, czy drobnicowe, zarówno krajowe, jak i globalne, oferujemy szeroki wachlarz rozwiązań, aby przewieźć Twój towar po najlepszych kosztach.",
+    "ctaPrimary": "Poproś o wycenę!",
+    "ctaSecondary": "Zostań przewoźnikiem partnerskim",
+    "hasCargoTitle": "Masz Ładunek do Przewiezienia?",
+    "hasCargoText1": "Potrzebujesz krajowego lub międzynarodowego transportu towarów?",
+    "hasCargoText2": "Crystal Logistics Services oferuje kompletne usługi w zakresie transportu drogowego, transportu ponadgabarytowego i szybkich przesyłek za pośrednictwem giełdy transportowej CLS.",
+    "hasCargoText3": "Wypełnij formularz i otrzymaj kompletną ofertę logistyczną w maksymalnie 30 minut!",
+    "fillForm": "Wypełnij formularz"
+  },
+  "Services": {
+    "title": "Wybierz odpowiednie rozwiązanie transportowe dla siebie",
+    "learnMore": "Dowiedz się więcej",
+    "cards": {
+      "road": {
+        "title": "Międzynarodowy Transport Drogowy",
+        "text": "Kompleksowe rozwiązania w zakresie drogowego transportu towarów (FCL, LCL, ekspres, ponadgabarytowy, niebezpieczne). Własna flota i zaufane partnerstwa."
+      },
+      "maritime": {
+        "title": "Transport Morski",
+        "text": "Obsługujemy najważniejsze porty. Oferujemy elastyczne i wydajne rozwiązania w zakresie transportu kontenerowego (FCL/LCL) lub ładunków konwencjonalnych."
+      },
+      "air": {
+        "title": "Transport Lotniczy",
+        "text": "Szybki i bezpieczny transport towarów, z globalnym zasięgiem. Opcje transportu standardowego lub ekspresowego, dostosowane do Twoich pilnych potrzeb."
+      },
+      "rail": {
+        "title": "Transport Kolejowy",
+        "text": "Efektywna alternatywa dla dużych wolumenów, na długich dystansach. Konkurencyjne usługi kolejowego transportu towarów, w tym kombinowanego."
+      },
+      "multimodal": {
+        "title": "Transport Multimodalny (Kombinowany)",
+        "text": "Optymalizujemy koszty i czas dostawy, wykorzystując kombinację tras. Idealne rozwiązanie dla efektywności i zrównoważonego rozwoju."
+      }
+    }
+  },
+  "Stats": {
+    "title": "Liczby, które nas polecają",
+    "items": {
+      "km": "Przejechane km",
+      "clients": "Zadowoleni klienci",
+      "cargo": "Tony ładunku",
+      "revenue": "Miliony € Obrotu",
+      "satisfaction": "Współczynnik satysfakcji (%)"
+    }
+  },
+  "Reviews": {
+    "title": "Opinie naszych klientów",
+    "cta": "Przeczytaj wszystkie opinie na Google",
+    "readMore": "Czytaj więcej",
+    "readLess": "Czytaj mniej"
+  },
+  "Organizatii": {
+    "orgTitle": "Afiljacje i Organizacje",
+    "clientsTitle": "Nasi Partnerzy (Wybrani Klienci)"
+  },
+
+  "Newsletter": {
+    "title": "Zapisz się do newslettera",
+    "iframeTitle": "Formularz zapisu do newslettera",
+    "emailLabel": "Twój adres e-mail",
+    "emailPlaceholder": "nazwa@email.com",
+    "consentText": "Przeczytałem i akceptuję",
+    "privacyPolicy": "Politykę prywatności",
+    "submit": "Wyślij",
+    "loading": "Ładowanie formularza subskrypcji..."
+  }
+
+}

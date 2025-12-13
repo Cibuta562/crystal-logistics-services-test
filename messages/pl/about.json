@@ -1,0 +1,171 @@
+{
+  "about": {
+    "hero": {
+      "tag": "O nas",
+      "title": "Doświadczenie, zaufanie i wydajność",
+      "subtitle": "Dzięki bogatemu doświadczeniu w branży transportowej nasz zespół oferuje spersonalizowane rozwiązania logistyczne, dostosowane do potrzeb każdego klienta."
+    },
+
+    "workWithUs": {
+      "title": "DLACZEGO WARTO Z NAMI PRACOWAĆ",
+      "items": [
+        {
+          "title": "Oszczędność czasu i zero zmartwień",
+          "desc": "przejmujemy pełną odpowiedzialność"
+        },
+        {
+          "title": "Szybkość reakcji",
+          "desc": "wycena w mniej niż 10 min, potwierdzenia w mniej niż 30 min"
+        },
+        {
+          "title": "Identyfikowalność (Traceability)",
+          "desc": "status na żywo + proaktywna komunikacja"
+        },
+        { "title": "Przewidywalność", "desc": "Mierzalne SLA i KPI" },
+        {
+          "title": "Elastyczność",
+          "desc": "spot, kontrakt, usługi trakcyjne, multimodalne"
+        },
+        {
+          "title": "Bezpieczeństwo",
+          "desc": "nienaganna dokumentacja, zgodność, ubezpieczenia"
+        }
+      ]
+    },
+
+    "benefits": {
+      "title": "DODATKOWE KORZYŚCI",
+      "items": [
+        { "title": "Dedykowane wsparcie", "desc": "zespół dostępny 24/7" },
+        {
+          "title": "Rozbudowana sieć",
+          "desc": "zweryfikowani partnerzy na poziomie europejskim"
+        },
+        {
+          "title": "Spersonalizowane doradztwo",
+          "desc": "zoptymalizowane rozwiązania logistyczne"
+        },
+        {
+          "title": "Całkowita przejrzystość",
+          "desc": "stałe raportowanie i komunikacja"
+        }
+      ]
+    },
+
+    "quote": {
+      "name": "Onișoară Rafael Emre",
+      "role": "CEO i Założyciel, Crystal Logistics Services",
+      "paragraphs": [
+        "Crystal Logistics Services to prywatna firma stworzona w celu stania się filarem rozwoju i automatyzacji procesów w transporcie i logistyce.",
+        "Rozpocząłem ten biznes sam i zależało mi nie tylko na zysku, ale także na środowisku pracy opartym na wartościach i jasnej misji: dostarczaniu klientom usług premium po uczciwej cenie, byciu wiarygodnymi konsultantami, aby otrzymywali dokładnie to, czego potrzebują w swoich biznesach.",
+        "Nasza wizja: wdrażanie systemów i automatyzacji, które pozwolą nam pozostać konkurencyjnymi i podnosić standardy branży."
+      ]
+    },
+
+    "fleet": {
+      "title": "NASZA FLOTA I SIEĆ PARTNERÓW",
+      "paragraphs": [
+        "Dzienna pojemność: własna flota i ponad 4000 zweryfikowanych partnerów. Działamy z własną flotą oraz rozbudowaną siecią przewoźników zweryfikowanych finansowo i operacyjnie.",
+        "Oznacza to codzienną dostępność, różnorodne typy naczep (plandeka, chłodnia, mega, furgon), monitoring GPS i standaryzację dokumentów.",
+        "Rezultat: jakość premium, uczciwe koszty, terminowa dostawa."
+      ]
+    },
+
+    "dataAbout": {
+      "statsTitle": "Liczby, a nie obietnice",
+      "timelineTitle": "Ewolucja obrotów",
+      "stats": {
+        "clients": "AKTYWNI KLIENCI",
+        "partners": "PARTNERZY PRZEWOŹNICY",
+        "orders": "ZAMÓWIENIA / MIESIĄC",
+        "satisfaction": "WSKAŹNIK SATYSFAKCJI KLIENTA"
+      }
+    },
+
+    "whyCrystal": {
+      "sectionTitle": "Dlaczego Crystal – co nas wyróżnia",
+
+      "innovation": {
+        "title": "Innowacje & automatyzacja",
+        "desc": "Technologia stosowana na każdym kilometrze – procesy cyfrowe, podpis elektroniczny, śledzenie w czasie rzeczywistym, integracje."
+      },
+
+      "consulting": {
+        "title": "Zintegrowane doradztwo logistyczne",
+        "desc": "Myślimy przed załadunkiem – efektywne trasy, struktury cenowe, dokumentacja i wsparcie celne."
+      },
+
+      "efficiency": {
+        "title": "Efektywność handlowa",
+        "desc": "Właściwy koszt, bez kompromisów – 4500+ dostawców/partnerów, zoptymalizowane rozwiązania LTL/FTL."
+      },
+
+      "performance": {
+        "title": "Wydajność w realizacji",
+        "desc": "Transport bez stresu, na czas – wyspecjalizowane zespoły, SLA, przewidywalność operacyjna."
+      },
+
+      "safety": {
+        "title": "Bezpieczeństwo & odpowiedzialność",
+        "desc": "Jesteśmy obok, gdy pojawiają się problemy – zweryfikowane floty, ubezpieczenia, proaktywna komunikacja, pełna kontrola."
+      },
+
+      "ethics": {
+        "title": "Etyka & stabilność",
+        "desc": "Przejrzystość. Uczciwość. Przewidywalność. – klarowna historia, wskaźniki jakości, długoterminowe partnerstwa."
+      }
+    },
+
+    "team": {
+      "title": "Nasz Zespół",
+      "members": [
+        {
+          "name": "Rafael Emre Onișoară",
+          "role": "CEO i Założyciel",
+          "img": "/images/team/Rafael.webp"
+        },
+        {
+          "name": "Serafim Bogdan",
+          "role": "Kierownik Działu Spedycji",
+          "img": "/images/team/Serafim.webp"
+        },
+        {
+          "name": "Liță Alin",
+          "role": "Kierownik Działu Spedycji",
+          "img": "/images/team/Lita.webp"
+        },
+        {
+          "name": "Ciobănoiu Bogdan",
+          "role": "Agent Sprzedaży i Transportu",
+          "img": "/images/team/Ciobanoiu.webp"
+        },
+        {
+          "name": "Ionescu Denisa",
+          "role": "Agent Sprzedaży i Transportu",
+          "img": "/images/team/Denisa.webp"
+        },
+        {
+          "name": "Nedelcu Alexandru",
+          "role": "Agent Sprzedaży i Transportu",
+          "img": "/images/team/Nedelcu.webp"
+        },
+        {
+          "name": "Paraschiv Alexandru",
+          "role": "Agent Sprzedaży i Transportu",
+          "img": "/images/team/Paraschiv.webp"
+        },
+        {
+          "name": "Păuna Andrei",
+          "role": "Agent Sprzedaży i Transportu",
+          "img": "/images/team/Pauna.webp"
+        }
+      ]
+    },
+
+    "buttons": {
+      "quote": "Poproś o wycenę ↗",
+      "quote3": "Poproś o ofertę",
+      "quote2": "Zobacz wszystkie usługi"
+    }
+  }
+}

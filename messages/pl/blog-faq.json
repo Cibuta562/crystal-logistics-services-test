@@ -1,0 +1,35 @@
+{
+  "BlogFAQ": {
+    "latestPosts": "Najnowsze posty",
+    "faqTitle": "Często zadawane pytania",
+    "loadingText": "Ładowanie artykułów...",
+    "faqs": [
+      {
+        "question": "Publiczny transport drogowy towarów",
+        "answer": {
+          "intro": "Może być realizowany tylko z zachowaniem określonych warunków, w tym posiadania niezbędnych dokumentów:",
+          "item1": "Kopia zgodna z licencją transportową (licencje ARR i kopie zgodne z ARR)",
+          "item2": "Dokument przewozowy, do uzasadnienia przewozu przed Inspekcją",
+          "item3": "Certyfikat dotyczący spełnienia przez pojazd norm zanieczyszczenia i bezpieczeństwa drogowego",
+          "item4": "Zezwolenie na transport międzynarodowy (tylko dla transportu międzynarodowego)"
+        }
+      },
+      {
+        "question": "Jakie dokumenty są wymagane do transportu krajowego?",
+        "answer": "Wymagana jest ważna licencja ARR i świadectwo zgodności pojazdu."
+      },
+      {
+        "question": "Czy mogę zapytać o międzynarodową wycenę online?",
+        "answer": "Tak, możesz to zrobić bezpośrednio na naszej platformie, w dowolnym momencie."
+      }
+    ]
+  },
+
+  "Blog": {
+    "Header": {
+      "section": "CRYSTAL LOGISTICS SERVICES",
+      "title": "BLOG",
+      "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+    }
+  }
+}

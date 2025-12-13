@@ -1,0 +1,170 @@
+{
+  "Bursa": {
+    "Client": {
+      "eyebrow": "ROZWIĄZANIA DLA KLIENTA",
+      "title": "Odkryj korzyści natychmiastowej wyceny transportu",
+      "intro": "Dzięki Natychmiastowej Wycenie Transportu masz możliwość zamieszczenia swoich towarów na platformie i otrzymania ofert zarówno od CLS, jak i od naszej sieci partnerów CLS. W ten sposób masz pewność, że Twoje towary dotrą do celu bezpiecznie, na czas i po konkurencyjnej cenie.",
+      "Accordion": {
+        "items": {
+          "class1": {
+            "title": "Jest bezpłatne",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Zamieszczanie towarów nic Cię nie kosztuje."]
+          },
+          "class2": {
+            "title": "Trwa 30 sekund",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Proces jest szybki i efektywny."]
+          },
+          "class3": {
+            "title": "Otrzymujesz ofertę w ciągu maksymalnie 3 godzin",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Nie tracisz czasu na czekanie na odpowiedzi."]
+          },
+          "class4": {
+            "title": "Dostęp do tysięcy zweryfikowanych przewoźników",
+            "short": "Współpracujesz tylko z partnerami starannie wybranymi przez CLS.",
+            "paragraphs": [
+              "Przewoźnicy zarejestrowani w CLS przechodzą proces weryfikacji dokumentów i historii współpracy.",
+              "Masz gwarancję, że Twój towar zostanie odebrany przez profesjonalistów z doświadczeniem w branży."
+            ],
+            "listItems": [
+              "Rozbudowana sieć przewoźników w całej Europie",
+              "Partnerzy ze zróżnicowaną i nowoczesną flotą",
+              "Współpraca ze stabilnymi i wiarygodnymi firmami"
+            ]
+          },
+          "class5": {
+            "title": "Transport jest ubezpieczony",
+            "short": "Twój towar jest chroniony przez cały czas trwania transportu.",
+            "paragraphs": [
+              "Masz dostęp do rozwiązań transportowych z ubezpieczeniem, dostosowanym do rodzaju towaru.",
+              "Uważnie monitorujemy przebieg transportu, aby zminimalizować wszelkie ryzyko."
+            ],
+            "listItems": [
+              "Dodatkowa ochrona dla towarów wrażliwych",
+              "Możliwość śledzenia i komunikacja podczas przejazdu",
+              "Szybkie rozwiązania w przypadku nieprzewidzianych sytuacji"
+            ]
+          },
+          "class6": {
+            "title": "Wsparcie 24/7",
+            "short": "Zespół CLS jest dla Ciebie dostępny na stałe.",
+            "paragraphs": [
+              "Niezależnie od godziny, masz dedykowany punkt kontaktowy do pytań lub specjalnych sytuacji.",
+              "Pomagamy Ci szybko znaleźć alternatywne rozwiązania, gdy ich potrzebujesz."
+            ],
+            "listItems": [
+              "Wsparcie telefoniczne i e-mailowe",
+              "Konsultacje w czasie rzeczywistym dla pilnych kursów",
+              "Jasna komunikacja od załadunku do rozładunku"
+            ]
+          },
+          "class7": {
+            "title": "Kompleksowe doradztwo",
+            "short": "Pomożemy Ci wybrać najlepszą opcję transportu.",
+            "paragraphs": [
+              "Analizujemy rodzaj towaru, miejsce docelowe i budżet, aby zaproponować Ci efektywne rozwiązania.",
+              "Zapewniamy, że korzystasz z optymalnego stosunku kosztu, czasu i bezpieczeństwa."
+            ],
+            "listItems": [
+              "Spersonalizowane rekomendacje dla każdego transportu",
+              "Optymalizacja tras i kosztów",
+              "Wsparcie w zarządzaniu przepływem transportowym w dłuższej perspektywie"
+            ]
+          }
+        }
+      }
+    },
+    "Carrier": {
+      "eyebrow": "KORZYŚCI DLA PRZEWOŹNIKA",
+      "title": "Korzyści ze współpracy z CLS",
+      "intro": "Szukasz ładunków i nie znajdujesz wystarczająco dużo? Masz zaparkowane ciężarówki lub pokonujesz tysiące kilometrów miesięcznie bez zysku? Poprzez Natychmiastową Wycenę Transportu CLS udostępniamy Ci kursy odpowiednie dla Twojej floty, abyś mógł zwiększyć stopień załadunku i przejść na zysk.",
+      "Accordion": {
+        "items": {
+          "class1": {
+            "title": "Dostęp do tysięcy ładunków spotowych",
+            "short": "Zawsze masz dostępne nowe kursy, odpowiednie dla Twoich ciężarówek.",
+            "paragraphs": [
+              "Dzięki platformie CLS masz dostęp do szerokiej bazy ładunków spotowych, z wielu branż i regionów.",
+              "Możesz wybrać tylko te kursy, które pasują do Twojej floty i preferowanych tras."
+            ],
+            "listItems": [
+              "Szybkie i bezpieczne płatności",
+              "Stały przepływ możliwości",
+              "Redukcja przestojów między kursami"
+            ]
+          },
+          "class2": {
+            "title": "Umowy typu ciągnikowego",
+            "short": "Stabilność i stały wolumen transportu.",
+            "paragraphs": [
+              "Możesz zawierać umowy typu ciągnikowego z CLS, zapewniając stały wolumen kursów.",
+              "W ten sposób możesz łatwiej planować swoją działalność i inwestycje we flotę."
+            ],
+            "listItems": [
+              "Współpraca średnio- i długoterminowa",
+              "Lepszy stopień załadunku dla ciężarówek",
+              "Przewidywalność wpływów i przepływów pieniężnych"
+            ]
+          },
+          "class3": {
+            "title": "Możliwość wynajmu naczepy",
+            "short": "Elastyczność w rozwoju Twojej floty.",
+            "paragraphs": [
+              "Jeśli masz ciągnik siodłowy, ale nie masz wystarczającej liczby naczep, możesz skorzystać z rozwiązań wynajmu przez CLS.",
+              "W ten sposób możesz przyjąć więcej kursów, nie blokując kapitału w natychmiastowych zakupach."
+            ],
+            "listItems": [
+              "Szybki dostęp do dodatkowego sprzętu",
+              "Redukcja ryzyka nadmiernej inwestycji",
+              "Łatwe dostosowanie do szczytów popytu"
+            ]
+          },
+          "class4": {
+            "title": "Punktualne płatności i gwarantowany wpływ",
+            "short": "Zapewniamy, że Twoja praca jest płacona na czas.",
+            "paragraphs": [
+              "Kładziemy nacisk na uczciwe i przestrzegane terminy płatności, abyś mógł planować swoje wydatki.",
+              "Współpracujemy ze stabilnymi klientami, o dobrej zdolności kredytowej, aby zmniejszyć ryzyko braku wpływu."
+            ],
+            "listItems": [
+              "Przejrzyste warunki płatności",
+              "Przewidywalny przepływ wpływów",
+              "Redukcja ryzyka finansowego"
+            ]
+          },
+          "class5": {
+            "title": "Konkurencyjne ceny",
+            "short": "Stawki dostosowane do rynku, negocjowane uczciwie.",
+            "paragraphs": [
+              "Oferty na giełdzie są zgodne z realiami rynku transportowego, abyś mógł pokryć koszty i osiągnąć zysk.",
+              "Masz dostęp zarówno do kursów spotowych, jak i kontraktowych, w zależności od Twojej strategii."
+            ],
+            "listItems": [
+              "Przejrzystość w strukturze taryf",
+              "Możliwość negocjacji tam, gdzie jest to stosowne",
+              "Równowaga między wolumenem a rentownością"
+            ]
+          },
+          "class6": {
+            "title": "Szeroka gama opcji",
+            "short": "Możesz wybrać dokładnie taki rodzaj współpracy, jakiego potrzebujesz.",
+            "paragraphs": [
+              "Niezależnie od tego, czy jesteś małą firmą, czy dużą flotą, w CLS znajdziesz opcje dostosowane do Twojego modelu biznesowego.",
+              "Możesz łączyć kursy spotowe, długoterminowe kontrakty i elastyczne rozwiązania sprzętowe."
+            ],
+            "listItems": [
+              "Kursy krajowe i międzynarodowe",
+              "Współpraca dedykowana lub okazjonalna",
+              "Wsparcie w rozwoju Twojej działalności transportowej"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

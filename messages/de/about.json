@@ -1,0 +1,171 @@
+{
+  "about": {
+    "hero": {
+      "tag": "Über uns",
+      "title": "Erfahrung, Vertrauen und Leistung",
+      "subtitle": "Mit umfassender Erfahrung im Transportwesen bietet unser Team maßgeschneiderte Logistiklösungen, angepasst an die Bedürfnisse jedes Kunden."
+    },
+
+    "workWithUs": {
+      "title": "WARUM SIE MIT UNS ARBEITEN SOLLTEN",
+      "items": [
+        {
+          "title": "Zeitersparnis und keine Sorgen",
+          "desc": "wir übernehmen die volle Verantwortung"
+        },
+        {
+          "title": "Reaktionsgeschwindigkeit",
+          "desc": "Angebotserstellung unter 10 Min., Bestätigungen unter 30 Min."
+        },
+        {
+          "title": "Rückverfolgbarkeit (Traceability)",
+          "desc": "Live-Status + proaktive Kommunikation"
+        },
+        { "title": "Vorhersehbarkeit", "desc": "Messbare SLAs und KPIs" },
+        {
+          "title": "Flexibilität",
+          "desc": "Spot, Vertrag, Traktionsdienst, multimodal"
+        },
+        {
+          "title": "Sicherheit",
+          "desc": "einwandfreie Dokumente, Konformität, Versicherungen"
+        }
+      ]
+    },
+
+    "benefits": {
+      "title": "ZUSÄTZLICHE VORTEILE",
+      "items": [
+        { "title": "Engagierter Support", "desc": "Team 24/7 verfügbar" },
+        {
+          "title": "Erweitertes Netzwerk",
+          "desc": "validierte Partner auf europäischer Ebene"
+        },
+        {
+          "title": "Personalisierte Beratung",
+          "desc": "optimierte Logistiklösungen"
+        },
+        {
+          "title": "Volle Transparenz",
+          "desc": "konstante Berichterstattung und Kommunikation"
+        }
+      ]
+    },
+
+    "quote": {
+      "name": "Onișoară Rafael Emre",
+      "role": "CEO & Gründer, Crystal Logistics Services",
+      "paragraphs": [
+        "Crystal Logistics Services ist ein privates Unternehmen, das mit dem Ziel gegründet wurde, ein Pfeiler der Entwicklung und Automatisierung von Prozessen im Transport- und Logistikbereich zu werden.",
+        "Ich habe dieses Geschäft allein begonnen und wollte nicht nur Profit, sondern auch ein Arbeitsumfeld, das auf Werten und einer klaren Mission basiert: den Kunden Premium-Dienstleistungen zu fairen Kosten zu liefern, zuverlässige Berater zu sein, damit sie genau das erhalten, was sie für ihre Geschäfte benötigen.",
+        "Unsere Vision: Implementierung von Systemen und Automatisierungen, die es uns ermöglichen, wettbewerbsfähig zu bleiben und den Industriestandard anzuheben."
+      ]
+    },
+
+    "fleet": {
+      "title": "UNSERE FLOTTE & PARTNERNETZWERK",
+      "paragraphs": [
+        "Tägliche Kapazität: eigene Flotte & 4000+ geprüfte Partner. Wir arbeiten mit unserer eigenen Flotte und einem umfangreichen Netzwerk von finanziell und operativ validierten Transportunternehmen.",
+        "Das bedeutet tägliche Verfügbarkeit, verschiedene Arten von Aufliegern (Tautliner, Kühler, Mega, Kastenwagen), GPS-Überwachung und Dokumentenstandardisierung.",
+        "Das Ergebnis: Premium-Qualität, faire Kosten, pünktliche Lieferung."
+      ]
+    },
+
+    "dataAbout": {
+      "statsTitle": "Zahlen, keine Versprechen",
+      "timelineTitle": "Entwicklung des Umsatzes",
+      "stats": {
+        "clients": "AKTIVE KUNDEN",
+        "partners": "TRANSPORTPARTNER",
+        "orders": "BESTELLUNGEN / MONAT",
+        "satisfaction": "KUNDENZUFRIEDENHEITSRATE"
+      }
+    },
+
+    "whyCrystal": {
+      "sectionTitle": "Warum Crystal – was uns unterscheidet",
+
+      "innovation": {
+        "title": "Innovation & Automatisierung",
+        "desc": "Technologie auf jedem Kilometer – digitale Prozesse, elektronische Signatur, Echtzeit-Verfolgung, Integrationen."
+      },
+
+      "consulting": {
+        "title": "Integrierte Logistikberatung",
+        "desc": "Wir denken vor dem Beladen – effiziente Routen, Preisstrukturen, Dokumentation und Zollunterstützung."
+      },
+
+      "efficiency": {
+        "title": "Kommerzielle Effizienz",
+        "desc": "Die richtigen Kosten, ohne Kompromisse – 4500+ Lieferanten/Partner, optimierte LTL/FTL-Lösungen."
+      },
+
+      "performance": {
+        "title": "Leistung in der Ausführung",
+        "desc": "Stressfreier, pünktlicher Transport – spezialisierte Teams, SLAs, operative Vorhersehbarkeit."
+      },
+
+      "safety": {
+        "title": "Sicherheit & Verantwortung",
+        "desc": "Wir stehen Ihnen bei Problemen zur Seite – geprüfte Flotten, Versicherungen, proaktive Kommunikation, totale Kontrolle."
+      },
+
+      "ethics": {
+        "title": "Ethik & Stabilität",
+        "desc": "Transparent. Fair. Vorhersehbar. – klare Historie, Qualitätsindikatoren, langfristige Partnerschaften."
+      }
+    },
+
+    "team": {
+      "title": "Unser Team",
+      "members": [
+        {
+          "name": "Rafael Emre Onișoară",
+          "role": "CEO & Gründer",
+          "img": "/images/team/Rafael.webp"
+        },
+        {
+          "name": "Serafim Bogdan",
+          "role": "Manager Versandabteilung",
+          "img": "/images/team/Serafim.webp"
+        },
+        {
+          "name": "Liță Alin",
+          "role": "Manager Versandabteilung",
+          "img": "/images/team/Lita.webp"
+        },
+        {
+          "name": "Ciobănoiu Bogdan",
+          "role": "Verkaufs- & Transportagent",
+          "img": "/images/team/Ciobanoiu.webp"
+        },
+        {
+          "name": "Ionescu Denisa",
+          "role": "Verkaufs- & Transportagent",
+          "img": "/images/team/Denisa.webp"
+        },
+        {
+          "name": "Nedelcu Alexandru",
+          "role": "Verkaufs- & Transportagent",
+          "img": "/images/team/Nedelcu.webp"
+        },
+        {
+          "name": "Paraschiv Alexandru",
+          "role": "Verkaufs- & Transportagent",
+          "img": "/images/team/Paraschiv.webp"
+        },
+        {
+          "name": "Păuna Andrei",
+          "role": "Verkaufs- & Transportagent",
+          "img": "/images/team/Pauna.webp"
+        }
+      ]
+    },
+
+    "buttons": {
+      "quote": "Angebot anfordern ↗",
+      "quote3": "Angebot einholen",
+      "quote2": "Alle Dienstleistungen anzeigen"
+    }
+  }
+}

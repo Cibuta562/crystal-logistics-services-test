@@ -1,0 +1,103 @@
+{
+  "HomePage": {
+    "subtitle": {
+      "about": "À propos de Crystal Logistics Services",
+      "transport": "Solutions de transport et de logistique"
+    },
+    "cta": {
+      "contact": "Contactez-nous",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "BasicHero": {
+    "title": "Crystal Logistics Services",
+    "paragraph": "Qu'il s'agisse de chargements complets ou de groupage, tant au niveau national que mondial, nous vous proposons une large gamme de solutions pour transporter vos marchandises aux meilleurs coûts.",
+    "ctaPrimary": "Demandez un devis !",
+    "ctaSecondary": "Devenez transporteur partenaire",
+    "hasCargoTitle": "Avez-vous des marchandises à transporter ?",
+    "hasCargoText1": "Avez-vous besoin d'un transport de marchandises national ou international ?",
+    "hasCargoText2": "Crystal Logistics Services vous propose des services complets de transport routier, de transport exceptionnel et d'expéditions rapides via la bourse de fret CLS.",
+    "hasCargoText3": "Remplissez le formulaire et recevez une offre logistique complète en 30 minutes maximum !",
+    "fillForm": "Remplir le formulaire"
+  },
+  "Services": {
+    "title": "Choisissez la solution de transport qui vous convient",
+    "learnMore": "En savoir plus",
+    "cards": {
+      "road": {
+        "title": "Transport Routier International",
+        "text": "Solutions complètes de transport routier de marchandises (FCL, LCL, express, exceptionnel, marchandises dangereuses). Flotte propre et partenariats fiables."
+      },
+      "maritime": {
+        "title": "Transport Maritime",
+        "text": "Nous couvrons les ports les plus importants. Nous offrons des solutions flexibles et efficaces pour le transport conteneurisé (FCL/LCL) ou de marchandises conventionnelles."
+      },
+      "air": {
+        "title": "Transport Aérien",
+        "text": "Transport rapide et sûr des marchandises, avec une couverture mondiale. Options de transport standard ou express, adaptées à vos besoins urgents."
+      },
+      "rail": {
+        "title": "Transport Ferroviaire",
+        "text": "Une alternative efficace pour les gros volumes, sur de longues distances. Services de transport ferroviaire de marchandises compétitifs, y compris combinés."
+      },
+      "multimodal": {
+        "title": "Transport Multimodal (Combiné)",
+        "text": "Nous optimisons les coûts et le temps de livraison en utilisant une combinaison d'itinéraires. La solution parfaite pour l'efficacité et la durabilité."
+      }
+    }
+  },
+  "Stats": {
+    "title": "Les chiffres qui nous recommandent",
+    "items": {
+      "km": "Km parcourus",
+      "clients": "Clients satisfaits",
+      "cargo": "Tonnes de fret",
+      "revenue": "Millions € Chiffre d'Affaires",
+      "satisfaction": "Taux de satisfaction (%)"
+    }
+  },
+  "Reviews": {
+    "title": "L'avis de nos clients",
+    "cta": "Lire tous les avis sur Google",
+    "readMore": "Lire la suite",
+    "readLess": "Lire moins"
+  },
+  "Organizatii": {
+    "orgTitle": "Affiliations et Organisations",
+    "clientsTitle": "Nos Partenaires (Clients Sélectionnés)"
+  },
+  "BlogFAQ": {
+    "latestPosts": "Derniers articles",
+    "faqTitle": "Foire Aux Questions (FAQ)",
+    "faqs": [
+      {
+        "question": "Quels types de transport proposez-vous ?",
+        "answer": {
+          "intro": "Nous proposons une large gamme de solutions logistiques, adaptées aux besoins de nos clients :",
+          "item1": "Transport routier (FCL, LCL, express, exceptionnel)",
+          "item2": "Transport maritime (FCL, LCL)",
+          "item3": "Transport aérien (standard et express)",
+          "item4": "Transport ferroviaire et multimodal (combiné)"
+        }
+      },
+      {
+        "question": "Les transports sont-ils assurés ?",
+        "answer": "Oui, tous les transports effectués par Crystal Logistics Services bénéficient d'une assurance CMR, conformément aux réglementations internationales, pour vous offrir une tranquillité d'esprit totale."
+      },
+      {
+        "question": "Comment puis-je demander un devis ?",
+        "answer": "Vous pouvez demander un devis directement en remplissant le formulaire disponible sur le site. Nous vous garantissons une réponse rapide et une offre personnalisée dans un délai maximum de 30 minutes."
+      }
+    ]
+  },
+  "Newsletter": {
+    "title": "Abonnez-vous à la newsletter",
+    "iframeTitle": "Formulaire d'inscription à la newsletter",
+    "emailLabel": "Votre adresse e-mail",
+    "emailPlaceholder": "nom@email.com",
+    "consentText": "J'ai lu et j'accepte la",
+    "privacyPolicy": "Politique de confidentialité",
+    "submit": "Envoyer",
+    "loading": "Chargement du formulaire d'abonnement..."
+  }
+}

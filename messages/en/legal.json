@@ -1,0 +1,585 @@
+{
+  "terms": {
+    "title": "Terms and Conditions",
+    "toggle": {
+      "clients": "Clients",
+      "transporters": "Carriers"
+    },
+    "clients": {
+      "tableOfContents": "Table of Contents",
+      "sections": [
+        {
+          "title": "1. Definitions",
+          "content": [
+            "“General Terms and Conditions / GTC” – the entire set of contractual conditions applicable to all beneficiaries of transport services and related services, which supplement the provisions of the forwarding contracts and form an integral part thereof.",
+            "\"Crystal Logistics Services S.R.L.\", \"CLS\" or \"Forwarding Company\": Crystal Logistics Services S.R.L., with its registered office in Bucharest, Sector 1, Strada Dr. Iacob Felix, no. 49, Floor S, Room 9, having unique registration code: 43944517, and trade register number: J40/4964/19.03.2021, EUID: ROONRC.J40/4964/2021, telephone: 0040.757.333.184, e-mail: acc@crystal-logistics-services.com, Crystal Logistics Services GmbH, with its registered office in Strada Bahnhofstrasse, No. 21, Zug, Switzerland, registration number CHE-217.611.963, telephone: 0040.757.333.184, e-mail: acc@crystal-logistics-services.com.",
+            "“Client” – the legal/natural persons benefiting from the transport order or related services offered by CLS, regardless of whether they are the sender, owner, principal, or final beneficiary of the transported goods. These GTCs are applicable to all categories of persons mentioned above, even if the transport order is signed by only one/some of them, and they have the obligation to inform themselves regarding the transport of the goods.",
+            "“Forwarding Contract” is the contract by which the Client requests CLS to conclude, in its own name and on the Client's behalf, one or more transport orders and/or accessory services, by Crystal Logistics Services, for the Client, under the conditions mentioned in the contract and GTC.",
+            "“Transport Order” or “Order” means any written request transmitted by email, fax, or electronic data interchange by which a specific transport order is assigned to the CLS company, based on a Forwarding Contract. A transport order concluded without a Forwarding Contract has the legal value of a Forwarding Contract. The Order will be considered accepted after express, written approval. The start of the Order execution by CLS in any manner will be considered tacit confirmation."
+          ]
+        },
+        {
+          "title": "2. The Forwarding Contract",
+          "content": [
+            "2.1. The object of the Forwarding Contract is the conclusion, in CLS's own name and on the Client's behalf, of one or more Goods Transport Orders and/or accessory services, by Crystal Logistics Services, for the Client, under the conditions mentioned in the Forwarding Contract and GTC.",
+            "2.2. The Forwarding Contract is a contract by which the Forwarding Company undertakes to conclude, in its own name and on the Client's behalf, one or more transport contracts and/or to perform accessory operations.",
+            "2.3. The Forwarding Company that assumes the obligation to execute the transport, using its own means or those of another party, in whole or in part, has the rights and obligations of the carrier.",
+            "2.4. The Forwarding Contract provides clauses regarding both the actual transport and the accessory services to the transport.",
+            "2.5. The Forwarding Contract (framework contract) enters into force on the date of its signing. Individual transport orders enter into force from the date of unreserved acceptance of the offer and expire upon payment of the transport value. If, within one hour of receiving the transport offer by the Client, no express written refusal regarding the execution of the order is announced, the transport order is considered validly concluded from the date the offer was sent.",
+            "2.6. Any modification of the conditions for executing the order without the written consent of the Forwarding Company will not be taken into account. The Client must immediately notify the Forwarding Company of any change in information that is relevant in any way for the correct execution of the freight forwarding. Otherwise, the Client will bear all consequences of such an omission.",
+            "2.7. The Forwarding Company undertakes to renegotiate the order in accordance with the modifications requested by the Client no later than 48 hours before the loading date. After this deadline, the contract price can no longer be reduced, as 48 hours before the loading date, the Forwarding Company has already committed to paying the transport cost for the transport capacity needed by the Client to its subcontractors.",
+            "2.8. Due to general conditions on the transport market, the loading date and the unloading date are estimated, and these dates may change depending on the specific factual situation encountered during the transport, such as additional conditionalities or diversions of the means of transport on certain road segments, traffic blockages, stops at other loading/delivery points, unfavorable weather conditions, routine checks on the means of transport, etc., and the Client understands that these changes in loading/unloading dates do not represent the fault of the Forwarding Company.",
+            "2.9. During transport, the value of the goods is insured according to the insurance of the means of transport used. If the total value of the goods exceeds the insured value of the means of transport, the Client may request the Forwarding Company to (i) raise the liability limit of the transport means insurance up to the value of the goods or (ii) conclude an all-risks cargo insurance. Both accessory services will be negotiated by supplementary act and require payment of an additional fee.",
+            "2.10. Due to general conditions on the transport market, in cases where transport provision costs increase (for example, due to road tolls, fuel costs, inflation on the transport market, etc.), the Forwarding Company will notify the updated price within 15 days before the execution of the next transport order, and the forwarding contract continues only after the Client accepts the new price; otherwise, it terminates by operation of law."
+          ]
+        },
+        {
+          "title": "3. Obligations of the Forwarding Company",
+          "content": [
+            "3.1. The Forwarding Company will exercise the necessary diligence for the organization and/or execution of the transport and the performance of accessory services, according to the Client's instructions, as agreed.",
+            "3.2. The Forwarding Company is obliged to take all necessary measures to protect the Client's interests throughout the performance of the activities.",
+            "3.3. The Forwarding Company ensures that its subcontractors have valid CMR insurance policies for the means of transport used. Should the subcontractor's CMR insurance not take effect, the Forwarding Company benefits from a global CMR insurance policy, with a maximum coverage of EUR 2.5 million in case of damages, within the limit of the CMR insurance value of the means of transport used.",
+            "3.4. In case of unjustified delay of the goods arriving at the destination for a duration exceeding 3 working days, the Forwarding Company will compensate the Client with penalties amounting to EUR 100 / working day.",
+            "3.5. The Forwarding Company must be organized and possess the necessary means to execute its mission. The Forwarding Company assumes the obligation to promptly transmit transport offers at the request of the Client with whom it has concluded a Forwarding Contract, whenever necessary.",
+            "3.6. Unless otherwise agreed, the Forwarding Company has the right to freely choose the subcontractors, as well as the modes of transport and the means used. Intermediaries or subcontractors used by the Forwarding Company for the execution of its obligations are considered accepted by the Client, unless the latter has expressed an objection before the start of the transport execution.",
+            "3.7. The Forwarding Company will transmit the transport documents (INVOICE, CMR, and, optionally, T1, CEMT, TIR CARNET, DELIVERY NOTES CONFIRMED UPON UNLOADING, DELIVERY NOTES, WEIGHING NOTE, THERMOGRAPH) exclusively through electronic means of communication, to the email address provided by the Client.",
+            "3.8. The Forwarding Company is obliged to provide advice only on the transport activity and/or accessory services, excluding aspects related to goods in relation to various authorities (import/export licenses, authorizations, dual-use, etc.).",
+            "3.9. The Forwarding Company undertakes to verify that its subcontractors secure the goods in the means of transport in an appropriate manner so as not to be damaged during transport.",
+            "3.10. In the case of bulk cargo transport, the generally accepted weighing error at unloading is 100 kg. If a quantity difference greater than 100 kg is found upon unloading via the weigh ticket, the Forwarding Company is obliged to request compensation from the carrier consisting of the price of the missing quantity of goods above the 100 kg threshold, by correlating the quantity difference with the price of the transported goods for the purpose of compensating the Client.",
+            "3.11. The Forwarding Company is obliged to pay invoices within the deadlines established by contracts with its subcontractors."
+          ]
+        },
+        {
+          "title": "4. Client Obligations",
+          "content": [
+            "4.1. The Client guarantees the Forwarding Company, at the moment the goods are taken over by the latter, the accuracy of all details related to the general nature of the goods, marks, number, weight, volume, and quantity, and, if applicable, the dangerous nature of the goods, as provided by or on behalf of the Client.",
+            "4.2. The Client is responsible for the way documents are drawn up, their correctness, and apparent legality, which they make available to the Forwarding Company, such as, but not limited to, commercial invoices, specific lists, etc. According to the current updates of GEO no. 41/2022, if the transported goods fall into one of the high fiscal risk categories (BRFR), the Client has the obligation to provide the UIT codes in a timely manner, to fulfill all legal obligations regarding the National RO e-Transport System, and will be held liable to the Forwarding Company and/or its subcontractors in case of their sanctioning due to the lack of fulfillment of the reporting obligation.",
+            "4.3. The Client is obliged to submit in writing to the Forwarding Company, and no later than at the time of order confirmation, all details regarding the execution of the order: the type, weight, volume, value, and packaging of the goods, details regarding the loading/unloading schedule, precise loading/unloading deadlines, and other special transport conditions for the goods. Instructions are subject to the acceptance of the Forwarding Company. However, they are considered accepted if, after receiving them, the Forwarding Company proceeds with execution. The burden of proof regarding special instructions given to the Forwarding Company lies with the Client.",
+            "4.4. The Client shall be liable to the Forwarding Company and shall compensate it for all costs, expenses, and official charges related to all damages, as a result of incorrect, incomplete, or late information or instructions provided by the Client, or the handover by the Client or any person acting on its behalf, to the Forwarding Company or to any other person for whom the Forwarding Company may be liable, of goods that have caused damage to property, means of transport, and the environment or any other loss.",
+            "4.5. The Client must hand over the goods packed, marked, labeled, so that they can withstand the transport and/or accessory operations and can be delivered to the consignee according to the forwarding contract.",
+            "4.6. In case of finding losses, damages, or any harm caused to the goods at the destination, including those caused by transport delays, when the transport was agreed to be performed within a certain period, the consignee or those receiving the goods have the obligation to ascertain the damages and fulfill the necessary formalities, including formulating legal reservations against the carrier, as well as taking other measures to ensure the preservation of the right to claims and actions for the recovery of damages, under the terms of international transport regulations. If the Client benefits from compensation granted through the global CMR insurance of the Forwarding Company, they will be obliged to pay the deductibles or other costs requested by the insurance company.",
+            "4.7. In case the goods are refused by the consignee or in case of their absence, regardless of the reason, the Client is obliged to bear the transport price, the accessory services, as well as the additional expenses, incurred or engaged by the Forwarding Company until the completion of the transport, including supplementary services for the parking of the means of transport/storage until the acceptance of the goods by the consignee.",
+            "4.8. If the Forwarding Company engages customs operations on behalf of the Client, it is the Client who guarantees the customs broker the payment of the customs debt and/or fines that may be due, determined by the provision of erroneous instructions or documents.",
+            "4.9. In the event that the Forwarding Company, in cases of unforeseen circumstances, acts in the Client's interest to preserve their rights and the integrity of their goods, the additional costs and fees will be borne by the Client.",
+            "4.10. The Client will inform the Forwarding Company about any potential assignment of rights and obligations resulting from the forwarding contract to a third party.",
+            "4.11. If the Client cancels the order or withdraws from the contract before the start of the transport execution, they will compensate the Forwarding Company with 30% of the transport value for means of transport between 3.5 and 40 tons and 50% of the transport value for oversized trailers/container chassis, representing organization costs, to which are added the expenses already incurred by the Forwarding Company for the execution of loading, unloading, and transport (machinery rental, customs formalities, authorizations, parking, displacement, etc.), without the total value of these costs being less than 500 EUR.",
+            "4.12. The free time at the loading/unloading location is 4 hours for means of transport between 3.5 and 40 tons, and 2 hours for oversized trailers/container chassis. If the parking of the truck/means of transport at the loading/unloading location exceeds this period, the Client will bear parking penalties amounting to (i) 50 EUR/hour for means between 3.5 and 40 tons or (ii) 100 EUR/hour for oversized trailers/container chassis, until the end of the working day. If the operation is performed on the next day, the penalties are (i) 350 EUR/day or (ii) 750 EUR/day, as the case may be. The Client owes any supplementary penalties issued by the subcontractor. Parking penalties may exceed the contract price.",
+            "4.13. The Client has the obligation to provide the UIT code no later than the day of loading. In its absence, the transport may be detained at the border, generating supplementary costs, fully borne by the Client. In the absence of providing the UIT code, the Client is responsible for all fines applied to both themselves and the carrier. The carrier cannot perform international deliveries without possessing the necessary UIT code for customs formalities."
+          ]
+        },
+        {
+          "title": "5. Customs Clearance",
+          "content": [
+            "5.1. The Forwarding Company may provide in the forwarding contract for customs broker operations, if it holds the legal authorizations, or may engage a customs broker. For this activity, the Forwarding Company must comply with all requirements of applicable customs legislation, agree in writing with the Client on the necessary guarantees and the presentation of documents provided by law.",
+            "5.2. For this activity, the Client owes the fees agreed upon between the parties, in addition to the taxes provided in point 4.8."
+          ]
+        },
+        {
+          "title": "6. Payment Conditions",
+          "content": [
+            "6.1. Payment for the transport and other services is made by the Client based on the invoice issued by the Forwarding Company. The deadline for paying the invoiced amounts is that stipulated in each individual transport order (before loading / before unloading the goods from the means of transport / on the date of sending the transport documents / within a fixed period of days from the date of transport), but cannot exceed the maximum term of 30 calendar days.",
+            "6.2. If the agreed payment deadline is after loading or coincides with the time of unloading (0 days from unloading), the Beneficiary is obliged to make the full payment before starting the unloading operation of the goods from the means of transport. The truck will stand for 30 minutes for the collection of the transport value. The Forwarding Company has the right not to unload the goods and to charge a fee of 50 EUR/hour for parking until the full payment of the contract price. Failure to pay the forwarding contract price on time and the parking of the means of transport at the unloading location / storage of the goods generates supplementary costs to the Client according to art. 8.3. below.",
+            "6.3. The Client is in contractual relations exclusively with the Forwarding Company, not with its subcontractors (such as carriers), so the price of the forwarding contract will be considered paid only if it is paid into the Forwarding Company's account. In exceptional cases where payment of the contract price is only possible in cash, the Client will pay the contract value to the carrier exclusively with the written consent of the Forwarding Company. If the Client proceeds to pay the contract price in cash to subcontractors without the Forwarding Company's consent or without requesting a receipt upon payment, the payment will not be taken into account and will not be enforceable against the Forwarding Company.",
+            "6.4. Failure to pay the value of the service provided by the Forwarding Company on time incurs late penalties of 1% of the contract price for each day of delay, penalties calculated from the date of sending the invoice by CLS via e-mail, until the date of full payment. Late penalties calculated from the due date until the actual payment date may exceed the amount of the debt owed.",
+            "6.5. If the negotiated price was in EUR, the invoice will be issued both in EUR and in RON, at the BNR exchange rate on the day of issuance."
+          ]
+        },
+        {
+          "title": "7. Successive Forwarding Contracts",
+          "content": [
+            "7.1. The Forwarding Contract has the effects of a framework contract in relation to each individual transport order, which is supplemented by the provisions of the forwarding contract and the GTC.",
+            "7.2. During the term of the forwarding contract, the Forwarding Company undertakes to honor every individual transport order sent by the Client in a timely manner and to respect the price provided in the Forwarding Contract or, if the price is left to free bidding, to offer the most competitive prices for its Client. For this service, the Client cannot request offers or conclude transport orders with other suppliers regarding the transports covered by this contract, except when the Forwarding Company fails, for exceptional reasons, to honor that order.",
+            "7.3. If the Client was forced to conclude a single transport order covered by the contract with another similar service provider due to the fault of the Forwarding Company according to art. 7.2. above, the latter undertakes to compensate the Client with the price difference actually paid by the Client to the third-party provider and the price that the Forwarding Company would have offered according to the Forwarding Contract, up to a limit of 500.00 Euro.",
+            "7.4. The Forwarding Contract may be unilaterally terminated by sending a written notification to this effect by either Party. The Forwarding Contract may be terminated for non-performance/improper performance by sending a written notification to this effect by the entitled party, the contract ceasing within 30 calendar days from the date of sending the notification, unless, within this period, the defaulting party performs/remedies the services. Termination/resiliation/cessation of the contract for any reason does not affect orders already executed or in progress, and these will be carried out according to the contract.",
+            "7.5. The Parties have a reciprocal obligation of loyalty regarding the execution of the forwarding contract, and they cannot perform acts/deeds that prejudice its proper execution. The Client cannot initiate negotiations/conclude transport contracts directly with CLS subcontractors, under the penalty of the forwarding contract terminating by operation of law and the payment of damages conventionally set at the amount of 25,000 Euro, representing CLS's unrealized profit from all intermediations that could have been carried out under this contract."
+          ]
+        },
+        {
+          "title": "8. Right of Lien and Retention",
+          "content": [
+            "8. The Right of Lien and Right of Retention",
+            "8.1. The Forwarding Company holds a legal right of lien and retention over the goods and any related documents, for any sum of money owed at any time to the Forwarding Company or its subcontractors (whom it represents in relation to the Client) resulting from rendered transport services.",
+            "8.2. The right of retention ceases if the interested party deposits the transport price and the countervalue of all supplementary costs/penalties owed at the disposal of the Forwarding Company or offers the holder sufficient guarantee. All costs arising in connection with the exercise of the right of retention/lien, including, but not limited to: storage costs, handling, vehicle redirection, parking time, will be borne by the Client, and the compensation value for the supported costs shall be paid before the goods are unloaded and presented to the consignee.",
+            "8.3. The right of retention until the payment of the above costs is exercised after the free unloading time has elapsed or in case of express refusal / lack of a response regarding the payment of the forwarding contract price, depending on the most feasible option, by (i) parking the means of transport at the loading/unloading location, the Client owing 500 EUR/day of parking or (ii) storing the goods in a warehouse chosen by the Forwarding Company, the Client owing 90 EUR+VAT/ton/day of storage, including storage and handling costs of the goods or (iii) by any other reasonable manner, including the sale or destruction of the goods.",
+            "8.4. CLS may, at any time, exercise its right of retention/lien over the goods and accompanying documents, as security for the payment of any other sum owed in accordance with the order, including the costs of recovering it. This right of retention/lien may be exercised not only for the absence of payment in connection with the service in question but may also be extended to any existing obligations, at any time, including within other contracts. If the parties conclude several successive forwarding/transport contracts, these are considered services forming part of a framework forwarding/transport contract with that specific Client, respecting the contractual conditions agreed upon through the first forwarding/transport contract and supplemented by those negotiated by the parties through correspondence. CLS may invoke the rights from this section regarding any transport that is part of the forwarding/transport contracts concluded with this Client, until the full payment of all rendered transport services.",
+            "8.5. In the above hypothesis, CLS will not be responsible for delays in the delivery of the goods or for any supplementary costs arising for the consignee, which the latter has claimed or may claim from the Beneficiary, or for any other damage suffered by the latter."
+          ]
+        },
+        {
+          "title": "9. Force Majeure",
+          "content": [
+            "9.1. The contracting parties shall not be liable for the failure to execute on time and/or improperly, totally or partially, any of the obligations incumbent upon them, if the non-execution of the respective obligation was caused by an unpredictable event at the date of concluding the forwarding contract and whose consequences are unavoidable by the party invoking it.",
+            "9.2. The party invoking force majeure is obliged to immediately and fully notify the other party of its occurrence and to take all measures available to it to limit the consequences of the respective event.",
+            "9.3. Cases of force majeure exempt the Forwarding Company, during their duration, from the obligations affected by these circumstances. In these cases, the Forwarding Company or the Client has the right to terminate the forwarding contract, even if it has been partially executed. If the Forwarding Company or the Client requests the termination of the contract, the Forwarding Company is entitled to the payment of all costs incurred by it for the execution of the contract until the date of its termination.",
+            "9.4. The party that invoked force majeure must provide proof thereof within a maximum of 5 days from the date of its cessation."
+          ]
+        },
+        {
+          "title": "10. Disputes",
+          "content": [
+            "10.1. Any dispute with the Crystal Logistics Services company arising from the forwarding contract that cannot be resolved amicably will be resolved by the competent court of law at the CLS headquarters.",
+            "10.2. This clause is an alternative clause for establishing jurisdiction. If CLS files any claim in court related to a Forwarding Contract/Transport Order in the Client's jurisdiction, it is understood that CLS has waived the right to file such a claim before the competent courts corresponding to the CLS headquarters."
+          ]
+        },
+        {
+          "title": "11. Final Clauses",
+          "content": [
+            "11.1. The Client cannot contact the Forwarding Company's subcontractors directly/indirectly without the latter's consent. If the Client uses the know-how and logistics of the Forwarding Company to carry out the transport with the Forwarding Company's subcontractor designated for this purpose, the Client will still be liable to pay the forwarding contract price to the Forwarding Company, as damages. The Forwarding Company cannot be held liable for transport services concluded under such conditions."
+          ]
+        },
+        {
+          "title": "12. Processing of Personal Data",
+          "content": [
+            "The CLS company, as a service provider, informs you that the personal data processed within the company will be used exclusively for the purpose of executing the transport service contract, in compliance with Art. 6, para (1) lit. b) of Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data. Processed data may include: first and last name, home/residence address, e-mail address, telephone number, bank account number, Client code, invoice history, etc. CLS processes the personal data of its Clients in full compliance with legal provisions, and these data are not transmitted to third parties, only to subcontractors for the execution of the transport contract. In certain situations, personal data are or could be communicated to central/local public authorities and institutions (e.g., the National Agency for Fiscal Administration, police bodies, prosecutors' offices, and courts of law). CLS will process your personal data throughout the duration of the contract concluded with you, as well as for 3 years after its termination (in case of eventual requests or other types of actions after the termination of the contractual relationship). However, by virtue of its legal obligations, CLS will store and archive certain personal data of its Clients for longer periods, according to fiscal and accounting legislation. According to EU Regulation 679/2016, you have the following rights: to request access to processed personal data; to request rectification or erasure of data or restriction of processing, according to law; to benefit from data portability; to file a complaint with the Supervisory Authority or to address the courts of law."
+          ]
+        }
+      ]
+    },
+    "transporters": {
+      "title": "Terms and Conditions for Carriers",
+      "tableOfContents": "Table of Contents",
+      "sections": {
+        "1": {
+          "title": "1. Definitions",
+          "content": [
+            "\"Crystal Logistics Services S.R.L.\", \"CLS\" or \"Forwarding Company\": Crystal Logistics Services S.R.L., with its registered office in Bucharest, Sector 1, Strada Dr. Iacob Felix, no. 49, Floor S, Room 9, having unique registration code: 43944517, and trade register number: J40/4964/19.03.2021, EUID: ROONRC.J40/4964/2021, telephone: 0040.757.333.184, e-mail: , Crystal Logistics Services GmbH, with its registered office in Strada Bahnhofstrasse, No. 21, Zug, Switzerland, registration number CHE-217.611.963, telephone: 0040.757.333.184, e-mail: .",
+            "“Carrier”: The legal entity that performs freight transport services based on an Order or a Transport Contract with CLS.",
+            "“Transport Contract” or “Order”: The agreement of will between CLS and the Carrier, materialized by a written order (e-mail, fax, etc.) or a framework contract, by which the Carrier undertakes to perform freight transport services under the agreed conditions.",
+            "“Parties”: Means CLS and the Carrier, together.",
+            "“Final Client”: The beneficiary of the transport, the shipper or consignee of the goods, who has a contractual relationship with CLS.",
+            "“POD” (Proof of Delivery): The set of documents certifying the execution of the transport, including, but not limited to: original confirmed CMR, invoice, T1, CEMT, notices, weigh notes, thermograph, etc."
+          ]
+        },
+        "2": {
+          "title": "2. Conclusion and Object of the Contract",
+          "content": [
+            "2.1. Object of the Contract: The object of the contract is the provision of freight transport services by the Carrier for CLS, in accordance with the details specified in each Order.",
+            "2.2. Entry into force: The contract is considered concluded and enters into force in one of the following situations, whichever occurs first:\n   a) On the date of signing by both Parties.\n   b) On the date of unreserved acceptance by the Carrier of the offer/order communicated by CLS.\n   c) In the absence of an express refusal by the Carrier within one hour of receiving the Order.\n   d) By the start of the trip execution by the Carrier (presentation at the loading location).\n"
+          ]
+        },
+        "3": {
+          "title": "3. Price and Payment Conditions",
+          "content": [
+            "3.1. Price: The price of the transport service is the one explicitly mentioned in each Order agreed upon by the Parties. The price is firm and cannot be modified unilaterally.",
+            "3.2. Price Renegotiation: A price renegotiation may only take place at the express request of CLS, in time before the loading date, if it is necessary to decrease or supplement the quantity of goods.",
+            "3.3. Payment Conditions: Payment will be made according to the payment term (due date) specified in the Order.",
+            "3.4. Submission of Documents (POD):\n   a) The Carrier has the obligation to send the complete set of documents (POD) to the CLS correspondence address and in electronic format to acc@crystal-logistics-services.com, within 15 days from the date of delivery.\n   b) Penalty for delay: If the original documents are not received within the 15-day term, the invoice due date is automatically extended by 45 days, without the need for prior notification.\n   c) Non-conformities: If the documents are illegible, incomplete, erroneous, or present any other non-conformity, the payment term will be calculated from the date of reception by CLS of the correct and complete documents, in original.\n   d) Electronic payment: Reception of documents exclusively in electronic format is accepted only if this possibility is explicitly mentioned in the Order.\n",
+            "3.5. Fiscal Invoice:\n   a) The invoice will be issued with the date of the goods' unloading.\n   b) The invoice must mandatorily contain the CLS order number and the value both in RON and in EUR. \n   c) Illegible, incorrect invoices or invoices that do not contain the requested information will be refused for payment, and the due date will be recalculated from the date of reception of the correct invoice.\n",
+            "3.6. Cash payment: Cash payment is not accepted, unless there is a prior, written agreement from CLS."
+          ]
+        },
+        "4": {
+          "title": "4. General Transport Conditions",
+          "content": [
+            "4.1. Technical Condition of the Means of Transport: The Carrier guarantees that the means of transport used is in proper technical condition, clean, dry, without foreign odors, and has the necessary loading capacity, including a reserve of 3.5 tons for handling equipment (forklift). CLS does not assume responsibility for the technical condition of the vehicle.",
+            "4.2. Verification of Goods upon Loading: The driver has the obligation to verify and ensure the integrity, quantity, and apparent condition of the goods in accordance with the transport documents. Any discrepancy (damage, shortages) must be recorded in the CMR and reported immediately to CLS before leaving the loading location. Loading will not continue without the express consent of CLS.",
+            "4.3. Loading, Securing, and Handling: The driver is responsible for supervising the correct loading, placement, weight distribution on axles, and proper securing (anchoring) of the cargo in the vehicle to prevent any damage during transport. The Carrier assumes full responsibility for the integrity of the goods until final delivery.",
+            "4.4. Cargo Supervision and Safety:\n   a) Supervision: The driver is obliged to ensure the guarding and safety of the cargo throughout the transport, including by not leaving the vehicle unattended.\n   b) Secured Parking: Loaded vehicles must be parked exclusively in secured parking lots (fenced, lit, with video surveillance and access control). The route must be planned so that rest periods take place in such parking lots.\n   c) Anti-theft Devices: In the absence of secured parking, the installation and activation of at least two independent anti-theft devices (mechanical or electronic) is mandatory. Standard door locks and the ignition key are not considered anti-theft devices.\n",
+            "4.5. Free Loading/Unloading Time: The free time granted for loading and unloading operations is 48 working hours. Any supplementary parking must be communicated immediately to CLS and recorded in the CMR. For exceeding this term, the Carrier is entitled to a compensation of 100 EUR/working day.",
+            "4.6. Types of Transport:\n   a) FTL (Full Truck Load): It is forbidden to load other goods in the vehicle besides those specified in the Order. Violation of this clause entails the full liability of the Carrier, who will be obliged to pay the entire value of the transport service and the damages caused.\n   b) LTL (Less than Truck Load): The Carrier will ensure that commonly loaded goods are compatible, to prevent contamination or mutual damage (e.g., ADR, food, waste).\n",
+            "4.7. Temperature Controlled Transport (Reefer):\n   a) The temperature must be checked upon loading and maintained constantly throughout the transport, according to the specifications in the Order.\n   b) The thermograph is mandatory upon unloading and must be sent together with the rest of the POD documents. Failure to comply with this condition leads to non-payment of the transport.\n\n",
+            "4.8. Bulk Cargo Transport: The maximum admissible weighing error at unloading is 60 kg. For any shortage exceeding this limit, the Carrier will compensate CLS both with the countervalue of the missing goods and with a proportional reduction of the transport price, proportional to the quantity not delivered.",
+            "4.9. Transport of Dangerous Goods (ADR): The Carrier guarantees that it holds all necessary authorizations, equipment, and certificates (including the driver's training certificate) to perform the transport in full compliance with the ADR Convention.",
+            "4.10. Suspect/Damaged Goods: In the case of damaged or suspect goods (including in transports with migrants), unloading is prohibited without the written consent of CLS. The Carrier will follow CLS's instructions regarding the return, verification, or destruction of the goods, with all costs borne by the Carrier.",
+            "4.11. RO e-Transport System: For goods with high fiscal risk (BRFR), the Carrier has the obligation to ensure the transfer of the vehicle's positioning data and to obtain the UIT code before entering the territory of Romania. The Carrier is fully responsible for any fines or financial consequences (including confiscation of the goods) resulting from non-compliance with this obligation.",
+            "4.12. Extra-Community Transports: The Carrier is obliged to present itself at the customs offices indicated by CLS for the completion of formalities. Failure to comply with this indication incurs a fixed penalty of 500 EUR to CLS, plus any other damages caused.",
+            "4.13. Changes in Circumstances: The contract price remains unchanged regardless of the quantity actually loaded. If a larger quantity is found upon loading, the driver must notify CLS and not load supplementary without written consent. Violation of this rule leads to maintaining the price for excess goods and reducing the price for missing goods.",
+            "4.14. Transshipment of Goods: Transshipment is strictly prohibited without the prior written consent of CLS. Violation incurs a penalty of 1,000 EUR, plus the value of any damages incurred."
+          ]
+        },
+        "5": {
+          "title": "5. Obligations of the Parties",
+          "content": [
+            "5.1. Carrier Obligations:\n   a) Communication: To provide CLS with information about the truck's position whenever requested and to maintain constant contact (phone, email) with the CLS dispatcher throughout the trip.\n   b) Compliance with Instructions: Not to leave the loading/unloading address without written instructions from CLS.\n   c) Document Preservation: To safely keep all documents (customs, commercial) and present them only to authorized persons.\n   d) Protective Equipment (PPE): To ensure that the driver possesses and uses appropriate PPE and complies with the internal regulations at the loading/unloading locations.\n",
+            "5.2. Forwarding Company (CLS) Obligations:\n   a) Provision of Information: To provide the Carrier with all necessary information and documents for performing the transport under optimal conditions.\n   b) Payment for Services: To pay the value of the transport services according to the terms agreed upon in the Order.\n   c) Payment for Parking: To pay the compensation for parking, in case the free time of 48 hours is exceeded, according to art. 4.5.\n"
+          ]
+        },
+        "6": {
+          "title": "6. Cargo Insurance",
+          "content": [
+            "6.1. CMR Insurance: The Carrier guarantees that it holds a valid CMR insurance policy, with a minimum coverage of 50,000 EUR per event.",
+            "6.2. Coverage of Damages: Any damage caused to the goods during transport will be covered by the Carrier's CMR insurance. If the insurance does not fully cover the value of the damage (for any reason, including deductible or exclusions), the Carrier will directly bear the difference, in the form of compensation. CLS cannot be held liable for covering these damages."
+          ]
+        },
+        "7": {
+          "title": "7. Improper Performance and Penalties",
+          "content": [
+            "7.1. Non-performance or Cancellation of the Order by the Carrier: Cancellation of the order after its acceptance or failure to show up for loading incurs a penalty of 30% of the contract value, but not less than 500 EUR.",
+            "7.2. Cancellation of the Order by CLS: In case of order cancellation after the truck has traveled to the loading location, CLS will cover the travel costs at 0.5 EUR/km, up to a maximum of 200 km. The Carrier must provide clear proof of travel.",
+            "7.3. Delay at the Loading/Unloading Location:\n   a) Hourly Delay: If an exact time is specified, the Carrier will owe penalties of 50 EUR/hour of delay.\n   b) Daily Delay: If the delay exceeds 24 hours, CLS may cancel the order and apply the 30% penalty (according to art. 7.1). If it does not cancel the order, the Carrier will owe penalties of 350 EUR/day (for 3.5-40t trucks) or 750 EUR/day (for oversized trailers).\n",
+            "7.4. Incomplete Transport or Reduced Distance: If the Carrier loads less goods or travels a shorter distance than agreed, without the written consent of CLS, the contract price will automatically be reduced pro-rata.",
+            "7.5. Lack of Communication: Failure to comply with the obligation to maintain contact with CLS (art. 5.1.a) is penalized with a fixed amount of 500 EUR.",
+            "7.6. Debt Compensation: CLS has the right to offset any outstanding debt of the Carrier (penalties, damages) directly from the value of unpaid transport invoices. If the debts exceed the value of the invoices, CLS will suspend payments until the full settlement of the debts."
+          ]
+        },
+        "8": {
+          "title": "8. Final Clauses",
+          "content": [
+            "8.1. Right of Lien and Retention: The Carrier acts as an agent for CLS in exercising the right of lien and retention over the goods, in case CLS's Final Client fails to pay the transport value. The Carrier is obliged to strictly follow CLS's instructions regarding parking the truck or unloading the goods in an indicated warehouse. Unloading the goods without CLS's written consent, in the situation where such consent is requested, incurs a penalty of 100% of the transport cost, the Carrier being directly responsible for the damages created by releasing the goods.",
+            "8.2. Force Majeure: Neither Party will be liable for the non-performance of contractual obligations if this is due to a force majeure event, unpredictable and unavoidable. The Party invoking force majeure is obliged to notify the other Party as soon as possible.",
+            "8.3. Confidentiality and Prohibition of Contacting Clients:\n   a) Confidentiality: The Carrier undertakes to treat all commercial information it becomes aware of (prices, clients, routes, etc.) as strictly confidential and not to disclose it to third parties.\n   b) Prohibition of Contacting the Final Client: Direct or indirect contact with CLS's Final Client, as well as any direct agreement with them, is strictly prohibited. Violation of this clause is penalized with a fixed amount of 50,000 EUR, as conventional damages.\n   c) Non-Local Competition: If, as a result of violating this clause, the Carrier starts working directly with CLS's Final Client, they will additionally owe penalties of 25% of the value of all transports performed with that client.\n",
+            "8.4. Assignment and Subcontracting: Assignment or subcontracting of transport services is strictly prohibited without the prior written consent of CLS. Violation incurs a fixed penalty of 2,000 EUR per case, independent of CLS's right to seek supplementary damages.",
+            "8.5. Supplementary Penal Clauses:\n   a) Slander and Threats: Any insults, threats, or slander directed at CLS (including online) may incur penalties for moral damages of up to 50,000 EUR.\n   b) Blackmail: Conditioning the delivery of goods on an advance payment, not contractually agreed upon, is considered blackmail and is penalized with 10,000 EUR.\n",
+            "8.6. Applicable Law and Disputes: This contract is governed by Romanian law. Any dispute that cannot be resolved amicably will be under the jurisdiction of the courts of the Municipality of Bucharest.",
+            ""
+          ]
+        },
+        "9": {
+          "title": "9. Personal Data Protection (GDPR)",
+          "content": [
+            "CLS processes the Carrier's personal data (name, contact, identification data, etc.) for the purpose of executing the transport contract, in accordance with Regulation (EU) 2016/679 (GDPR). Data may be communicated to parties involved in the execution of the contract (clients, warehouses, customs authorities) or public authorities, upon request. Data is stored for the duration of the contractual relationship and for a period of 3 years after its termination, with the exception of documents for which fiscal-accounting legislation imposes a longer archiving period. The Carrier benefits from the right of access, rectification, erasure, restriction of processing, and data portability, as well as the right to file a complaint with the Supervisory Authority."
+          ]
+        }
+      }
+    }
+  },
+  "privacy": {
+    "title": "Policy on Personal Data Protection (GDPR)",
+    "effectiveDate": "Effective Date: November 18, 2025",
+    "tableOfContents": "Table of Contents",
+    "sections": {
+      "1": {
+        "title": "Introduction",
+        "content": [
+          "The confidentiality of your personal data represents a fundamental priority for Crystal Logistics Services. This policy describes how we collect, use, transfer, and protect your personal data when you interact with us in connection with our products and services, including through our website.",
+          "This policy is drafted in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (known as “GDPR”), as well as applicable national legislation."
+        ]
+      },
+      "2": {
+        "title": "Associated Data Controllers",
+        "content": [
+          "In the context of providing our logistics and transport services, your data is processed as associated controllers by the following entities, hereinafter referred to as “Crystal Logistics Services”, “CLS” or the “Company”."
+        ],
+        "table": {
+          "headers": [
+            "Legal Entity",
+            "Registered Office",
+            "Registration Number",
+            "Contact"
+          ],
+          "rows": [
+            [
+              "Crystal Logistics Services S.R.L.",
+              "Bucharest, Sector 1, Strada Dr. Iacob Felix, no. 49, Floor S, Room 9, Romania",
+              "J40/4964/2021, CUI 43944517",
+              "Phone: 0040.757.333.184<br>E-mail: acc@crystal-logistics-services.com"
+            ],
+            [
+              "Crystal Logistics Services GmbH",
+              "Bahnhofstrasse, No. 21, Zug, Switzerland",
+              "CHE-217.611.963",
+              "Phone: 0040.757.333.184<br>E-mail: acc@crystal-logistics-services.com"
+            ]
+          ]
+        }
+      },
+      "3": {
+        "title": "Data Protection Officer (DPO)",
+        "content": [
+          "Given the legal obligations and the complexity of our operations, Crystal Logistics Services has appointed a Data Protection Officer (DPO) to oversee compliance with GDPR. For any questions, concerns, or to exercise your rights, please use the general contact details of the company, specifying in your request that it is for the attention of the Data Protection Officer.",
+          "Contact details:",
+          "• E-mail: acc@crystal-logistics-services.com",
+          "• Correspondence address: Bucharest, Sector 1, Strada Dr. Iacob Felix, no. 49, Floor S, Room 9, Romania, for the attention of the Data Protection Officer."
+        ]
+      },
+      "4": {
+        "title": "Categories of Personal Data Processed",
+        "content": [
+          "Depending on the nature of your interaction with CLS, we collect different categories of personal data:",
+          "a) Clients and Business Partners (natural persons or representatives of legal entities):",
+          "• Identification data: Name, surname, position.",
+          "• Contact data: E-mail address, telephone number, correspondence/delivery address.",
+          "• Transaction data: Details about services, order history, billing data (excluding bank card details), customs information.",
+          "• Data collected via the website: IP address, browser type, pages visited (for details, see the Cookies Policy).",
+          "b) Data Subjects in the Context of Shipments (shippers, consignees):",
+          "• Identification and contact data: Name, surname, full address, telephone number, e-mail.",
+          "• Shipment details: Information about the content of the package (to the extent that it may constitute personal data), tracking information, data necessary for customs formalities (including CNP - personal identification number, ID card series and number, where legally required).",
+          "c) Employees and Candidates:",
+          "• Identification data: Name, surname, CNP, ID card series and number.",
+          "• Contact data: Address, phone, e-mail.",
+          "• Professional and training data: CV, employment history, diplomas, certifications.",
+          "• Financial data: Bank account, salary information.",
+          "• Medical data: Only in the context of occupational health obligations.",
+          "d) Suppliers and Collaborators (natural persons):",
+          "• Identification and contact data: Name, surname, address, phone, e-mail.",
+          "• Financial data: Bank account, billing data."
+        ]
+      },
+      "5": {
+        "title": "Purposes and Legal Grounds for Processing",
+        "content": [
+          "Crystal Logistics Services processes your personal data for the following purposes, based on the legal grounds specified by GDPR:"
+        ],
+        "table": {
+          "headers": [
+            "Purpose of Processing",
+            "Legal Ground (according to Art. 6 GDPR)",
+            "Examples of Processing Activities"
+          ],
+          "rows": [
+            [
+              "Provision of logistics and transport services",
+              "Performance of a contract (Art. 6(1)(b))",
+              "Processing and managing transport orders.<br>Tracking shipments.<br>Managing warehousing and distribution operations.<br>Communication with clients and consignees regarding delivery status."
+            ],
+            [
+              "Fulfillment of legal obligations",
+              "Legal obligation (Art. 6(1)(c))",
+              "Preparation and processing of customs documents (where CNP may be processed).<br>Invoicing and compliance with financial-accounting legislation.<br>Reporting to fiscal authorities and other public institutions."
+            ],
+            [
+              "Pre-contractual steps and conclusion of contracts",
+              "Performance of a contract (Art. 6(1)(b))",
+              "Collection of necessary data (name, contact, company data) to prepare and send a personalized offer.<br>Processing data to negotiate, conclude, and sign the service provision contract."
+            ],
+            [
+              "Management of client and partner relations",
+              "Legitimate interest (Art. 6(1)(f))",
+              "Administrative and operational communications essential for service provision.<br>Proactive contact with clients and partners.<br>Handling requests and complaints.<br>Evaluating client satisfaction."
+            ],
+            [
+              "Commercial communications and marketing",
+              "Legitimate interest (Art. 6(1)(f)) / Consent (Art. 6(1)(a))",
+              "Sending offers, newsletters, and information about CLS services."
+            ],
+            [
+              "Recruitment and human resources management",
+              "Performance of a contract (Art. 6(1)(b)) / Legal obligation (Art. 6(1)(c))",
+              "Processing applications and organizing interviews.<br>Concluding employment contracts.<br>Payment of salaries and benefits."
+            ],
+            [
+              "Physical and IT system security",
+              "Legitimate interest (Art. 6(1)(f))",
+              "Monitoring access to the headquarters.<br>Ensuring the security of the network and IT systems."
+            ],
+            [
+              "Service improvement and data analysis",
+              "Legitimate interest (Art. 6(1)(f))",
+              "Analyzing website traffic data to optimize user experience.<br>Internal reporting."
+            ]
+          ]
+        }
+      },
+      "6": {
+        "title": "Recipients of Personal Data",
+        "content": [
+          "To fulfill our contractual and legal obligations, we may disclose your data to partners, subcontractors, authorities, service providers, and insurers, based on confidentiality and data protection agreements."
+        ]
+      },
+      "7": {
+        "title": "International Data Transfers",
+        "content": [
+          "Your data may be transferred outside the European Economic Area (EEA), particularly to Switzerland, where the registered office of Crystal Logistics Services GmbH is located.",
+          "Transfers are carried out securely, based on an adequacy decision of the European Commission or Standard Contractual Clauses (SCCs)."
+        ]
+      },
+      "8": {
+        "title": "Data Storage Period",
+        "content": [
+          "Data is kept only for the period necessary for the collection purposes:",
+          "• For the duration of the contract execution;",
+          "• 10 years for financial-accounting documents;",
+          "• Until consent is withdrawn (for marketing);",
+          "• For the duration of the statutory limitation period to defend our legitimate interests."
+        ]
+      },
+      "9": {
+        "title": "Your Rights",
+        "content": [
+          "According to GDPR, you benefit from the following rights:",
+          "• Right to information and access;",
+          "• Right to rectification;",
+          "• Right to erasure ('right to be forgotten');",
+          "• Right to restriction of processing;",
+          "• Right to data portability;",
+          "• Right to object;",
+          "• Right not to be subject to an automated decision;",
+          "• Right to withdraw consent;",
+          "• Right to file a complaint with the ANSPDCP (www.dataprotection.ro)."
+        ]
+      },
+      "10": {
+        "title": "Security of Personal Data",
+        "content": [
+          "Crystal Logistics Services implements technical and organizational measures to protect your data: encryption, access control, staff training, security audits, and incident management."
+        ]
+      },
+      "11": {
+        "title": "Cookies Policy",
+        "content": [
+          "Our website uses cookie files to improve the browsing experience, analyze traffic, and for personalized functionalities. Consult the Cookies Policy for details."
+        ]
+      },
+      "12": {
+        "title": "Changes to the Privacy Policy",
+        "content": [
+          "We reserve the right to periodically update this policy. Any change will be published on the website and, if necessary, notified via the cookie banner."
+        ]
+      },
+      "13": {
+        "title": "Contact",
+        "content": [
+          "For questions or to exercise your rights, you can contact us at:",
+          "E-mail: acc@crystal-logistics-services.com",
+          "Phone: 0040.757.333.184",
+          "Address: Bucharest, Sector 1, Strada Dr. Iacob Felix, no. 49, Floor S, Room 9, Romania"
+        ]
+      },
+      "14": {
+        "title": "References",
+        "content": [
+          "1. Regulation (EU) 2016/679 (GDPR) - The official text of the regulation;",
+          "2. National Supervisory Authority for Personal Data Processing (ANSPDCP) - www.dataprotection.ro;",
+          "3. Guidelines and recommendations of the European Data Protection Board (EDPB);",
+          "4. Law no. 190/2018 regarding the implementation of GDPR;",
+          "5. Commission Decision (EU) 2021/914 on standard contractual clauses;",
+          "6. Commission Decision of July 26, 2000 on the adequacy of data protection in Switzerland."
+        ]
+      }
+    }
+  },
+  "cookies": {
+    "tableOfContents": "Table of Contents",
+    "tableTitle": "Our website may use the following types of cookies:",
+    "tableNote": "Note: The list above is exemplary and subject to change. A complete and updated list will always be available in the consent banner.",
+    "title": "Policy on the Use of Cookie Files",
+    "lastUpdate": "Date of last update: November 18, 2025",
+    "sections": {
+      "1": {
+        "title": "Introduction",
+        "content": [
+          "This policy on the use of cookie files (hereinafter “Cookie Policy”) is designed to inform you about our practices regarding the collection of information from you when you visit our website, through cookies and other tracking technologies, in full compliance with your right to personal data protection.",
+          "This policy is a supplementary document to our Policy on Personal Data Protection (GDPR), which we encourage you to consult to fully understand how we process your data.",
+          "Our cookies do not retain personal data that can directly identify you, such as your name or bank details. They allow us to collect information about your browsing, which can later be used to personalize the experience on the site or in our communications, under the law.",
+          "Information confidentiality is an ongoing responsibility, and therefore, we commit to periodically update this document as we undertake new practices regarding personal data or adopt new privacy policies. Regarding data processing based on consent, we will notify you of any change and request your additional consent.",
+          "The website https://www.crystal-logistics-services.com/ (hereinafter “the Site”) is operated as associated controllers by:",
+          "• Crystal Logistics Services S.R.L., with its registered office in Bucharest, Sector 1, Strada Dr. Iacob Felix, no. 49, Floor S, Room 9, Romania, registered with the Trade Register under no. J40/4964/2021, CUI 43944517.",
+          "• Crystal Logistics Services GmbH, with its registered office in Bahnhofstrasse, No. 21, Zug, Switzerland, registration number CHE-217.611.963.",
+          "These entities use both proprietary and third-party cookies to provide visitors with a superior browsing experience and services tailored to their needs and interests."
+        ]
+      },
+      "2": {
+        "title": "Legislative Context",
+        "content": [
+          "In accordance with the requirements of Directive (EU) 2002/58/EC (“E-Privacy Directive”) and Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (“GDPR Regulation”), we have the obligation to safely administer and only for specified purposes, the personal data you provide us through the use of our website.",
+          "The GDPR Regulation requires us to offer transparency and control to users, allowing you to express or withdraw your consent for data processing at any time, to request their rectification or erasure, and to be clearly informed about the purpose and nature of the cookies used."
+        ]
+      },
+      "3": {
+        "title": "Your Rights",
+        "content": [
+          "As a data subject, you benefit from a series of rights according to GDPR, including:",
+          "• Right to information and data access",
+          "• Right to rectification",
+          "• Right to data erasure (\"right to be forgotten\")",
+          "• Right to restriction of processing",
+          "• Right to data portability",
+          "• Right to object",
+          "For a detailed description of these rights and the means of exercise, please consult the dedicated section in our Policy on Personal Data Protection.",
+          "If you wish to exercise any of these rights, please contact our Data Protection Officer, according to the instructions in section 4.",
+          "You also have the right to file a complaint with the National Supervisory Authority for Personal Data Processing (ANSPDCP):",
+          "• Address: B-dul G-ral. Gheorghe Magheru no. 28-30, Sector 1, postal code 010336, Bucharest, Romania",
+          "• E-mail: anspdcp@dataprotection.ro",
+          "• Phone: +40.318.059.211"
+        ]
+      },
+      "4": {
+        "title": "Data Protection Officer (DPO)",
+        "content": [
+          "We have appointed a Data Protection Officer (DPO) to oversee all aspects related to the protection of personal data. For any questions or concerns related to the processing of your data, please send us a written request, mentioning that it is for the attention of the Data Protection Officer.",
+          "• E-mail: acc@crystal-logistics-services.com",
+          "• Correspondence address: Bucharest, Sector 1, Strada Dr. Iacob Felix, no. 49, Floor S, Room 9, Romania"
+        ]
+      },
+      "5": {
+        "title": "Your Consent for the Use of Cookies",
+        "content": [
+          "Upon first accessing the Site, you will be greeted by a banner (a dialogue window) requesting your consent for the use of various categories of cookies. Until the acceptance or refusal process is completed, no cookie, except for those strictly necessary for the operation of the Site, will be activated.",
+          "Your consent is granular, allowing you to choose which categories of cookies you accept. You can modify your options or withdraw your consent at any time, through the browser settings or the dedicated link on the site."
+        ]
+      },
+      "6": {
+        "title": "What Is a “Cookie”?",
+        "content": [
+          "An “Internet Cookie” (also known as “browser cookie” or simply “cookie”) is a small text file, consisting of letters and numbers, which is stored on the computer, mobile terminal, or other equipment from which you access the internet. The cookie is installed following a request issued by a web server to a browser (e.g., Chrome, Firefox, Edge) and is completely passive – it does not contain software programs, viruses, or spyware and cannot access the information on the user's hard drive.",
+          "A cookie consists of two parts: the name and the content (value). The lifespan of a cookie is determined, and technically, only the web server that sent it can access it again when the user returns to the associated website.",
+          "There are two main categories of cookies:",
+          "• Session Cookies: These are temporarily stored in the browser's cookie folder and are automatically deleted when the browser is closed or when exiting the site.",
+          "• Persistent Cookies: These remain stored on your device's hard drive for a predefined period and are reactivated when you return to the site. They can be manually deleted by the user at any time."
+        ]
+      },
+      "7": {
+        "title": "How We Use Cookies on This Site",
+        "content": [
+          "We have classified our cookies into the following categories to help you understand their purpose:",
+          "• Strictly Necessary Cookies: These are essential for the proper functioning of the Site. They allow navigation between pages, session security, and access to restricted areas. Since the Site cannot function without them, these cookies are implicitly activated and do not require your consent.",
+          "• Performance and Statistics Cookies: These help us understand how you interact with the Site by collecting aggregated and anonymous data. We analyze which pages are most visited, what the traffic sources are, and if any browsing errors occur. The collected information is used exclusively to improve the performance and structure of the Site. Google Analytics is an example.",
+          "• Functionality Cookies: These allow the Site to remember the options you have made (such as the selected language) to provide a more personalized and efficient browsing experience.",
+          "• Marketing and Targeting Cookies (Advertising): These are used to provide you with advertising content relevant to your interests, identified based on the pages visited."
+        ]
+      },
+      "8": {
+        "title": "Types of Cookies We Use",
+        "content": [
+          "Our website may use the following types of cookies:",
+          "Cookie Name: cookieGDPR | Category: Strictly Necessary | Purpose: Stores your consent regarding the use of cookies. | Duration: 1 year",
+          "Cookie Name: _ga, _gid | Category: Performance/Statistics | Purpose: Used by Google Analytics to distinguish users and generate statistical data about website usage. | Duration: _ga: 2 years, _gid: 24 hours",
+          "Cookie Name: _gat | Category: Performance/Statistics | Purpose: Limits the request rate to servers. | Duration: 1 minute",
+          "Note: The list above is exemplary and subject to change. A complete and updated list will be available in the consent banner."
+        ]
+      },
+      "9": {
+        "title": "Cookies Placed by Third Parties (Third-Party Cookies)",
+        "content": [
+          "Certain content sections on our website may be provided through third parties, such as videos from YouTube or maps from Google Maps. We also use traffic analysis services, such as Google Analytics, which place their own cookies.",
+          "These third parties may place cookies through our website, and we have no control over their privacy policies. We recommend consulting the privacy policies of these providers:",
+          "• Google Analytics: Google Privacy Policy",
+          "• Google Maps: Google Maps/Google Earth Additional Terms of Service"
+        ]
+      },
+      "10": {
+        "title": "How You Can Stop Cookies?",
+        "content": [
+          "Disabling or refusing to receive cookies may make certain sites difficult to use. However, you have full control over your browser settings.",
+          "You can set your browser to reject all cookies or only those from third parties. You can also delete existing cookies.",
+          "Instructions for the most popular browsers:",
+          "• Google Chrome",
+          "• Mozilla Firefox",
+          "• Microsoft Edge",
+          "• Safari"
+        ]
+      },
+      "11": {
+        "title": "Data and Cookie Security",
+        "content": [
+          "Cookies are not viruses and cannot run codes. They cannot access information from your computer.",
+          "However, cookies can be used for negative purposes if improperly exploited. This is why modern browsers offer privacy settings that allow for safe cookie management."
+        ]
+      },
+      "12": {
+        "title": "Changes to the Cookie Policy",
+        "content": [
+          "We reserve the right to update this policy whenever necessary. Any change will be published on this page and, if applicable, notified in the cookie banner upon your next visit."
+        ]
+      },
+      "13": {
+        "title": "Questions and Contact",
+        "content": [
+          "For any questions, concerns, or complaints related to this policy or how we use cookies, please contact us at the email address acc@crystal-logistics-services.com."
+        ]
+      }
+    },
+    "footerNote": "For complete details regarding data protection, please consult our Policy on Personal Data Protection."
+  },
+  "cookie": {
+    "message": "We use cookies to improve your experience on the site.",
+    "settings": "Settings",
+    "acceptAll": "Accept All",
+    "settingsTitle": "Cookie Settings",
+    "functional": "Functional (mandatory)",
+    "analytics": "Analytical",
+    "marketing": "Marketing",
+    "save": "Save Preferences",
+    "close": "Close"
+  }
+}

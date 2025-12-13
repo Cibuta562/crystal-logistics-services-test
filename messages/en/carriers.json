@@ -1,0 +1,163 @@
+{
+  "Carriers": {
+    "Rutier": {
+      "Transportatori": {
+        "Header": {
+          "section": "Do you want to maximize the potential of your fleet? At Crystal Logistics Services, we offer complete transport solutions, both for spot collaborations and long-term, per-kilometer contracts. We are the reliable partner that ensures constancy, flexibility, and profitability!",
+          "title": "Forwarding Company dedicated to carriers",
+          "alt": "Image carriers"
+        },
+        "section_1": {
+          "title": "Why choose Crystal Logistics Services for your transport partnership?",
+          "alt": "TransportatoriCrystal",
+          "paragraphs": [
+            "Crystal Logistics Services is more than a forwarding house – we are the partner you need to take your transport business to the next level. With an experienced team and a vast client portfolio, we provide personalized solutions for your operational needs. Whether you are looking for spot cargo or want to conclude a long-term, per-kilometer contract, we are your reliable solution."
+          ]
+        },
+        "partnerTransport": {
+          "badge": "Collaborate with Crystal Logistics Services",
+          "title": "Become our transport partner",
+          "subtitle": "Tell us about your fleet and preferred routes, and we will connect you with suitable projects, clear procedures, and a predictable collaboration.",
+          "card1": {
+            "title": "Freight trips",
+            "text": "Domestic and international transport, with clear loading and delivery windows."
+          },
+          "card2": {
+            "title": "Stable collaboration",
+            "text": "Transparent conditions, clear agreements, and a long-term partnership vision."
+          },
+          "card3": {
+            "title": "Rapid onboarding",
+            "text": "We analyze every application and return with a clear response in a short time."
+          }
+        },
+        "form": {
+          "badge": "Applications open",
+          "title": "Partner form",
+          "subtitle": "It takes less than 5 minutes to complete. We will respond after analyzing all submitted details.",
+          "button": "Complete the form",
+          "paragraphs": [
+            "After submitting the form, we verify the fleet capacity, preferred route types, and crew availability.",
+            "Regardless of the size of your fleet, at Crystal Logistics you will always find available loads and well-defined routes.",
+            "Our vast client network allows us to offer you constant transport opportunities, both domestic and within the Community.",
+            "Every day brings new possible collaborations for profitable transport, regardless of the type of cargo or destination."
+          ]
+        },
+        "Accordion": {
+          "title": "Benefits of collaboration with Crystal Logistics Services",
+          "intro": "Discover why more and more carriers choose Crystal Logistics to increase their efficiency and revenue. Join us and enjoy the advantages of a solid partnership.",
+          "items": {
+            "class1": {
+              "title": "Access to thousands of cargoes, every day",
+              "paragraphs": [
+                "Regardless of the size of your fleet, at Crystal Logistics you will always find available loads. Our vast client network allows us to offer you constant transport opportunities, both domestically and within the Community. Every day brings new collaboration opportunities for profitable transport, regardless of the type of cargo or destination.",
+                "Our cargo offers are updated in real-time, allowing you to make quick decisions and keep your trucks moving. Moreover, we don't just offer you access to thousands of cargoes, but we also provide you with our dedicated teams who will offer continuous support in carrying out each transport."
+              ]
+            },
+            "class2": {
+              "title": "Long-term tractionist collaboration contracts, paid per kilometer",
+              "paragraphs": [
+                "If you are looking for financial stability and long-term collaboration, tractionist-type contracts are the ideal solution for you. At Crystal Logistics, we guarantee a minimum number of kilometers per month, which means constant and predictable revenue for your business.",
+                "This type of contract offers you flexibility in choosing routes and the type of transport – whether it is domestic transport, Round-Trip journeys, or Community transport, we ensure constant loads and fast payments for every kilometer traveled."
+              ]
+            },
+            "class3": {
+              "title": "Fast and guaranteed payments",
+              "paragraphs": [
+                "One of the biggest benefits we offer our partner carriers is prompt and guaranteed payment. We understand how important a steady cash flow is for your business, and we are committed to ensuring this through fast and efficient payment terms.",
+                "At Crystal Logistics, you can count on us for punctual payments, regardless of the type of contract chosen. We handle all administrative aspects so you can focus on what matters most – the efficient operation of your fleet."
+              ]
+            },
+            "class4": {
+              "title": "Additional benefits and expense reimbursements",
+              "paragraphs": [
+                "In collaboration with Crystal Logistics Services, you get not only fast and guaranteed payments but also multiple additional benefits. We offer attractive bonuses for supplementary loadings and unloadings, which can significantly increase the profit on every trip performed.",
+                "We also ensure that all expenses related to road tolls, bridges, ports, and authorizations are reimbursed by us, so you have no extra worries managing operational costs."
+              ]
+            },
+            "class5": {
+              "title": "Semi-trailer rental for increased flexibility",
+              "paragraphs": [
+                "Fleet expansion can be a costly process, but at Crystal Logistics Services, we offer you an efficient alternative – the possibility to rent semi-trailers when you need them. This way, you can respond quickly to market demand without making major initial investments.",
+                "Whether you need standard, mega, or refrigerated semi-trailers, we provide flexible and efficient solutions that will help you honor all orders, thus increasing your transport capacity."
+              ]
+            },
+            "class6": {
+              "title": "Dedicated 24/7 assistance and professional dispatch",
+              "paragraphs": [
+                "Not only do we offer you access to thousands of cargoes and advantageous contracts, but we are also by your side throughout the transports, ensuring all trips run smoothly. Our team of dispatchers is available 24/7 to help you with any problem or question related to transport.",
+                "Whether you encounter difficulties on the route or need quick solutions for any unforeseen situation, our experienced dispatchers are always ready to intervene and offer the necessary support."
+              ]
+            },
+            "class7": {
+              "title": "Diesel cards – efficient solutions for reducing costs",
+              "paragraphs": [
+                "Reducing operational expenses is a priority for every carrier, and Crystal Logistics Services helps you with this by offering diesel cards. These allow you to purchase fuel at preferential prices, thus reducing the costs you incur with every trip.",
+                "By using our diesel cards, you will be able to optimize your expenses and increase long-term profitability."
+              ]
+            },
+            "class8": {
+              "title": "Flexibility in choosing the type of transport",
+              "paragraphs": [
+                "Another major advantage we offer is flexibility in choosing the type of transport. Whether you prefer Round-Trip journeys, or want to operate within the Community or domestically, at Crystal Logistics Services we offer varied and personalized options.",
+                "This flexibility allows you to adjust your fleet's activity according to market requirements and your operational capacity, thus maximizing efficiency and increasing revenue."
+              ]
+            }
+          }
+        },
+        "Accordion2": {
+          "title": "How does the collaboration contract with Crystal Logistics Services work?",
+          "intro": "At Crystal Logistics, we offer carriers the flexibility to choose the contract type that suits them best, based on their preferences and business goals. We have three collaboration options, each with specific advantages and clear benefits, to ensure financial stability and constant revenue.",
+          "items": {
+            "class_a": {
+              "title": "1. Round-Trip (Import-Export) – Collaboration on international routes with guaranteed kilometers",
+              "paragraphs": [
+                "Round-Trip transports involve international journeys where your trucks will travel between Romania and various countries in the European Union, as well as outside of it. These routes are ideal for those who want to obtain a combination of international and domestic trips, with significant advantages:",
+                "This type of collaboration offers you flexibility in managing international transports and helps you achieve consistent profits with minimal risks."
+              ],
+              "listItems": [
+                "Included destinations: most EU countries, such as Germany, France, Italy, Spain, Netherlands, Belgium, Austria, Hungary, Bulgaria, Greece, Poland, Czech Republic, Slovakia, Croatia, Slovenia, but also non-EU countries: Switzerland (CH), Turkey (TR), United Kingdom (GB), Norway (NO).",
+                "Guaranteed kilometers: We ensure a minimum number of kilometers every month, so you have the certainty that your fleet will have constant revenue.",
+                "Fast payments: You benefit from guaranteed, fast, and delay-free payments, ensuring solid financial stability.",
+                "Additional benefits: Access to thousands of cargoes, bonuses for supplementary loadings, and reimbursement of operational expenses (road tolls, bridges, ports)."
+              ]
+            },
+            "class_b": {
+              "title": "2. Community – Exclusive international transport within European territory",
+              "paragraphs": [
+                "Community-type collaboration is aimed at carriers who wish to operate exclusively on international routes, without returning to Romania for an extended period. This option is ideal for maximizing earnings and optimizing operations.",
+                "With this type of contract, you have the flexibility to concentrate on international routes, without worrying about frequent returns to the country, which optimizes operating time and maximizes your profit."
+              ],
+              "listItems": [
+                "Collaboration duration: 2 months of continuous transport within Europe, covering multiple countries and destinations.",
+                "Road tolls: Under this type of contract, Crystal Logistics separately pays all road tolls related to the transports, which significantly reduces your operational costs.",
+                "Highest earnings potential: Community collaboration offers the highest earning potential, given the large number of kilometers traveled and the constant volumes of transported cargo.",
+                "Stability and financial security: In addition to fast and secure payments, we offer permanent assistance and 24/7 dispatch available, so you can concentrate on your trips without worries."
+              ]
+            },
+            "class_c": {
+              "title": "3. Domestic – Exclusive national transport",
+              "paragraphs": [
+                "For those who want to operate exclusively nationally, the Domestic collaboration type represents the simplest and most efficient solution. This allows you to focus on local routes, covering the transport demand across the entire territory of Romania.",
+                "Domestic collaboration offers you the opportunity to focus on the local market, maintaining a constant flow of transports and profits."
+              ],
+              "listItems": [
+                "Long-term stability: We offer access to spot cargoes and national transport contracts, ensuring regular trips and constant revenue.",
+                "Reduced operating costs: Being domestic transport, operational costs, including road tolls and supplementary expenses, are lower, which means a higher profit for every trip.",
+                "Fast and efficient solutions: Through our extensive client network in Romania, your trucks will never stand idle without a load. We ensure efficient planning of trips, allowing you to optimize every day of operation."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Do you want to become a partner?",
+          "messages": [
+            "We are ready to collaborate with serious and professional carriers.",
+            "Let's discuss the available opportunities."
+          ],
+          "buttonLabel": "Contact Us"
+        }
+      }
+    }
+  }
+}

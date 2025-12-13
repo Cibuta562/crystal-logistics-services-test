@@ -1,0 +1,64 @@
+{
+  "Navbar": {
+    "nav": {
+      "home": "Acasă",
+      "despreNoi": "Despre Noi",
+      "transport": "Soluții",
+      "transportatori": "Transportatori",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "submenu": {
+      "transport": {
+        "road": "Transport Rutier",
+        "sea": "Transport Maritim",
+        "air": "Transport Aerian",
+        "rail": "Transport Feroviar",
+        "multimodal": "Transport Multimodal",
+        "roadSub": {
+          "transportInt": "Transport Intern și Internațional",
+          "relocari": "Relocări Internaționale",
+          "armament": "Transport Armament",
+          "agabaritic": "Transport Agabaritic",
+          "frigo": "Transport FRIGO",
+          "adr": "Transport ADR",
+          "marfaVrac": "Transport Marfă Vrac",
+          "autoturisme": "Transport Autoturisme",
+          "other": "Alte Servicii",
+          "bursa": "Cotație instant"
+        }
+      }
+    },
+    "locale": {
+      "label": "Limba",
+      "short": {
+        "ro": "RO",
+        "en": "EN",
+        "de": "DE",
+        "fr": "FR",
+        "it": "IT",
+        "pl": "PL"
+      }
+    },
+    "cta": {
+      "quote": "Cere o cotație",
+      "short": "Cere ofertă",
+      "contact": "Contactează-ne"
+    },
+
+    "menu": {
+      "title": "Meniu"
+    },
+    "labels": {
+      "phone": "Telefon",
+      "email": "Email",
+      "language": "Limbă"
+    },
+    "a11y": {
+      "home": "Mergi la pagina principală",
+      "menu": "Deschide meniul",
+      "call": "Sună-ne",
+      "email": "Trimite un email"
+    }
+  }
+}

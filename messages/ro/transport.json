@@ -1,0 +1,2371 @@
+{
+  "Transport": {
+    "Solutii": {
+      "Header": {
+        "section": "CRYSTAL LOGISTICS SERVICES",
+        "title": "SOLUȚII PENTRU TRANSPORT",
+        "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+      },
+
+      "section_1": {
+        "title": "Soluții Logistice Integrate, Adaptate Afacerii Tale",
+        "paragraphs": [
+          "La Crystal Logistics Services, înțelegem că fiecare marfă are o poveste și fiecare livrare este critică pentru succesul afacerii dumneavoastră. De aceea, nu oferim doar servicii de transport, ci construim parteneriate strategice bazate pe încredere, performanță și o înțelegere profundă a lanțului logistic..",
+          "Cu o abordare axată pe inovație și o rețea extinsă de parteneri validați, transformăm provocările logistice în oportunități de creștere. Fie că aveți nevoie de un transport rapid, de gestionarea unor mărfuri speciale sau de o soluție multimodală complexă, echipa noastră dedicată este aici pentru a asigura că marfa dumneavoastră ajunge la destinație în condiții optime, la timp și cu un cost corect. Explorati gama noastră completă de soluții și descoperiți cum putem aduce eficiență și predictibilitate operațiunilor dumneavoastră."
+        ],
+        "alt": "CRYSTAL LOGISTICS SERVICES"
+      },
+
+      "Accordion": {
+        "title": "Lorem ipsum dolor sit amet",
+        "intro": "Lorem ipsum dolor sit amet",
+        "items": {
+          "class1": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+
+          "class2": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+
+          "class3": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+
+          "class4": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+
+          "class5": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+
+          "class6": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          }
+        }
+      },
+
+      "Subservicii": {
+        "eyebrow": "Soluții pentru orice tip de marfă",
+        "title": "Subserviciile noastre",
+        "description": "Indiferent de necesitățile dvs., avem soluții personalizate pentru fiecare tip de marfă – de la mărfuri sensibile la temperatură, la încărcături agabaritice și mărfuri periculoase.",
+
+        "agabaritic": {
+          "title": "TRANSPORT AGABARITIC",
+          "description": "În lumea transportului și logisticii, transportul agabaritic reprezintă o provocare distinctă din cauza dimensiunilor și a greutății mari a mărfurilor transportate. La Crystal Logistics, suntem specializați în manipularea acestor sarcini complexe cu profesionalism și eficiență. Cunoaștem legislația transporturilor agabaritice și ne conformăm la fiecare km parcurs în consecință, astfel încât marfa dvs. să ajungă cu succes la destinație. ",
+          "alt": "Transport agabaritic cu trailer specializat"
+        },
+
+        "adr": {
+          "title": "TRANSPORT ADR",
+          "description": "Înțelegem complexitatea și riscurile implicate în transportul rutier de mărfuri periculoase. De aceea, ne-am specializat în acest domeniu, oferind soluții sigure și eficiente conform reglementărilor ADR. Echipa noastră experimentată este instruită și certificată pentru a manipula și transporta o gamă largă de mărfuri periculoase, inclusiv substanțe chimice inflamabile, materiale explozive și substanțe toxice.",
+          "alt": "Camion adr Crystal Logistics în tranzit"
+        },
+
+        "frigo": {
+          "title": "TRANSPORT FRIGO",
+          "description": "Noi, cei de la casa de expediții pentru transportul de marfă Crystal Logistics Services, suntem conștienți de importanța menținerii temperaturii optime pentru a garanta prospețimea și calitatea mărfurilor perisabile. De aceea, ne-am adaptat flota și serviciile pentru a oferi transport rutier frigorific de cea mai înaltă calitate, atât pe plan național, cât și internațional.",
+          "alt": "Camion frigorific Crystal Logistics în tranzit"
+        },
+
+        "marfaVrac": {
+          "title": "MARFĂ VRAC",
+          "description": "Deținem o flotă modernă de camioane basculabile special concepute pentru transportul eficient și sigur al unei game variate de mărfuri vrac, de la cereale și agregate la materiale de construcții și deșeuri. Cu o echipă de specialiști cu licențe în transportul mărfurilor și o atentă conformare la legislația managerului de transport marfă, ne asigurăm că fiecare etapă a procesului este gestionată în conformitate cu standardele cele mai ridicate.",
+          "alt": "Autovehicul de transport express pe autostradă"
+        },
+
+        "relocariInternationale": {
+          "title": "RELOCĂRI INTERNAȚIONALE",
+          "description": "Cu o experiență vastă în domeniul transportului și logisticilor, Crystal Logistics Services este partenerul dvs. de încredere atunci când vine vorba de relocări internaționale. Fie că este vorba de relocarea unei companii sau a unei familii, ne mândrim cu faptul că putem face față oricărei provocări. Echipa noastră de specialiști este alături de clienți pe tot parcursul procesului de relocare.",
+          "alt": "Marfă paletizată pregătită pentru transport de grupaj"
+        },
+
+        "distributieNationala": {
+          "title": "DISTRIBUȚIE NAȚIONALĂ",
+          "description": "La Crystal Logistics Services, oferim soluții complete de distribuție națională. Ne ocupăm de fiecare etapă a procesului de distribuție, de la preluarea mărfurilor de la client, la depozitare, sortare și livrare. Transportul rutier de marfă reprezintă o componentă esențială a serviciilor noastre, permițându-ne să ajungem rapid și eficient la orice destinație din țară.",
+          "alt": "Depozit logistic modern cu rafturi și marfă pregătită de distribuție"
+        },
+
+        "logisticaTarguri": {
+          "title": "Târguri și Expoziții Internaționale",
+          "description": "La Crystal Logistics Services, oferim soluții complete de distribuție națională. Ne ocupăm de fiecare etapă a procesului de distribuție, de la preluarea mărfurilor de la client, la depozitare, sortare și livrare. Transportul rutier de marfă reprezintă o componentă esențială a serviciilor noastre, permițându-ne să ajungem rapid și eficient la orice destinație din țară.",
+          "alt": "Depozit logistic modern cu rafturi și marfă pregătită de distribuție"
+        },
+
+        "transportArmament": {
+          "title": "TRANSPORT ARMAMENT",
+          "description": "La Crystal Logistics Services, oferim soluții complete de distribuție națională. Ne ocupăm de fiecare etapă a procesului de distribuție, de la preluarea mărfurilor de la client, la depozitare, sortare și livrare. Transportul rutier de marfă reprezintă o componentă esențială a serviciilor noastre, permițându-ne să ajungem rapid și eficient la orice destinație din țară.",
+          "alt": "Depozit logistic modern cu rafturi și marfă pregătită de distribuție"
+        }
+      },
+
+      "cta": {
+        "messages": ["Lorem ipsum dolor sit amet", "Contactați-ne astăzi!"],
+        "buttonLabel": "CONTACTAȚI-NE"
+      }
+    },
+
+    "Rutier": {
+      "General": {
+        "Header": {
+          "section": "CRYSTAL LOGISTICS SERVICES",
+          "title": "TRANSPORT MARFĂ RUTIER",
+          "alt": "Banner Transport Marfă Rutier - Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "CLS: PARTENERUL DVS. DE ÎNCREDERE ÎN TRANSPORTUL RUTIER",
+          "paragraphs": [
+            "Crystal Logistics Services oferă servicii complete de transport marfă, adaptate cerințelor fiecărui client. Cu o flotă modernă și diversificată, asigurăm transport rutier sigur și eficient atât la nivel național, cât și internațional.",
+            "Prin experiența noastră în transportul rutier de marfă, garantăm soluții flexibile, livrare la timp și cele mai înalte standarde de siguranță. Alegeți un partener de încredere pentru orice tip de transport!"
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_2": {
+          "title": "Soluții pentru orice tip de marfă",
+          "paragraphs": [
+            "Indiferent de necesitățile dvs., avem soluții personalizate:"
+          ],
+          "alt": "Crystal Logistics Services",
+          "listItems": [
+            "Transport internațional și transport intern, cu acoperire extinsă în întreaga Europă",
+            "Transport frigo, destinat mărfurilor perisabile și produselor sensibile la temperatură",
+            "Transport colete și transport paleți, ideal pentru expedieri rapide și sigure",
+            "Transport ADR, conform normelor de siguranță pentru mărfurile periculoase",
+            "Transport agabaritic, pentru echipamente și structuri de dimensiuni mari"
+          ]
+        },
+
+        "section_3": {
+          "eyebrow": "Activitatea noastră principală:",
+          "title": "Transport Intern și Internațional",
+          "subtitle": "La Crystal Logistics Services, oferim o gamă largă de servicii pentru a face față oricărei provocări logistice cu care v-ați putea confrunta. Ne mândrim cu faptul că suntem un partener de încredere pentru transportul rutier, atât la nivel național, cât și internațional.",
+          "paragraphs": [
+            "În domeniul transporturilor rutiere, ne mândrim cu capacitatea noastră de a transporta o gamă diversă de mărfuri pe rutele interne și internaționale. Putem gestiona cu succes transportul rutier internațional de marfă pentru o varietate de produse, de la alimente până la echipamente industriale și bunuri de larg consum.",
+            "În plus, experiența noastră ne permite să gestionăm cu ușurință transportul mărfurilor periculoase sau al altor încărcături speciale, consolidându-ne poziția în sectorul transporturilor rutiere internaționale și naționale."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_4": {
+          "title": "DEPĂȘIM PROVOCĂRILE TRANSPORTURILOR CU SOLUȚII INTELIGENTE",
+          "paragraphs": [
+            "La Crystal Logistics Services, înțelegem că fiecare proiect de transport are propriile sale provocări. În acest sens, flexibilitatea și adaptabilitatea sunt două dintre principiile noastre fundamentale. Ne adaptăm constant la cerințele specifice ale fiecărui client, oferind soluții personalizate care să depășească orice obstacole. Indiferent de tipul de marfă pe care doriți să îl transportați, suntem aici pentru a vă ajuta."
+          ]
+        },
+
+        "Subservicii": {
+          "eyebrow": "Soluții pentru orice tip de marfă",
+          "title": "Subserviciile noastre",
+          "description": "Indiferent de necesitățile dvs., avem soluții personalizate pentru fiecare tip de marfă – de la mărfuri sensibile la temperatură, la încărcături agabaritice și mărfuri periculoase.",
+
+          "agabaritic": {
+            "title": "TRANSPORT AGABARITIC",
+            "description": "În lumea transportului și logisticii, transportul agabaritic reprezintă o provocare distinctă din cauza dimensiunilor și a greutății mari a mărfurilor transportate. La Crystal Logistics, suntem specializați în manipularea acestor sarcini complexe cu profesionalism și eficiență. Cunoaștem legislația transporturilor agabaritice și ne conformăm la fiecare km parcurs în consecință, astfel încât marfa dvs. să ajungă cu succes la destinație. ",
+            "alt": "Transport agabaritic cu trailer specializat"
+          },
+
+          "adr": {
+            "title": "TRANSPORT ADR",
+            "description": "Înțelegem complexitatea și riscurile implicate în transportul rutier de mărfuri periculoase. De aceea, ne-am specializat în acest domeniu, oferind soluții sigure și eficiente conform reglementărilor ADR. Echipa noastră experimentată este instruită și certificată pentru a manipula și transporta o gamă largă de mărfuri periculoase, inclusiv substanțe chimice inflamabile, materiale explozive și substanțe toxice.",
+            "alt": "Camion adr Crystal Logistics în tranzit"
+          },
+
+          "frigo": {
+            "title": "TRANSPORT FRIGO",
+            "description": "Noi, cei de la casa de expediții pentru transportul de marfă Crystal Logistics Services, suntem conștienți de importanța menținerii temperaturii optime pentru a garanta prospețimea și calitatea mărfurilor perisabile. De aceea, ne-am adaptat flota și serviciile pentru a oferi transport rutier frigorific de cea mai înaltă calitate, atât pe plan național, cât și internațional.",
+            "alt": "Camion frigorific Crystal Logistics în tranzit"
+          },
+
+          "marfaVrac": {
+            "title": "MARFĂ VRAC",
+            "description": "Deținem o flotă modernă de camioane basculabile special concepute pentru transportul eficient și sigur al unei game variate de mărfuri vrac, de la cereale și agregate la materiale de construcții și deșeuri. Cu o echipă de specialiști cu licențe în transportul mărfurilor și o atentă conformare la legislația managerului de transport marfă, ne asigurăm că fiecare etapă a procesului este gestionată în conformitate cu standardele cele mai ridicate.",
+            "alt": "Autovehicul de transport express pe autostradă"
+          },
+
+          "relocariInternationale": {
+            "title": "RELOCĂRI INTERNAȚIONALE",
+            "description": "Cu o experiență vastă în domeniul transportului și logisticilor, Crystal Logistics Services este partenerul dvs. de încredere atunci când vine vorba de relocări internaționale. Fie că este vorba de relocarea unei companii sau a unei familii, ne mândrim cu faptul că putem face față oricărei provocări. Echipa noastră de specialiști este alături de clienți pe tot parcursul procesului de relocare.",
+            "alt": "Marfă paletizată pregătită pentru transport de grupaj"
+          },
+
+          "distributieNationala": {
+            "title": "DISTRIBUȚIE NAȚIONALĂ",
+            "description": "La Crystal Logistics Services, oferim soluții complete de distribuție națională. Ne ocupăm de fiecare etapă a procesului de distribuție, de la preluarea mărfurilor de la client, la depozitare, sortare și livrare. Transportul rutier de marfă reprezintă o componentă esențială a serviciilor noastre, permițându-ne să ajungem rapid și eficient la orice destinație din țară.",
+            "alt": "Depozit logistic modern cu rafturi și marfă pregătită de distribuție"
+          },
+
+          "logisticaTarguri": {
+            "title": "Târguri și Expoziții Internaționale",
+            "description": "La Crystal Logistics Services, oferim soluții complete de distribuție națională. Ne ocupăm de fiecare etapă a procesului de distribuție, de la preluarea mărfurilor de la client, la depozitare, sortare și livrare. Transportul rutier de marfă reprezintă o componentă esențială a serviciilor noastre, permițându-ne să ajungem rapid și eficient la orice destinație din țară.",
+            "alt": "Depozit logistic modern cu rafturi și marfă pregătită de distribuție"
+          },
+
+          "transportArmament": {
+            "title": "TRANSPORT ARMAMENT",
+            "description": "La Crystal Logistics Services, oferim soluții complete de distribuție națională. Ne ocupăm de fiecare etapă a procesului de distribuție, de la preluarea mărfurilor de la client, la depozitare, sortare și livrare. Transportul rutier de marfă reprezintă o componentă esențială a serviciilor noastre, permițându-ne să ajungem rapid și eficient la orice destinație din țară.",
+            "alt": "Depozit logistic modern cu rafturi și marfă pregătită de distribuție"
+          }
+        },
+
+        "Accordion": {
+          "title": "Legislație transport marfă",
+          "intro": "În ce condiții se efectuează transportul de mărfuri?",
+          "items": {
+            "class1": {
+              "title": "Transportul rutier public de mărfuri",
+              "short": "poate fi realizat de către operatori de transport doar cu respectarea anumitor condiții, inclusiv deținerea documentelor necesare:",
+              "paragraphs": [""],
+              "listItems": [
+                "copie conformă a licenței de transport (licențe ARR și copii conforme ARR);",
+                "document de transport, astfel încât să puteți justifica transportul în fața Inspectoratului de Stat pentru Controlul în Transportul Rutier;",
+                "certificat privind încadrarea vehiculului în normele de poluare și siguranță rutieră;",
+                "autorizație de transport internațional (doar pentru transportul internațional)."
+              ]
+            },
+
+            "class2": {
+              "title": "Operatorii de transport rutier români pot efectua transport rutier public de mărfuri în trafic internațional:",
+              "short": "",
+              "paragraphs": [""],
+              "listItems": [
+                "doar pe baza autorizațiilor de transport internațional eliberate de către autoritatea competentă;",
+                "cu respectarea acordurilor sau convențiilor internaționale la care România este parte."
+              ]
+            },
+
+            "class3": {
+              "title": "Documente necesare pentru transportul rutier în cont propriu:",
+              "short": "",
+              "paragraphs": [""],
+              "listItems": [
+                "copie conformă a certificatului de transport în cont propriu (ARR copii conforme);",
+                "documente care dovedesc că marfa este transportată în cont propriu."
+              ]
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Doriți să aflați mai multe informații despre serviciile noastre de transport și logistică?",
+          "messages": [
+            "Pentru mai multe informații despre transporturile rutiere și fiecare subserviciu, faceți clic pe linkurile de mai sus sau contactați-ne direct pentru a discuta cu unul dintre specialiștii noștri!"
+          ],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "Agabaritic": {
+        "Header": {
+          "section": "TRANSPORT MARFĂ RUTIER",
+          "title": "TRANSPORT AGABARITIC",
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+
+        "section_1": {
+          "title": "AVEM EXPERTIZĂ ÎN MANIPULAREA MĂRFURILOR DE DIMENSIUNI EXCEPȚIONALE",
+          "paragraphs": [
+            "Când aveți o încărcătură care nu se potrivește dimensiunilor standard ale unui camion sau depășește masa maximă admisă, aveți nevoie de experți.",
+            "La Crystal Logistics Services, avem experiența și resursele necesare pentru a gestiona cu succes aceste sarcini complexe, prin intermediul serviciilor noastre de transport agabaritic internațional și național."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+
+        "section_2": {
+          "title": "EXPERIENȚA NOASTRĂ",
+          "paragraphs": [
+            "Am acumulat o experiență vastă în domeniul transporturilor agabaritice, având abilitatea de a gestiona cu succes transportul de marfă de dimensiuni excepționale din diverse domenii.",
+            "De la utilaje agricole, echipamente industriale, construcții și infrastructură, la echipamente pentru energia regenerabilă și structuri metalice complexe, am abordat o diversitate de solicitări, fiecare cu provocările sale unice, întărindu-ne astfel expertiza."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+
+        "section_3": {
+          "title": "DOMENII DE EXPERTIZĂ",
+          "alt": "CRYSTAL LOGISTICS SERVICES",
+          "listItems": [
+            "<strong>Utilaje Agricole:</strong> De la combine la rezervoare de apă.",
+            "<strong>Construcții și Infrastructură:</strong> Excavatoare, macarale, foreze, și multe altele.",
+            "<strong>Energie:</strong> Turbine eoliene și alte echipamente energetice.",
+            "<strong>Transport:</strong> Vagoane, ambarcațiuni și aeronave.",
+            "<strong>Construcții Modulare:</strong> Case mobile și structuri modulare.",
+            "<strong>Structuri Metalice:</strong> De diverse dimensiuni și aplicații.",
+            "<strong>Mărfuri Lungi:</strong> Țevi de diferite dimensiuni.",
+            "<strong>Echipamente Militare:</strong> Vehicule și mașinării specifice."
+          ]
+        },
+
+        "highlight": {
+          "eyebrow": "TRANSPORT AGABARITIC",
+          "title": "DE CE SĂ ALEGI SERVICIILE DE TRANSPORTURI AGABRITICE CRYSTAL LOGISTICS SERVICES?",
+          "description": "",
+          "items": {
+            "card1": {
+              "title": "Planificare și Organizare Riguroasă",
+              "description": "La Crystal Logistics, înțelegem că cheia unui transport agabaritic de succes este o planificare riguroasă și o organizare impecabilă. Ca firmă de transport agabaritic cu o vastă experiență în domeniu, știm cât de importantă este evaluarea infrastructurii rutiere și identificarea potențialelor obstacole înainte de începerea transportului. Știm că dimensiunile și greutatea încărcăturii pot necesita rute specifice care pot suporta aceste specificații. De aceea, alegerea celei mai eficiente rute este o prioritate pentru noi. În transportul agabaritic și transportul de marfă vrac, întâmpinarea provocărilor este o normă, nu o excepție. Obstacolele fizice pe traseu sau restricțiile de tranzit sunt doar câteva dintre provocările cu care ne confruntăm în mod regulat. Totuși, la Crystal Logistics Services, aceste provocări sunt anticipate, gestionate și depășite cu succes datorită profesionalismului și seriozității echipei noastre."
+            },
+            "card2": {
+              "title": "Autorizații, Avize și Însoțire ",
+              "description": "Înțelegem complexitatea procesului de transport agabaritic și știm cât de importantă este respectarea legislației în vigoare. Obținerea autorizațiilor și avizelor necesare pentru transportul agabaritic poate fi o provocare, dar noi ne ocupăm de tot. Asigurăm licențe de transport, licențe ARR, autorizații și toate avizele necesare pentru transport. De asemenea, oferim însoțire cu mașini de escortă autorizate, garantând siguranța transferului pe întreg traseul. Pentru transportul ADR, oferim soluții sigure și conforme, având certificare ADR, șoferi specializați în transportul mărfurilor periculoase și vehicule specializate. Mai mult puteți să beneficiați de consultanță de specialitate din partea consilierului nostru de siguranță."
+            },
+            "card3": {
+              "title": "All-Inclusive ",
+              "description": "Transportul agabaritic reprezintă mult mai mult decât simpla mutare a unui obiect din punctul A în punctul B. De aceea, oferim servicii all-inclusive, de la planificare riguroasă a procesului de transport, până la obținerea tuturor autorizațiilor și avizelor necesare, precum și asigurarea serviciilor de însoțire și escortă. Utilizăm o gamă variată de vehicule specializate, adaptate pentru acest tip de transport. Acestea sunt esențiale pentru o livrare eficientă și sigură a mărfurilor agabaritice. Fie că este vorba de camioane cu platformă joasă, trailere modulare sau vehicule cu capacități de încărcare mari, avem soluția potrivită pentru nevoile dumneavoastră."
+            }
+          }
+        },
+
+        "specializedVehicles": {
+          "title": "VEHICULE SPECIALIZATE",
+          "intro": "Folosim o gamă variată de vehicule adaptate pentru transportul agabaritic: trailere platformă dreaptă, platforma lăsată (lowbed), trailere extensibile și trailere cu mai multe osii pentru tonaj mare.",
+          "items": {
+            "platformaDreaptaDeschisa": {
+              "title": "1. PLATFORMĂ DREAPTĂ DESCHISĂ",
+              "description": "",
+              "altMain": "Platformă dreaptă deschisă",
+              "altSide": "Platformă dreaptă deschisă - vedere laterală"
+            },
+            "plataformaLasata": {
+              "title": "2. PLATFORMĂ LĂSATĂ (SEMI LOW BED)",
+              "description": "",
+              "altMain": "Platformă joasă lowbed",
+              "altSide": "Platformă joasă lowbed - vedere laterală"
+            },
+            "gondola": {
+              "title": "3. GONDOLĂ (LOW BED)",
+              "description": "",
+              "altMain": "Platforme extensibile",
+              "altSide": "Platforme extensibile - vedere laterală"
+            },
+            "gondola4axe": {
+              "title": "4. GONDOLĂ 4 AXE (LOW BED)",
+              "description": "",
+              "altMain": "Trailere modulare",
+              "altSide": "Trailere modulare - vedere laterală"
+            },
+            "trailerExtensibil": {
+              "title": "5. TRAILER EXTENSIBIL",
+              "description": "",
+              "altMain": "Vehicul cu gât de lebădă detașabil",
+              "altSide": "Vehicul cu gât de lebădă detașabil - vedere laterală"
+            },
+            "trailereCuAlveole": {
+              "title": "6. TRAILER CU ALVEOLE (PENTRU UTILAJE, ÎNĂLȚIME MAXIMĂ 4M)",
+              "description": "",
+              "altMain": "Trailere cu pereți laterali",
+              "altSide": "Trailere cu pereți laterali - vedere laterală"
+            },
+            "platformaLasata2": {
+              "title": "7. PLATFORMĂ LĂSATĂ (SEMI LOW BED)",
+              "description": "",
+              "altMain": "Platformă joasă lowbed",
+              "altSide": "Platformă joasă lowbed - vedere laterală"
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Contactați-ne!",
+          "messages": [
+            "Suntem aici pentru a vă ajuta să depășiți provocările logistice cu care vă confruntați.",
+            "Echipa noastră de experți va dezvolta o ofertă personalizată pentru a vă îndeplini cerințele specifice.",
+            "Contactați-ne astăzi pentru a afla mai multe despre serviciile noastre!"
+          ],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "Adr": {
+        "Header": {
+          "section": "TRANSPORT MARFĂ RUTIER",
+          "title": "TRANSPORT ADR",
+          "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "ALEGEȚI CALEA SIGURĂ – TRANSPORT MĂRFURI PERICULOASE ADR",
+          "paragraphs": [
+            "Transportul de mărfuri periculoase ADR reprezintă o provocare majoră.",
+            "La Crystal Logistics Services, suntem specializați în gestionarea acestor transporturi asigurându-ne că mărfurile dumneavoastră sunt manipulate și livrate condiții maxime de siguranță.",
+            "Echipa noastră este formată din specialiști calificați,instruiți continuu în conformitate cu reglementările ADR."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+
+        "section_2": {
+          "title": "AMBALAREA MĂRFURILOR PERICULOASE ȘI MARCAREA AMBALAJELOR",
+          "introParagraphs": [
+            "Substanțele periculoase sunt clasificate și grupate conform ADR (Acordul european privind transportul internațional al mărfurilor periculoase pe drum), în funcție de gradul lor de pericol. Această clasificare detaliată, conform legislației ADR pentru colete, ne ajută să înțelegem cerințele specifice de ambalare corespunzătoare pentru fiecare tip de marfă.",
+            "În scopul ambalării, orice prescripție referitoare la nivelul de performanță este prevăzută în instrucția de ambalare aplicabilă."
+          ],
+          "listTitle": "Grupe de ambalare:",
+          "groups": [
+            {
+              "label": "Grupa I: ",
+              "text": "substanțe foarte periculoase;"
+            },
+            {
+              "label": "Grupa II: ",
+              "text": "substanțe mediu periculoase;"
+            },
+            {
+              "label": "Grupa III: ",
+              "text": "substanțe puțin periculoase."
+            }
+          ],
+          "outroParagraphs": [
+            "Ambalajele trebuie să fie concepute și construite astfel încât să reziste la condițiile de transport și să prevină orice scurgeri sau deteriorări. De asemenea, ambalajele trebuie să fie supuse unor teste riguroase pentru a verifica dacă îndeplinesc cerințele specificate de reglementările ADR."
+          ]
+        },
+
+        "section_3": {
+          "title": "SIGURANȚA – PRIORITATEA NOASTRĂ NUMĂRUL UNU",
+          "paragraphs": [
+            "În domeniul transportului de mărfuri periculoase, siguranța este nu doar o prioritate, ci o necesitate. Nerespectarea normelor de siguranță nu conduce doar la amenzi considerabile, ci și la posibile accidente cu consecințe dezastruoase. De aceea, Crystal Logistics Services deține licență de transport mărfuri periculoase, asigurându-ne că fiecare transport este efectuat în condiții optime de securitate.",
+            "Puteți beneficia de serviciile unui consilier de siguranță specializat, principala lui responsabilitate fiind aceea de a se asigura că toate normele de siguranță sunt respectate. Mai mult, șoferii noștri sunt instruiți și examinați pentru a ne asigura că pot manipula în mod sigur și eficient mărfurile periculoase. Camioanele sunt, de asemenea, verificate și certificate pentru a garanta că sunt echipate corespunzător pentru transportul acestui tip de mărfuri. "
+          ]
+        },
+
+        "highlight": {
+          "eyebrow": "TRANSPORT ADR",
+          "title": "ALEGEȚI SOLUȚIA IDEALĂ DE TRANSPORT!",
+          "description": "Fiecare client are nevoi specifice atunci când vine vorba de transportul mărfurilor periculoase ADR. Prin urmare, oferim două soluții principale: transportul grupaj (LTL) și transportul exclusiv (FTL).",
+          "items": {
+            "card1": {
+              "title": " Transport Grupaj (LTL)",
+              "description": "Transportul grupaj (LTL) este ideal pentru cei care au cantități mai mici de mărfuri periculoase ADR de transportat. Această soluție presupune combinarea mai multor încărcături într-un singur camion, făcând procesul mai rentabil. În plus, pentru cei care se ocupă cu transportul ADR care necesita temperatura controlata, dispunem de opțiuni de transport frigorific, cu containere dotate cu perete despărțitor, pentru a asigura condiții optime de transport."
+            },
+            "card2": {
+              "title": "Transport Exclusiv (FTL)",
+              "description": "Transportul exclusiv (FTL) este soluția potrivită pentru cei care au cantități mari de mărfuri sau mărfuri de valoare înaltă. În acest caz, întregul camion este rezervat pentru o singură încărcătură, oferind un nivel mai mare de control și flexibilitate."
+            }
+          }
+        },
+
+        "cards": {
+          "eyebrow": "",
+          "title": "DISPUNEM DE MULTIPLE TIPURI DE CAMIOANE PENTRU TRANSPORTUL ADR",
+          "description": "La Crystal Logistics Services, înțelegem complexitatea și riscurile asociate cu transportul de mărfuri periculoase ADR. De aceea, am investit într-o flotă variată de camioane specializate ADR, menite să vă satisfacă cerințele de expediere în siguranță a acestor mărfuri.",
+          "items": {
+            "card1": {
+              "title": "CAMIOANE CU PRELATĂ",
+              "short": "",
+              "descriptions": [
+                "Acestea constituie o soluție optimă pentru transportul mărfurilor periculoase ADR, fiind ideale pentru transportul de mărfuri paletizate sau în cutii, datorita faptului ca oferă protecție împotriva intemperiilor și asigură un acces facil pentru încărcare și descărcare."
+              ]
+            },
+            "card2": {
+              "title": "CAMIOANE CAROSATE",
+              "short": "",
+              "descriptions": [
+                "Cu o structură solidă și robustă, aceste camioane sunt fabricate având în vedere necesitatea de a transporta marfă sensibilă și periculoasă. Caroseria lor este proiectată pentru a rezista la orice tip de șoc sau impact, protejând astfel încărcătura."
+              ]
+            },
+            "card3": {
+              "title": "CISTERNE",
+              "short": "Pentru lichide, gaze și pulberi periculoase.",
+              "descriptions": [
+                "Înțelegem că transportul ADR de mărfuri periculoase este o operațiune complexă și delicată. De aceea, am investit într-o flotă variată de cisterne specializate, pentru a ne asigura că putem satisface orice nevoie de transport. Cisternele sunt ideale pentru transportul de lichide, gaze și pulberi. Flota noastră este dotată cu echipamente specifice, astfel încât să putem asigura transportul în cel mai sigur mod posibil."
+              ]
+            }
+          }
+        },
+
+        "Accordion": {
+          "title": "CLASELE DE MĂRFURI ADR",
+          "intro": "",
+          "items": {
+            "class1": {
+              "title": "Clasa 1: Materiale și obiecte explozive",
+              "short": "",
+              "paragraphs": [],
+              "listItems": ["Exemple: dinamită, nitroglicerină, artificii."]
+            },
+
+            "class2": {
+              "title": "Clasa 2: Gaze",
+              "short": "",
+              "paragraphs": [
+                "Sub-clasa 2.1: Gaze inflamabile",
+                "Sub-clasa 2.2: Gaze neinflamabile, netoxice",
+                "Sub-clasa 2.3: Gaze toxice"
+              ],
+              "listItems": [
+                "Exemple: butan, propan.",
+                "Exemple: azot, heliu.",
+                "Exemple: clor, amoniac."
+              ]
+            },
+
+            "class3": {
+              "title": "Clasa 3: Lichide inflamabile",
+              "short": "",
+              "paragraphs": [],
+              "listItems": ["Exemple: benzină, acetonă, alcool etilic."]
+            },
+
+            "class4": {
+              "title": "Clasa 4: Solide inflamabile; substanțe care pot suferi combustie spontană; substanțe care, în contact cu apa, emană gaze inflamabile",
+              "short": "",
+              "paragraphs": [
+                "Sub-clasa 4.1: Solide inflamabile",
+                "Sub-clasa 4.2: Substanțe care pot suferi combustie spontană",
+                "Sub-clasa 4.3: Substanțe care emană gaze inflamabile în contact cu apa"
+              ],
+              "listItems": [
+                "Exemple: sulful, fosforul roșu.",
+                "Exemple: fosfor alb.",
+                "Exemple: metal alcalin, calciu."
+              ]
+            },
+
+            "class5": {
+              "title": "Clasa 5: Substanțe oxidante și peroxizi organici",
+              "short": "",
+              "paragraphs": [
+                "Sub-clasa 5.1: Substanțe oxidante",
+                "Sub-clasa 5.2: Peroxizi organici"
+              ],
+              "listItems": [
+                "Exemple: nitrat de potasiu, peroxid de hidrogen.",
+                "Exemple: peroxid de etil."
+              ]
+            },
+
+            "class6": {
+              "title": "Clasa 6: Substanțe toxice și substanțe infecțioase",
+              "short": "",
+              "paragraphs": [
+                "Sub-clasa 6.1: Substanțe toxice",
+                "Sub-clasa 6.2: Substanțe infecțioase"
+              ],
+              "listItems": [
+                "Exemple: cianură, stricnină.",
+                "Exemple: eșantioane biologice, culturi de viruși."
+              ]
+            },
+
+            "class7": {
+              "title": "Clasa 7: Materiale radioactive",
+              "short": "",
+              "paragraphs": [],
+              "listItems": [
+                "Exemple: uraniu, plutoniu, izotopi radioactivi folosiți în medicină."
+              ]
+            },
+
+            "class8": {
+              "title": "Clasa 8: Substanțe corozive",
+              "short": "",
+              "paragraphs": [],
+              "listItems": [
+                "Exemple: acid sulfuric, acid clorhidric, soda caustică."
+              ]
+            },
+
+            "class9": {
+              "title": "Clasa 9: Substanțe și obiecte periculoase diverse",
+              "short": "",
+              "paragraphs": [],
+              "listItems": [
+                "Exemple: amiant, baterii litiu-ion, substanțe periculoase pentru mediul înconjurător."
+              ]
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Pentru mai multe detalii sau pentru o cotație, vă rugăm să ne contactați.",
+          "messages": [""],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "Frigo": {
+        "Header": {
+          "section": "TRANSPORT MARFĂ RUTIER",
+          "title": "TRANSPORT FRIGO",
+          "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "AVEȚI NEVOIE DE TRANSPORT MARFĂ FRIGORIFIC?",
+          "paragraphs": [
+            "Oferim servicii de transport frigorific de înaltă calitate, cu o flotă adaptată pentru a asigura cele mai bune condiții de transport pentru mărfuri refrigerate sau congelate.",
+            "Crystal Logistics Services vă oferă soluții personalizate și eficiente, adaptate nevoilor specifice ale afacerii dumneavoastră."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_2": {
+          "title": "Ce tipuri de mărfuri transportăm?",
+          "paragraphs": [
+            "La Crystal Logistics Services, putem transporta o gamă largă de mărfuri, adaptându-ne continuu la cerințele și nevoile clienților noștri.",
+            "Oferim soluții de transport frigorific internațional pentru o varietate de produse:"
+          ],
+          "alt": "Crystal Logistics Services",
+          "listItems": [
+            "medicamente: temperatură controlată +2/+8 grade | +15/+25 grade;",
+            "congelate (pește, carne, legume, semipreparate etc.): 18/-20 grade. Temperatura setată este controlată și constantă pe întreg parcursul transportului;",
+            "refrigerate (legume, fructe, carne proaspătă, flori etc.): 0 grade/+6 grade."
+          ]
+        },
+
+        "section_3": {
+          "col1": {
+            "title": "SPRIJIN PERSONALIZAT PENTRU TRANSPORTUL FRIGORIFIC",
+            "paragraphs": [
+              "Înțelegem complexitatea și stresul asociate transportului frigorific în România, de aceea oferim consiliere profesională personalizată pentru a vă asigura o experiență ușoară și eficientă.",
+              "Consilierii noștri experimentați vă vor ghida încă de la început, oferindu-vă sfaturi și asistență în fiecare etapă a planificării, de la alegerea temperaturii optime de transport la selectarea vehiculului potrivit și respectarea reglementărilor stricte din domeniu."
+            ]
+          },
+          "col2": {
+            "title": "EXPERȚI ÎN TRANSPORTURI FRIGORIFICE",
+            "paragraphs": [
+              "Cunoașterea detaliată a cerințelor de temperatură pentru diferite tipuri de produse, precum și abilitatea de a gestiona problemele care pot apărea în timpul transportului, fac din noi un partener de încredere în transportul rutier de mărfuri perisabile.",
+              "Din aceste motive, suntem alegerea potrivită pentru toate nevoile dvs. de transport frigorific."
+            ]
+          }
+        },
+
+        "highlight": {
+          "eyebrow": "TRANSPORT FRIGORIFIC",
+          "title": "DE CE SĂ COLABORAȚI CU NOI PENTRU TRANSPORT FRIGORIFIC?",
+          "description": "Experiența noastră vastă și cunoștințele specializate în transportul de mărfuri frigorifice ne permit să oferim cel mai bun serviciu posibil.",
+          "items": {
+            "card1": {
+              "title": "Autovehicule adaptabile",
+              "description": "La Crystal Logistics Services, ne-am concentrat pe crearea unei flote adaptabile, capabilă să răspundă eficient la orice tip de necesități de transport. De la sprintere pentru distanțe scurte și livrări rapide la dube frigorifice noi li până la camioane de tonaj mare pentru transportul de mărfuri voluminoase sau pentru distanțe lungi, fiecare vehicul din flota noastră este gata să vă satisfacă nevoile în materie de transport. Toate vehiculele noastre sunt echipate cu sisteme de reglare a temperaturii, capabile să mențină un climat controlat în intervalul de la -20°C la +25°C."
+            },
+            "card2": {
+              "title": "Certificare a temperaturii",
+              "description": "În domeniul transportului frigorific internațional și național, la Crystal Logistics Services ne mândrim cu respectarea strictă a permițându-ne să monitorizăm cu precizie variațiile de temperatură pe toată durata tranzitului. În acest mod, păstrăm constanța temperaturii și garantăm că mărfurile ajung la destinație în condiții optime."
+            },
+            "card3": {
+              "title": "Flexibilitate și adaptabilitate",
+              "description": "Înțelegem că fiecare afacere este unică și că are cerințe specifice. Acesta este motivul pentru care oferim o gamă largă de opțiuni, inclusiv contracte de transport frigorific în regim de grupaj, cu ajutorul containerelor noastre dotate cu perete despărțitor. Acestea permit transportul separat al mărfurilor și menținerea unei temperaturi specifice pentru fiecare tip de produs. Astfel, putem transporta în același timp produse care necesită temperaturi diferite, fără a compromite calitatea sau siguranța acestora."
+            }
+          }
+        },
+
+        "cards": {
+          "eyebrow": "",
+          "title": "OPȚIUNI DE VEHICULE",
+          "description": "",
+          "items": {
+            "title": "",
+            "card1": {
+              "title": "Mijloace de transport izoterme",
+              "short": "Pentru distanțe scurte și mărfuri cu perisabilitate redusă.",
+              "descriptions": [
+                "Vehicule cu pereți izolați termic, fără unitate de răcire proprie, ideale pentru transportul pe distanțe scurte al mărfurilor cu perisabilitate redusă.",
+                "Mențin temperatura interioară stabilă pentru o perioadă limitată de timp."
+              ]
+            },
+            "card2": {
+              "title": "AUTOCISTERNE",
+              "short": "Pentru lichide alimentare la temperatură controlată.",
+              "descriptions": [
+                "Cisterne specializate pentru lichide alimentare (ex: lapte, sucuri), cu izolație și sisteme de menținere a temperaturii prestabilite.",
+                "Permit spălarea și igienizarea ușoară pentru a respecta standardele de siguranță alimentară."
+              ]
+            },
+            "card3": {
+              "title": "MIJLOACE DE TRANSPORT REFRIGERENTE",
+              "short": "Pentru produse ce necesită temperaturi foarte joase.",
+              "descriptions": [
+                "Vehicule echipate cu agregate de răcire cu temperatură controlată, potrivite pentru produse congelate sau ultra-refrigerate.",
+                "Mențin climatul setat pe toată durata transportului, inclusiv în regim internațional."
+              ]
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Pentru mai multe detalii, cotații sau orice alte informații, nu ezitați să ne contactați.",
+          "messages": [""],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "MarfaVrac": {
+        "Header": {
+          "section": "TRANSPORT MARFĂ RUTIER",
+          "title": "TRANSPORT MARFĂ VRAC",
+          "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "SOLUȚII COMPLETE PENTRU TRANSPORTUL MĂRFURILOR VRAC",
+          "paragraphs": [
+            "La Crystal Logistics Services, vă oferim soluții complete de transport pentru mărfurile dvs. vrac, adaptate nevoilor dvs. specifice. Înțelegem că fiecare sarcină de transport are cerințe unice, iar soluțiile noastre sunt concepute pentru a satisface aceste cerințe în mod eficient și sigur.",
+            "Flota noastră de camioane basculabile este echipată cu tehnologie de ultimă oră și adaptată special pentru transportul rutier de marfă vrac. Camioanele noastre pot transporta o gamă largă de mărfuri, de la cereale și materiale de construcție până la deșeuri. Acestea sunt verificate regulat și întreținute pentru a ne asigura că sunt în condiții optime de funcționare."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+
+        "section_2": {
+          "title": "ECHIPA NOASTRĂ – GATA SĂ VĂ AJUTE",
+          "paragraphs": [
+            "Cu o vastă experiență în acest sector, profesioniștii noștri cunosc în detaliu regulile și reglementările legate de transportul de marfă și particularitățile diferitelor tipuri de mărfuri vrac. Acest lucru ne permite să livrăm servicii de înaltă calitate și să oferim soluții personalizate care să corespundă cu adevărat nevoilor fiecărui client.",
+            "Consultanța și suportul sunt două aspecte cheie ale serviciilor noastre. Echipa noastră oferă consultanță și suport pe tot parcursul procesului de transport de marfă vrac.",
+            "Acest lucru include recomandări pentru cel mai eficient mod de a transporta marfa, sfaturi despre cum să ambalați și să pregătiți marfa pentru transport, precum și asistență cu documentația necesară. Ne asigurăm că luăm toate detaliile în considerare pentru a asigura un transport fără probleme."
+          ]
+        },
+
+        "highlight": {
+          "eyebrow": "TRANSPORT MARFĂ VRAC",
+          "title": "DE CE SĂ ALEGEȚI SERVICIILE NOASTRE DE TRANSPORT MARFĂ VRAC",
+          "description": "",
+          "items": {
+            "card1": {
+              "title": "CAMIOANE BASCULABILE SPECIALIZATE PENTRU MĂRFURI VRAC",
+              "description": [
+                "La Crystal Logistics, cunoaștem importanța unui transport eficient și sigur al mărfurilor vrac. Camioanele noastre basculabile sunt specializate, capabile să reziste la condiții dificile.",
+                "De asemenea, sistemul de basculare a fost proiectat pentru a facilita încărcarea și descărcarea mărfurilor, economisind astfel timp și resurse."
+              ]
+            },
+            "card2": {
+              "title": "ÎNCĂRCARE ȘI DESCĂRCARE RAPIDE",
+              "description": [
+                "La Crystal Logistics, înțelegem nevoia dvs. de eficiență și rapiditate în orice operațiune de transport.",
+                "Din acest motiv, sistemul de basculare al camioanelor noastre este proiectat pentru a accelera procesul de încărcare și descărcare, economisind astfel timp prețios și resurse."
+              ]
+            },
+            "card3": {
+              "title": "TRANSPORT MARFĂ VRAC ADAPTAT NEVOILOR DVS.",
+              "description": [
+                "La Crystal Logistics Services, suntem dedicați să vă oferim soluții de transport marfă vrac adaptate nevoilor specifice ale afacerii dumneavoastră.",
+                "Înțelegem că fiecare client este unic și are cerințe diferite, de aceea oferim un serviciu personalizat de transport marfă vrac. Fie că este vorba despre cereale, materiale de construcții, sau produse chimice, vom găsi soluția de transport optimă pentru a se potrivi nevoilor dumneavoastră."
+              ]
+            },
+            "card4": {
+              "title": "SIGURANȚA TRANSPORTULUI",
+              "description": [
+                "La Crystal Logistics Services, siguranța este întotdeauna pe primul loc. Înțelegem că transportul mărfii vrac necesită o atenție deosebită, de aceea investim sistematic în revizuirea și întreținerea camioanelor noastre.",
+                "Toate vehiculele noastre sunt supuse unor controale periodice riguroase pentru a ne asigura că sunt în stare de funcționare optimă și gata să preia orice sarcină.",
+                "De la motor până la sistemul de frânare, fiecare componentă a camionului este controlată pentru a ne asigura că toate funcționează corect și sunt în siguranță pentru transportul mărfurilor vrac."
+              ]
+            },
+            "card5": {
+              "title": "TRANSPORTĂM ORICE TIP DE MARFĂ VRAC",
+              "description": [
+                "La Crystal Logistics Services, vă punem la dispoziție o gamă completă de servicii de transport de marfă vrac, adaptate nevoilor dumneavoastră specifice.",
+                "Avem o flotă modernă de camioane speciale cu capacitate de la 35-40 mc până la 90 mc (pod rulant), care ne permit să transportăm eficient o varietate de mărfuri vrac, inclusiv cereale, agregate, deșeuri, materiale de construcții și multe altele.",
+                "Camioanele noastre basculabile sunt echipate pentru a face față oricărei provocări. În funcție de tipul de marfă vrac pe care doriți să o transportați, putem adapta metodele noastre de transport pentru a se potrivi cel mai bine cu cerințele dumneavoastră. Vă punem la dispoziție transport marfă intern și internațional."
+              ]
+            }
+          }
+        },
+
+        "Accordion": {
+          "title": "Ce trebuie să cunoașteți despre transportul mărfurilor vrac",
+          "intro": "Transportul rutier de marfă vrac, precum cereale, rumeguș, cărbune sau anumite produse alimentare, necesită o atenție specială din partea logisticienilor și caselor de expediție pentru transportul de marfă intern și internațional.",
+          "items": {
+            "class1": {
+              "title": "Informațiile specifice despre marfă și anticiparea riscurilor",
+              "short": "",
+              "paragraphs": [
+                "Sunt esențiale pentru o planificare optimă a rutelor și a echipamentelor, reducând cursele goale și permițând reacții rapide la evenimente neprevăzute."
+              ],
+              "listItems": [""]
+            },
+
+            "class2": {
+              "title": "Complexitatea transportului",
+              "short": "",
+              "paragraphs": [
+                "Este dată de diversitatea mărfurilor, de condițiile stricte de transport, de infrastructura specializată necesară, de procedurile logistice dedicate și de resursele suplimentare implicate."
+              ],
+              "listItems": []
+            },
+
+            "class3": {
+              "title": "Promptitudinea și siguranța",
+              "short": "",
+              "paragraphs": [
+                "Sunt esențiale pentru clienți, mai ales pentru mărfurile sensibile. Operatorii care oferă intermedieri a transportului de marfă oferă adesea servicii complexe care includ atât transportul, cât și gestionarea logistică."
+              ],
+              "listItems": [""]
+            },
+
+            "class4": {
+              "title": "Tipul de vehicul utilizat",
+              "short": "",
+              "paragraphs": [
+                "Trebuie să corespundă tipului de marfă transportat și să respecte reglementările legale. Igienizarea riguroasă este esențială pentru a evita contaminarea."
+              ],
+              "listItems": []
+            },
+
+            "class5": {
+              "title": "Transportul produselor alimentare",
+              "short": "",
+              "paragraphs": [
+                "Este reglementat la nivel european, specificând condițiile de transport și cerințele pentru vehicule."
+              ],
+              "listItems": [""]
+            },
+
+            "class6": {
+              "title": "Curățarea, dezinfectarea și uscarea completă",
+              "short": "",
+              "paragraphs": [
+                "Curățarea, dezinfectarea și uscarea completă a vehiculelor sunt obligatorii după fiecare transport, în conformitate cu cerințele clientului. "
+              ],
+              "listItems": [""]
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Alegeți Crystal Logistics Services pentru un transport vrac fără griji!",
+          "messages": [
+            "Beneficiați de soluții personalizate pentru fiecare sarcină de transport! Echipa noastră de profesioniști este întotdeauna la dispoziția dvs. pentru a vă oferi consultanță și asistență. Pentru orice întrebare sau solicitare, nu ezitați să ne contactați!"
+          ],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "Autoturisme": {
+        "Header": {
+          "section": "TRANSPORT MARFĂ RUTIER",
+          "title": "TRANSPORT AUTOTURISME",
+          "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "TRANSPORT AUTO SIGUR CU CRYSTAL LOGISTICS SERVICES",
+          "paragraphs": [
+            "La Crystal Logistics Services, oferim soluții de transport auto de înaltă calitate. Fiecare vehicul pe care îl transportăm este tratat cu cea mai mare grijă și respect.",
+            "Procesul nostru de transport este aliniat la standardele internaționale, începând cu încărcarea vehiculului, care este efectuată de către personalul nostru specializat, și continuând cu transportul și descărcarea în condiții de maximă siguranță.",
+            "Fiecare etapă este executată cu precizie și profesionalism, asigurând astfel că vehiculul dumneavoastră va ajunge în siguranță la destinație."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+
+        "section_2": {
+          "col1": {
+            "title": "Un Partener de Încredere în Transportul Auto",
+            "paragraphs": [
+              "La Crystal Logistics Services, ne mândrim cu experiența noastră extinsă în domeniul transportului auto, oferind servicii de transport auto internațional și național pe platformă.",
+              "Interacțiunea cu o varietate de cerințe și situații ne-a permis să ne adaptăm și să ne perfecționăm abilitățile, pentru a putea oferi soluții personalizate fiecărui client în parte."
+            ]
+          },
+          "col2": {
+            "title": "Rezervați Transportul Auto Acum!",
+            "paragraphs": [
+              "Dacă ați decis că aveți nevoie de un serviciu de transport auto pe platformă, atunci Crystal Logistics Services este partenerul ideal pentru dumneavoastră. Acceptăm o gamă largă de vehicule, inclusiv autoturisme de lux, vehicule clasice sau flote de autoturisme pentru expozitii auto sau evenimente.",
+              "Cu noi, vehiculul dumneavoastră va ajunge la destinație în siguranță și la timp."
+            ]
+          }
+        },
+
+        "section_3": {
+          "title": "DE CE SĂ ALEGEȚI CRYSTAL LOGISTICS SERVICES",
+          "paragraphs": [
+            "Suntem mândri de reputația pe care am construit-o în timp, prin dedicare și muncă asiduă. Rețeaua noastră de clienți mulțumiți este o dovadă clară a angajamentului nostru constant pentru excelență. Feedbackul pozitiv pe care îl primim constant de la clienții noștri nu numai că ne motivează, dar ne și confirmă faptul că suntem un partener de încredere în transportul auto."
+          ]
+        },
+
+        "highlight": {
+          "eyebrow": "TRANSPORT AUTOTURSIME",
+          "title": " Platforme Adaptate",
+          "description": "La Crystal Logistics Services, înțelegem că fiecare vehicul are nevoi unice de transport, motiv pentru care oferim o varietate de tipuri de platforme pentru a răspunde tuturor cerințelor. Știm că nu toate vehiculele sunt create la fel și că unele pot avea nevoi speciale de încărcare și descărcare. De aceea, platformele noastre de transport pot fi adaptate pentru a îndeplini diverse nevoi.",
+          "items": {
+            "card1": {
+              "title": "Platforme deschise sau acoperite",
+              "description": [
+                "Platforme deschise: ideale pentru transportul autovehiculelor de lux, oferind o vizibilitate sporită și o aerisire optimă.",
+                "Platforme acoperite: oferă protecție suplimentară împotriva intemperiilor și a deteriorărilor, fiind perfecte pentru transportul autovehiculelor sensibile."
+              ]
+            },
+            "card2": {
+              "title": "Capacitate variată",
+              "description": [
+                "Platforme cu o singură poziție: ideale pentru transportul unui singur autovehicul, oferind o manevrabilitate excelentă și încărcare/descărcare rapide.",
+                "Platforme cu 8-9 poziții: ideale pentru transportul flotelor de autovehicule sau a vehiculelor mai mari."
+              ]
+            },
+            "card3": {
+              "title": "Transportul pe platformă pentru autoutilitare, utilaje și agabaritice",
+              "description": [
+                "Pe lângă transportul auto, casa de expediții Crystal Logistics oferă soluții personalizate pentru transportul autoutilitarelor, utilajelor și vehiculelor agabaritice (care depășesc dimensiunile/tonajul standard). Echipa noastră de experți va analiza cu atenție specificațiile transportului dumneavoastră și va recomanda platforma optimă pentru a asigura siguranța și eficiența operațiunii."
+              ]
+            }
+          }
+        },
+
+        "cards": {
+          "eyebrow": "",
+          "title": "Caracteristicile serviciilor noastre de transport auto",
+          "description": "Înțelegem că fiecare client are nevoi specifice și, prin urmare, oferim soluții de transport auto pe platforma care pot fi adaptate pentru a se potrivi cu aceste cerințe. Fie că este vorba de timp, locație sau tipul de vehicul care urmează a fi transportat, echipa noastră este pregătită să vă ofere cele mai bune soluții.",
+          "items": {
+            "card1": {
+              "title": "Securitate Înainte de Toate ",
+              "short": "",
+              "descriptions": [
+                "Am dezvoltat un set de proceduri de securitate riguroase pentru transportul autoturismelor din străinătate. Utilizăm cele mai avansate dispozitive de fixare din industrie pentru a asigura vehiculele pe platformele noastre de transport. Toate dispozitivele noastre de fixare sunt proiectate pentru a preveni mișcarea vehiculului în timpul transportului, reducând substanțial riscul de daune."
+              ]
+            },
+            "card2": {
+              "title": " Acoperire Geografică Extinsă ",
+              "short": "",
+              "descriptions": [
+                "Serviciile noastre de transport autoturisme acoperă o gamă largă de locații, atât la nivel național cât și internațional. Oferim transport de vehicule în numeroase țări și regiuni, fără limitări geografice semnificative."
+              ]
+            },
+            "card3": {
+              "title": "Asigurare Completă ",
+              "short": "",
+              "descriptions": [
+                "Toate transporturile noastre de autoturisme sunt acoperite de asigurare, oferindu-vă liniștea sufletească de care aveți nevoie."
+              ]
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Contactați-ne astăzi pentru a obține o ofertă pentru transportul autoturismelor!",
+          "messages": [
+            "Dacă aveți nevoie de mai multe informații despre serviciile noastre sau dacă aveți cerințe speciale, vă rugăm să ne contactați.",
+            "Echipa noastră de profesioniști este întotdeauna gata să răspundă la întrebările dvs. și să vă ofere cele mai bune soluții de transport auto."
+          ],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "TransportInt": {
+        "Header": {
+          "section": "TRANSPORT MARFĂ RUTIER",
+          "title": "TRANSPORT INTERN ȘI INTERNAȚIONAL",
+          "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "Transport Intern și Extern pentru Toate Tipurile de Încărcături",
+          "paragraphs": [
+            "Flota noastră de vehicule este una dintre cele mai diversificate de pe piață, concepută pentru a satisface o gamă largă de nevoi în ceea ce privește transportul și logistica.",
+            "De la camioane de diferite dimensiuni, până la trailere agabaritice și camioane cu semiremorcă basculabilă, avem soluții pentru orice tip de încărcătură.",
+            "La Crystal Logistics Services, înțelegem complexitatea și diversitatea pieței de transport și logistica, iar gama variată de marfă pe care o gestionăm reflectă acest lucru."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_2": {
+          "title": "SIGURANȚA – PRIORITATEA NOASTRĂ NUMĂRUL UNU",
+          "paragraphs": [
+            "Siguranța transportului este un pilon fundamental pentru noi.",
+            "Fiecare vehicul din flota noastră este bine întreținut, verificat regulat și condus de echipaje experimentate, garantând astfel că mărfurile dvs. ajung la destinație în cele mai bune condiții."
+          ]
+        },
+
+        "Subservices": {
+          "eyebrow": "SUBSERVICII",
+          "title": "FLOTA NOASTRĂ",
+          "intro": "",
+          "ctaLabel": "VEZI MAI MULT",
+          "items": {
+            "fleetMini": {
+              "title": "FLOTĂ UȘOARĂ",
+              "description": "Alege din mai multe vehicule compacte — ideal pentru distribuție urbană și livrări rapide.",
+              "groupedItems": {
+                "sprinter": {
+                  "title": "Sprinter Prelată/Carosat (MMA 3.5TO)",
+                  "description": "Acest vehicul compact, dar puternic, este ideal pentru transportul de mărfuri generale, cum ar fi colete sau bunuri de consum. Cu o capacitate de încărcare de 3.5 tone, acest vehicul este perfect pentru livrări rapide în zonele urbane sau pe distanțe mai scurte. Deținem licențe de transport pentru 3.5 tone.",
+                  "imageAlt": "Flotă de sprintere aliniate",
+                  "href": ""
+                },
+                "van75": {
+                  "title": "Camionetă Prelată/Carosată (MMA 7.5TO)",
+                  "description": "Un vehicul cu o capacitate mai mare, potrivit pentru transportul de mărfuri mai grele sau mai voluminoase. Acesta poate transporta o varietate de mărfuri, de la echipamente industriale la materiale de construcție. Avantajul acestui tip de vehicul este capacitatea sa de a intra în zone mai greu accesibile și de a efectua livrări eficiente pe distanțe medii.",
+                  "imageAlt": "Camionetă 7.5t",
+                  "href": ""
+                },
+                "van10": {
+                  "title": "Camion Prelată/Carosat (MMA 7.5-40TO)",
+                  "description": "Este veriga cea mai puternică din lanțul nostru de vehicule. Cu o capacitate de încărcare de până la 40 de tone, acest camion este destinat transportului de mărfuri grele și voluminoase pe distanțe lungi. Datorită dimensiunilor sale, acesta poate transporta mărfuri agabaritice, vrac sau containere, în condiții de maximă siguranță.",
+                  "imageAlt": "Van 10t",
+                  "href": ""
+                }
+              }
+            },
+            "marfa_generala": {
+              "title": "Marfă generală",
+              "description": "Mărfurile generale includ acele produse care nu se supun unor regimuri speciale de transport. Fie că este vorba de electronice, textile, produse alimentare sau orice alt bun care nu necesită condiții specifice, ne asigurăm că fiecare articol ajunge la destinație în perfectă stare.",
+              "imageAlt": "Paleți cu marfă într-un depozit",
+              "href": ""
+            },
+            "agabaritic": {
+              "title": "Trailer Agabaritic",
+              "description": "În lumea transportului și logisticii, trailerele agabaritice sunt elemente-cheie în realizarea unor operațiuni complexe. Noi utilizăm aceste trailere pentru a transporta marfuri care depășesc dimensiunile și greutățile standard. Fie că este vorba de utilaje masive, structuri industriale sau echipamente de mari dimensiuni, acestea sunt transportate cu cea mai mare siguranță și eficiență.Trailerele agabaritice folosite de noi sunt echipate cu cele mai recente echipamente de siguranță și au o construcție robustă pentru a asigura un transport sigur și eficient. Acestea pot fi adaptate pentru a se potrivi diferitelor tipuri de mărfuri, iar capacitatea lor de încărcare este impresionantă.",
+              "imageAlt": "Camion frigorific descărcând marfă la rampă",
+              "href": "/transport-marfa-rutier/transport-agabaritic"
+            },
+            "marafa_agabaritica": {
+              "title": "Marfă Agabaritică",
+              "description": "Prelucrarea marfurilor agabaritice începe cu o analiză minuțioasă a dimensiunilor și greutății acestora, pentru a se putea determina echipamentul necesar și traseul optim. Aceasta este urmată de pregătirea marfii pentru transport, o etapă care include ambalarea și securizarea acesteia în vederea transportului. Transportul propriu-zis este realizat cu ajutorul unor echipamente și vehicule speciale, capabile să suporte greutăți mari și să gestioneze dimensiuni impresionante. În cazul în care traseul necesită trecerea prin zone cu acces dificil, se pot utiliza chiar și convoaie speciale. În final, marfa este livrată la destinație, conform legislației pentru transportul agabaritic, unde este descărcată cu ajutorul echipamentelor corespunzătoare.",
+              "imageAlt": "Trailer agabaritic încărcat cu utilaj greu",
+              "href": "/transport-marfa-rutier/transport-agabaritic"
+            },
+            "camion_cu_semiremorca_basculabila": {
+              "title": "Camion cu Semiremorcă Basculabilă",
+              "description": "Acestea sunt ideale pentru transportul de materiale solide precum nisip, cereale sau deșeuri, datorită concepției lor specializate care permite descărcarea rapidă și eficientă a mărfurilor. Astfel, aceste camioane devin o soluție practică și eficientă pentru diverse sarcini de transport.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-cu-camion-basculabil"
+            },
+            "marfa_vrac_basculanta": {
+              "title": "Marfă Vrac – Basculantă",
+              "description": "Transportul mărfii vrac cu basculanta este folosit în special pentru transportul de produse solide, cum ar fi cereale, minerale sau alte materiale de construcție. Aceasta poate transporta cantități mari de marfă într-o singură cursă. În plus, procesul de descărcare este extrem de rapid, reducând astfel timpul necesar pentru descărcare și încărcare.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-cu-camion-basculabil"
+            },
+            "sasiu_container": {
+              "title": "Șasiu Container",
+              "description": "Șasiul container este o piesă esențială în industria transporturilor, asigurând o soluție eficientă și sigură pentru transportul de marfă în containere. Acesta este construit pentru a rezista la încărcăturile grele, cu o capacitate de încărcare care variază în funcție de modelul șasiului.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-container-rutier"
+            },
+            "containere": {
+              "title": "Containere",
+              "description": "Transportul containerizat este esențial pentru multe dintre operațiunile comerciale moderne. La Crystal Logistics Services, înțelegem importanța transportului containerizat și ne-am specializat în gestionarea acestui tip de serviciu. Fie că vorbim de containere standard de 20 sau 40 de picioare, sau de cele cu specificații speciale – cum ar fi cele pentru transportul de mărfuri periculoase sau frigorifice – echipa noastră de profesioniști este pregătită să gestioneze orice tip de container.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-container-rutier"
+            },
+            "cisterna_pentru_lichide": {
+              "title": "Cisternă pentru Lichide",
+              "description": "Transportul de lichide reprezintă o ramură specifică a industriei de transport, care necesită o atenție deosebită și o abordare specializată. Fie că este vorba de alimente, substanțe chimice sau alte fluide, acest tip de transport cere precauție și precizie ridicate. Crystal Logistics Services, prin intermediul cisternelor special echipate, asigură un transport etanș și sigur, esențial pentru păstrarea integrității și calității lichidelor transportate.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-cu-cisterna"
+            },
+            "marafa_lichida_cisterna": {
+              "title": "Marfă Lichidă – Cisternă",
+              "description": "La Crystal Logistics Services, înțelegem complexitatea și sensibilitatea transportului de mărfuri lichide. Acestea variază de la produse alimentare, cum ar fi vinul sau uleiul, până la substanțe chimice sau petroliere. Fiecare dintre acestea necesită un nivel diferit de atenție și pregătire, însă noi asigurăm transportul lichidelor în containere sigure și specializate.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-cu-cisterna"
+            },
+            "platforma_pentru_transport_autoturisme": {
+              "title": "Platformă pentru Transportul de Autoturisme",
+              "description": "Oferim soluții eficiente pentru transportul individual sau în loturi de autoturisme. Indiferent dacă aveți nevoie să transportați un singur autovehicul sau un lot întreg, platformele noastre sunt gata să răspundă cerințelor dumneavoastră. Eficiența și rentabilitatea sunt două dintre principalele noastre preocupări, astfel încât să puteți economisi timp și bani, fără a compromite siguranța sau integritatea vehiculelor.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-autoturisme"
+            },
+            "autoturisme_platforma_pentru_auto": {
+              "title": "Autoturisme – Platformă pentru AUTO",
+              "description": "Transportul autoturismelor este un proces complex care necesită o atenție deosebită la fiecare etapă, de la încărcare până la descărcare. La Crystal Logistics Services, folosim platforme specializate pentru transportul auto, care asigură o fixare sigură a vehiculelor pentru a preveni orice mișcare în timpul transportului. Astfel, vehiculele ajung la destinație în aceeași condiție în care au fost predate.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-autoturisme"
+            },
+            "camion_pentru_marfuri_periculoase": {
+              "title": "Camion pentru mărfuri periculoase",
+              "description": "Când vorbim despre marfuri periculoase, ne referim la acele materiale sau substanțe ale căror proprietăți pot pune în pericol sănătatea și securitatea oamenilor, precum și a mediului înconjurător în timpul transportului. Transportul acestor marfuri este reglementat prin regulamentul ADR – un set de norme internaționale care stabilesc cerințele specifice pentru ambalarea, etichetarea și transportul acestor tipuri de marfuri.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-marfa-rutier/transport-adr"
+            },
+            "marfa_periculoasa_adr": {
+              "title": "Marfă Periculoasă (ADR)",
+              "description": "Transportul de mărfuri periculoase presupune o atenție sporită și un nivel înalt de expertiză. La Crystal Logistics Services, respectăm cu strictețe reglementările internaționale în vigoare. Ne asigurăm că fiecare produs este ambalat corespunzător, etichetat corect și transportat în condiții de maximă siguranță. Implementăm proceduri stricte și utilizăm echipamente speciale pentru a ne proteja atât angajații, cât și mărfurile transportate.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-marfa-rutier/transport-adr"
+            },
+            "camion_frigorific_frigo": {
+              "title": "Camion Frigorific (FRIGO)",
+              "description": "În lumea transportului și logisticii, adaptabilitatea flotei este un aspect esențial. La Crystal Logistics Services, am luat în considerare acest aspect și ne-am echipat camioanele cu tehnologia de refrigerare de ultimă generație pentru a putea transporta marfuri refrigerate sau congelate. Astfel, reușim să ne adaptăm la cerințele fiecărei comenzi, reglând temperatura în funcție de specificul încărcăturii. Acest lucru ne permite să oferim soluții personalizate pentru fiecare client, asigurându-ne că marfa ajunge la destinație în condiții optime.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-marfa-rutier/transport-frigo"
+            },
+            "marfa_frigorifica_frigo": {
+              "title": "Marfă Frigorifică/Congelată (FRIGO)",
+              "description": "Vehiculele noastre specializate pentru transportul mărfurilor frigorifice sunt dotate cu tehnologie de izolare termică superioară și sisteme performante de control al temperaturii. Astfel, transportăm carne și produse din carne, produse lactate, fructe, legume, produse de patiserie, ouă, băuturi și altele în condiții excelente, în funcție de cerințele fiecărei încărcături.",
+              "imageAlt": "Curier încărcând colet",
+              "href": "/transport-marfa-rutier/transport-frigo"
+            }
+          }
+        },
+
+        "highlight": {
+          "eyebrow": "TRANSPORT INTERN ȘI INTERNAȚIONAL",
+          "title": "OPȚIUNI DE TRANSPORT",
+          "items": {
+            "card1": {
+              "title": "Camion Complet - FTL",
+              "description": "FTL reprezintă alegerea ideală atunci când aveți un volum mare de marfă care trebuie livrată rapid și eficient. În acest caz, camionul este dedicat exclusiv încărcăturii dvs. Pentru acest tip de transporturi turiere, oferim un traseu optimizat și o livrare fără întârziere."
+            },
+            "card2": {
+              "title": "Regim de Grupaj - LTL",
+              "description": "Serviciul LTL este conceput pentru transportul de mărfuri de volum mai mic, care nu ocupă întreaga capacitate a unui camion. Combinând mărfuri de la mai mulți clienți, ne asigurăm că beneficiați de un preț avantajos și de o livrare în timp util. Casa de expediții transport marfă Crystal Logistics Services oferă servicii de transport de încredere, conectând companiile cu soluții eficiente pentru transportul mărfurilor pe distanțe rutiere prin intermediul serviciului de cotație instant."
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Aveți nevoie de un transport eficient și convenabil?",
+          "messages": [
+            "Alegeți Crystal Logistics Services pentru o gamă largă de soluții de transport adaptate nevoilor dumneavoastră! Oferim transport rutier de mărfuri, transport frigorific, transport LTL, transport marfă vrac și multe altele.",
+            "Contactați-ne astăzi pentru a afla mai multe despre tarifele noastre de transport rutier și despre serviciile de intermediere transport marfă!"
+          ],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "Transportatori": {
+        "Header": {
+          "section": "CASĂ DE EXPEDIȚIE DEDICATĂ TRANSPORTATORILOR",
+          "title": "TRANSPORTATORI",
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "Casă de Expediție dedicată transportatorilor",
+          "paragraphs": [
+            "Îți dorești să valorifici la maximum potențialul flotei tale?",
+            "La Crystal Logistics Services, oferim soluții de transport complete, atât pentru colaborări de tip spot, cât și contracte pe termen lung, plătite la kilometru.",
+            "Suntem partenerul de încredere care îți asigură constanță, flexibilitate și profitabilitate!"
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+
+        "section_2": {
+          "title": "De ce să alegi Crystal Logistics Services pentru parteneriatul tău în transporturi?",
+          "paragraphs": [
+            "Crystal Logistics Services este mai mult decât o casă de expediție – suntem partenerul de care ai nevoie pentru a-ți duce afacerea de transport la următorul nivel.",
+            "Cu o echipă experimentată și un portofoliu vast de clienți, îți punem la dispoziție soluții personalizate pentru nevoile tale operaționale.",
+            "Fie că ești în căutarea de mărfuri spot, fie că vrei să închei un contract pe termen lung, la kilometru, noi suntem soluția ta de încredere."
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+
+        "Accordion": {
+          "title": "Beneficiile colaborării cu Crystal Logistics Services",
+          "intro": "Descoperă de ce tot mai mulți transportatori aleg Crystal Logistics pentru a-și crește eficiența și veniturile. Alătură-te nouă și bucură-te de avantajele unui parteneriat solid.",
+          "items": {
+            "class1": {
+              "title": "Acces la mii de mărfuri, în fiecare zi",
+              "short": "",
+              "paragraphs": [
+                "Indiferent de dimensiunea flotei tale, la Crystal Logistics vei găsi întotdeauna încărcături disponibile. Rețeaua noastră vastă de clienți ne permite să-ți oferim oportunități constante de transport, atât pe plan intern, cât și pe Comunitate. Fiecare zi aduce noi oportunități de colaborare pentru transporturi profitabile, indiferent de tipul de marfă sau de destinație.",
+                "Ofertele noastre de mărfuri sunt actualizate în timp real, astfel încât să poți lua decizii rapide și să îți menții camioanele în mișcare. Mai mult, nu doar că îți oferim acces la mii de mărfuri, dar îți punem la dispoziție și echipele noastre dedicate care îți vor oferi suport continuu în realizarea fiecărui transport."
+              ],
+              "listItems": [""]
+            },
+
+            "class2": {
+              "title": "Contracte de colaborare tractionist pe termen lung, plătite la kilometru",
+              "short": "",
+              "paragraphs": [
+                "Dacă ești în căutarea unei stabilități financiare și a unei colaborări pe termen lung, contractele de tip tractionist sunt soluția ideală pentru tine. La Crystal Logistics, îți garantăm un număr minim de kilometri lunar, ceea ce înseamnă venituri constante și predictibile pentru afacerea ta.",
+                "Acest tip de contract îți oferă flexibilitate în alegerea traseelor și a tipului de transport – fie că este vorba de transport intern, curse Tur-Retur, sau transport pe Comunitate, noi îți asigurăm încărcături constante și plăți rapide pentru fiecare kilometru parcurs."
+              ],
+              "listItems": [""]
+            },
+
+            "class3": {
+              "title": "Plăți rapide și garantate",
+              "short": "",
+              "paragraphs": [
+                "Unul dintre cele mai mari beneficii pe care le oferim transportatorilor noștri parteneri este plata promptă și garantată. Înțelegem cât de important este pentru afacerea ta să ai un cash flow constant, iar noi ne angajăm să asigurăm acest lucru prin termene de plată rapide și eficiente.",
+                "La Crystal Logistics, poți conta pe noi pentru plăți punctuale, indiferent de tipul de contract ales. Ne ocupăm de toate aspectele administrative, astfel încât tu să te poți concentra pe ceea ce contează cel mai mult – operarea eficientă a flotei tale."
+              ],
+              "listItems": [""]
+            },
+
+            "class4": {
+              "title": "Beneficii suplimentare și decontări de cheltuieli",
+              "short": "",
+              "paragraphs": [
+                "În colaborarea cu Crystal Logistics Services, ai parte nu doar de plăți rapide și garantate, ci și de multiple beneficii suplimentare. Oferim bonusuri atractive pentru încărcări și descărcări suplimentare, ceea ce poate crește considerabil profitul pe fiecare cursă efectuată.",
+                "De asemenea, ne asigurăm că toate cheltuielile legate de taxe de drum, poduri, porturi și autorizări sunt decontate de noi, astfel încât să nu ai nicio grijă suplimentară în gestionarea costurilor operaționale"
+              ],
+              "listItems": [""]
+            },
+
+            "class5": {
+              "title": "Închiriere de semi-remorci pentru flexibilitate sporită",
+              "short": "",
+              "paragraphs": [
+                "Extinderea flotei poate fi un proces costisitor, dar la Crystal Logistics Services îți oferim o alternativă eficientă – posibilitatea de a închiria semi-remorci atunci când ai nevoie. Astfel, vei putea răspunde rapid la cererea de pe piață fără să faci investiții majore inițiale.",
+                "Indiferent dacă ai nevoie de semi-remorci standard, mega sau frigo, noi îți punem la dispoziție soluții flexibile și eficiente care te vor ajuta să onorezi toate comenzile, crescându-ți astfel capacitatea de transport."
+              ],
+              "listItems": [""]
+            },
+
+            "class6": {
+              "title": "Asistență dedicată 24/7 și dispecerat profesional",
+              "short": "",
+              "paragraphs": [
+                "Nu doar că îți oferim acces la mii de mărfuri și contracte avantajoase, dar îți suntem alături pe toată durata transporturilor, asigurându-ne că toate cursele se desfășoară fără probleme. Echipa noastră de dispeceri este disponibilă 24/7 pentru a te ajuta cu orice problemă sau întrebare legată de transport.",
+                "Fie că întâmpini dificultăți pe traseu, fie că ai nevoie de soluții rapide pentru orice situație neprevăzută, dispecerii noștri experimentați sunt întotdeauna pregătiți să intervină și să îți ofere suportul necesar."
+              ],
+              "listItems": [""]
+            },
+
+            "class7": {
+              "title": "Carduri de motorină – soluții eficiente pentru reducerea costurilor",
+              "short": "",
+              "paragraphs": [
+                "Reducerea cheltuielilor operaționale este o prioritate pentru fiecare transportator, iar Crystal Logistics Services te ajută în acest sens prin oferirea de carduri de motorină. Acestea îți permit să achiziționezi combustibil la prețuri preferențiale, reducând astfel costurile pe care le ai cu fiecare cursă.",
+                "Prin utilizarea cardurilor noastre de motorină, îți vei putea optimiza cheltuielile și vei crește profitabilitatea pe termen lung."
+              ],
+              "listItems": [""]
+            },
+
+            "class8": {
+              "title": "Flexibilitate în alegerea tipului de transport",
+              "short": "",
+              "paragraphs": [
+                "Un alt avantaj major pe care îl oferim este flexibilitatea în alegerea tipului de transport. Fie că preferi cursele de tip Tur-Retur, fie că vrei să operezi pe Comunitate sau intern, la Crystal Logistics Services îți oferim opțiuni variate și personalizate.",
+                "Această flexibilitate îți permite să ajustezi activitatea flotei tale în funcție de cerințele pieței și de capacitatea ta operațională, astfel încât să maximizezi eficiența și să crești veniturile."
+              ],
+              "listItems": [""]
+            }
+          }
+        },
+
+        "Accordion2": {
+          "title": "Cum funcționează contractul de colaborare cu Crystal Logistics Services?",
+          "intro": "La Crystal Logistics, oferim transportatorilor flexibilitatea de a alege tipul de contract care li se potrivește cel mai bine, în funcție de preferințe și de obiectivele afacerii lor. Avem trei variante de colaborare, fiecare cu avantaje specifice și beneficii clare, pentru a asigura stabilitate financiară și venituri constante.",
+          "items": {
+            "class_a": {
+              "title": "1. Tur-Retur (Import-Export) – Colaborare pe rute internaționale cu kilometri garantați",
+              "short": "Transporturile de tip Tur-Retur implică curse internaționale în care camioanele tale se vor deplasa între România și diverse țări din Uniunea Europeană, dar și în afara ei. Aceste rute sunt ideale pentru cei care doresc să obțină o combinație între curse internaționale și naționale, cu avantaje semnificative:",
+              "paragraphs": [
+                "Destinații incluse",
+                "Kilometri garantați:",
+                "Plăți rapide:",
+                "Beneficii adiționale:"
+              ],
+              "listItems": [
+                "majoritatea țărilor din UE, precum Germania, Franța, Italia, Spania, Olanda, Belgia, Austria, Ungaria, Bulgaria, Grecia, Polonia, Cehia, Slovacia, Croația, Slovenia, dar și țări non-UE: Elveția (CH), Turcia (TR), Marea Britanie (GB), Norvegia (NO).",
+                "Asigurăm un număr minim de kilometri pentru fiecare lună, astfel încât să ai certitudinea că flota ta va avea venituri constante.",
+                "Beneficiezi de plăți garantate, rapide și fără întârzieri, astfel încât să ai o stabilitate financiară solidă.",
+                "Acces la mii de mărfuri, bonusuri pentru încărcări suplimentare și decontarea cheltuielilor operaționale (taxe de drum, poduri, porturi)."
+              ]
+            },
+
+            "class_b": {
+              "title": "2. Comunitate – Transporturi internaționale exclusive pe teritoriul european",
+              "short": "Colaborarea de tip Comunitate se adresează transportatorilor care doresc să opereze exclusiv pe rute internaționale, fără a reveni în România pentru o perioadă extinsă. Această opțiune este ideală pentru maximizarea câștigurilor și optimizarea operațiunilor.",
+              "paragraphs": [
+                "Durată colaborare:",
+                "Taxe de drum:",
+                "Cel mai mare câștig:",
+                "Stabilitate și securitate financiară:"
+              ],
+              "listItems": [
+                "2 luni de transporturi continue pe teritoriul Europei, acoperind multiple țări și destinații.",
+                "În cadrul acestui tip de contract, Crystal Logistics plătește separat toate taxele de drum aferente transporturilor, ceea ce îți reduce semnificativ costurile operaționale.",
+                "Colaborarea pe Comunitate oferă cel mai mare potențial de câștig, având în vedere numărul mare de kilometri parcurși și volumele constante de marfă transportate.",
+                "Pe lângă plățile rapide și sigure, îți oferim asistență permanentă și dispecerat disponibil 24/7, astfel încât să te poți concentra pe cursele tale fără griji."
+              ]
+            },
+
+            "class_c": {
+              "title": "3. Intern – Transport exclusiv național",
+              "short": "Pentru cei care doresc să opereze exclusiv pe plan național, colaborarea de tip Intern reprezintă cea mai simplă și eficientă soluție. Aceasta îți permite să te concentrezi pe rutele locale, acoperind cererea de transport pe întreg teritoriul României. ",
+              "paragraphs": [
+                "Stabilitate pe termen lung:",
+                "Costuri de operare reduse:",
+                "Soluții rapide și eficiente:"
+              ],
+              "listItems": [
+                "Oferim acces la mărfuri spot și contracte de transport național, asigurând curse regulate și venituri constante.",
+                "Fiind vorba de transport intern, costurile operaționale, inclusiv taxele de drum și cheltuielile suplimentare, sunt mai mici, ceea ce înseamnă un profit mai mare pentru fiecare cursă.",
+                "Prin rețeaua noastră extinsă de clienți din România, camioanele tale nu vor sta niciodată fără încărcătură. Asigurăm o planificare eficientă a curselor, astfel încât să optimizezi fiecare zi de operare."
+              ]
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Colaborează cu noi și descoperă soluțiile personalizate Crystal Logistics Services!",
+          "messages": [
+            "Îți dorești un parteneriat stabil și profitabil? La Crystal Logistics Services, suntem dedicați succesului tău."
+          ],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "Relocari": {
+        "Header": {
+          "section": "TRANSPORT MARFĂ RUTIER",
+          "title": "RELOCĂRI INTERNAȚIONALE",
+          "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "Mutări internaționale fără griji cu Crystal Logistics Services",
+          "paragraphs": [
+            "Cu Crystal Logistics Services, mutările internaționale nu mai reprezintă o provocare. Datorită echipei noastre experimentate, procesul de mutare devine mult mai simplu și mai eficient.",
+            "Personalul nostru calificat este bine instruit și are o vastă experiență în domeniul transportului și logisticii, astfel încât să vă poată asista în fiecare etapă a procesului de mutare.",
+            "Flota noastră modernă de vehicule este echipată cu cele mai recente tehnologii pentru a asigura un transport în siguranță și eficient. Indiferent dacă vă mutați la nivel internațional pentru afaceri, pentru oportunități noi sau pur și simplu pentru o schimbare de peisaj, suntem aici să vă ajutăm."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_2": {
+          "title": "Dispunem de logistica necesară completă",
+          "paragraphs": [
+            "Procesul nostru de mutare internațională este meticulos și bine organizat. Ne angajăm să vă oferim o experiență de relocare fără cusur. Cu resursele noastre logistice complete, suntem pregătiți să gestionăm orice mutare internațională cu succes."
+          ]
+        },
+
+        "section_3": {
+          "title": "Încărcarea Efectelor Personale",
+          "paragraphs": [
+            "Avem o echipă de profesioniști cu experiență în manipularea și încărcarea bunurilor.",
+            "La cerere, puteți beneficia de serviciile de încărcare și descărcare a mărfurilor.",
+            "Vă putem asigura că vă vom manipula bunurile cu atenție sporită pentru a preveni orice deteriorare."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_4": {
+          "title": "Depozitarea bunurilor",
+          "paragraphs": [
+            "La nevoie, vă oferim facilități de depozitare de top, concepute pentru a asigura securitatea și integritatea bunurilor dumneavoastră.",
+            "Depozitele noastre sunt prevăzute cu sisteme de securitate ultramoderne, iar condițiile de depozitare sunt controlate riguros pentru a menține parametrii optimi.",
+            "În plus, avem la dispoziție spații de depozitare de diferite dimensiuni, ceea ce ne permite să ne adaptăm la nevoile specifice ale fiecărui client."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_5": {
+          "title": "Transport Sigur",
+          "paragraphs": [
+            "La Crystal Logistics Services, ne mândrim cu flota noastră modernă și fiabilă.",
+            "Aceasta include o varietate de vehicule de transport, de la camioane de marfă la vehicule specializate pentru transportul mărfurilor fragile.",
+            "Fiecare vehicul este dotat cu tehnologie avansată de urmărire și comunicare, care ne permite să monitorizăm în timp real poziția și starea fiecărui transport."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_6": {
+          "title": "Descărcarea la Destinație",
+          "paragraphs": [
+            "Serviciul nostru de mutări internaționale include transportul bunurilor dumneavoastră.",
+            "La cerere, ne putem ocupa și de descărcarea acestora la destinație.",
+            "Procedura noastră de descărcare este concepută pentru a asigura că toate bunurile dumneavoastră ajung în siguranță la noua locație."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_7": {
+          "title": "Experți în relocări: vă ghidăm la fiecare pas",
+          "paragraphs": [
+            "Înțelegem că relocarea poate fi un proces complex și stresant, de aceea, oferim consiliere profesională pentru a asigura o tranziție lină și eficientă.",
+            "Consilierii noștri vă vor ghida încă de la început, oferindu-vă sfaturi și asistență în fiecare etapă a planificării.",
+            "Crystal Logistics este o casă de expediții pentru transportul de marfă internațional de încredere, cu o vastă experiență în organizarea și gestionarea relocărilor de orice complexitate."
+          ]
+        },
+
+        "section_8": {
+          "title": "Dedicare și Experiență",
+          "paragraphs": [
+            "Alegerea partenerului potrivit pentru relocarea dvs. internațională este o decizie importantă, iar Crystal Logistics are tot ce vă trebuie pentru a face acest proces simplu și eficient.",
+            "Înțelegem că mutarea este un moment stresant, de aceea am dezvoltat un sistem transparent care vă permite să înțelegeți fiecare etapă a procesului. Fie că este vorba de transport rutier, transport aerian, depozitare sau descărcare, detaliem toate serviciile pe care le oferim, astfel încât să puteți avea încredere că bunurile dvs. sunt pe mâini sigure."
+          ]
+        },
+        "section_9": {
+          "title": "Mutări internaționale mai rapide și mai eficiente cu Crystal Logistics Services",
+          "paragraphs": [
+            "Suntem alături de dumneavoastră la fiecare pas al procesului de relocare internațională, indiferent dacă vă mutați la mii de kilometri distanță sau doar la câteva frontiere.",
+            "Avem experiența, cunoștințele și resursele necesare pentru a face fiecare mutare o experiență pozitivă.",
+            "Alegeți eficiența, alegeți calitatea, alegeți Crystal Logistics Services!"
+          ]
+        },
+
+        "Accordion": {
+          "title": "Etapele unei mutări internaționale reușite",
+          "intro": "",
+          "items": {
+            "class1": {
+              "title": "1. Procesul de cotare",
+              "short": "",
+              "paragraphs": [
+                "Acest proces implică evaluarea și stabilirea costului de transport al bunurilor dumneavoastră. Se iau în considerare factori precum distanța, greutatea și volumul bunurilor, precum și orice cerințe speciale pe care le aveți.",
+                "Acest proces este esențial pentru a vă oferi un cost estimativ realist și transparent."
+              ],
+              "listItems": [""]
+            },
+
+            "class2": {
+              "title": "2. Planificarea și coordonarea",
+              "short": "",
+              "paragraphs": [
+                "Această etapă implică organizarea detaliilor logistice ale mutării. Crystal Logistics Services vă poate ajuta cu planificarea atentă și coordonarea eficientă pentru a asigura o mutare fără probleme."
+              ],
+              "listItems": []
+            },
+
+            "class3": {
+              "title": "3. Împachetarea bunurilor",
+              "short": "",
+              "paragraphs": [
+                "Acest pas este esențial pentru a ne asigura că bunurile dumneavoastră ajung în siguranță la destinație."
+              ],
+              "listItems": [""]
+            },
+
+            "class4": {
+              "title": "4. Transportul",
+              "short": "",
+              "paragraphs": [
+                "Acesta este punctul central al mutării dumneavoastră internaționale. Vă vom informa despre timpul de tranzit estimat și despre cum sunt gestionate eventualele probleme sau întârzieri."
+              ],
+              "listItems": []
+            },
+
+            "class5": {
+              "title": "5. Descărcarea",
+              "short": "",
+              "paragraphs": [
+                "Ultima etapă este descărcarea și instalarea în noul loc."
+              ],
+              "listItems": [""]
+            }
+          }
+        }
+      },
+      "AlteServicii": {
+        "Header": {
+          "section": "CRYSTAL LOGISTICS SERVICES",
+          "title": "ALTE SERVICII",
+          "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+        },
+
+        "section_1": {
+          "title": "Depozitare și Manipulare",
+          "paragraphs": [
+            "Colaborăm cu o rețea extinsă de parteneri pentru a oferi soluții integrate de depozitare și manipulare. Înțelegem că fiecare dintre clienții noștri are nevoi unice și specificul afacerii lor poate necesita o abordare specializată. Prin urmare, ne-am construit rețeaua de parteneri cu grijă, pentru a ne asigura că putem satisface o gamă largă de cerințe.",
+            "Depozitele partenerilor noștri sunt echipate cu cele mai recente tehnologii, asigurându-vă că produsele dvs. sunt păstrate în condiții optime. Serviciile de manipulare sunt efectuate de specialiști calificați, garantând manipularea corespunzătoare și livrarea în siguranță a mărfurilor dvs.",
+            "Astfel, indiferent de tipul mărfii – de la produse perisabile, la echipamente tehnologice sau materiale de construcție – putem asigura manipularea adecvată, fără a compromite integritatea produsului."
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+
+        "section_2": {
+          "title": "Asigurări Marfă",
+          "paragraphs": [
+            "Înțelegem că fiecare afacere este unică și are nevoi specifice. De aceea, în colaborare cu rețeaua noastră de parteneri specializați, oferim servicii personalizate de asigurare a mărfurilor, pentru a se potrivi perfect cu cerințele dumneavoastră.",
+            "Fie că vorbim despre asigurări pentru diverse tipuri de mărfuri, pentru transporturi interne sau internaționale sau pentru mărfuri periculoase, suntem aici pentru a vă oferi soluția potrivită.",
+            "Scopul nostru este să vă protejăm investiția și să vă oferim liniștea sufletească necesară, știind că mărfurile dvs. sunt acoperite în fața unor evenimente neprevăzute."
+          ],
+          "alt": "asigurari marfa"
+        },
+
+        "section_3": {
+          "title": "Prestații Vamale",
+          "paragraphs": [
+            "Procedurile vamale pot fi complexe și stresante, implicând o serie de reglementări și taxe care trebuie respectate cu strictețe pentru a asigura un transport legal și eficient al mărfurilor.",
+            "Crystal Logistics vă oferă soluția completă de gestionare a procedurilor vamale, simplificând acest proces și eliminând grija documentației. Oferim consultanță pentru întocmirea corectă a declarațiilor vamale de import/export, de tranzite și de orice alte documente necesare.",
+            "Cu ajutorul partenerilor noștri specializați, ne asigurăm că mărfurile dvs. tranzitează rapid și fără impedimente. Avem în vedere atât transportul de marfă, cât și întreaga legislație pentru transportul mărfii, asigurându-ne că fiecare aspect este acoperit."
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+
+        "section_4": {
+          "title": "ASISTENȚĂ LA ÎNCĂRCARE ȘI DESCĂRCARE",
+          "paragraphs": [
+            "Ne ocupăm de încărcarea eficientă și sigură a bunurilor dumneavoastră, fie că este vorba de mobilă, aparate electrocasnice, cutii sau alte mărfuri.",
+            "Transportăm cu grijă bunurile dumneavoastră la locația dorită și le descărcăm cu atenție, asigurând integritatea lor."
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+
+        "cards": {
+          "items": {
+            "title": "Metode de încărcare și descărcare:",
+            "description": "",
+            "card1": {
+              "title": "MANUAL",
+              "short": "",
+              "descriptions": [
+                "echipa noastră va manipula manual bunurile dumneavoastră"
+              ]
+            },
+            "card2": {
+              "title": "CU LIFT",
+              "descriptions": [
+                "utilizăm liftul clădirii pentru a transporta bunurile dumneavoastră rapid și eficient la etajul dorit"
+              ]
+            },
+            "card3": {
+              "title": "CU MACARA",
+              "short": "",
+              "descriptions": [
+                "folosim macara pentru a ridica și coborî bunurile voluminoase sau grele, asigurând o manipulare sigură"
+              ]
+            },
+            "card4": {
+              "title": "CU STIVUITOR",
+              "short": "",
+              "descriptions": [
+                "stivuitorul este ideal pentru a transporta bunurile paletizate sau stivuite, economisind timp și efort."
+              ]
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Crystal Logistics Services: partenerul dumneavoastră strategic pentru o logistică eficientă",
+          "messages": [
+            "Companiile care aleg să colaboreze cu noi beneficiază de servicii de înaltă calitate, personalizate pe nevoile lor specifice, și de un partener de încredere, dedicat succesului lor pe termen lung.",
+            "Contactați-ne pentru mai multe detalii!"
+          ],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      },
+      "Armament": {
+        "Header": {
+          "section": "TRANSPORT MARFĂ RUTIER",
+          "title": "TRANSPORT ARMAMENT",
+          "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "TRANSPORT MILITAR INTERNAȚIONAL ȘI CARGO STRATEGIC",
+          "paragraphs": [
+            "Oferim soluții sigure și conforme pentru transportul militar internațional al echipamentelor militare, armamentului, tehnicii militare, vehiculelor blindate și al altor încărcături strategice – inclusiv produse cu dublă utilizare, materiale periculoase, muniții, explozibili și echipamente clasificate – oriunde în Europa.",
+            "Asigurăm livrări sigure, consultanță ADR, servicii vamale specializate, depozitare militară securizată și suport complet pentru orice tip de transport logistic special sau transport cargo militar.",
+            "Crystal Logistics Services oferă servicii specializate de transport militar, adaptate celor mai exigente standarde. Cu o rețea logistică extinsă și parteneri autorizați, asigurăm transporturi sigure și conforme cu legislația internațională în vigoare."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_2": {
+          "title": "DE CE SĂ NE ALEGI?",
+          "paragraphs": [
+            "Indiferent de natura încărcăturii, oferim soluții logistice complete pentru produse strategice și echipamente militare:",
+            "Parteneriatele noastre includ structuri din industria de apărare, producători, importatori și autorități publice, iar experiența noastră extinsă în transport logistic special și transport cargo militar garantează livrări sigure, la timp și în deplină conformitate cu toate protocoalele naționale și internaționale.",
+            "Indiferent de natura încărcăturii – armament, echipamente tactice, vehicule blindate, echipamente militare, tehnică militară, echipamente clasificate, componente sensibile, produse strategice, produse cu dublă utilizare, materiale periculoase, muniții sau explozibili – oferim soluții logistice complete de transport militar și transport militar internațional, conforme cu cele mai stricte reglementări europene și NATO."
+          ],
+          "alt": "Crystal Logistics Services",
+          "listItems": [""]
+        },
+
+        "section_3": {
+          "title": "Transport Militar Internațional și Soluții Logistice Specializate",
+          "paragraphs": [
+            "Crystal Logistics Services este partenerul tău de încredere pentru transport militar internațional și logistică militară specializată.",
+            "Suntem experți în gestionarea transportului militar de echipamente militare, armament, muniții, tehnică militară, vehicule blindate și produse cu dublă utilizare. Cu o echipă de profesioniști și o rețea logistică extinsă, Crystal Logistics Services asigură transporturi sigure și conforme cu reglementările internaționale în vigoare, respectând toate cerințele legale pentru materiale periculoase, inclusiv ADR Clasa 1 și explozibili.",
+            "În cadrul logisticii militare, oferim soluții complete pentru transportul armamentului și echipamentelor militare, inclusiv vehicule blindate, tancuri, mașini blindate, tunuri autopropulsate și drone de apărare. Fiecare transport este monitorizat 24/7 și gestionat în condiții de maximă siguranță, pentru a garanta livrări sigure și conforme cu reglementările internaționale. Ne asigurăm că echipamentele militare sunt protejate în timpul transportului și livrării, folosind cele mai avansate soluții de depozitare militară și soluții multimodale pentru a acoperi toate nevoile logistice ale clienților noștri."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "section_4": {
+          "title": "Servicii Avansate de Transport Militar pentru Echipamente Sensibile",
+          "paragraphs": [
+            "Suntem autorizați pentru manipularea și transportul militar al mărfurilor sensibile, inclusiv echipamente clasificate, produse cu dublă utilizare, materiale periculoase, explozibili, muniții, armament și alte produse strategice destinate industriei de apărare. Oferim servicii specializate de transport militar internațional, în conformitate cu standardele NATO, UE și legislația internațională în vigoare.",
+            "Asigurăm transport cargo militar door-to-door, utilizând soluții multimodale și o flotă adaptată pentru tehnică militară, echipamente militare și vehicule blindate, alături de escortă autorizată, consultanță ADR, asistență documentară, servicii vamale și suport dedicat în relația cu autoritățile naționale și internaționale.",
+            "Gestionăm cu precizie livrări către baze militare, zone strategice, facilități de producție cu regim special și alte locații sensibile, oferind inclusiv depozitare militară securizată pentru toate tipurile de echipamente, inclusiv echipamente tactice și componente clasificate. Respectăm cele mai înalte standarde de confidențialitate, securitate operațională și transport logistic special, oferind clienților noștri livrări sigure, rapide și conforme, indiferent de complexitatea misiunii."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+
+        "cards": {
+          "title": "SOLUȚII LOGISTICE MILITARE COMPLETE",
+          "items": {
+            "card1": {
+              "title": "Transport armament și muniții",
+              "descriptions": [
+                "în condiții de maximă siguranță și confidențialitate"
+              ]
+            },
+            "card2": {
+              "title": "Transport ADR – Clasa 1",
+              "descriptions": ["pentru explozibili și materiale periculoase"]
+            },
+            "card3": {
+              "title": "Transport vehicule militare",
+              "descriptions": ["tancuri, blindate și tehnică special"]
+            },
+            "card4": {
+              "title": "Transport echipamente electronice și drone",
+              "descriptions": ["inclusiv radare și senzori clasificați"]
+            },
+            "card5": {
+              "title": "Transport produse cu dublă utilizare",
+              "descriptions": [
+                "reglementate de legislația UE privind exportul controlat"
+              ]
+            },
+            "card6": {
+              "title": "Depozitare militară securizată ",
+              "descriptions": ["cu regim vamal sau de tranzit internațional"]
+            }
+          }
+        },
+
+        "highlight": {
+          "eyebrow": "TRANSPORT ARMAMENT",
+          "title": "DE CE SĂ ALEGI CRYSTAL LOGISTICS SERVICES PENTRU TRANSPORTUL DE ARMAMENT?",
+          "description": "",
+          "items": {
+            "card1": {
+              "title": "Expertiză în Transportul Militar",
+              "description": "Suntem specializați în transportul de armament, muniții, vehicule blindate și echipamente militare."
+            },
+            "card2": {
+              "title": "Soluții Logistice Multimodale",
+              "description": "Oferim transport rutier, maritim, aerian și feroviar pentru livrări rapide și sigure."
+            },
+            "card3": {
+              "title": "Conformitate cu Reglementările Internaționale",
+              "description": "Respectăm ADR Clasa 1 și reglementările pentru materiale periculoase."
+            },
+            "card4": {
+              "title": "Monitorizare 24/7",
+              "description": "Urmărim fiecare transport pentru trasabilitate completă și siguranță maximă."
+            },
+            "card5": {
+              "title": "Depozitare Militară Securizată",
+              "description": "Protejăm produse strategice și armament în depozite sigure, conforme cu standardele internaționale."
+            },
+            "card6": {
+              "title": "Consultanță ADR și Servicii Vamale",
+              "description": "Oferim consultanță pentru mărfuri periculoase și gestionăm formalitățile vămale."
+            },
+            "card7": {
+              "title": "Parteneriate Solide",
+              "description": "Colaborăm cu autorități și organizații NATO, livrând în peste 300 de locații globale."
+            },
+            "card8": {
+              "title": "Confidențialitate și securitate operațională",
+              "description": "Tratăm fiecare transport cu cel mai înalt nivel de discreție. Respectăm proceduri stricte de securitate și protejăm informațiile sensibile din toate etapele logistice."
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Aveți nevoie de un transport eficient și convenabil?",
+          "messages": [
+            "Contactați-ne astăzi pentru a afla mai multe despre tarifele noastre de transport rutier și despre serviciile de intermediere transport marfă!"
+          ],
+          "buttonLabel": "CONTACTAȚI-NE"
+        }
+      }
+    },
+    "Feroviar": {
+      "Header": {
+        "section": "",
+        "title": "TRANSPORT FEROVIAR DE MARFĂ",
+        "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+      },
+
+      "section_1": {
+        "title": "Soluții Personalizate pentru Nevoile Tale",
+        "paragraphs": [
+          "Industria feroviară a cunoscut o dezvoltare semnificativă în ultimii ani, atingând noi niveluri de eficiență și economie. La Crystal Logistics, ne mândrim cu relațiile noastre de durată cu operatorii feroviari.",
+          "Acestea, împreună cu experiența noastră vastă în transportul național și internațional de marfă, ne permit să oferim soluții de transport deosebit de eficiente.",
+          "Avem capacitatea de a ne adapta la nevoile dvs. specifice și de a vă oferi cele mai bune opțiuni pentru transportul de marfă."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+
+      "section_2": {
+        "title": "Beneficiile transportului feroviar",
+        "paragraphs": [""],
+        "alt": "Crystal Logistics Services",
+        "listItems": [
+          "Transportul feroviar de marfă are un impact redus asupra mediului. Trenurile emit mai puține gaze cu efect de seră și poluanți atmosferici per unitate de marfă transportată, făcându-le o alegere mai ecologică.",
+          "Trenurile pot transporta un număr mare de unități de marfă pe distanțe lungi cu o eficiență energetică semnificativ mai mare decât alte metode de transport.",
+          "Transportul feroviar este unul dintre cele mai sigure moduri de transport, cu accidente extrem de rare.",
+          "Livrarea unui container pe calea ferată poate fi mult mai economică decât cu alte metode de transport, în special pe distanțe lungi.",
+          "Infrastructura solidă a căii ferate asigură, în plus, un timp de tranzit mai scurt. Transportul feroviar beneficiază de o rețea extinsă de rute, ceea ce înseamnă că mărfurile dvs. pot ajunge mai repede la destinație."
+        ]
+      },
+
+      "Accordion": {
+        "title": "De ce să alegeți CLS pentru transportul de marfă pe calea ferată?",
+        "intro": "",
+        "items": {
+          "class1": {
+            "title": "Peste 1.500 de clienți mulțumiți",
+            "short": "",
+            "paragraphs": [
+              "Ne mândrim cu cei peste 1.500 de clienți mulțumiți care au recurs la serviciile noastre de transport de marfă.",
+              "Aceste cifre nu sunt doar numere, ci reprezintă povești de succes, probleme rezolvate eficient și feedback valoros care ne ajută să ne îmbunătățim în mod constant serviciile."
+            ],
+            "listItems": [""]
+          },
+
+          "class2": {
+            "title": "Experiență vastă în domeniul transporturilor de mărfuri",
+            "short": "",
+            "paragraphs": [
+              "De-a lungul anilor, am realizat proiecte de transport de marfă de amploare, colaborând cu parteneri de rang înalt, atât la nivel național, cât și internațional.",
+              "Echipa noastră este formată din profesioniști cu o experiență în domeniul transporturilor de marfă, iar fiecare membru al echipei joacă un rol cheie în livrarea unui serviciu de transport de marfă de înaltă calitate."
+            ],
+            "listItems": [""]
+          },
+
+          "class3": {
+            "title": "Livrările sunt programate",
+            "short": "",
+            "paragraphs": [
+              "La Crystal Logistics, înțelegem că fiecare afacere are nevoi specifice și unice când vine vorba de transportul de marfă. Flexibilitatea programării este un aspect esențial pe care îl oferim, permițându-vă să alegeți momentul exact în care doriți să fie livrată marfa.",
+              "Acesta este un avantaj major al transportului feroviar care vă permite să vă planificați mai bine activitățile și să vă optimizați operațiunile."
+            ],
+            "listItems": [""]
+          },
+
+          "class4": {
+            "title": "Marfa dvs. este asigurată",
+            "short": "",
+            "paragraphs": [
+              "Alături de o rețea extinsă de parteneri experți, vă punem la dispoziție soluții de asigurare a mărfurilor adaptate nevoilor dumneavoastră specifice",
+              "Misiunea noastră este să vă protejăm investiția și să vă oferim siguranța deplină că mărfurile dumneavoastră sunt în siguranță împotriva oricăror evenimente neașteptate."
+            ],
+            "listItems": [""]
+          },
+
+          "class5": {
+            "title": "Urmărire în timp real",
+            "short": "",
+            "paragraphs": [
+              "Am integrat în serviciile noastre un sistem de urmărire în timp real, care vă permite să monitorizați îndeaproape mișcarea și starea mărfurilor transportate. Prin obținerea informațiilor în timp util, vă puteți ajuta planurile și strategiile în funcție de situația reală de pe teren."
+            ],
+            "listItems": [""]
+          },
+
+          "class6": {
+            "title": "Transport feroviar internațional",
+            "short": "",
+            "paragraphs": [
+              "Oferim o gamă largă de opțiuni de transport feroviar și rutier din România către destinații din toată Europa, Turcia și Asia. Indiferent dacă aveți nevoie de un transport rapid de marfă, noi avem soluția perfectă pentru dvs."
+            ],
+            "listItems": [""]
+          },
+
+          "class7": {
+            "title": "Conexiuni extinse",
+            "short": "",
+            "paragraphs": [
+              "Oferim conexiuni directe cu cele mai mari hub-uri și terminale feroviare internaționale de transport feroviar, asigurând un transport rapid și eficient al mărfurilor dvs"
+            ],
+            "listItems": [""]
+          }
+        }
+      },
+
+      "tractionSection": {
+        "title": "SOLUȚII COMPLETE DE TRACȚIUNE FEROVIARĂ INTERNAȚIONALĂ",
+        "items": {
+          "item1": {
+            "title": "Tracțiune internațională integrată:",
+            "description": "beneficiați de o singură sursă pentru toate nevoile dumneavoastră de tracțiune feroviară internațională, cu automotoare moderne și performante."
+          },
+          "item2": {
+            "title": "Producție internațională constantă și de înaltă calitate:",
+            "description": "asigurați-vă o producție fluidă și eficientă la nivel internațional, cu livrări prompte și constante."
+          },
+          "item3": {
+            "title": "Timp de transport rapid și punctualitate îmbunătățită:",
+            "description": "reduceți semnificativ timpii de transport și îmbunătățiți semnificativ punctualitatea livrărilor dumneavoastră."
+          },
+          "item4": {
+            "title": "Servicii de cea mai înaltă calitate:",
+            "description": "experimentați un nivel excepțional de calitate a serviciilor, cu o atenție deosebită la detalii și o abordare orientată spre client."
+          },
+          "item5": {
+            "title": "Conexiuni feroviare de top:",
+            "description": "accesați o rețea extinsă de conexiuni feroviare de înaltă calitate în Europa Centrală, de Sud-Est și Nord-Vest."
+          }
+        }
+      },
+
+      "audience": {
+        "title": "PENTRU CINE ESTE POTRIVIT TRANSPORTUL FEROVIAR DE MĂRFURI?",
+        "intro1": "Transportul feroviar de mărfuri este o opțiune excelentă pentru o gamă largă de industrii și tipuri de afaceri, datorită numeroaselor sale avantaje.",
+        "intro2": "Mai jos sunt câteva categorii de entități care pot beneficia semnificativ de transportul feroviar:",
+        "items": {
+          "card1": {
+            "title": "Companii care transportă cantități mari de mărfuri",
+            "description": "producători de oțel, cereale, produse chimice, materiale de construcții etc."
+          },
+          "card2": {
+            "title": "Companii care caută soluții durabile",
+            "description": "firme cu obiective de sustenabilitate, companii care activează în domeniul energiei verzi etc."
+          },
+          "card3": {
+            "title": "Companii care doresc soluții rentabile",
+            "description": "companii cu marje de profit reduse, companii care se confruntă cu creșterea prețurilor la combustibili etc."
+          },
+          "card4": {
+            "title": "Companii care caută soluții sigure",
+            "description": "companii care transportă mărfuri fragile sau valoroase, businessuri care operează în industrii reglementate strict etc."
+          },
+          "card5": {
+            "title": "Companii care au nevoie de livrări regulate",
+            "description": "producători cu lanțuri de aprovizionare complexe, retaileri cu program de aprovizionare fix etc."
+          }
+        }
+      },
+
+      "cta": {
+        "title": "Pentru mai multe detalii sau pentru o cotație, vă rugăm să ne contactați!",
+        "messages": [
+          "Ceea ce ne diferențiază este pasiunea și dedicarea noastră pentru ceea ce facem. Ne străduim întotdeauna să oferim cea mai bună experiența posibilă clienților noștri și suntem angajați în inovație și îmbunătățire continuă.",
+          "Suntem aici să vă ajutăm să vă dezvoltați afacerea și să vă oferim cele mai bune soluții de transport. Contactați-ne astăzi!"
+        ],
+        "buttonLabel": "CONTACTAȚI-NE"
+      }
+    },
+    "Maritim": {
+      "Header": {
+        "section": "CRYSTAL LOGISTICS SERVICES",
+        "title": "TRANSPORT MARITIM DE MĂRFURI",
+        "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+      },
+
+      "section_1": {
+        "title": "Livrări Sigure și la Timp",
+        "paragraphs": [
+          "De la containere standard la cele cu temperatură controlată, de la livrări la origine la cele door-to-door, oferim soluții personalizate pentru a va ajuta să duceți la bun sfârșit proiectele de transport maritim.",
+          "Cu o abordare flexibilă, o gamă largă de servicii și o echipă de experți dedicată, ne asigurăm că marfa dvs. ajunge la destinație în condiții de siguranță și în timp util."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+
+      "Accordion": {
+        "title": "Tipuri de transport maritim",
+        "intro": "La Crystal Logistics Services, oferim o gamă largă de servicii de transport maritim pentru a vă satisface nevoile dvs. specifice.",
+        "items": {
+          "class1": {
+            "title": "Transport Maritim pentru Containere în Regim de Grupaj (LCL)",
+            "short": "",
+            "paragraphs": [
+              "Transportul maritim pentru containere în regim de grupaj (LCL) oferit de Crystal Logistics Services este soluția ideală pentru companiile care nu au nevoie să umple un container întreg cu marfă.",
+              "Fie că trimiteți o încărcătură mică sau complexă, vă oferim soluții LCL personalizate pentru a răspunde nevoilor dvs. Colaborăm cu parteneri de încredere din întreaga lume pentru a garanta un serviciu de înaltă calitate."
+            ],
+            "listItems": [""]
+          },
+
+          "class2": {
+            "title": "Full-Container-Load (FCL)",
+            "short": "",
+            "paragraphs": [
+              "Ne ocupăm de transportul containerelor maritime încărcate cu marfă de la un singur expeditor la un singur destinatar. La Crystal Logistics Services, ne angajăm să oferim un serviciu FCL de înaltă calitate, adaptat nevoilor fiecărui client.",
+              "Experiența noastră vastă în gestionarea transportului maritim ne permite să oferim soluții personalizate, indiferent de specificul mărfii sau de complexitatea logistică."
+            ],
+            "listItems": [""]
+          },
+
+          "class3": {
+            "title": "Transport frigorific",
+            "short": "",
+            "paragraphs": [
+              "O gamă largă de produse necesită acest tip de transport, fie că vorbim despre produsele alimentare congelate sau refrigerate, flori proaspete, produse de înfrumusețare sau farmaceutice.",
+              "Din acest motiv, ne-am adaptat serviciile maritime pentru a putea gestiona diversitatea impresionantă de mărfuri care necesită temperaturi controlate în timpul transportului."
+            ],
+            "listItems": [""]
+          },
+
+          "class4": {
+            "title": "Soluții FCL pentru transport încrucișat",
+            "short": "",
+            "paragraphs": [
+              "Oferim servicii de pre-carriage și on-carriage care asigură un transport lin și sigur al mărfii dvs. de la punctul de origine până la destinație.",
+              "Aceste servicii includ toate etapele necesare pentru a vă transporta mărfurile, începând cu încărcarea, transportul către port și încărcarea pe nava de transport, până la debarcarea la portul de destinație și transportul final către locația dvs.",
+              "În porturile de destinație, oferim la cerere soluții de depozitare care vă oferă siguranță și flexibilitate."
+            ],
+            "listItems": [""]
+          }
+        }
+      },
+
+      "container40": {
+        "title": "DIMENSIUNI CONTAINER MARITIM 40´",
+        "items": {
+          "standard": {
+            "title": "STANDARD",
+            "description": "Este un container dreptunghiular, metalic, cu dimensiuni standardizate, proiectat pentru a fi transportat în siguranță și eficient prin diferite moduri de transport: navă, tren și camion.",
+            "specs": [
+              "Lungime interior 12.032 m",
+              "Lățime interior 2.352 m",
+              "Înălțime interior 2.393 m",
+              "Încărcare maximă 26,830 kg"
+            ]
+          },
+          "openTop": {
+            "title": "OPEN TOP",
+            "description": "Asemănătoare cu containerele Standard, dar cu partea superioară deschisă. Prelatele permit încărcarea și descărcarea ușoară a mărfurilor voluminoase sau neconvenționale.",
+            "specs": [
+              "Lungime interior 12.032 m",
+              "Lățime interior 2.352 m",
+              "Înălțime interior 2.350 m",
+              "Încărcare maximă 26,680 kg"
+            ]
+          },
+          "flatRack": {
+            "title": "FLAT RACK",
+            "description": "Nu au pereți laterali sau superiori, doar un cadru de bază și colțuri. Permit transportul mărfurilor voluminoase care depășesc dimensiunile standard ale containerelor.",
+            "specs": [
+              "Lungime interior 12.180 m",
+              "Lățime interior 2.230 m",
+              "Înălțime interior 1.955 m",
+              "Încărcare maximă 40,000 kg"
+            ]
+          },
+          "reefer": {
+            "title": "REEFER",
+            "description": "Echipate cu sisteme de refrigerare și încălzire pentru a menține o temperatură controlată. Utilizate pentru transportul mărfurilor perisabile, cum ar fi alimente, medicamente, produse chimice etc.",
+            "specs": [
+              "Lungime interior 11.587 m",
+              "Lățime interior 2.259 m",
+              "Înălțime interior 2.119 m",
+              "Încărcare maximă 27,650 kg"
+            ]
+          },
+          "highCube": {
+            "title": "HIGH CUBE",
+            "description": "Au o înălțime mai mare decât containerele Standard, oferind un spațiu de încărcare suplimentar. Ideale pentru transportul de mărfuri voluminoase cu greutate redusă.",
+            "specs": [
+              "Lungime interior 12.032 m",
+              "Lățime interior 2.352 m",
+              "Înălțime interior 2.698 m",
+              "Încărcare maximă 26,650 kg"
+            ]
+          }
+        }
+      },
+
+      "container20": {
+        "title": "DIMENSIUNI CONTAINER MARITIM 20´",
+        "items": {
+          "standard": {
+            "title": "STANDARD",
+            "specs": [
+              "Lungime interior 5.898 m",
+              "Lățime interior 2.352 m",
+              "Înălțime interior 2.393 m",
+              "Încărcare maximă 28,300 kg"
+            ]
+          },
+          "openTop": {
+            "title": "OPEN TOP",
+            "specs": [
+              "Lungime interior 5.900 m",
+              "Lățime interior 2.352 m",
+              "Înălțime interior 2.352 m",
+              "Încărcare maximă 28,360 kg"
+            ]
+          },
+          "flatRack": {
+            "title": "FLAT RACK",
+            "specs": [
+              "Lungime interior 5.618 m",
+              "Lățime interior 2.230 m",
+              "Înălțime interior 2.233 m",
+              "Încărcare maximă 27,730 kg"
+            ]
+          },
+          "reefer": {
+            "title": "REEFER",
+            "specs": [
+              "Lungime interior 5.455 m",
+              "Lățime interior 2.292 m",
+              "Înălțime interior 2.174 m",
+              "Încărcare maximă 27,480 kg"
+            ]
+          }
+        }
+      },
+
+      "worldServices": {
+        "title": "Oferim servicii de transport maritime în toată lumea!",
+        "description": "Soluțiile CSL sunt personalizate, adaptate tipului de marfă și contextului internațional. Serviciile noastre de transport maritim sunt flexibile și complete:",
+        "columns": {
+          "left": [
+            "transport container complet (FCL) și grupaj (LCL);",
+            "servicii de asigurare a mărfii;",
+            "formalități vamale și vamă fiscală;",
+            "transport global port to port;",
+            "servicii door-to-door, de la ridicarea mărfii din locația dvs, până la livrarea acesteia la destinație;",
+            "livrare mărfuri necontainerizate;"
+          ],
+          "right": [
+            "depozitare;",
+            "temperatură controlată;",
+            "tehnologie modernă de informare;",
+            "transport agabaritic;",
+            "proiecte speciale;",
+            "mărfuri periculoase."
+          ]
+        }
+      },
+
+      "fclHero": {
+        "title": "TIPURI DE CONTAINERE MARITIME FCL",
+        "alt": "Navă portcontainer văzută de sus, încărcată cu containere maritime"
+      },
+
+      "cta": {
+        "title": "Eficientizați-vă transporturile maritime!",
+        "messages": [
+          "Apelați cu încredere la serviciile noastre de transport maritim către orice destinație din lume și pentru orice volum de marfă, fie LCL sau FCL! Contactați-ne astăzi!"
+        ],
+        "buttonLabel": "CONTACTAȚI-NE"
+      }
+    },
+    "Aerian": {
+      "Header": {
+        "section": "",
+        "title": "TRANSPORT AERIAN",
+        "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+      },
+
+      "section_1": {
+        "title": "SOLUȚII LOGISTICE PENTRU TRANSPORTUL AERIAN DE MĂRFURI",
+        "paragraphs": [
+          "În lumea afacerilor de astăzi, viteza și eficiența sunt esențiale. Serviciile noastre de transport aerian de marfă sunt exact ceea ce aveți nevoie pentru a vă asigura că bunurile dumneavoastră ajung la destinație în timp util și în siguranță.",
+          "Indiferent dacă expediați mărfuri perisabile, produse de înaltă valoare sau alte bunuri care necesită livrare rapidă și sigură, casa de expediții Crystal Logistics Services este soluția perfectă pentru dumneavoastră."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+
+      "section_2": {
+        "title": "Siguranța și Securitatea Sunt Prioritare",
+        "paragraphs": [
+          "Apelăm la mijloace de transport aerian de ultimă generație și implementăm proceduri stricte de securitate pentru a asigura transportul sigur al mărfurilor dumneavoastră.",
+          "Procesul nostru include verificări de securitate riguroase, ambalare adecvată, manipulare atentă și utilizarea tehnologiei avansate pentru a preveni pierderea sau deteriorarea bunurilor.",
+          "De asemenea, respectăm toate regulile și reglementările privind transportul de mărfuri prin aer, obținem toate permisele și licențele necesare și asigurăm conformitatea cu toate normele de securitate."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+
+      "highlight": {
+        "eyebrow": "TRANSPORT AERIAN",
+        "title": "DE CE SĂ ALEGI SERVICIILE DE TRANSPORT AERIAN CRYSTAL LOGISTICS SERVICES?",
+        "description": "",
+        "items": {
+          "card1": {
+            "title": "Acoperire Globală",
+            "description": "Pe măsură ce globalizarea și comerțul internațional se intensifică, transportul aerian se remarcă ca o opțiune din ce în ce mai populară pentru numeroase companii din întreaga lume. La Crystal Logistics Services, ne mândrim cu parteneriatele noastre cu unele dintre cele mai importante companii aeriene la nivel global. Acestea ne permit să deținem licențe de transport și să asigurăm servicii de transport marfă aerian eficiente și rapide, indiferent de destinație."
+          },
+          "card2": {
+            "title": "Flexibilitate",
+            "description": "La Crystal Logistics Services, flexibilitatea este un atribut esențial care ne distinge în domeniul transportului aerian de mărfuri. Avem capacitatea de a ne adapta la orice tip de cerință de transport, fie că este vorba de un colet mic sau de o încărcătură de marfă de dimensiuni mari. Nu contează complexitatea nevoilor dumneavoastră, ne angajăm să găsim soluția optimă pentru fiecare context în parte. Descoperiți și serviciul de relocări internaționale!"
+          },
+          "card3": {
+            "title": " Încărcare și Descărcare Eficiente ",
+            "description": "Înțelegem că bunurile dvs. reprezintă o investiție semnificativă și ne angajăm să le tratăm cu cea mai mare grijă și respect. Procedurile noastre minuțios planificate de încărcare și descărcare sunt concepute pentru a optimiza timpul și pentru a garanta siguranța mărfurilor. Utilizăm echipamente adecvate pentru manipularea corespunzătoare a bunurilor și respectăm regulile stricte de securitate pentru a preveni accidentele."
+          },
+          "card4": {
+            "title": " Urmarire în timp real ",
+            "description": "Sistemul nostru avansat de urmărire este special conceput pentru a oferi un transport cargo aerian eficient și transparent. Cu ajutorul acestei tehnologii, puteți monitoriza mișcarea exactă a mărfii dvs., de la momentul încărcării până la cel al livrării."
+          }
+        }
+      },
+
+      "cards": {
+        "items": {
+          "title": "PARTICULARITĂȚILE TRANSPORTULUI AERIAN DE MARFĂ",
+          "description": "",
+          "card1": {
+            "title": "Rapiditate",
+            "short": "",
+            "descriptions": [
+              "Viteza de deplasare a aeronavelor este incomparabil mai mare decât a oricărui alt mijloc de transport, făcând din rapiditate o caracteristică esențială a transportului aerian.",
+              "Acest lucru se traduce prin timpi de livrare semnificativ mai scurți, un avantaj cheie pentru companiile și clienții care caută o eficiență sporită."
+            ]
+          },
+          "card2": {
+            "title": "Regularitate",
+            "short": "",
+            "descriptions": [
+              "Transportul aerian se remarcă prin regularitate, fiind realizat conform unui program precis, indiferent de perioada anului sau de ora din zi.",
+              "Această predictibilitate permite o planificare eficientă a operațiunilor și o livrare sigură a mărfurilor, consolidând încrederea utilizatorilor."
+            ]
+          },
+          "card3": {
+            "title": "Oportunitate",
+            "short": "",
+            "descriptions": [
+              "Acoperirea globală a rețelelor aeriene oferă o oportunitate unică de a accesa rapid și eficient destinații îndepărtate, indiferent de locația punctelor terminale."
+            ]
+          }
+        }
+      },
+
+      "Accordion": {
+        "title": "Crystal Logistics Services: soluții rapide și sigure pentru transportul urgent al mărfurilor tale!",
+        "intro": "Ai nevoie de o soluție rapidă și sigură pentru transportul mărfurilor tale? Crystal Logistics Services este partenerul tău de încredere pentru transporturi urgente, oferindu-ți:",
+        "items": {
+          "class1": {
+            "title": "Cel mai rapid transport al mărfurilor",
+            "short": "",
+            "paragraphs": [
+              "Marfa ta va ajunge la destinație în cel mai scurt timp posibil, cu timpi de tranzit bine definiți pe ruta specificată;"
+            ],
+            "listItems": [""]
+          },
+
+          "class2": {
+            "title": "Transport zilnic",
+            "short": "",
+            "paragraphs": [
+              "Operăm zilnic cu aeronave de primă clasă, asigurând o livrare rapidă și eficientă a mărfurilor tale;"
+            ],
+            "listItems": [""]
+          },
+
+          "class3": {
+            "title": "Monitorizare constantă",
+            "short": "",
+            "paragraphs": [
+              "Îți oferim transparență totală prin monitorizarea atentă a mărfurilor tale pe tot parcursul procesului de transport, de la încărcare la descărcare, asigurând siguranța totală a bunurilor tale;"
+            ],
+            "listItems": [""]
+          },
+
+          "class4": {
+            "title": "Rapiditate uimitoare",
+            "short": "",
+            "paragraphs": [
+              "Cu Crystal Logistics Services, marfa ta va ajunge la destinație în termen de 1-2 zile de la aeroportul de plecare la cel de destinație."
+            ],
+            "listItems": [""]
+          }
+        }
+      },
+
+      "cta": {
+        "title": "Obțineți o ofertă specială de transport aerian!",
+        "messages": [
+          "Crystal Logistics Services este alegerea potrivită pentru nevoile dumneavoastră de transport aerian internațional. Combinăm rapiditatea, flexibilitatea și securitatea pentru a vă oferi cele mai bune servicii de pe piață. Beneficiați acum de serviciile noastre de înaltă calitate!"
+        ],
+        "buttonLabel": "CONTACTAȚI-NE"
+      }
+    },
+    "Multimodal": {
+      "Header": {
+        "section": "",
+        "title": "TRANSPORT MULTIMODAL",
+        "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+      },
+
+      "section_1": {
+        "title": "Soluții de Transport Optimizate",
+        "paragraphs": [
+          "Crystal Logistics Services vă oferă soluții complete de transport multimodal pentru a vă optimiza lanțul de aprovizionare și a vă reduce costurile.",
+          "Fie că aveți nevoie de transport maritim, aerian, feroviar sau o combinație a tuturor, echipa noastră de experți vă va ajuta să găsiți cea mai bună soluție pentru nevoile dumneavoastră de afaceri!"
+        ],
+        "alt": "CRYSTAL LOGISTICS SERVICES"
+      },
+
+      "section_2": {
+        "title": "Ce este transportul multimodal?",
+        "introParagraphs": [
+          "Transportul multimodal reprezintă un sistem de transport care combină două sau mai multe moduri de transport diferite pentru a transporta mărfuri de la un punct la altul.",
+          "Acest tip de transport poate include diferite combinații de transport rutier, maritim, aerian sau feroviar, în funcție de nevoile specifice ale clienților și de infrastructura disponibilă."
+        ],
+        "listTitle": "Exemplu de transport multimodal",
+        "groups": [
+          {
+            "label": "- ",
+            "text": "Marfa este transportată inițial cu un camion de la locul de producție la un port."
+          },
+          {
+            "label": "- ",
+            "text": "Acolo, aceasta este încărcată pe un container maritim și transportată pe mare până la un alt port."
+          },
+          {
+            "label": "- ",
+            "text": "La sosire, marfa este descărcată și transportată cu trenul pana la destinația finală."
+          }
+        ]
+      },
+
+      "section_3": {
+        "title": "Transport aerian",
+        "paragraphs": [
+          "Serviciile noastre de transport aerian sunt concepute pentru a vă garanta livrarea rapidă și sigură a bunurilor.",
+          "Fie că trimiteți mărfuri perisabile, produse de valoare mare sau alte articole care necesită o livrare promptă și sigură, Crystal Logistics Services este partenerul ideal pentru nevoile dumneavoastră logistice."
+        ],
+        "alt": "CRYSTAL LOGISTICS SERVICES"
+      },
+
+      "section_4": {
+        "title": "Transport feroviar",
+        "paragraphs": [
+          "De la containere standard la cele cu open top, de la livrări la punctul de origine până la cele door-to-door, oferim soluții personalizate pentru a vă sprijini în realizarea proiectelor de transport maritim.",
+          "Printr-o abordare flexibilă, o varietate de servicii și o echipă de experți dedicați, ne asigurăm că marfa dvs. ajunge la destinație în siguranță și la timp."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+
+      "section_5": {
+        "title": "Transport maritim",
+        "paragraphs": [
+          "Oferim conexiuni directe cu cele mai mari hub-uri și terminale feroviare internaționale de transport feroviar, asigurând un transport rapid și eficient al mărfurilor dvs.",
+          "Apelând la serviciile noastre, accesați o rețea extinsă de conexiuni feroviare de înaltă calitate în Europa Centrală, de Sud-Est și Nord-Vest."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+
+      "highlight": {
+        "eyebrow": "TRANSPORT MULTIMODAL",
+        "title": "De ce să alegeți transportul multimodal?",
+        "description": "Există multe beneficii ale alegerii transportului multimodal, inclusiv:",
+        "items": {
+          "card1": {
+            "title": "eficiență",
+            "description": "Transportul multimodal poate fi mai rapid și mai eficient decât utilizarea unui singur mod de transport"
+          },
+          "card2": {
+            "title": "costuri reduse",
+            "description": "Transportul multimodal poate fi mai ieftin decât utilizarea unui singur mod de transport, mai ales pentru distanțe lungi"
+          },
+          "card3": {
+            "title": "flexibilitate",
+            "description": "Transportul multimodal vă oferă mai multă flexibilitate pentru a vă deplasa mărfurile în funcție de nevoile dumneavoastră"
+          },
+          "card4": {
+            "title": "impact redus asupra mediului",
+            "description": "Ttransportul multimodal poate fi o modalitate mai ecologică de a vă transporta mărfurile"
+          },
+          "card5": {
+            "title": "formalități minime",
+            "description": "Transportul se efectuează pe baza unui singur contract"
+          }
+        }
+      },
+
+      "cards": {
+        "items": {
+          "title": "Crystal Logistics Services vă oferă o gamă largă de servicii de transport multimodal, inclusiv:",
+          "description": "Planificare și implementare: echipa noastră de experți vă va ajuta să planificați și să implementați cea mai bună soluție de transport multimodal pentru nevoile dumneavoastră.",
+          "card1": {
+            "title": "Consolidare și despachetare ",
+            "short": "",
+            "descriptions": [
+              "vă putem consolida mărfurile din mai multe surse și le putem despacheta la destinație (la cerere)"
+            ]
+          },
+          "card2": {
+            "title": "Urmărire și monitorizare",
+            "short": "",
+            "descriptions": [
+              "vă vom oferi informații actualizate în timp real despre stadiul transportului dumneavoastră"
+            ]
+          },
+          "card3": {
+            "title": "Servicii vamale",
+            "short": "",
+            "descriptions": [
+              "vă vom ajuta cu toate documentele și procedurile vamale necesare"
+            ]
+          },
+          "card4": {
+            "title": "Siguranță maximă",
+            "short": "",
+            "descriptions": [
+              "facem tot posibilul ca mărfurile dvs. să ajungă la destinație fără a compromite calitatea acestora"
+            ]
+          }
+        }
+      },
+
+      "cta": {
+        "title": "Crystal Logistics Services - Partenerul dumneavoastră de încredere pentru transport multimodal!",
+        "messages": [
+          "Soluțiile noastre de transport multimodal sunt concepute pentru a satisface diverse industrii, de la automotive și produse de consum până la echipamente industriale și tehnologice."
+        ],
+        "buttonLabel": "CONTACTAȚI-NE"
+      }
+    },
+    "BursaDeTransport": {
+      "Header": {
+        "section": "CRYSTAL LOGISTICS SERVICES",
+        "title": "Cotație Instant",
+        "alt": "Banner Cotație Instant - Crystal Logistics Services"
+      },
+
+      "section_1": {
+        "title": "Postează marfa pe Cotație Instant CLS și primește oferte rapid!",
+        "paragraphs": [
+          "Completează formularul de mai jos și primește oferta cu doar câteva click-uri, în cel mai scurt timp și fără costuri!",
+          "Descoperiți o rețea extinsă de parteneri de încredere și beneficiați de soluții eficiente de transport adaptate nevoilor dumneavoastră!",
+          "Dezvoltați-vă afacerea cu încredere în Europa alături de Crystal Logistics Services!"
+        ],
+        "alt": "Crystal Logistics Services"
+      },
+
+      "Accordion": {
+        "title": "De ce să alegeți serviciul de cotație instant Crystal Logistics Services?",
+        "intro": "",
+        "items": {
+          "class1": {
+            "title": "Acces Ușor și Rapid",
+            "short": "",
+            "paragraphs": [
+              "La Crystal Logistics, bursa transporturilor rutiere de mărfuri vă pune la dispoziție toate instrumentele necesare pentru a vă ușura munca. Fie că aveți nevoie de un transport, fie că sunteți un transportator în căutare de marfă, puteți găsi soluția potrivită cu doar câteva clicuri. Cu ajutorul algoritmilor noștri avansați, sistemul nostru de căutare vă oferă cele mai eficiente opțiuni de transport, în funcție de nevoile dumneavoastră specifice."
+            ],
+            "listItems": [""]
+          },
+
+          "class2": {
+            "title": "Flexibilitate și Diversitate",
+            "short": "",
+            "paragraphs": [
+              "Indiferent de tipul mărfii sau de distanțele rutiere parcurse, pe cotație instant avem soluția potrivită pentru dumneavoastră.",
+              "Cotația instant Crystal Logistics Services vă oferă o gamă completă de soluții de transport adaptate nevoilor dumneavoastră, indiferent dacă aveți nevoie de transport internațional, de cabotaj sau de cross-trade.",
+              "Colaborăm cu o rețea extinsă de producători și de expeditori din toată Europa, oferindu-vă acces la o gamă largă de mărfuri pentru orice tip de vehicul."
+            ],
+            "listItems": [""]
+          },
+
+          "class3": {
+            "title": "Prețuri Competitive",
+            "short": "",
+            "paragraphs": [
+              "Beneficiați de cele mai bune oferte de pe piață, adaptate nevoilor dumneavoastră.",
+              "În secțiunea cotație instant transporturilor CLS, ai acces la o gamă largă de transportatori, ceea ce vă permite să comparați prețurile și să alegeți cea mai bună opțiune pentru nevoile dvs.",
+              "Fiecare transportator disponibil pe platforma noastră are caracteristici și avantaje unice, astfel încât să puteți alege cea mai potrivită opțiune pentru dvs."
+            ],
+            "listItems": [""]
+          },
+
+          "class4": {
+            "title": "Eliminați cursele goale și optimizați transporturile",
+            "short": "",
+            "paragraphs": [
+              "Sunteți un proprietar de camion sau aveți o companie de transport care se confruntă cu problema curselor goale sau a transporturilor parțiale? Crystal Logistics Services vă oferă soluția ideală: bursa de transport marfă care vă conectează cu expeditorii care au nevoie de transport pentru mărfuri de cantități mici (LTL).",
+              "Pe platforma noastră puteți găsi cu ușurință încărcături LTL care corespund rutelor dumneavoastră existente. Astfel, reduceți timpul petrecut în căutarea de încărcături și îmbunătățiți planificarea rutelor."
+            ],
+            "listItems": [""]
+          },
+
+          "class5": {
+            "title": "Suport Client",
+            "short": "",
+            "paragraphs": [
+              "Vă punem la dispoziție o echipă de suport specializată, care este întotdeauna pregătită să vă asiste.",
+              "Oricare ar fi întrebarea sau problema pe care o întâmpinați, puteți conta pe noi pentru a vă oferi răspunsuri rapide și eficiente."
+            ],
+            "listItems": [""]
+          }
+        }
+      },
+
+      "cta": {
+        "title": "",
+        "messages": ["Pentru mai multe detalii vă rugăm să ne contactați."],
+        "buttonLabel": "CONTACTAȚI-NE"
+      }
+    }
+  }
+}

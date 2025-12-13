@@ -1,0 +1,170 @@
+{
+  "Bursa": {
+    "Client": {
+      "eyebrow": "CLIENT SOLUTIONS",
+      "title": "Discover the benefits of instant transport quotation",
+      "intro": "Through the Instant Transport Quote, you have the opportunity to post your goods on the platform and receive offers from both CLS and our network of CLS partners. This way, you ensure your goods reach their destination safely, on time, and at a competitive price.",
+      "Accordion": {
+        "items": {
+          "class1": {
+            "title": "It's free",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Posting your goods costs you nothing."]
+          },
+          "class2": {
+            "title": "It takes 30 seconds",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["The process is fast and efficient."]
+          },
+          "class3": {
+            "title": "Receive an offer in maximum 3 hours",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["You don't waste time waiting for responses."]
+          },
+          "class4": {
+            "title": "Access to thousands of verified carriers",
+            "short": "You only work with partners carefully selected by CLS.",
+            "paragraphs": [
+              "Carriers registered with CLS go through a verification process of documents and collaboration history.",
+              "You have the guarantee that your goods are picked up by professionals with experience in the field."
+            ],
+            "listItems": [
+              "Extensive network of carriers across Europe",
+              "Partners with a diversified and modern fleet",
+              "Collaboration with stable and reliable companies"
+            ]
+          },
+          "class5": {
+            "title": "Transport is insured",
+            "short": "Your goods are protected throughout the transport.",
+            "paragraphs": [
+              "You have access to transport solutions with insured coverage, adapted to the type of goods.",
+              "We carefully monitor the transport process to minimize any risk."
+            ],
+            "listItems": [
+              "Additional protection for sensitive goods",
+              "Traceability and communication during the trip",
+              "Quick solutions in case of unforeseen situations"
+            ]
+          },
+          "class6": {
+            "title": "24/7 Assistance",
+            "short": "The CLS team is permanently available for you.",
+            "paragraphs": [
+              "Regardless of the hour, you have a dedicated point of contact for questions or special situations.",
+              "We help you quickly find alternative solutions when you need them."
+            ],
+            "listItems": [
+              "Phone and email support",
+              "Real-time consultation for urgent trips",
+              "Clear communication from loading to unloading"
+            ]
+          },
+          "class7": {
+            "title": "Complete consultancy",
+            "short": "We help you choose the best transport option.",
+            "paragraphs": [
+              "We analyze the type of goods, destination, and budget to propose efficient solutions.",
+              "We ensure you benefit from an optimal ratio between cost, time, and safety."
+            ],
+            "listItems": [
+              "Personalized recommendations for each transport",
+              "Optimization of routes and costs",
+              "Support for managing the transport flow in the long term"
+            ]
+          }
+        }
+      }
+    },
+    "Carrier": {
+      "eyebrow": "CARRIER BENEFITS",
+      "title": "Benefits of collaborating with CLS",
+      "intro": "Are you looking for freight but can't find enough? Do you have parked trucks or drive thousands of kilometers monthly without profit? Through the CLS Instant Transport Quote, we provide you with routes suitable for your fleet, so you can increase your loading capacity and turn a profit.",
+      "Accordion": {
+        "items": {
+          "class1": {
+            "title": "Access to thousands of spot freights",
+            "short": "You always have new routes available, suitable for your trucks.",
+            "paragraphs": [
+              "Through the CLS platform, you have access to a large base of spot freights, from multiple industries and regions.",
+              "You can only select the routes that match your fleet and preferred routes."
+            ],
+            "listItems": [
+              "Fast and secure payments",
+              "Constant flow of opportunities",
+              "Reducing downtime between trips"
+            ]
+          },
+          "class2": {
+            "title": "Tractor contracts",
+            "short": "Stability and constant volume of transport.",
+            "paragraphs": [
+              "You can conclude tractor-type contracts with CLS, securing a recurring volume of routes.",
+              "This way, you can more easily plan your activity and fleet investments."
+            ],
+            "listItems": [
+              "Medium and long-term collaborations",
+              "Better loading capacity for trucks",
+              "Predictability in revenue and cash flow"
+            ]
+          },
+          "class3": {
+            "title": "Semi-trailer rental option",
+            "short": "Flexibility for your fleet development.",
+            "paragraphs": [
+              "If you have a tractor unit but not enough semi-trailers, you can benefit from rental solutions through CLS.",
+              "This allows you to take on more routes without tying up capital in immediate purchases."
+            ],
+            "listItems": [
+              "Quick access to additional equipment",
+              "Reducing the risk of over-investment",
+              "Easy adaptation to peak demand"
+            ]
+          },
+          "class4": {
+            "title": "Punctual payments and guaranteed collection",
+            "short": "We ensure your work is paid on time.",
+            "paragraphs": [
+              "We emphasize fair and respected payment terms so you can plan your expenses.",
+              "We work with stable clients with good creditworthiness to reduce the risk of non-collection."
+            ],
+            "listItems": [
+              "Transparent payment terms",
+              "Predictable revenue flow",
+              "Reducing financial risk"
+            ]
+          },
+          "class5": {
+            "title": "Competitive prices",
+            "short": "Market-aligned, fairly negotiated rates.",
+            "paragraphs": [
+              "The offers on the exchange are in line with the realities of the transport market, so you can cover your costs and make a profit.",
+              "You have access to both spot and contractual routes, depending on your strategy."
+            ],
+            "listItems": [
+              "Transparency in tariff structure",
+              "Possibility of negotiation where applicable",
+              "Balance between volume and profitability"
+            ]
+          },
+          "class6": {
+            "title": "A wide range of options",
+            "short": "You can choose exactly the type of collaboration you need.",
+            "paragraphs": [
+              "Whether you are a small company or a large fleet, you will find options adapted to your business model in CLS.",
+              "You can combine spot routes, long-term contracts, and flexible equipment solutions."
+            ],
+            "listItems": [
+              "Domestic and international routes",
+              "Dedicated or occasional collaborations",
+              "Support for developing your transport business"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

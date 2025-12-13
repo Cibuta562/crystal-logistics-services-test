@@ -1,0 +1,9 @@
+{
+  "forms": {
+    "offerButton": "Request a quote",
+    "carrierButton": "Become a carrier",
+    "loadingForm": "Loading form…",
+    "offerTitle": "Request a quote",
+    "carrierTitle": "Carrier application"
+  }
+}

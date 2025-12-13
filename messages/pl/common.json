@@ -1,0 +1,136 @@
+{
+  "contact": {
+    "badge": "Kontakt",
+    "title": "Jesteśmy tutaj, aby Ci pomóc!",
+    "subtitle": "W Crystal Logistics Services jesteśmy oddani dostarczaniu spersonalizowanych rozwiązań dla klientów, przewoźników i kandydatów chcących dołączyć do naszego zespołu.",
+    "requestQuote": "Poproś o wycenę",
+    "hours_ro": "Poniedziałek–Piątek, 09:00–17:30",
+    "hours_ch": "Poniedziałek–Piątek, 09:00–17:00",
+    "mapLoading": "Ładowanie mapy…"
+  },
+  "contactForms": {
+    "offerButton": "Poproś o ofertę",
+    "carrierButton": "Zostań partnerem",
+    "loadingForm": "Ładowanie formularza…",
+    "offerTitle": "Zapytanie ofertowe",
+    "carrierTitle": "Formularz partnera"
+  },
+  "Footer": {
+    "about": {
+      "title": "O Crystal Logistics Services",
+      "text": "Crystal Logistics Services oferuje kompleksowe rozwiązania w zakresie transportu drogowego, morskiego, lotniczego i multimodalnego, dostosowane do wymagań klientów na całym świecie.",
+      "contactTitle": "Kontakt",
+      "address": "Ul. Exemplu nr 25, Bukareszt, Rumunia",
+      "phone": "+40 123 456 789",
+      "email": "office@crystallogistics.ro",
+      "followUs": "Śledź nas"
+    },
+    "columns": {
+      "services": {
+        "title": "Usługi",
+        "links": [
+          "Natychmiastowa Wycena",
+          "Transport Multimodalny",
+          "Transport Drogowy",
+          "Transport Lotniczy",
+          "Transport Morski",
+          "Transport Kolejowy"
+        ]
+      },
+      "about": {
+        "title": "O nas",
+        "links": [
+          "Zostań Partnerem CLS",
+          "Kariera",
+          "Nasz Zespół",
+          "Blog",
+          "Opinie",
+          "Broszury"
+        ]
+      },
+      "contact": {
+        "title": "Kontakt",
+        "address": "Nasze lokalizacje",
+        "phone": "+40 723 344 599",
+        "email": "logistics@crystal-logistics-services.com",
+        "hours": "Godziny: 09:00–17:30"
+      },
+      "licenses": {
+        "title": "Licencje",
+        "text": "Licencja pośrednictwa seria CI nr 0010969\nLicencja transportowa nr 023173"
+      }
+    },
+    "bottom": {
+      "rights": "© 2025 Crystal Logistics Services. Wszelkie prawa zastrzeżone.",
+      "privacy": "Polityka prywatności",
+      "terms": "Regulamin",
+      "cookies": "Polityka plików cookie"
+    }
+  },
+  "Components": {
+    "whyUs": {
+      "title": "Dlaczego warto z nami współpracować?",
+      "items": {
+        "assistance": "WSPARCIE TRANSPORTOWE 24/7",
+        "response": "SZYBKO ODPOWIADAMY",
+        "insured": "TRANSPORT UBEZPIECZONY",
+        "fairPrice": "UCZCIWA CENA",
+        "fullPackage": "PEŁNY PAKIET USŁUG"
+      }
+    }
+  },
+  "Services": {
+    "title": "Usługi",
+    "learnMore": "Dowiedz się więcej",
+    "cards": {
+      "road": {
+        "title": "Transport Drogowy",
+        "text": "Usługi transportu towarowego obejmują pełen zakres rozwiązań dostosowanych do potrzeb każdego klienta, od transportu krajowego po trasy europejskie.\n\nZapewniamy transport drogowy towarów ogólnych, ponadgabarytowych, ADR, chłodniczych, cystern lub wywrotek."
+      },
+      "maritime": {
+        "title": "Transport Morski",
+        "text": "Idealne rozwiązania dla dużych wolumenów, kontenerów lub transportu masowego, do i z głównych portów handlowych.\n\nObejmuje załadunek, dokumentację celną, śledzenie i opcjonalne ubezpieczenie."
+      },
+      "air": {
+        "title": "Transport Lotniczy",
+        "text": "Szybkie i wydajne rozwiązanie w międzynarodowym transporcie towarowym.\n\nIdealne dla pilnych lub wrażliwych dostaw."
+      },
+      "rail": {
+        "title": "Transport Kolejowy",
+        "text": "Ekonomiczna i zrównoważona alternatywa dla dużych ilości towarów ogólnych lub ponadgabarytowych.\n\nPolecana do złożonych projektów logistycznych."
+      },
+      "multimodal": {
+        "title": "Transport Multimodalny",
+        "text": "Łączy transport drogowy, morski, lotniczy i kolejowy dla wydajności i optymalizacji kosztów.\n\nOdpowiedni dla zintegrowanych łańcuchów dostaw i sztywnych terminów."
+      }
+    }
+  },
+  "Stats": {
+    "title": "Nasze wyniki mówią same za siebie",
+    "items": {
+      "km": "przejechanych km",
+      "clients": "zadowolonych klientów",
+      "cargo": "przewiezionych towarów",
+      "revenue": "miliony €",
+      "satisfaction": "wskaźnik satysfakcji"
+    }
+  },
+  "Newsletter": {
+    "title": "Zapisz się do newslettera",
+    "emailLabel": "Twój adres e-mail",
+    "emailPlaceholder": "nazwa@email.com",
+    "consentText": "Przeczytałem i akceptuję",
+    "privacyPolicy": "Politykę prywatności",
+    "submit": "Wyślij"
+  },
+  "Reviews": {
+    "title": "Co mówią nasi klienci",
+    "cta": "Zobacz wszystkie opinie w Google",
+    "readMore": "czytaj więcej",
+    "readLess": "pokaż mniej"
+  },
+  "Organizatii": {
+    "orgTitle": "Organizacje, do których należymy",
+    "clientsTitle": "Klienci i partnerzy"
+  }
+}

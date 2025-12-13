@@ -1,0 +1,171 @@
+{
+  "about": {
+    "hero": {
+      "tag": "Chi siamo",
+      "title": "Esperienza, fiducia e performance",
+      "subtitle": "Con una vasta esperienza nel settore dei trasporti, il nostro team offre soluzioni logistiche personalizzate, adattate alle esigenze di ogni cliente."
+    },
+
+    "workWithUs": {
+      "title": "PERCHÉ LAVORARE CON NOI",
+      "items": [
+        {
+          "title": "Tempo risparmiato e zero preoccupazioni",
+          "desc": "ci assumiamo la responsabilità completa"
+        },
+        {
+          "title": "Velocità di reazione",
+          "desc": "preventivo in meno di 10 min, conferme in meno di 30 min"
+        },
+        {
+          "title": "Tracciabilità",
+          "desc": "stato in tempo reale + comunicazione proattiva"
+        },
+        { "title": "Prevedibilità", "desc": "SLA e KPI misurabili" },
+        {
+          "title": "Flessibilità",
+          "desc": "spot, contratto, servizio di trazione, multimodale"
+        },
+        {
+          "title": "Sicurezza",
+          "desc": "documenti impeccabili, conformità, assicurazioni"
+        }
+      ]
+    },
+
+    "benefits": {
+      "title": "BENEFICI AGGIUNTIVI",
+      "items": [
+        { "title": "Supporto dedicato", "desc": "team disponibile 24/7" },
+        {
+          "title": "Rete estesa",
+          "desc": "partner validati a livello europeo"
+        },
+        {
+          "title": "Consulenza personalizzata",
+          "desc": "soluzioni logistiche ottimizzate"
+        },
+        {
+          "title": "Trasparenza totale",
+          "desc": "reporting e comunicazione costante"
+        }
+      ]
+    },
+
+    "quote": {
+      "name": "Onișoară Rafael Emre",
+      "role": "CEO & Fondatore, Crystal Logistics Services",
+      "paragraphs": [
+        "Crystal Logistics Services è un'azienda privata creata con l'obiettivo di diventare un pilastro dello sviluppo e dell'automazione dei processi nel trasporto e nella logistica.",
+        "Ho avviato questa attività da solo e desideravo non solo profitto, ma anche un ambiente di lavoro basato su valori e una missione chiara: fornire ai clienti servizi premium a un costo equo, essere consulenti affidabili in modo che ricevano esattamente ciò di cui hanno bisogno per i loro affari.",
+        "La nostra visione: implementare sistemi e automazioni che ci permettano di rimanere competitivi e innalzare lo standard del settore."
+      ]
+    },
+
+    "fleet": {
+      "title": "LA NOSTRA FLOTTA E RETE DI PARTNER",
+      "paragraphs": [
+        "Capacità giornaliera: flotta propria e 4000+ partner verificati. Operiamo con la nostra flotta e una vasta rete di vettori validati finanziariamente e operativamente.",
+        "Ciò significa disponibilità giornaliera, molteplici tipi di semirimorchi (centinati, refrigerati, mega, furgoni), monitoraggio GPS e standardizzazione dei documenti.",
+        "Il risultato: qualità premium, costi equi, consegna puntuale."
+      ]
+    },
+
+    "dataAbout": {
+      "statsTitle": "Numeri, non promesse",
+      "timelineTitle": "Evoluzione del fatturato",
+      "stats": {
+        "clients": "CLIENTI ATTIVI",
+        "partners": "PARTNER VETTORI",
+        "orders": "ORDINI / MESE",
+        "satisfaction": "TASSO DI SODDISFAZIONE DEI CLIENTI"
+      }
+    },
+
+    "whyCrystal": {
+      "sectionTitle": "Perché Crystal – cosa ci distingue",
+
+      "innovation": {
+        "title": "Innovazione & automazione",
+        "desc": "Tecnologia applicata ad ogni chilometro – processi digitali, firma elettronica, tracciamento in tempo reale, integrazioni."
+      },
+
+      "consulting": {
+        "title": "Consulenza logistica integrata",
+        "desc": "Pensiamo prima del carico – percorsi efficienti, strutture di prezzo, documentazione e supporto doganale."
+      },
+
+      "efficiency": {
+        "title": "Efficienza commerciale",
+        "desc": "Il costo giusto, senza compromessi – 4500+ fornitori/partner, soluzioni LTL/FTL ottimizzate."
+      },
+
+      "performance": {
+        "title": "Performance nell'esecuzione",
+        "desc": "Trasporto senza stress, puntuale – team specializzati, SLA, prevedibilità operativa."
+      },
+
+      "safety": {
+        "title": "Sicurezza & responsabilità",
+        "desc": "Restiamo al tuo fianco quando sorgono problemi – flotte verificate, assicurazioni, comunicazione proattiva, controllo totale."
+      },
+
+      "ethics": {
+        "title": "Etica & stabilità",
+        "desc": "Trasparente. Corretto. Prevedibile. – storia chiara, indicatori di qualità, partnership a lungo termine."
+      }
+    },
+
+    "team": {
+      "title": "Il Nostro Team",
+      "members": [
+        {
+          "name": "Rafael Emre Onișoară",
+          "role": "CEO & Fondatore",
+          "img": "/images/team/Rafael.webp"
+        },
+        {
+          "name": "Serafim Bogdan",
+          "role": "Manager Dipartimento Spedizioni",
+          "img": "/images/team/Serafim.webp"
+        },
+        {
+          "name": "Liță Alin",
+          "role": "Manager Dipartimento Spedizioni",
+          "img": "/images/team/Lita.webp"
+        },
+        {
+          "name": "Ciobănoiu Bogdan",
+          "role": "Agente Vendite & Trasporto",
+          "img": "/images/team/Ciobanoiu.webp"
+        },
+        {
+          "name": "Ionescu Denisa",
+          "role": "Agente Vendite & Trasporto",
+          "img": "/images/team/Denisa.webp"
+        },
+        {
+          "name": "Nedelcu Alexandru",
+          "role": "Agente Vendite & Trasporto",
+          "img": "/images/team/Nedelcu.webp"
+        },
+        {
+          "name": "Paraschiv Alexandru",
+          "role": "Agente Vendite & Trasporto",
+          "img": "/images/team/Paraschiv.webp"
+        },
+        {
+          "name": "Păuna Andrei",
+          "role": "Agente Vendite & Trasporto",
+          "img": "/images/team/Pauna.webp"
+        }
+      ]
+    },
+
+    "buttons": {
+      "quote": "Richiedi un preventivo ↗",
+      "quote3": "Richiedi un'offerta",
+      "quote2": "Vedi tutti i servizi"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "Carriers": {
+    "Rutier": {
+      "Transportatori": {
+        "Header": {
+          "section": "Souhaitez-vous exploiter au maximum le potentiel de votre flotte ? Chez Crystal Logistics Services, nous proposons des solutions de transport complètes, tant pour les collaborations spot que pour les contrats à long terme, payés au kilomètre. Nous sommes le partenaire de confiance qui vous assure constance, flexibilité et rentabilité !",
+          "title": "Maison de Commission de Transport dédiée aux transporteurs",
+          "alt": "Image transporteurs"
+        },
+        "section_1": {
+          "title": "Pourquoi choisir Crystal Logistics Services pour votre partenariat de transport ?",
+          "alt": "TransportatoriCrystal",
+          "paragraphs": [
+            "Crystal Logistics Services est plus qu'une maison de commission de transport – nous sommes le partenaire dont vous avez besoin pour amener votre entreprise de transport au niveau supérieur. Avec une équipe expérimentée et un vaste portefeuille de clients, nous vous proposons des solutions personnalisées pour vos besoins opérationnels. Que vous soyez à la recherche de fret spot ou que vous souhaitiez conclure un contrat à long terme, payé au kilomètre, nous sommes votre solution de confiance."
+          ]
+        },
+        "partnerTransport": {
+          "badge": "Collaborez avec Crystal Logistics Services",
+          "title": "Devenez notre partenaire de transport",
+          "subtitle": "Parlez-nous de votre flotte et de vos itinéraires préférés, et nous vous connecterons à des projets appropriés, des procédures claires et une collaboration prévisible.",
+          "card1": {
+            "title": "Trajets de fret",
+            "text": "Transport national et international, avec des fenêtres claires de chargement et de livraison."
+          },
+          "card2": {
+            "title": "Collaboration stable",
+            "text": "Conditions transparentes, accords clairs et vision de partenariat à long terme."
+          },
+          "card3": {
+            "title": "Intégration rapide (Onboarding)",
+            "text": "Nous analysons chaque candidature et revenons avec une réponse claire dans un court laps de temps."
+          }
+        },
+        "form": {
+          "badge": "Candidatures ouvertes",
+          "title": "Formulaire partenaire",
+          "subtitle": "Il se remplit en moins de 5 minutes. Nous répondons après analyse de tous les détails envoyés.",
+          "button": "Remplir le formulaire",
+          "paragraphs": [
+            "Après l'envoi du formulaire, nous vérifions la capacité de la flotte, les types d'itinéraires préférés et la disponibilité des équipages.",
+            "Quelle que soit la taille de votre flotte, chez Crystal Logistics, vous trouverez toujours des chargements disponibles et des itinéraires bien définis.",
+            "Notre vaste réseau de clients nous permet de vous offrir des opportunités de transport constantes, tant nationales qu'au sein de la Communauté.",
+            "Chaque jour apporte de nouvelles collaborations possibles pour des transports rentables, quel que soit le type de marchandise ou la destination."
+          ]
+        },
+        "Accordion": {
+          "title": "Avantages de la collaboration avec Crystal Logistics Services",
+          "intro": "Découvrez pourquoi de plus en plus de transporteurs choisissent Crystal Logistics pour augmenter leur efficacité et leurs revenus. Rejoignez-nous et bénéficiez des avantages d'un partenariat solide.",
+          "items": {
+            "class1": {
+              "title": "Accès à des milliers de marchandises, chaque jour",
+              "paragraphs": [
+                "Quelle que soit la taille de votre flotte, chez Crystal Logistics, vous trouverez toujours des chargements disponibles. Notre vaste réseau de clients nous permet de vous offrir des opportunités de transport constantes, tant au niveau national qu'au sein de la Communauté. Chaque jour apporte de nouvelles opportunités de collaboration pour des transports rentables, quel que soit le type de marchandise ou la destination.",
+                "Nos offres de fret sont mises à jour en temps réel, vous permettant de prendre des décisions rapides et de maintenir vos camions en mouvement. De plus, non seulement nous vous offrons l'accès à des milliers de marchandises, mais nous mettons également à votre disposition nos équipes dédiées qui vous fourniront un soutien continu dans la réalisation de chaque transport."
+              ]
+            },
+            "class2": {
+              "title": "Contrats de collaboration de service de traction à long terme, payés au kilomètre",
+              "paragraphs": [
+                "Si vous recherchez une stabilité financière et une collaboration à long terme, les contrats de type service de traction sont la solution idéale pour vous. Chez Crystal Logistics, nous vous garantissons un nombre minimal de kilomètres par mois, ce qui signifie des revenus constants et prévisibles pour votre entreprise.",
+                "Ce type de contrat vous offre une flexibilité dans le choix des trajets et du type de transport – qu'il s'agisse de transport national, de trajets Aller-Retour, ou de transport au sein de la Communauté, nous vous assurons des chargements constants et des paiements rapides pour chaque kilomètre parcouru."
+              ]
+            },
+            "class3": {
+              "title": "Paiements rapides et garantis",
+              "paragraphs": [
+                "L'un des plus grands avantages que nous offrons à nos transporteurs partenaires est le paiement rapide et garanti. Nous comprenons à quel point un flux de trésorerie constant est important pour votre entreprise, et nous nous engageons à assurer cela par des délais de paiement rapides et efficaces.",
+                "Chez Crystal Logistics, vous pouvez compter sur nous pour des paiements ponctuels, quel que soit le type de contrat choisi. Nous nous occupons de tous les aspects administratifs, afin que vous puissiez vous concentrer sur ce qui compte le plus – l'exploitation efficace de votre flotte."
+              ]
+            },
+            "class4": {
+              "title": "Avantages supplémentaires et remboursement des dépenses",
+              "paragraphs": [
+                "En collaborant avec Crystal Logistics Services, vous bénéficiez non seulement de paiements rapides et garantis, mais aussi de multiples avantages supplémentaires. Nous offrons des bonus attractifs pour les chargements et déchargements supplémentaires, ce qui peut augmenter considérablement le profit sur chaque trajet effectué.",
+                "Nous nous assurons également que toutes les dépenses liées aux péages routiers, ponts, ports et autorisations sont remboursées par nous, afin que vous n'ayez aucun souci supplémentaire dans la gestion de vos coûts opérationnels."
+              ]
+            },
+            "class5": {
+              "title": "Location de semi-remorques pour une flexibilité accrue",
+              "paragraphs": [
+                "L'expansion de la flotte peut être un processus coûteux, mais chez Crystal Logistics Services, nous vous offrons une alternative efficace – la possibilité de louer des semi-remorques lorsque vous en avez besoin. Ainsi, vous pourrez répondre rapidement à la demande du marché sans faire d'investissements initiaux majeurs.",
+                "Que vous ayez besoin de semi-remorques standard, méga ou frigorifiques, nous vous proposons des solutions flexibles et efficaces qui vous aideront à honorer toutes les commandes, augmentant ainsi votre capacité de transport."
+              ]
+            },
+            "class6": {
+              "title": "Assistance dédiée 24/7 et répartition professionnelle",
+              "paragraphs": [
+                "Non seulement nous vous offrons l'accès à des milliers de marchandises et à des contrats avantageux, mais nous sommes également à vos côtés tout au long des transports, veillant à ce que tous les trajets se déroulent sans problème. Notre équipe de répartiteurs est disponible 24/7 pour vous aider avec tout problème ou question lié au transport.",
+                "Que vous rencontriez des difficultés sur la route ou que vous ayez besoin de solutions rapides pour toute situation imprévue, nos répartiteurs expérimentés sont toujours prêts à intervenir et à vous offrir le soutien nécessaire."
+              ]
+            },
+            "class7": {
+              "title": "Cartes de carburant – solutions efficaces pour la réduction des coûts",
+              "paragraphs": [
+                "La réduction des dépenses opérationnelles est une priorité pour chaque transporteur, et Crystal Logistics Services vous aide en vous proposant des cartes de carburant. Celles-ci vous permettent d'acheter du carburant à des prix préférentiels, réduisant ainsi les coûts que vous engagez à chaque trajet.",
+                "En utilisant nos cartes de carburant, vous pourrez optimiser vos dépenses et augmenter la rentabilité à long terme."
+              ]
+            },
+            "class8": {
+              "title": "Flexibilité dans le choix du type de transport",
+              "paragraphs": [
+                "Un autre avantage majeur que nous offrons est la flexibilité dans le choix du type de transport. Que vous préfériez les trajets Aller-Retour, ou que vous souhaitiez opérer au sein de la Communauté ou au niveau national, chez Crystal Logistics Services, nous vous proposons des options variées et personnalisées.",
+                "Cette flexibilité vous permet d'ajuster l'activité de votre flotte en fonction des exigences du marché et de votre capacité opérationnelle, maximisant ainsi l'efficacité et augmentant les revenus."
+              ]
+            }
+          }
+        },
+        "Accordion2": {
+          "title": "Comment fonctionne le contrat de collaboration avec Crystal Logistics Services ?",
+          "intro": "Chez Crystal Logistics, nous offrons aux transporteurs la flexibilité de choisir le type de contrat qui leur convient le mieux, en fonction de leurs préférences et des objectifs de leur entreprise. Nous avons trois options de collaboration, chacune avec des avantages spécifiques et des bénéfices clairs, pour assurer la stabilité financière et des revenus constants.",
+          "items": {
+            "class_a": {
+              "title": "1. Aller-Retour (Import-Export) – Collaboration sur les itinéraires internationaux avec kilomètres garantis",
+              "paragraphs": [
+                "Les transports de type Aller-Retour impliquent des trajets internationaux où vos camions se déplaceront entre la Roumanie et divers pays de l'Union Européenne, ainsi qu'en dehors. Ces itinéraires sont idéaux pour ceux qui souhaitent obtenir une combinaison de trajets internationaux et nationaux, avec des avantages significatifs :",
+                "Ce type de collaboration vous offre une flexibilité dans la gestion des transports internationaux et vous aide à obtenir des profits constants avec des risques minimaux."
+              ],
+              "listItems": [
+                "Destinations incluses : la plupart des pays de l'UE, tels que l'Allemagne, la France, l'Italie, l'Espagne, les Pays-Bas, la Belgique, l'Autriche, la Hongrie, la Bulgarie, la Grèce, la Pologne, la République Tchèque, la Slovaquie, la Croatie, la Slovénie, mais aussi des pays non-UE : Suisse (CH), Turquie (TR), Royaume-Uni (GB), Norvège (NO).",
+                "Kilomètres garantis : Nous assurons un nombre minimal de kilomètres par mois, de sorte que vous ayez la certitude que votre flotte aura des revenus constants.",
+                "Paiements rapides : Vous bénéficiez de paiements garantis, rapides et sans retard, assurant ainsi une stabilité financière solide.",
+                "Avantages supplémentaires : Accès à des milliers de marchandises, bonus pour les chargements supplémentaires et remboursement des dépenses opérationnelles (péages routiers, ponts, ports)."
+              ]
+            },
+            "class_b": {
+              "title": "2. Communauté – Transports internationaux exclusifs sur le territoire européen",
+              "paragraphs": [
+                "La collaboration de type Communauté s'adresse aux transporteurs qui souhaitent opérer exclusivement sur des itinéraires internationaux, sans revenir en Roumanie pendant une période prolongée. Cette option est idéale pour maximiser les gains et optimiser les opérations.",
+                "Avec ce type de contrat, vous avez la flexibilité de vous concentrer sur les itinéraires internationaux, sans vous soucier du retour fréquent au pays, ce qui optimise le temps d'opération et maximise votre profit."
+              ],
+              "listItems": [
+                "Durée de collaboration : 2 mois de transports continus sur le territoire européen, couvrant plusieurs pays et destinations.",
+                "Péages routiers : Dans le cadre de ce type de contrat, Crystal Logistics paie séparément tous les péages routiers afférents aux transports, ce qui réduit considérablement vos coûts opérationnels.",
+                "Potentiel de gain le plus élevé : La collaboration au sein de la Communauté offre le plus grand potentiel de gain, compte tenu du grand nombre de kilomètres parcourus et des volumes constants de marchandises transportées.",
+                "Stabilité et sécurité financière : En plus des paiements rapides et sécurisés, nous vous offrons une assistance permanente et une répartition disponible 24/7, afin que vous puissiez vous concentrer sur vos trajets sans souci."
+              ]
+            },
+            "class_c": {
+              "title": "3. National – Transport exclusivement national",
+              "paragraphs": [
+                "Pour ceux qui souhaitent opérer exclusivement au niveau national, la collaboration de type National représente la solution la plus simple et la plus efficace. Elle vous permet de vous concentrer sur les itinéraires locaux, couvrant la demande de transport sur l'ensemble du territoire roumain.",
+                "La collaboration de type National vous offre l'opportunité de vous focaliser sur le marché local, maintenant un flux constant de transports et de profits."
+              ],
+              "listItems": [
+                "Stabilité à long terme : Nous offrons l'accès à du fret spot et à des contrats de transport national, assurant des trajets réguliers et des revenus constants.",
+                "Coûts d'exploitation réduits : S'agissant de transport national, les coûts opérationnels, y compris les péages routiers et les dépenses supplémentaires, sont plus faibles, ce qui signifie un profit plus élevé pour chaque trajet.",
+                "Solutions rapides et efficaces : Grâce à notre vaste réseau de clients en Roumanie, vos camions ne resteront jamais sans chargement. Nous assurons une planification efficace des trajets, vous permettant d'optimiser chaque jour d'opération."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Voulez-vous devenir partenaire?",
+          "messages": [
+            "Nous sommes prêts à collaborer avec des transporteurs sérieux et professionnels.",
+            "Discutons des opportunités disponibles."
+          ],
+          "buttonLabel": "Contactez-nous"
+        }
+      }
+    }
+  }
+}

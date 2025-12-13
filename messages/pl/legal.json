@@ -1,0 +1,585 @@
+{
+  "terms": {
+    "title": "Ogólne Warunki Handlowe",
+    "toggle": {
+      "clients": "Klienci",
+      "transporters": "Przewoźnicy"
+    },
+    "clients": {
+      "tableOfContents": "Spis treści",
+      "sections": [
+        {
+          "title": "1. Definicje",
+          "content": [
+            "„Ogólne Warunki Handlowe / OWH” – zbiór warunków umownych mających zastosowanie do wszystkich beneficjentów usług transportowych i usług powiązanych, które uzupełniają postanowienia umów spedycji i stanowią ich integralną część.",
+            "\"Crystal Logistics Services S.R.L.\", \"CLS\" lub \"Firma Spedycyjna\": Crystal Logistics Services S.R.L., z siedzibą w Bukareszcie, Sektor 1, Strada Dr. Iacob Felix, nr 49, Piętro S, Pokój 9, posiadająca unikalny kod rejestracyjny: 43944517, oraz numer w Rejestrze Handlowym: J40/4964/19.03.2021, EUID: ROONRC.J40/4964/2021, telefon: 0040.757.333.184, e-mail: acc@crystal-logistics-services.com, Crystal Logistics Services GmbH, z siedzibą w Strada Bahnhofstrasse, Nr 21, Zug, Szwajcaria, numer rejestracyjny CHE-217.611.963, telefon: 0040.757.333.184, e-mail: acc@crystal-logistics-services.com.",
+            "„Klient” – osoby prawne/fizyczne będące beneficjentami zlecenia transportowego lub usług powiązanych oferowanych przez CLS, niezależnie od tego, czy są nadawcą, właścicielem, zleceniodawcą, czy ostatecznym beneficjentem transportowanych towarów. Niniejsze OWH mają zastosowanie do wszystkich wyżej wymienionych kategorii osób, nawet jeśli zlecenie transportowe jest podpisane tylko przez jedną/niektóre z nich i mają obowiązek poinformowania się o transporcie towarów.",
+            "„Umowa Spedycji” to umowa, na mocy której Klient zleca CLS zawarcie, we własnym imieniu i na rachunek Klienta, jednego lub więcej zleceń transportowych i/lub usług dodatkowych, przez Crystal Logistics Services, dla Klienta, na warunkach określonych w umowie i OWH.",
+            "„Zlecenie transportowe” lub „Zlecenie” oznacza każdą pisemną prośbę przesłaną pocztą elektroniczną, faksem lub elektroniczną wymianą danych, na podstawie której określone zlecenie transportowe zostaje przydzielone firmie CLS, na podstawie Umowy Spedycji. Zlecenie transportowe zawarte bez Umowy Spedycji ma wartość prawną Umowy Spedycji. Zlecenie zostanie uznane za przyjęte po wyraźnej, pisemnej akceptacji. Rozpoczęcie realizacji zlecenia przez CLS w jakikolwiek sposób będzie uważane za dorozumiane potwierdzenie."
+          ]
+        },
+        {
+          "title": "2. Umowa Spedycji",
+          "content": [
+            "2.1. Przedmiotem Umowy Spedycji jest zawarcie, we własnym imieniu CLS i na rachunek Klienta, jednego lub więcej Zleceń transportu towarów i/lub usług dodatkowych, przez Crystal Logistics Services, dla Klienta, na warunkach określonych w Umowie Spedycji i OWH.",
+            "2.2. Umowa Spedycji jest umową, na mocy której Firma Spedycyjna zobowiązuje się zawrzeć, we własnym imieniu i na rachunek Klienta, jedną lub więcej umów przewozu i/lub wykonać operacje dodatkowe.",
+            "2.3. Firma Spedycyjna, która przyjmuje na siebie obowiązek wykonania transportu, własnymi środkami lub środkami innej strony, w całości lub w części, ma prawa i obowiązki przewoźnika.",
+            "2.4. Umowa Spedycji zawiera klauzule dotyczące zarówno samego transportu, jak i usług dodatkowych związanych z transportem.",
+            "2.5. Umowa Spedycji (umowa ramowa) wchodzi w życie z dniem jej podpisania. Indywidualne zlecenia transportowe wchodzą w życie z dniem bezwarunkowego przyjęcia oferty i wygasają z chwilą zapłaty wartości transportu. Jeżeli w ciągu jednej godziny od otrzymania oferty transportowej przez Klienta nie zostanie zgłoszona wyraźna pisemna odmowa wykonania zlecenia, zlecenie transportowe uważa się za ważnie zawarte z datą wysłania oferty.",
+            "2.6. Jakakolwiek zmiana warunków wykonania zlecenia bez pisemnej zgody Firmy Spedycyjnej nie będzie brana pod uwagę. Klient jest zobowiązany niezwłocznie powiadomić Firmę Spedycyjną o każdej zmianie informacji, które są w jakikolwiek sposób istotne dla prawidłowej realizacji spedycji towarów. W przeciwnym razie Klient poniesie wszelkie konsekwencje takiego zaniechania.",
+            "2.7. Dom Spedycyjny zobowiązuje się do renegocjacji zlecenia zgodnie ze zmianami żądanymi przez Klienta nie później niż 48 godzin przed datą załadunku. Po tym terminie nie będzie można już dokonać obniżenia ceny kontraktu, ponieważ 48 godzin przed datą załadunku Dom Spedycyjny zobowiązał się już do zapłaty kosztu transportu za pojemność transportową potrzebną Klientowi wobec swoich podwykonawców.",
+            "2.8. Ze względu na ogólne warunki na rynku transportowym, data załadunku i data rozładunku są szacunkowe, a daty te mogą ulec zmianie w zależności od konkretnej sytuacji napotkanej w trakcie transportu, takiej jak dodatkowe uwarunkowania lub odchylenia środka transportu na określonych odcinkach drogi, blokady ruchu, postoje w innych punktach załadunku/dostawy, niekorzystne warunki meteorologiczne, rutynowe kontrole środka transportu itp., a Klient rozumie, że te zmiany dat załadunku/rozładunku nie stanowią winy Firmy Spedycyjnej.",
+            "2.9. Podczas transportu wartość towarów jest ubezpieczona zgodnie z ubezpieczeniem używanego środka transportu. W przypadku, gdy całkowita wartość towarów przekracza wartość ubezpieczenia środka transportu, Klient może zażądać od Firmy Spedycyjnej (i) podniesienia limitu odpowiedzialności ubezpieczenia środka transportu do wysokości wartości towarów lub (ii) zawarcia ubezpieczenia cargo all risks. Obie usługi dodatkowe zostaną negocjowane w drodze aneksu i wymagają uiszczenia dodatkowej opłaty.",
+            "2.10. Ze względu na ogólne warunki na rynku transportowym, w przypadkach, gdy koszty świadczenia transportu wzrastają (na przykład z powodu opłat drogowych, kosztów paliwa, inflacji na rynku transportowym itp.), Firma Spedycyjna powiadomi o zaktualizowanej cenie w terminie 15 dni przed wykonaniem kolejnego zlecenia transportowego, a umowa spedycji jest kontynuowana tylko po akceptacji nowej ceny przez Klienta; w przeciwnym razie wygasa z mocy prawa."
+          ]
+        },
+        {
+          "title": "3. Obowiązki Firmy Spedycyjnej",
+          "content": [
+            "3.1. Firma Spedycyjna dołoży należytej staranności w celu organizacji i/lub wykonania transportu oraz świadczenia usług dodatkowych, zgodnie z instrukcjami Klienta, tak jak uzgodniono.",
+            "3.2. Firma Spedycyjna jest zobowiązana podjąć wszelkie niezbędne środki w celu ochrony interesów Klienta przez cały czas trwania świadczonych działań.",
+            "3.3. Firma Spedycyjna zapewnia, że jej podwykonawcy posiadają ważną polisę ubezpieczeniową CMR dla używanych środków transportu. W przypadku, gdy ubezpieczenie CMR podwykonawcy nie wchodzi w życie, Firma Spedycyjna korzysta z globalnej polisy ubezpieczeniowej CMR, z maksymalnym pokryciem w przypadku szkód wynoszącym 2,5 miliona EUR, w granicach wartości ubezpieczenia CMR używanego środka transportu.",
+            "3.4. W przypadku nieuzasadnionego opóźnienia w dotarciu towarów do miejsca przeznaczenia trwającego dłużej niż 3 dni robocze, Firma Spedycyjna zrekompensuje Klientowi kary umowne w wysokości 100 EUR / dzień roboczy.",
+            "3.5. Firma Spedycyjna musi być zorganizowana i posiadać niezbędne środki do wykonania swojej misji. Firma Spedycyjna przyjmuje na siebie obowiązek niezwłocznego przekazywania ofert transportowych na żądanie Klienta, z którym zawarła Umowę Spedycji, ilekroć jest to konieczne.",
+            "3.6. O ile nie uzgodniono inaczej, Firma Spedycyjna ma prawo swobodnie wybierać podwykonawców, a także sposoby transportu i użyte środki. Pośrednicy lub podwykonawcy, do których Firma Spedycyjna się odwołuje w celu wykonania swoich zobowiązań, są uważani za zaakceptowanych przez Klienta, chyba że ten ostatni wyraził sprzeciw przed rozpoczęciem realizacji transportu.",
+            "3.7. Firma Spedycyjna będzie przekazywać dokumenty transportowe (FAKTURA, CMR, a opcjonalnie T1, CEMT, KARNET TIR, AWIZE TOWARZYSZĄCE POTWIERDZONE PRZY ROZŁADUNKU, NOTY DOSTAWY, NOTA WAGOWA, TERMOGRAM) wyłącznie za pomocą elektronicznych środków komunikacji, na adres e-mail przesłany przez Klienta.",
+            "3.8. Obowiązkiem Firmy Spedycyjnej jest doradztwo dotyczące wyłącznie działalności transportowej i/lub usług dodatkowych, bez aspektów związanych z towarami w relacji z różnymi władzami (licencje import/eksport, autoryzacje, podwójne zastosowanie itp.).",
+            "3.9. Firma Spedycyjna zobowiązuje się do weryfikacji, czy jej podwykonawcy mocują towary w środku transportu w odpowiedni sposób, tak aby nie uległy uszkodzeniu podczas transportu.",
+            "3.10. W przypadku transportu towarów luzem, ogólnie dopuszczalny błąd ważenia przy rozładunku wynosi 100 kg. W przypadku stwierdzenia przy rozładunku za pomocą bonu wagowego różnicy ilości większej niż 100 kg, Firma Spedycyjna jest zobowiązana zażądać od przewoźnika odszkodowania w wysokości ceny brakującej ilości towaru powyżej progu 100 kg, poprzez odniesienie różnicy ilości do ceny transportowanego towaru w celu zrekompensowania Klientowi.",
+            "3.11. Firma Spedycyjna ma obowiązek regulowania faktur w terminach ustalonych w umowach z jej podwykonawcami."
+          ]
+        },
+        {
+          "title": "4. Obowiązki Klienta",
+          "content": [
+            "4.1. Klient gwarantuje Firmie Spedycyjnej, w momencie przejęcia przez nią towarów, dokładność wszystkich szczegółów związanych z ogólnym charakterem towarów, znakami, numerem, wagą, objętością i ilością, a w stosownych przypadkach, z niebezpiecznym charakterem towarów, zgodnie z danymi dostarczonymi przez niego lub w jego imieniu.",
+            "4.2. Klient jest odpowiedzialny za sposób sporządzenia, poprawność i pozorną legalność dokumentów, które udostępnia Firmie Spedycyjnej, takich jak, ale nie ograniczając się do, faktur handlowych, list specyfikacyjnych itp. Zgodnie z obowiązującymi aktualizacjami O.U.G. nr 41/2022, w przypadku, gdy transportowany towar należy do jednej z kategorii wysokiego ryzyka podatkowego (BRFR), Klient ma obowiązek terminowego dostarczenia kodów UIT, wypełnienia wszystkich obowiązków prawnych dotyczących Krajowego Systemu RO e-Transport i będzie ponosił odpowiedzialność wobec Firmy Spedycyjnej i/lub jej podwykonawców w przypadku nałożenia na nich sankcji z powodu niewypełnienia obowiązku raportowania.",
+            "4.3. Klient jest zobowiązany przekazać Firmie Spedycyjnej na piśmie, a najpóźniej w momencie potwierdzenia zlecenia, wszystkie szczegóły dotyczące wykonania zlecenia: rodzaj, wagę, objętość, wartość i opakowanie towarów, szczegóły dotyczące harmonogramu załadunku/rozładunku, precyzyjne terminy załadunku/rozładunku oraz inne specjalne warunki transportu towaru. Instrukcje podlegają akceptacji Firmy Spedycyjnej. Uważa się je jednak za przyjęte, jeśli po ich otrzymaniu Firma Spedycyjna przystąpiła do wykonania. Ciężar dowodu dotyczącego specjalnych instrukcji przekazanych Firmie Spedycyjnej spoczywa na Kliencie.",
+            "4.4. Klient będzie ponosił odpowiedzialność wobec Firmy Spedycyjnej i zrekompensuje jej wszystkie koszty, wydatki i opłaty urzędowe związane ze wszystkimi szkodami, wynikającymi z nieprawidłowych, niekompletnych lub opóźnionych informacji lub instrukcji dostarczonych przez Klienta, lub z przekazania przez Klienta lub jakąkolwiek osobę działającą w jego imieniu, Firmie Spedycyjnej lub jakiejkolwiek innej osobie, wobec której Firma Spedycyjna może być odpowiedzialna, towarów, które spowodowały uszkodzenie mienia, środków transportu i środowiska lub inną stratę.",
+            "4.5. Klient musi przekazać towary opakowane, oznaczone, etykietowane, tak aby wytrzymały operacje transportowe i/lub dodatkowe i mogły zostać dostarczone do odbiorcy zgodnie z Umową Spedycji.",
+            "4.6. W przypadku stwierdzenia w miejscu przeznaczenia strat, uszkodzeń lub jakichkolwiek szkód wyrządzonych towarowi, w tym tych spowodowanych opóźnieniem transportu, gdy uzgodniono wykonanie transportu w określonym terminie, odbiorca lub osoby odbierające towar mają obowiązek przystąpić do stwierdzenia szkód i dopełnienia wymaganych formalności, w tym do zgłoszenia zastrzeżeń prawnych wobec przewoźnika, a także podjąć inne środki zapewniające zachowanie prawa do roszczeń i działań w celu odzyskania odszkodowania, zgodnie z warunkami międzynarodowych przepisów transportowych. W przypadku, gdy Klient korzysta z odszkodowania przyznanego za pośrednictwem globalnego ubezpieczenia CMR Firmy Spedycyjnej, będzie zobowiązany do uiszczenia franszyz lub innych kosztów żądanych przez firmę ubezpieczeniową.",
+            "4.7. W przypadku odmowy przyjęcia towaru przez odbiorcę lub w przypadku jego nieobecności, niezależnie od przyczyny, Klient jest zobowiązany do pokrycia ceny transportu, usług dodatkowych, a także dodatkowych kosztów, poniesionych lub zaciągniętych przez Firmę Spedycyjną do momentu zakończenia transportu, w tym dodatkowych usług postoju środka transportu/magazynowania do czasu przyjęcia towaru przez odbiorcę.",
+            "4.8. W przypadku, gdy Firma Spedycyjna zleca w imieniu Klienta operacje celne, to Klient gwarantuje agentowi celnemu zapłatę długu celnego i/lub nałożonych kar, wynikających z dostarczenia błędnych instrukcji lub dokumentów.",
+            "4.9. W przypadku, gdy Firma Spedycyjna, w wyniku nieprzewidzianych okoliczności, działa w interesie Klienta w celu ochrony jego praw i integralności jego towarów, dodatkowe koszty i opłaty zostaną poniesione przez Klienta.",
+            "4.10. Klient poinformuje Firmę Spedycyjną o ewentualnym cesji praw i obowiązków wynikających z umowy spedycji na rzecz osoby trzeciej.",
+            "4.11. Jeśli Klient anuluje zlecenie lub odstąpi od umowy przed rozpoczęciem realizacji transportu, zrekompensuje Domowi Spedycyjnemu 30% wartości transportu dla środków transportu o masie od 3,5 do 40 ton i 50% wartości transportu dla naczep ponadgabarytowych / podwozi kontenerowych, stanowiące koszty organizacji, do których dodaje się koszty już poniesione przez Dom Spedycyjny na przeprowadzenie załadunku, rozładunku i transportu (wynajem maszyn, formalności celne, zezwolenia, postój, dyslokacja itp.), przy czym całkowita wartość tych kosztów nie może być mniejsza niż 500 EUR.",
+            "4.12. Czas wolny w miejscu załadunku / rozładunku wynosi 4 godziny dla środków transportu o masie od 3,5 do 40 ton i 2 godziny dla naczep ponadgabarytowych / podwozi kontenerowych. Jeśli postój ciężarówki/środka transportu w miejscu załadunku/rozładunku przekroczy ten termin, Klient poniesie kary za postój w wysokości (i) 50 EUR/godzinę dla środków o masie od 3,5 do 40 ton lub (ii) 100 EUR/godzinę dla naczep ponadgabarytowych / podwozi kontenerowych, do końca dnia roboczego. Jeśli operacja zostanie przeprowadzona następnego dnia, kary wynoszą (i) 350 EUR/dzień lub (ii) 750 EUR/dzień, w zależności od przypadku. Klient jest winien wszelkie dodatkowe kary wystawione przez podwykonawcę. Kary za postój mogą przekroczyć cenę kontraktu.",
+            "4.13. Klient ma obowiązek dostarczyć kod UIT najpóźniej w dniu załadunku. W przypadku jego braku transport może oczekiwać na granicy, generując dodatkowe koszty, w całości ponoszone przez Klienta. W przypadku braku dostarczenia kodu UIT, Klient odpowiada za wszystkie nałożone kary zarówno na siebie, jak i na przewoźnika. Przewoźnik nie może realizować dostaw międzynarodowych bez posiadania kodu UIT niezbędnego do formalności celnych."
+          ]
+        },
+        {
+          "title": "5. Odprawy Celne",
+          "content": [
+            "5.1. Firma Spedycyjna może przewidzieć w Umowie Spedycji również operacje agenta celnego, jeśli posiada legalne uprawnienia, lub może zatrudnić agenta celnego. Do tej działalności Firma Spedycyjna musi przestrzegać wszystkich wymogów obowiązującego prawa celnego, uzgodnić na piśmie z Klientem niezbędne gwarancje i przedstawienie dokumentów przewidzianych prawem.",
+            "5.2. Za tę działalność Klient jest winien opłaty uzgodnione między stronami, oprócz opłat przewidzianych w punkcie 4.8."
+          ]
+        },
+        {
+          "title": "6. Warunki Płatności",
+          "content": [
+            "6.1. Płatność za transport i inne usługi dokonywana jest przez Klienta na podstawie faktury wystawionej przez Firmę Spedycyjną. Termin uregulowania kwot zafakturowanych jest określony w każdym indywidualnym zleceniu transportowym (przed załadunkiem / przed rozładunkiem towaru ze środka transportu / w dacie przekazania dokumentów transportowych / w stałym terminie dni od daty transportu), ale nie może przekroczyć maksymalnego terminu 30 dni kalendarzowych.",
+            "6.2. W sytuacji, gdy uzgodniony termin płatności jest po załadunku lub pokrywa się z momentem rozładunku (0 dni od rozładunku), Beneficjent ma obowiązek dokonania pełnej płatności przed rozpoczęciem operacji rozładunku towaru ze środka transportu. Ciężarówka będzie oczekiwać 30 minut na pobranie wartości transportu. Firma Spedycyjna ma prawo nie rozładować towaru i pobrać opłatę w wysokości 50 EUR/godzinę za postój do czasu pełnej zapłaty ceny kontraktu. Brak terminowej zapłaty ceny Umowy Spedycji i postój środka transportu w miejscu rozładunku / magazynowanie towaru generuje dodatkowe koszty dla Klienta zgodnie z art. 8.3. poniżej.",
+            "6.3. Klient jest w stosunkach umownych wyłącznie z Firmą Spedycyjną, a nie z jej podwykonawcami (takimi jak przewoźnicy), w związku z czym cena Umowy Spedycji zostanie uznana za uregulowaną tylko w przypadku zapłaty na konto Firmy Spedycyjnej. W wyjątkowych przypadkach, gdy zapłata ceny kontraktu jest możliwa tylko w gotówce, Klient uiści wartość kontraktu przewoźnikowi wyłącznie za pisemną zgodą Firmy Spedycyjnej. Jeśli Klient dokona płatności gotówką ceny kontraktu podwykonawcom bez zgody Firmy Spedycyjnej lub bez żądania pokwitowania przy płatności, płatność nie zostanie uwzględniona i nie będzie możliwa do wyegzekwowania wobec Firmy Spedycyjnej.",
+            "6.4. Brak terminowej zapłaty wartości usługi świadczonej przez Firmę Spedycyjną pociąga za sobą kary za opóźnienie w wysokości 1% ceny kontraktu za każdy dzień zwłoki, kary obliczone od daty wysłania faktury przez CLS e-mailem, do daty dokonania pełnej płatności. Kary za opóźnienie obliczone od daty wymagalności do daty faktycznej płatności mogą przekroczyć kwotę należnego długu.",
+            "6.5. Jeśli negocjowana cena była w EUR, faktura zostanie wystawiona zarówno w EUR, jak i w RON, według kursu BNR z dnia wystawienia."
+          ]
+        },
+        {
+          "title": "7. Następcze Umowy Spedycji",
+          "content": [
+            "7.1. Umowa Spedycji ma skutki umowy ramowej w odniesieniu do każdego indywidualnego zlecenia transportowego, które jest uzupełniane postanowieniami Umowy Spedycji i OWH.",
+            "7.2. W trakcie trwania Umowy Spedycji, Firma Spedycyjna zobowiązuje się do zrealizowania każdego indywidualnego zlecenia transportowego przesłanego przez Klienta w odpowiednim czasie i do przestrzegania ceny przewidzianej w Umowie Spedycji lub, jeśli cena jest pozostawiona do swobodnego oferowania, do oferowania jak najbardziej konkurencyjnych cen dla swojego Klienta. W zamian za tę usługę, Klient nie może żądać ofert ani zawierać zleceń transportowych z innymi dostawcami w odniesieniu do transportów będących przedmiotem niniejszej umowy, z wyjątkiem przypadku, gdy Firma Spedycyjna, z wyjątkowych powodów, nie jest w stanie zrealizować tego zlecenia.",
+            "7.3. W przypadku, gdy Klient został zmuszony do zawarcia pojedynczego zlecenia transportowego będącego przedmiotem umowy z innym dostawcą podobnych usług z winy Firmy Spedycyjnej zgodnie z art. 7.2. powyżej, ta ostatnia zobowiązuje się zrekompensować Klientowi różnicę w cenie faktycznie zapłaconej przez Klienta dostawcy zewnętrznemu oraz cenę, którą Firma Spedycyjna zaoferowałaby zgodnie z Umową Spedycji, do limitu 500,00 Euro.",
+            "7.4. Umowa Spedycji może być wypowiedziana jednostronnie poprzez przesłanie pisemnego powiadomienia w tym celu przez którąkolwiek ze Stron. Umowa Spedycji może zostać rozwiązana z powodu niewykonania/nieprawidłowego wykonania poprzez przesłanie pisemnego powiadomienia w tym celu przez stronę uprawnioną, przy czym umowa wygasa w terminie 30 dni kalendarzowych od daty przesłania powiadomienia, chyba że w tym terminie strona winna wykona/naprawi świadczenia. Wypowiedzenie/rozwiązanie/wygaśnięcie umowy z jakichkolwiek przyczyn nie ma wpływu na zlecenia już wykonane lub w trakcie realizacji, a te zostaną zrealizowane zgodnie z umową.",
+            "7.5. Strony mają wzajemny obowiązek lojalności w zakresie wykonania Umowy Spedycji i nie mogą dokonywać aktów/faktów, które mogłyby zaszkodzić jej prawidłowej realizacji. Klient nie może inicjować negocjacji/zawierać umów transportowych bezpośrednio z podwykonawcami CLS, pod rygorem wygaśnięcia Umowy Spedycji z mocy prawa i zapłaty odszkodowania ustalonego umownie na kwotę 25.000 Euro, stanowiącego niezrealizowany zysk CLS z całości pośrednictw, które mogłyby zostać zrealizowane zgodnie z niniejszą umową."
+          ]
+        },
+        {
+          "title": "8. Prawo Zastawu i Retencji",
+          "content": [
+            "8. Prawo Zastawu i Prawo Retencji",
+            "8.1. Firma Spedycyjna posiada ustawowe prawo zastawu i retencji na towarach i wszelkich związanych z nimi dokumentach, za wszelkie kwoty pieniężne należne w dowolnym momencie Firmie Spedycyjnej lub jej podwykonawcom (których reprezentuje w stosunku do Klienta) wynikające ze świadczonych usług transportowych.",
+            "8.2. Prawo retencji wygasa, jeśli zainteresowana strona zdeponuje do dyspozycji Firmy Spedycyjnej cenę transportu i równowartość wszystkich należnych dodatkowych kosztów/kar lub zaoferuje posiadaczowi wystarczającą gwarancję. Wszystkie koszty powstałe w związku z wykonywaniem prawa retencji/zastawu, w tym, ale nie ograniczając się do: kosztów magazynowania, manipulacji, przekierowania pojazdu, czasu postoju, zostaną poniesione przez Klienta, a wartość rekompensaty za poniesione koszty zostanie uregulowana przed rozładunkiem towarów i ich przedstawieniem odbiorcy.",
+            "8.3. Prawo retencji do czasu uregulowania powyższych kosztów jest wykonywane po upływie czasu wolnego na rozładunek lub w przypadku wyraźnej odmowy / braku odpowiedzi dotyczącej zapłaty ceny Umowy Spedycji, w zależności od najbardziej wykonalnej opcji, poprzez (i) postój środka transportu w miejscu załadunku/rozładunku, z Klientem płacącym 500 EUR/dzień postoju lub (ii) magazynowanie towarów w wybranym przez Firmę Spedycyjną magazynie, z Klientem płacącym 90 EUR+VAT/tona/dzień magazynowania, w tym koszty magazynowania i manipulacji towarów lub (iii) w jakikolwiek inny rozsądny sposób, w tym sprzedaż lub zniszczenie towarów.",
+            "8.4. CLS będzie mogła, w dowolnym momencie, skorzystać z prawa retencji/zastawu na towarach i dokumentach towarzyszących, jako zabezpieczenia płatności każdej innej sumy należnej zgodnie ze zleceniem, w tym kosztów jej odzyskania. To prawo retencji/zastawu może być wykonywane nie tylko z powodu braku płatności związanej z daną usługą, ale może być również rozszerzone na wszelkie istniejące zobowiązania, w dowolnym momencie, w tym w ramach innych umów. Jeśli między stronami zawartych jest kilka kolejnych umów spedycji/transportu, są one uważane za świadczenia stanowiące część ramowej umowy spedycji/transportu z tym konkretnym Klientem, z poszanowaniem warunków umownych uzgodnionych w pierwszej umowie spedycji/transportu i uzupełnionych o te negocjowane przez strony w korespondencji. CLS może powoływać się na prawa wynikające z niniejszej sekcji w odniesieniu do każdego transportu będącego częścią umów spedycji/transportu zawartych z tym Klientem, do czasu pełnej zapłaty za wszystkie świadczone usługi transportowe.",
+            "8.5. W powyższej hipotezie CLS nie będzie odpowiedzialne za opóźnienia w dostawie towarów ani za jakiekolwiek dodatkowe koszty powstałe dla odbiorcy, których ten ostatni zażądał lub będzie mógł zażądać od Beneficjenta, ani za jakąkolwiek inną szkodę poniesioną przez niego."
+          ]
+        },
+        {
+          "title": "9. Siła Wyższa",
+          "content": [
+            "9.1. Strony umowy nie będą odpowiedzialne za nieterminowe i/lub niewłaściwe, całkowite lub częściowe niewykonanie któregokolwiek z ich zobowiązań, jeśli niewykonanie danego zobowiązania zostało spowodowane przez zdarzenie nieprzewidywalne w dacie zawarcia Umowy Spedycji i którego konsekwencje są nieuniknione dla strony, która je powołuje.",
+            "9.2. Strona powołująca się na siłę wyższą jest zobowiązana niezwłocznie i w całości powiadomić drugą stronę o jej wystąpieniu i podjąć wszelkie dostępne jej środki w celu ograniczenia konsekwencji danego zdarzenia.",
+            "9.3. Przypadki siły wyższej zwalniają Firmę Spedycyjną, na czas ich trwania, z zobowiązań, które są dotknięte tymi okolicznościami. W takich przypadkach Firma Spedycyjna lub Klient mają prawo rozwiązać Umowę Spedycji, nawet jeśli została ona częściowo zrealizowana. Jeśli Firma Spedycyjna lub Klient żąda rozwiązania umowy, Firma Spedycyjna ma prawo do zapłaty wszystkich kosztów poniesionych przez nią w celu wykonania umowy do daty jej rozwiązania.",
+            "9.4. Strona, która powołała się na siłę wyższą, musi to udowodnić w terminie maksymalnie 5 dni od daty jej ustania."
+          ]
+        },
+        {
+          "title": "10. Spory",
+          "content": [
+            "10.1. Wszelkie spory z firmą Crystal Logistics Services wynikające z Umowy Spedycji, których nie uda się rozwiązać polubownie, zostaną rozstrzygnięte przez właściwy sąd powszechny w siedzibie CLS.",
+            "10.2. Klauzula ta jest klauzulą alternatywną dla ustalenia właściwości. W przypadku, gdy CLS złoży jakiekolwiek roszczenie sądowe związane z Umową Spedycji/Zleceniem transportowym w jurysdykcji Klienta, rozumie się, że CLS zrzekło się prawa do złożenia takiego roszczenia przed sądami właściwymi dla siedziby CLS."
+          ]
+        },
+        {
+          "title": "11. Postanowienia Końcowe",
+          "content": [
+            "11.1. Klient nie może kontaktować się bezpośrednio/pośrednio z podwykonawcami Domu Spedycyjnego bez zgody tego ostatniego. W przypadku, gdy Klient wykorzystuje know-how i logistykę Firmy Spedycyjnej do wykonania transportu z podwykonawcą Firmy Spedycyjnej wyznaczonym w tym celu, Klient nadal będzie zobowiązany do zapłaty ceny Umowy Spedycji Firmie Spedycyjnej, tytułem odszkodowania. Firma Spedycyjna nie będzie mogła być pociągnięta do odpowiedzialności za usługi transportowe zawarte w takich warunkach."
+          ]
+        },
+        {
+          "title": "12. Przetwarzanie Danych Osobowych",
+          "content": [
+            "Firma CLS, jako dostawca usług, informuje, że przetwarzane w firmie dane osobowe będą wykorzystywane wyłącznie w celu wykonania umowy o świadczenie usług transportowych, zgodnie z Art. 6 ust. (1) lit. b) Rozporządzenia (UE) 2016/679 w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych. Przetwarzane dane mogą obejmować: imię i nazwisko, adres zamieszkania/pobytu, adres e-mail, numer telefonu, numer konta bankowego, kod Klienta, historię faktur itp. CLS przetwarza dane osobowe swoich Klientów w pełnej zgodności z przepisami prawa, a dane te nie są przekazywane osobom trzecim, a jedynie podwykonawcom w celu wykonania umowy transportowej. W niektórych sytuacjach dane osobowe są lub mogą być przekazywane centralnym / lokalnym organom i instytucjom publicznym (np. Krajowej Agencji Administracji Skarbowej, organom policji, prokuraturom i sądom). CLS będzie przetwarzać Państwa dane osobowe przez cały okres trwania zawartej z Państwem umowy, a także przez 3 lata po jej rozwiązaniu (na wypadek ewentualnych zapytań lub innych działań po ustaniu stosunku umownego). Niemniej jednak, ze względu na swoje obowiązki prawne, CLS będzie przechowywać i archiwizować niektóre dane osobowe swoich Klientów przez dłuższe okresy, zgodnie z przepisami podatkowymi i rachunkowymi. Zgodnie z Rozporządzeniem UE 679/2016 przysługują Państwu następujące prawa: żądania dostępu do przetwarzanych danych osobowych; żądania sprostowania lub usunięcia danych lub ograniczenia przetwarzania, zgodnie z prawem; korzystania z przenoszenia danych; wniesienia skargi do Organu Nadzorczego lub zwrócenia się do sądów."
+          ]
+        }
+      ]
+    },
+    "transporters": {
+      "title": "Ogólne Warunki Handlowe dla Przewoźników",
+      "tableOfContents": "Spis treści",
+      "sections": {
+        "1": {
+          "title": "1. Definicje",
+          "content": [
+            "\"Crystal Logistics Services S.R.L.\", \"CLS\" lub \"Firma Spedycyjna\": Crystal Logistics Services S.R.L., z siedzibą w Bukareszcie, Sektor 1, Strada Dr. Iacob Felix, nr 49, Piętro S, Pokój 9, posiadająca unikalny kod rejestracyjny: 43944517, oraz numer w Rejestrze Handlowym: J40/4964/19.03.2021, EUID: ROONRC.J40/4964/2021, telefon: 0040.757.333.184, e-mail: , Crystal Logistics Services GmbH, z siedzibą w Strada Bahnhofstrasse, Nr 21, Zug, Szwajcaria, numer rejestracyjny CHE-217.611.963, telefon: 0040.757.333.184, e-mail: .",
+            "„Przewoźnik”: Osoba prawna świadcząca usługi transportu towarów na podstawie Zlecenia lub Umowy Transportowej z CLS.",
+            "„Umowa Transportowa” lub „Zlecenie”: Zgoda stron między CLS a Przewoźnikiem, zmaterializowana w formie pisemnego zlecenia (e-mail, faks itp.) lub umowy ramowej, na mocy której Przewoźnik zobowiązuje się do świadczenia usług transportu towarów na uzgodnionych warunkach.",
+            "„Strony”: Oznacza CLS i Przewoźnika, razem.",
+            "„Klient Końcowy”: Beneficjent transportu, nadawca (shipper) lub odbiorca (consignee) towaru, który ma stosunek umowny z CLS.",
+            "„POD” (Proof of Delivery): Zestaw dokumentów potwierdzających wykonanie transportu, w tym, ale nie ograniczając się do: oryginalnie potwierdzony CMR, faktura, T1, CEMT, awiza, noty wagowe, termogram itp."
+          ]
+        },
+        "2": {
+          "title": "2. Zawarcie i Przedmiot Umowy",
+          "content": [
+            "2.1. Przedmiot Umowy: Przedmiotem umowy jest świadczenie usług transportu towarów przez Przewoźnika dla CLS, zgodnie ze szczegółami określonymi w każdym Zleceniu.",
+            "2.2. Wejście w życie: Umowę uważa się za zawartą i wchodzi w życie w jednej z następujących sytuacji, w zależności od tego, która nastąpi wcześniej:\n   a) W dacie podpisania przez obie Strony.\n   b) W dacie bezwarunkowego przyjęcia przez Przewoźnika oferty/zlecenia przekazanego przez CLS.\n   c) W przypadku braku wyraźnej odmowy ze strony Przewoźnika w terminie jednej godziny od otrzymania Zlecenia.\n   d) Przez rozpoczęcie realizacji kursu przez Przewoźnika (stawienie się w miejscu załadunku).\n"
+          ]
+        },
+        "3": {
+          "title": "3. Cena i Warunki Płatności",
+          "content": [
+            "3.1. Cena: Cena usługi transportowej jest ceną wyraźnie określoną w każdym Zleceniu uzgodnionym przez Strony. Cena jest stała i nie może być jednostronnie zmieniana.",
+            "3.2. Renegocjacja Ceny: Renegocjacja ceny może nastąpić tylko na wyraźne żądanie CLS, w odpowiednim czasie przed datą załadunku, w przypadku konieczności zmniejszenia lub uzupełnienia ilości towaru.",
+            "3.3. Warunki Płatności: Płatność zostanie dokonana zgodnie z terminem płatności (terminem wymagalności) określonym w Zleceniu.",
+            "3.4. Przekazanie Dokumentów (POD):\n   a) Przewoźnik ma obowiązek przesłać kompletny zestaw dokumentów (POD) na adres korespondencyjny CLS oraz w formie elektronicznej na acc@crystal-logistics-services.com, w terminie 15 dni od daty dostawy.\n   b) Kara za opóźnienie: W przypadku nieotrzymania oryginałów dokumentów w terminie 15 dni, termin płatności faktury zostaje automatycznie wydłużony o 45 dni, bez konieczności wcześniejszego powiadomienia.\n   c) Niezgodności: Jeśli dokumenty są nieczytelne, niekompletne, błędne lub wykazują jakąkolwiek inną niezgodność, termin płatności zostanie obliczony od daty otrzymania przez CLS poprawnych i kompletnych dokumentów w oryginale.\n   d) Płatność elektroniczna: Odbiór dokumentów wyłącznie w formie elektronicznej jest akceptowany tylko, jeśli taka możliwość jest wyraźnie określona w Zleceniu.\n",
+            "3.5. Faktura Fiskalna:\n   a) Faktura zostanie wystawiona z datą rozładunku towaru.\n   b) Faktura musi obowiązkowo zawierać numer zlecenia CLS oraz wartość zarówno w RON, jak i w EUR. \n   c) Faktury nieczytelne, niepoprawne lub nie zawierające wymaganych informacji zostaną odrzucone do zapłaty, a termin wymagalności zostanie przeliczony od daty otrzymania poprawnej faktury.\n",
+            "3.6. Płatność gotówką: Płatność gotówką nie jest akceptowana, chyba że istnieje wcześniejsza, pisemna zgoda CLS."
+          ]
+        },
+        "4": {
+          "title": "4. Ogólne Warunki Transportu",
+          "content": [
+            "4.1. Stan Techniczny Środka Transportu: Przewoźnik gwarantuje, że używany środek transportu jest w odpowiednim stanie technicznym, czysty, suchy, bez obcych zapachów i posiada niezbędną zdolność załadunkową, w tym rezerwę 3,5 tony na sprzęt do manipulacji (wózek widłowy). CLS nie ponosi odpowiedzialności za stan techniczny pojazdu.",
+            "4.2. Weryfikacja Towaru przy Załadunku: Kierowca ma obowiązek zweryfikować i upewnić się co do integralności, ilości i widocznego stanu towaru zgodnie z dokumentami transportowymi. Jakakolwiek niezgodność (szkody, braki) musi być odnotowana w CMR i natychmiast zgłoszona do CLS przed opuszczeniem miejsca załadunku. Załadunek nie będzie kontynuowany bez wyraźnej zgody CLS.",
+            "4.3. Załadunek, Zabezpieczenie i Manipulacja: Kierowca jest odpowiedzialny za nadzór nad prawidłowym załadunkiem, rozmieszczeniem, rozkładem masy na osiach i odpowiednim zabezpieczeniem (mocowaniem) ładunku w pojeździe, aby zapobiec jakimkolwiek uszkodzeniom podczas transportu. Przewoźnik ponosi pełną odpowiedzialność za integralność towarów aż do ostatecznej dostawy.",
+            "4.4. Nadzór i Bezpieczeństwo Ładunku:\n   a) Nadzór: Kierowca jest zobowiązany do zapewnienia ochrony i bezpieczeństwa ładunku przez cały czas trwania transportu, w tym poprzez niepozostawianie pojazdu bez nadzoru.\n   b) Zabezpieczony Parking: Załadowane pojazdy muszą być parkowane wyłącznie na zabezpieczonych parkingach (ogrodzonych, oświetlonych, z monitoringiem wideo i kontrolą dostępu). Trasa musi być zaplanowana w taki sposób, aby okresy odpoczynku odbywały się na takich parkingach.\n   c) Urządzenia Antykradzieżowe: W przypadku braku zabezpieczonego parkingu, obowiązkowe jest zainstalowanie i aktywowanie co najmniej dwóch niezależnych urządzeń antykradzieżowych (mechanicznych lub elektronicznych). Standardowy zamek drzwi i kluczyk zapłonu nie są uważane za urządzenia antykradzieżowe.\n",
+            "4.5. Czas Wolny na Załadunek/Rozładunek: Czas wolny przyznany na operacje załadunku i rozładunku wynosi 48 godzin roboczych. Każdy dodatkowy postój musi być natychmiast zgłoszony do CLS i odnotowany w CMR. Za przekroczenie tego terminu Przewoźnikowi przysługuje odszkodowanie w wysokości 100 EUR/dzień roboczy.",
+            "4.6. Rodzaje Transportu:\n   a) FTL (Full Truck Load): Zabrania się załadunku innych towarów do pojazdu poza tymi określonymi w Zleceniu. Naruszenie tej klauzuli pociąga za sobą pełną odpowiedzialność Przewoźnika, który będzie zobowiązany do zapłaty pełnej wartości usługi transportowej i wyrządzonych szkód.\n   b) LTL (Less than Truck Load): Przewoźnik zapewni, że wspólnie załadowane towary są kompatybilne, aby zapobiec wzajemnemu zanieczyszczeniu lub uszkodzeniu (np. ADR, żywność, odpady).\n",
+            "4.7. Transport w Kontrolowanej Temperaturze (Chłodnia):\n   a) Temperatura musi być sprawdzona przy załadunku i utrzymywana stale przez cały czas trwania transportu, zgodnie ze specyfikacjami w Zleceniu.\n   b) Termogram jest obowiązkowy przy rozładunku i musi zostać przesłany wraz z resztą dokumentów POD. Nieprzestrzeganie tego warunku prowadzi do niezapłacenia za transport.\n\n",
+            "4.8. Transport Towarów Luzem: Maksymalny dopuszczalny błąd ważenia przy rozładunku wynosi 60 kg. Za każdy brak przekraczający ten limit, Przewoźnik zrekompensuje CLS zarówno równowartość brakującego towaru, jak i proporcjonalne obniżenie ceny transportu, proporcjonalne do ilości niedostarczonej.",
+            "4.9. Transport Towarów Niebezpiecznych (ADR): Przewoźnik gwarantuje, że posiada wszystkie niezbędne zezwolenia, wyposażenie i certyfikaty (w tym zaświadczenie o przeszkoleniu kierowcy) do wykonania transportu w pełnej zgodności z Konwencją ADR.",
+            "4.10. Towary Podejrzane/Uszkodzone: W przypadku towarów uszkodzonych lub podejrzanych (w tym w transportach z migrantami), rozładunek jest zabroniony bez pisemnej zgody CLS. Przewoźnik będzie postępował zgodnie z instrukcjami CLS dotyczącymi zwrotu, weryfikacji lub zniszczenia towaru, przy czym wszystkie koszty ponosi Przewoźnik.",
+            "4.11. System RO e-Transport: W przypadku towarów o wysokim ryzyku podatkowym (BRFR), Przewoźnik ma obowiązek zapewnienia transferu danych o położeniu pojazdu i uzyskania kodu UIT przed wjazdem na terytorium Rumunii. Przewoźnik ponosi pełną odpowiedzialność za wszelkie kary lub konsekwencje finansowe (w tym konfiskatę towaru) wynikające z nieprzestrzegania tego obowiązku.",
+            "4.12. Transporty Pozawspólnotowe: Przewoźnik ma obowiązek stawić się w urzędach celnych wskazanych przez CLS w celu dopełnienia formalności. Nieprzestrzeganie tego wskazania pociąga za sobą stałą karę w wysokości 500 EUR na rzecz CLS, do której dodaje się wszelkie inne wyrządzone szkody.",
+            "4.13. Zmiany Okoliczności: Cena kontraktu pozostaje niezmieniona niezależnie od ilości faktycznie załadowanej. Jeśli przy załadunku zostanie stwierdzona większa ilość, kierowca musi powiadomić CLS i nie ładować dodatkowo bez pisemnej zgody. Naruszenie tej zasady prowadzi do utrzymania ceny za towar w nadmiarze i obniżenia ceny za towar w niedoborze.",
+            "4.14. Przeładunek Towarów: Przeładunek jest surowo zabroniony bez wcześniejszej, pisemnej zgody CLS. Naruszenie pociąga za sobą karę w wysokości 1.000 EUR, plus wartość wszelkich powstałych szkód."
+          ]
+        },
+        "5": {
+          "title": "5. Obowiązki Stron",
+          "content": [
+            "5.1. Obowiązki Przewoźnika:\n   a) Komunikacja: Dostarczanie CLS informacji o pozycji ciężarówki za każdym razem, gdy jest to wymagane, oraz utrzymywanie stałego kontaktu (telefon, e-mail) z dyspozytorem CLS przez cały czas trwania kursu.\n   b) Przestrzeganie Instrukcji: Nieopuszczanie adresu załadunku/rozładunku bez pisemnych instrukcji od CLS.\n   c) Przechowywanie Dokumentów: Bezpieczne przechowywanie wszystkich dokumentów (celnych, handlowych) i przedstawianie ich tylko upoważnionym osobom.\n   d) Środki Ochrony Indywidualnej (ŚOI): Zapewnienie, że kierowca posiada i używa odpowiednich ŚOI oraz przestrzega wewnętrznych regulaminów w miejscach załadunku/rozładunku.\n",
+            "5.2. Obowiązki Firmy Spedycyjnej (CLS):\n   a) Dostarczanie Informacji: Dostarczenie Przewoźnikowi wszystkich niezbędnych informacji i dokumentów do wykonania transportu w optymalnych warunkach.\n   b) Płatność za Usługi: Uregulowanie wartości usług transportowych zgodnie z warunkami uzgodnionymi w Zleceniu.\n   c) Płatność za Postój: Zapłata odszkodowania za postój, w przypadku przekroczenia czasu wolnego wynoszącego 48 godzin, zgodnie z art. 4.5.\n"
+          ]
+        },
+        "6": {
+          "title": "6. Ubezpieczenie Towaru",
+          "content": [
+            "6.1. Ubezpieczenie CMR: Przewoźnik gwarantuje, że posiada ważną polisę ubezpieczeniową CMR, z minimalnym pokryciem 50.000 EUR na zdarzenie.",
+            "6.2. Pokrycie Szkód: Wszelkie szkody wyrządzone towarom podczas transportu zostaną pokryte z ubezpieczenia CMR Przewoźnika. W przypadku, gdy ubezpieczenie nie pokryje w całości wartości szkody (z jakiegokolwiek powodu, w tym franszyzy lub wyłączeń), Przewoźnik bezpośrednio poniesie różnicę, w formie odszkodowania. CLS nie może być pociągnięta do odpowiedzialności za pokrycie tych szkód."
+          ]
+        },
+        "7": {
+          "title": "7. Niewłaściwe Wykonanie i Kary Umowne",
+          "content": [
+            "7.1. Niewykonanie lub Anulowanie Zlecenia przez Przewoźnika: Anulowanie zlecenia po jego akceptacji lub niepojawienie się na załadunku pociąga za sobą karę umowną w wysokości 30% wartości kontraktu, ale nie mniej niż 500 EUR.",
+            "7.2. Anulowanie Zlecenia przez CLS: W przypadku anulowania zlecenia po dojechaniu ciężarówki do miejsca załadunku, CLS pokryje koszty dojazdu w wysokości 0,5 EUR/km, do maksymalnego limitu 200 km. Przewoźnik musi przedstawić wyraźne dowody dojazdu.",
+            "7.3. Opóźnienie w Miejscu Załadunku/Rozładunku:\n   a) Opóźnienie godzinowe: Jeśli podana jest dokładna godzina, Przewoźnik będzie winien kary w wysokości 50 EUR/godzinę opóźnienia.\n   b) Opóźnienie dzienne: Jeśli opóźnienie przekracza 24 godziny, CLS może anulować zlecenie i zastosować karę 30% (zgodnie z art. 7.1). Jeśli nie anuluje zlecenia, Przewoźnik będzie winien kary w wysokości 350 EUR/dzień (dla ciężarówek 3,5-40t) lub 750 EUR/dzień (dla naczep ponadgabarytowych).\n",
+            "7.4. Niekompletny Transport lub Skrócona Odległość: Jeśli Przewoźnik załaduje mniej towaru lub pokona krótszą odległość niż uzgodniono, bez pisemnej zgody CLS, cena kontraktu zostanie automatycznie obniżona pro-rata.",
+            "7.5. Brak Komunikacji: Nieprzestrzeganie obowiązku utrzymywania kontaktu z CLS (art. 5.1.a) jest karane stałą kwotą 500 EUR.",
+            "7.6. Kompensacja Długów: CLS ma prawo skompensować każdy zaległy dług Przewoźnika (kary umowne, odszkodowania) bezpośrednio z wartości niezapłaconych faktur transportowych. Jeśli długi przekroczą wartość faktur, CLS wstrzyma płatności do czasu pełnego uregulowania długów."
+          ]
+        },
+        "8": {
+          "title": "8. Postanowienia Końcowe",
+          "content": [
+            "8.1. Prawo Zastawu i Retencji: Przewoźnik działa jako pełnomocnik CLS w wykonywaniu prawa zastawu i retencji na towarze, w przypadku, gdy Klient Końcowy CLS nie ureguluje wartości transportu. Przewoźnik jest zobowiązany do ścisłego przestrzegania instrukcji CLS dotyczących postoju ciężarówki lub rozładunku towaru we wskazanym magazynie. Rozładunek towaru bez pisemnej zgody CLS, w sytuacji, gdy taka zgoda jest wymagana, pociąga za sobą karę w wysokości 100% kosztu transportu, przy czym Przewoźnik jest bezpośrednio odpowiedzialny za szkody powstałe w wyniku zwolnienia towaru.",
+            "8.2. Siła Wyższa: Żadna ze Stron nie będzie odpowiedzialna za niewykonanie zobowiązań umownych, jeśli jest to spowodowane zdarzeniem siły wyższej, nieprzewidywalnym i nieuniknionym. Strona powołująca się na siłę wyższą jest zobowiązana powiadomić drugą Stronę w najkrótszym możliwym terminie.",
+            "8.3. Poufność i Zakaz Kontaktowania się z Klientami:\n   a) Poufność: Przewoźnik zobowiązuje się do traktowania jako ściśle poufne wszelkich informacji handlowych, o których dowie się (ceny, klienci, trasy itp.) i nieujawniania ich osobom trzecim.\n   b) Zakaz Kontaktowania się z Klientem Końcowym: Surowo zabrania się bezpośredniego lub pośredniego kontaktowania się z Klientem Końcowym CLS, a także zawierania z nim jakichkolwiek bezpośrednich umów. Naruszenie tej klauzuli jest karane stałą kwotą 50.000 EUR, tytułem odszkodowania umownego.\n   c) Konkurencja Nielokalna: Jeśli w wyniku naruszenia tej klauzuli Przewoźnik zacznie współpracować bezpośrednio z Klientem Końcowym CLS, będzie dodatkowo winien kary w wysokości 25% wartości wszystkich transportów wykonanych z tym klientem.\n",
+            "8.4. Cesja i Podwykonawstwo: Cesja lub podwykonawstwo usług transportowych jest surowo zabronione bez wcześniejszej, pisemnej zgody CLS. Naruszenie pociąga za sobą stałą karę w wysokości 2.000 EUR za każdy przypadek, niezależnie od prawa CLS do żądania dodatkowych odszkodowań.",
+            "8.5. Dodatkowe Klauzule Karne:\n   a) Oszczerstwa i Groźby: Wszelkie obelgi, groźby lub oszczerstwa skierowane przeciwko CLS (w tym online) mogą pociągać za sobą kary za szkody moralne do 50.000 EUR.\n   b) Szantaż: Uzależnianie dostawy towaru od płatności zaliczkowej, nieuzgodnionej umownie, jest uważane za szantaż i jest karane kwotą 10.000 EUR.\n",
+            "8.6. Prawo Właściwe i Spory: Niniejsza umowa podlega prawu rumuńskiemu. Wszelkie spory, których nie uda się rozwiązać polubownie, będą należały do właściwości sądów w okręgu Miasta Bukareszt.",
+            ""
+          ]
+        },
+        "9": {
+          "title": "9. Ochrona Danych Osobowych (RODO)",
+          "content": [
+            "CLS przetwarza dane osobowe Przewoźnika (imię, kontakt, dane identyfikacyjne itp.) w celu wykonania umowy transportowej, zgodnie z Rozporządzeniem (UE) 2016/679 (RODO). Dane mogą być udostępniane stronom zaangażowanym w wykonanie umowy (klientom, magazynom, organom celnym) lub organom publicznym, na żądanie. Dane są przechowywane przez czas trwania stosunku umownego i przez okres 3 lat po jego ustaniu, z wyjątkiem dokumentów, dla których przepisy podatkowo-księgowe narzucają dłuższy okres archiwizacji. Przewoźnikowi przysługuje prawo dostępu, sprostowania, usunięcia, ograniczenia przetwarzania i przenoszenia danych, a także prawo wniesienia skargi do Organu Nadzorczego."
+          ]
+        }
+      }
+    }
+  },
+  "privacy": {
+    "title": "Polityka Ochrony Danych Osobowych (RODO)",
+    "effectiveDate": "Data wejścia w życie: 18 Listopada 2025",
+    "tableOfContents": "Spis treści",
+    "sections": {
+      "1": {
+        "title": "Wprowadzenie",
+        "content": [
+          "Poufność Państwa danych osobowych stanowi fundamentalny priorytet dla Crystal Logistics Services. Niniejsza polityka opisuje sposób, w jaki zbieramy, wykorzystujemy, przekazujemy i chronimy Państwa dane osobowe podczas interakcji z nami w związku z naszymi produktami i usługami, w tym za pośrednictwem naszej strony internetowej.",
+          "Niniejsza polityka została opracowana zgodnie z Rozporządzeniem (UE) 2016/679 Parlamentu Europejskiego i Rady z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych (znanym jako „RODO”), a także obowiązującym prawodawstwem krajowym."
+        ]
+      },
+      "2": {
+        "title": "Współadministratorzy Danych",
+        "content": [
+          "W kontekście świadczenia naszych usług logistycznych i transportowych, Państwa dane są przetwarzane w ramach reżimu współadministratorów przez następujące podmioty, zwane dalej „Crystal Logistics Services”, „CLS” lub „Spółka”."
+        ],
+        "table": {
+          "headers": [
+            "Podmiot Prawny",
+            "Siedziba",
+            "Numer Rejestracyjny",
+            "Kontakt"
+          ],
+          "rows": [
+            [
+              "Crystal Logistics Services S.R.L.",
+              "Bukareszt, Sektor 1, Strada Dr. Iacob Felix, nr 49, Piętro S, Pokój 9, Rumunia",
+              "J40/4964/2021, CUI 43944517",
+              "Telefon: 0040.757.333.184<br>E-mail: acc@crystal-logistics-services.com"
+            ],
+            [
+              "Crystal Logistics Services GmbH",
+              "Bahnhofstrasse, Nr 21, Zug, Szwajcaria",
+              "CHE-217.611.963",
+              "Telefon: 0040.757.333.184<br>E-mail: acc@crystal-logistics-services.com"
+            ]
+          ]
+        }
+      },
+      "3": {
+        "title": "Inspektor Ochrony Danych (IOD)",
+        "content": [
+          "Biorąc pod uwagę obowiązki prawne i złożoność naszych operacji, Crystal Logistics Services wyznaczyła Inspektora Ochrony Danych (IOD) do nadzorowania zgodności z RODO. W przypadku jakichkolwiek pytań, wątpliwości lub w celu skorzystania z przysługujących Państwu praw, prosimy o korzystanie z ogólnych danych kontaktowych spółki, z zaznaczeniem w Państwa prośbie, że jest ona skierowana do Inspektora Ochrony Danych.",
+          "Dane kontaktowe:",
+          "• E-mail: acc@crystal-logistics-services.com",
+          "• Adres korespondencyjny: Bukareszt, Sektor 1, Strada Dr. Iacob Felix, nr 49, Piętro S, Pokój 9, Rumunia, do wiadomości Inspektora Ochrony Danych."
+        ]
+      },
+      "4": {
+        "title": "Kategorie Przetwarzanych Danych Osobowych",
+        "content": [
+          "W zależności od charakteru Państwa interakcji z CLS, zbieramy różne kategorie danych osobowych:",
+          "a) Klienci i Partnerzy Biznesowi (osoby fizyczne lub przedstawiciele osób prawnych):",
+          "• Dane identyfikacyjne: Imię, nazwisko, stanowisko.",
+          "• Dane kontaktowe: Adres e-mail, numer telefonu, adres korespondencyjny/dostawy.",
+          "• Dane transakcyjne: Szczegóły dotyczące usług, historia zamówień, dane do faktur (z wyłączeniem szczegółów karty bankowej), informacje celne.",
+          "• Dane zbierane za pośrednictwem strony internetowej: Adres IP, typ przeglądarki, odwiedzane strony (szczegóły w Polityce Cookies).",
+          "b) Osoby, których dane dotyczą w Kontekście Przesyłek (nadawcy, odbiorcy):",
+          "• Dane identyfikacyjne i kontaktowe: Imię, nazwisko, pełny adres, numer telefonu, e-mail.",
+          "• Szczegóły przesyłki: Informacje o zawartości paczki (w zakresie, w jakim mogą stanowić dane osobowe), informacje o śledzeniu, dane niezbędne do formalności celnych (w tym CNP – rumuński numer identyfikacyjny, seria i numer dowodu osobistego, jeśli jest to prawnie wymagane).",
+          "c) Pracownicy i Kandydaci:",
+          "• Dane identyfikacyjne: Imię, nazwisko, CNP, seria i numer dowodu osobistego.",
+          "• Dane kontaktowe: Adres, telefon, e-mail.",
+          "• Dane zawodowe i edukacyjne: CV, historia zatrudnienia, dyplomy, certyfikaty.",
+          "• Dane finansowe: Numer konta bankowego, informacje o wynagrodzeniu.",
+          "• Dane medyczne: Wyłącznie w kontekście obowiązków medycyny pracy.",
+          "d) Dostawcy i Współpracownicy (osoby fizyczne):",
+          "• Dane identyfikacyjne i kontaktowe: Imię, nazwisko, adres, telefon, e-mail.",
+          "• Dane finansowe: Numer konta bankowego, dane do faktur."
+        ]
+      },
+      "5": {
+        "title": "Cele i Podstawy Prawne Przetwarzania",
+        "content": [
+          "Crystal Logistics Services przetwarza Państwa dane osobowe w następujących celach, opierając się na podstawach prawnych określonych w RODO:"
+        ],
+        "table": {
+          "headers": [
+            "Cel Przetwarzania",
+            "Podstawa Prawna (zgodnie z Art. 6 RODO)",
+            "Przykłady Czynności Przetwarzania"
+          ],
+          "rows": [
+            [
+              "Świadczenie usług logistycznych i transportowych",
+              "Wykonanie umowy (Art. 6 ust. 1 lit. b))",
+              "Przetwarzanie i zarządzanie zleceniami transportowymi.<br>Śledzenie przesyłek (tracking).<br>Zarządzanie operacjami magazynowania i dystrybucji.<br>Komunikacja z klientami i odbiorcami dotycząca statusu dostaw."
+            ],
+            [
+              "Wypełnianie obowiązków prawnych",
+              "Obowiązek prawny (Art. 6 ust. 1 lit. c))",
+              "Sporządzanie i przetwarzanie dokumentów celnych (gdzie może być przetwarzany CNP).<br>Fakturowanie i przestrzeganie przepisów finansowo-księgowych.<br>Raportowanie do organów podatkowych i innych instytucji publicznych."
+            ],
+            [
+              "Działania przedkontraktowe i zawieranie umów",
+              "Wykonanie umowy (Art. 6 ust. 1 lit. b))",
+              "Gromadzenie niezbędnych danych (imię, kontakt, dane firmy) do przygotowania i przesłania spersonalizowanej oferty.<br>Przetwarzanie danych w celu negocjowania, zawierania i podpisywania umowy o świadczenie usług."
+            ],
+            [
+              "Zarządzanie relacjami z klientami i partnerami",
+              "Uzasadniony interes (Art. 6 ust. 1 lit. f))",
+              "Komunikacja administracyjna i operacyjna niezbędna do realizacji usług.<br>Proaktywny kontakt z klientami i partnerami.<br>Rozpatrywanie wniosków i reklamacji.<br>Ocena satysfakcji klientów."
+            ],
+            [
+              "Komunikacja handlowa i marketing",
+              "Uzasadniony interes (Art. 6 ust. 1 lit. f)) / Zgoda (Art. 6 ust. 1 lit. a))",
+              "Wysyłanie ofert, newsletterów i informacji o usługach CLS."
+            ],
+            [
+              "Rekrutacja i zarządzanie zasobami ludzkimi",
+              "Wykonanie umowy (Art. 6 ust. 1 lit. b)) / Obowiązek prawny (Art. 6 ust. 1 lit. c))",
+              "Przetwarzanie kandydatur i organizacja rozmów kwalifikacyjnych.<br>Zawieranie umów o pracę.<br>Wypłata wynagrodzeń i świadczeń."
+            ],
+            [
+              "Bezpieczeństwo fizyczne i systemów informatycznych",
+              "Uzasadniony interes (Art. 6 ust. 1 lit. f))",
+              "Monitorowanie dostępu do siedziby.<br>Zapewnienie bezpieczeństwa sieci i systemów informatycznych."
+            ],
+            [
+              "Ulepszanie usług i analiza danych",
+              "Uzasadniony interes (Art. 6 ust. 1 lit. f))",
+              "Analiza danych o ruchu na stronie internetowej w celu optymalizacji doświadczenia użytkownika.<br>Raportowanie wewnętrzne."
+            ]
+          ]
+        }
+      },
+      "6": {
+        "title": "Odbiorcy Danych Osobowych",
+        "content": [
+          "W celu wypełnienia naszych zobowiązań umownych i prawnych, możemy ujawnić Państwa dane partnerom, podwykonawcom, władzom, dostawcom usług i ubezpieczycielom, na podstawie umów o zachowaniu poufności i ochronie danych."
+        ]
+      },
+      "7": {
+        "title": "Międzynarodowe Transfery Danych",
+        "content": [
+          "Państwa dane mogą być przekazywane poza Europejski Obszar Gospodarczy (EOG), w szczególności do Szwajcarii, gdzie znajduje się siedziba Crystal Logistics Services GmbH.",
+          "Transfery odbywają się bezpiecznie, na podstawie decyzji Komisji Europejskiej o adekwatności lub Standardowych Klauzul Umownych (SCC)."
+        ]
+      },
+      "8": {
+        "title": "Okres Przechowywania Danych",
+        "content": [
+          "Dane są przechowywane tylko przez okres niezbędny do celów ich zbierania:",
+          "• Przez czas trwania wykonania umowy;",
+          "• 10 lat dla dokumentów finansowo-księgowych;",
+          "• Do czasu wycofania zgody (w celach marketingowych);",
+          "• Przez okres ustawowego terminu przedawnienia w celu obrony naszych uzasadnionych interesów."
+        ]
+      },
+      "9": {
+        "title": "Państwa Prawa",
+        "content": [
+          "Zgodnie z RODO przysługują Państwu następujące prawa:",
+          "• Prawo do informacji i dostępu;",
+          "• Prawo do sprostowania;",
+          "• Prawo do usunięcia ('prawo do bycia zapomnianym');",
+          "• Prawo do ograniczenia przetwarzania;",
+          "• Prawo do przenoszenia danych;",
+          "• Prawo do sprzeciwu;",
+          "• Prawo do niepodlegania zautomatyzowanym decyzjom;",
+          "• Prawo do wycofania zgody;",
+          "• Prawo do wniesienia skargi do ANSPDCP (www.dataprotection.ro)."
+        ]
+      },
+      "10": {
+        "title": "Bezpieczeństwo Danych Osobowych",
+        "content": [
+          "Crystal Logistics Services wdraża środki techniczne i organizacyjne w celu ochrony Państwa danych: szyfrowanie, kontrola dostępu, szkolenie personelu, audyty bezpieczeństwa i zarządzanie incydentami."
+        ]
+      },
+      "11": {
+        "title": "Polityka Cookies",
+        "content": [
+          "Nasza strona internetowa używa plików cookie w celu poprawy doświadczenia przeglądania, analizy ruchu i spersonalizowanych funkcjonalności. Szczegóły w Polityce Cookies."
+        ]
+      },
+      "12": {
+        "title": "Zmiany w Polityce Prywatności",
+        "content": [
+          "Zastrzegamy sobie prawo do okresowego aktualizowania niniejszej polityki. Każda zmiana zostanie opublikowana na stronie internetowej i, w razie potrzeby, powiadomiona za pomocą banera cookies."
+        ]
+      },
+      "13": {
+        "title": "Kontakt",
+        "content": [
+          "W przypadku pytań lub w celu skorzystania z przysługujących Państwu praw, prosimy o kontakt pod adresem:",
+          "E-mail: acc@crystal-logistics-services.com",
+          "Telefon: 0040.757.333.184",
+          "Adres: Bukareszt, Sektor 1, Strada Dr. Iacob Felix, nr 49, Piętro S, Pokój 9, Rumunia"
+        ]
+      },
+      "14": {
+        "title": "Referencje",
+        "content": [
+          "1. Rozporządzenie (UE) 2016/679 (RODO) - Oficjalny tekst rozporządzenia;",
+          "2. Krajowa Władza Nadzorcza ds. Przetwarzania Danych Osobowych (ANSPDCP) - www.dataprotection.ro;",
+          "3. Wytyczne i zalecenia Europejskiej Rady Ochrony Danych (EROD);",
+          "4. Ustawa nr 190/2018 dotycząca wdrożenia RODO;",
+          "5. Decyzja Komisji (UE) 2021/914 w sprawie standardowych klauzul umownych;",
+          "6. Decyzja Komisji z dnia 26 lipca 2000 r. w sprawie adekwatności ochrony danych w Szwajcarii."
+        ]
+      }
+    }
+  },
+  "cookies": {
+    "tableOfContents": "Spis treści",
+    "tableTitle": "Nasza strona internetowa może używać następujących rodzajów plików cookie:",
+    "tableNote": "Uwaga: Powyższa lista jest przykładowa i może ulec zmianie. Pełna i aktualna lista będzie zawsze dostępna w banerze zgody.",
+    "title": "Polityka Używania Plików Cookie",
+    "lastUpdate": "Data ostatniej aktualizacji: 18 Listopada 2025",
+    "sections": {
+      "1": {
+        "title": "Wprowadzenie",
+        "content": [
+          "Niniejsza polityka używania plików cookie (zwana dalej „Polityką Cookies”) ma na celu poinformowanie Państwa o naszych praktykach dotyczących zbierania informacji podczas Państwa wizyty na naszej stronie internetowej, za pomocą plików cookie i innych technologii śledzenia, w pełnej zgodności z Państwa prawem do ochrony danych osobowych.",
+          "Niniejsza polityka jest dokumentem uzupełniającym naszą Politykę Ochrony Danych Osobowych (RODO), z którą zachęcamy do zapoznania się, aby w pełni zrozumieć, jak przetwarzamy Państwa dane.",
+          "Nasze pliki cookie nie przechowują danych osobowych, które mogłyby Państwa bezpośrednio zidentyfikować, takich jak imię i nazwisko czy dane bankowe. Pozwalają nam na zbieranie informacji o Państwa przeglądaniu, które mogą być później wykorzystane do personalizacji doświadczenia na stronie lub w naszych komunikacjach, zgodnie z prawem.",
+          "Poufność informacji jest stałym obowiązkiem i dlatego zobowiązujemy się do okresowego aktualizowania tego dokumentu w miarę wdrażania nowych praktyk dotyczących danych osobowych lub przyjmowania nowych polityk prywatności. W odniesieniu do przetwarzania danych opartych na zgodzie, będziemy Państwa powiadamiać o wszelkich zmianach i prosić o dodatkową zgodę.",
+          "Strona internetowa https://www.crystal-logistics-services.com/ (zwana dalej „Stroną”) jest obsługiwana w reżimie współadministratorów przez:",
+          "• Crystal Logistics Services S.R.L., z siedzibą w Bukareszcie, Sektor 1, Strada Dr. Iacob Felix, nr 49, Piętro S, Pokój 9, Rumunia, zarejestrowana w Rejestrze Handlowym pod nr J40/4964/2021, CUI 43944517.",
+          "• Crystal Logistics Services GmbH, z siedzibą w Bahnhofstrasse, Nr 21, Zug, Szwajcaria, numer rejestracyjny CHE-217.611.963.",
+          "Podmioty te używają zarówno własnych plików cookie, jak i plików cookie stron trzecich, aby zapewnić odwiedzającym lepsze wrażenia z przeglądania i usługi dostosowane do ich potrzeb i zainteresowań."
+        ]
+      },
+      "2": {
+        "title": "Kontekst Prawny",
+        "content": [
+          "Zgodnie z wymogami Dyrektywy (UE) 2002/58/WE („Dyrektywa e-Privacy”) oraz Rozporządzenia (UE) 2016/679 w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych („Rozporządzenie RODO”), mamy obowiązek bezpiecznego zarządzania i wykorzystywania wyłącznie w określonych celach danych osobowych, które nam Państwo przekazują za pomocą naszej strony internetowej.",
+          "Rozporządzenie RODO nakłada na nas obowiązek zapewnienia użytkownikom przejrzystości i kontroli, umożliwiając Państwu wyrażenie lub wycofanie zgody na przetwarzanie danych w dowolnym momencie, żądanie ich sprostowania lub usunięcia oraz bycie jasno poinformowanym o celu i charakterze używanych plików cookie."
+        ]
+      },
+      "3": {
+        "title": "Państwa Prawa",
+        "content": [
+          "Jako osoba, której dane dotyczą, przysługuje Państwu szereg praw zgodnie z RODO, w tym:",
+          "• Prawo do informacji i dostępu do danych",
+          "• Prawo do sprostowania",
+          "• Prawo do usunięcia danych („prawo do bycia zapomnianym”)",
+          "• Prawo do ograniczenia przetwarzania",
+          "• Prawo do przenoszenia danych",
+          "• Prawo do sprzeciwu",
+          "W celu uzyskania szczegółowego opisu tych praw i sposobów ich wykonywania, prosimy o zapoznanie się z dedykowaną sekcją w naszej Polityce Ochrony Danych Osobowych.",
+          "Jeśli chcą Państwo skorzystać z któregokolwiek z tych praw, prosimy o kontakt z naszym Inspektorem Ochrony Danych, zgodnie z instrukcjami w sekcji 4.",
+          "Przysługuje Państwu również prawo do wniesienia skargi do Krajowej Władzy Nadzorczej ds. Przetwarzania Danych Osobowych (ANSPDCP):",
+          "• Adres: B-dul G-ral. Gheorghe Magheru nr 28-30, Sektor 1, kod pocztowy 010336, Bukareszt, Rumunia",
+          "• E-mail: anspdcp@dataprotection.ro",
+          "• Telefon: +40.318.059.211"
+        ]
+      },
+      "4": {
+        "title": "Inspektor Ochrony Danych (IOD)",
+        "content": [
+          "Wyznaczyliśmy Inspektora Ochrony Danych (IOD) do nadzorowania wszystkich aspektów związanych z ochroną danych osobowych. W przypadku jakichkolwiek pytań lub wątpliwości dotyczących przetwarzania Państwa danych, prosimy o przesłanie nam pisemnej prośby, z zaznaczeniem, że jest ona skierowana do Inspektora Ochrony Danych.",
+          "• E-mail: acc@crystal-logistics-services.com",
+          "• Adres korespondencyjny: Bukareszt, Sektor 1, Strada Dr. Iacob Felix, nr 49, Piętro S, Pokój 9, Rumunia"
+        ]
+      },
+      "5": {
+        "title": "Państwa Zgoda na Używanie Cookies",
+        "content": [
+          "Przy pierwszym wejściu na Stronę zostaną Państwo powitani banerem (oknem dialogowym) z prośbą o wyrażenie zgody na używanie różnych kategorii plików cookie. Do czasu zakończenia procesu akceptacji lub odmowy, żaden plik cookie, z wyjątkiem tych absolutnie niezbędnych do funkcjonowania Strony, nie zostanie aktywowany.",
+          "Państwa zgoda jest granulowana, co pozwala Państwu wybrać, które kategorie plików cookie akceptują. Mogą Państwo zmienić swoje opcje lub wycofać zgodę w dowolnym momencie, za pomocą ustawień przeglądarki lub dedykowanego linku na stronie."
+        ]
+      },
+      "6": {
+        "title": "Co to jest „Cookie”?",
+        "content": [
+          "„Internet Cookie” (znany również jako „cookie przeglądarki” lub po prostu „cookie”) to mały plik tekstowy, składający się z liter i cyfr, który jest przechowywany na komputerze, terminalu mobilnym lub innym urządzeniu, z którego uzyskują Państwo dostęp do Internetu. Plik cookie jest instalowany na żądanie wystawione przez serwer internetowy do przeglądarki (np. Chrome, Firefox, Edge) i jest całkowicie pasywny – nie zawiera programów komputerowych, wirusów ani oprogramowania szpiegującego i nie może uzyskać dostępu do informacji na dysku twardym użytkownika.",
+          "Plik cookie składa się z dwóch części: nazwy i zawartości (wartości). Okres istnienia pliku cookie jest określony, a technicznie tylko serwer internetowy, który go wysłał, może ponownie uzyskać do niego dostęp, gdy użytkownik powróci na powiązaną stronę internetową.",
+          "Istnieją dwie główne kategorie plików cookie:",
+          "• Cookies sesyjne: Są one tymczasowo przechowywane w folderze plików cookie przeglądarki i są automatycznie usuwane po zamknięciu przeglądarki lub opuszczeniu strony.",
+          "• Cookies trwałe: Pozostają przechowywane na dysku twardym Państwa urządzenia przez określony, predefiniowany okres i są reaktywowane, gdy powrócą Państwo na stronę. Mogą być ręcznie usunięte przez użytkownika w dowolnym momencie."
+        ]
+      },
+      "7": {
+        "title": "Jak Używamy Cookies na Tej Stronie",
+        "content": [
+          "Sklasyfikowaliśmy nasze pliki cookie w następujące kategorie, aby pomóc Państwu zrozumieć ich cel:",
+          "• Cookies Ściśle Niezbędne: Są one niezbędne do prawidłowego funkcjonowania Strony. Umożliwiają nawigację między stronami, bezpieczeństwo sesji i dostęp do obszarów zastrzeżonych. Ponieważ Strona nie może bez nich funkcjonować, te pliki cookie są aktywowane domyślnie i nie wymagają Państwa zgody.",
+          "• Cookies Wydajnościowe i Statystyczne: Pomagają nam zrozumieć, jak Państwo wchodzą w interakcję ze Stroną, zbierając zagregowane i anonimowe dane. Analizujemy, które strony są najczęściej odwiedzane, jakie są źródła ruchu i czy występują błędy nawigacyjne. Zebrane informacje są wykorzystywane wyłącznie do poprawy wydajności i struktury Strony. Przykładem jest Google Analytics.",
+          "• Cookies Funkcjonalne: Umożliwiają Stronie zapamiętanie wybranych przez Państwa opcji (takich jak wybrany język) w celu zapewnienia bardziej spersonalizowanego i wydajnego doświadczenia przeglądania.",
+          "• Cookies Marketingowe i Targetujące (Reklamowe): Są one używane do oferowania Państwu treści reklamowych istotnych dla Państwa zainteresowań, zidentyfikowanych na podstawie odwiedzanych stron."
+        ]
+      },
+      "8": {
+        "title": "Rodzaje Używanych Przez Nas Cookies",
+        "content": [
+          "Nasza strona internetowa może używać następujących rodzajów plików cookie:",
+          "Nazwa Cookie: cookieGDPR | Kategoria: Ściśle Niezbędne | Cel: Przechowuje Państwa zgodę na używanie plików cookie. | Okres: 1 rok",
+          "Nazwa Cookie: _ga, _gid | Kategoria: Wydajnościowe/Statystyczne | Cel: Używane przez Google Analytics do rozróżniania użytkowników i generowania danych statystycznych o korzystaniu ze strony internetowej. | Okres: _ga: 2 lata, _gid: 24 godziny",
+          "Nazwa Cookie: _gat | Kategoria: Wydajnościowe/Statystyczne | Cel: Ogranicza wskaźnik żądań do serwerów. | Okres: 1 minuta",
+          "Uwaga: Powyższa lista jest przykładowa i może ulec zmianie. Pełna i aktualna lista będzie dostępna w banerze zgody."
+        ]
+      },
+      "9": {
+        "title": "Cookies Umieszczone przez Strony Trzecie (Cookies Stron Trzecich)",
+        "content": [
+          "Niektóre sekcje treści na naszej stronie internetowej mogą być dostarczane za pośrednictwem stron trzecich, takich jak filmy z YouTube lub mapy z Google Maps. Korzystamy również z usług analizy ruchu, takich jak Google Analytics, które umieszczają własne pliki cookie.",
+          "Te strony trzecie mogą umieszczać pliki cookie za pośrednictwem naszej strony internetowej, a my nie mamy kontroli nad ich politykami prywatności. Zalecamy zapoznanie się z politykami prywatności tych dostawców:",
+          "• Google Analytics: Google Privacy Policy",
+          "• Google Maps: Google Maps/Google Earth Additional Terms of Service"
+        ]
+      },
+      "10": {
+        "title": "Jak Można Wyłączyć Cookies?",
+        "content": [
+          "Wyłączenie lub odmowa przyjmowania plików cookie może sprawić, że korzystanie z niektórych stron będzie utrudnione. Niemniej jednak, mają Państwo pełną kontrolę nad ustawieniami swojej przeglądarki.",
+          "Mogą Państwo ustawić przeglądarkę tak, aby odrzucała wszystkie pliki cookie lub tylko te pochodzące od stron trzecich. Mogą Państwo również usunąć istniejące pliki cookie.",
+          "Instrukcje dla najpopularniejszych przeglądarek:",
+          "• Google Chrome",
+          "• Mozilla Firefox",
+          "• Microsoft Edge",
+          "• Safari"
+        ]
+      },
+      "11": {
+        "title": "Bezpieczeństwo Danych i Cookies",
+        "content": [
+          "Pliki cookie nie są wirusami i nie mogą uruchamiać kodów. Nie mogą uzyskać dostępu do informacji na Państwa komputerze.",
+          "Jednak pliki cookie mogą być wykorzystywane do celów negatywnych, jeśli są niewłaściwie eksploatowane. Dlatego nowoczesne przeglądarki oferują ustawienia prywatności, które umożliwiają bezpieczne zarządzanie plikami cookie."
+        ]
+      },
+      "12": {
+        "title": "Zmiany w Polityce Cookies",
+        "content": [
+          "Zastrzegamy sobie prawo do aktualizowania niniejszej polityki w miarę potrzeb. Każda zmiana zostanie opublikowana na tej stronie i, jeśli dotyczy, powiadomiona w banerze cookies podczas Państwa następnej wizyty."
+        ]
+      },
+      "13": {
+        "title": "Pytania i Kontakt",
+        "content": [
+          "W przypadku jakichkolwiek pytań, wątpliwości lub skarg dotyczących niniejszej polityki lub sposobu, w jaki używamy plików cookie, prosimy o kontakt pod adresem e-mail acc@crystal-logistics-services.com."
+        ]
+      }
+    },
+    "footerNote": "W celu uzyskania pełnych szczegółów dotyczących ochrony danych, prosimy o zapoznanie się z naszą Polityką Ochrony Danych Osobowych."
+  },
+  "cookie": {
+    "message": "Używamy plików cookie, aby poprawić Twoje doświadczenie na stronie.",
+    "settings": "Ustawienia",
+    "acceptAll": "Akceptuj wszystkie",
+    "settingsTitle": "Ustawienia cookie",
+    "functional": "Funkcjonalne (obowiązkowe)",
+    "analytics": "Analityczne",
+    "marketing": "Marketing",
+    "save": "Zapisz preferencje",
+    "close": "Zamknij"
+  }
+}

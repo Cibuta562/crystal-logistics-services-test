@@ -1,0 +1,136 @@
+{
+  "contact": {
+    "badge": "Contatti",
+    "title": "Siamo qui per aiutarti!",
+    "subtitle": "In Crystal Logistics Services, ci dedichiamo a fornire soluzioni personalizzate per clienti, trasportatori e candidati che desiderano unirsi al nostro team.",
+    "requestQuote": "Richiedi un preventivo",
+    "hours_ro": "Lunedì–Venerdì, 09:00–17:30",
+    "hours_ch": "Lunedì–Venerdì, 09:00–17:00",
+    "mapLoading": "Caricamento mappa…"
+  },
+  "contactForms": {
+    "offerButton": "Richiedi un preventivo",
+    "carrierButton": "Diventa partner",
+    "loadingForm": "Caricamento del modulo…",
+    "offerTitle": "Richiesta di preventivo",
+    "carrierTitle": "Modulo partner"
+  },
+  "Footer": {
+    "about": {
+      "title": "Informazioni su Crystal Logistics Services",
+      "text": "Crystal Logistics Services offre soluzioni complete di trasporto stradale, marittimo, aereo e multimodale, adattate alle esigenze dei clienti di tutto il mondo.",
+      "contactTitle": "Contatti",
+      "address": "Via Exemplu n. 25, Bucarest, Romania",
+      "phone": "+40 123 456 789",
+      "email": "office@crystallogistics.ro",
+      "followUs": "Seguici"
+    },
+    "columns": {
+      "services": {
+        "title": "Servizi",
+        "links": [
+          "Preventivo Istantaneo",
+          "Trasporto Multimodale",
+          "Trasporto Stradale",
+          "Trasporto Aereo",
+          "Trasporto Marittimo",
+          "Trasporto Ferroviario"
+        ]
+      },
+      "about": {
+        "title": "Chi siamo",
+        "links": [
+          "Diventa Partner CLS",
+          "Carriere",
+          "Il nostro team",
+          "Blog",
+          "Recensioni",
+          "Brochure"
+        ]
+      },
+      "contact": {
+        "title": "Contatti",
+        "address": "Le nostre sedi",
+        "phone": "+40 723 344 599",
+        "email": "logistics@crystal-logistics-services.com",
+        "hours": "Orari: 09:00–17:30"
+      },
+      "licenses": {
+        "title": "Licenze",
+        "text": "Licenza di intermediazione serie CI n. 0010969\nLicenza di trasporto n. 023173"
+      }
+    },
+    "bottom": {
+      "rights": "© 2025 Crystal Logistics Services. Tutti i diritti riservati.",
+      "privacy": "Informativa sulla privacy",
+      "terms": "Termini e condizioni",
+      "cookies": "Politica sui cookie"
+    }
+  },
+  "Components": {
+    "whyUs": {
+      "title": "Perché lavorare con noi?",
+      "items": {
+        "assistance": "ASSISTENZA TRASPORTI 24/7",
+        "response": "RISPONDIAMO RAPIDAMENTE",
+        "insured": "TRASPORTO ASSICURATO",
+        "fairPrice": "PREZZO ONESTO",
+        "fullPackage": "PACCHETTO COMPLETO DI SERVIZI"
+      }
+    }
+  },
+  "Services": {
+    "title": "Servizi",
+    "learnMore": "Scopri di più",
+    "cards": {
+      "road": {
+        "title": "Trasporto Stradale",
+        "text": "I servizi di trasporto merci coprono una gamma completa di soluzioni adattate alle esigenze di ogni cliente, dal trasporto nazionale alle rotte europee.\n\nAssicuriamo trasporto stradale per merci generali, eccezionali, ADR, refrigerati, cisterne o ribaltabili."
+      },
+      "maritime": {
+        "title": "Trasporto Marittimo",
+        "text": "Soluzioni ideali per grandi volumi, container o trasporto alla rinfusa, da e verso i principali porti commerciali.\n\nInclude carico, documentazione doganale, tracciamento e assicurazione opzionale."
+      },
+      "air": {
+        "title": "Trasporto Aereo",
+        "text": "La soluzione rapida ed efficiente per il trasporto internazionale di merci.\n\nIdeale per consegne urgenti o sensibili."
+      },
+      "rail": {
+        "title": "Trasporto Ferroviario",
+        "text": "L'alternativa economica e sostenibile per grandi volumi di merci generali o ingombranti.\n\nConsigliato per progetti logistici complessi."
+      },
+      "multimodal": {
+        "title": "Trasporto Multimodale",
+        "text": "Combina stradale, marittimo, aereo e ferroviario per efficienza e costi ottimizzati.\n\nAdatto per catene logistiche integrate e scadenze fisse."
+      }
+    }
+  },
+  "Stats": {
+    "title": "I nostri risultati parlano",
+    "items": {
+      "km": "km percorsi",
+      "clients": "clienti soddisfatti",
+      "cargo": "merci trasportate",
+      "revenue": "milioni di €",
+      "satisfaction": "tasso di soddisfazione"
+    }
+  },
+  "Newsletter": {
+    "title": "Iscriviti alla newsletter",
+    "emailLabel": "Il tuo indirizzo email",
+    "emailPlaceholder": "nome@email.com",
+    "consentText": "Ho letto e accetto l'",
+    "privacyPolicy": "Informativa sulla privacy",
+    "submit": "Invia"
+  },
+  "Reviews": {
+    "title": "Cosa dicono i nostri clienti",
+    "cta": "Vedi tutte le recensioni su Google",
+    "readMore": "leggi di più",
+    "readLess": "mostra meno"
+  },
+  "Organizatii": {
+    "orgTitle": "Organizzazioni di cui facciamo parte",
+    "clientsTitle": "Clienti e partner"
+  }
+}

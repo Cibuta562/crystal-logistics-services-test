@@ -1,0 +1,103 @@
+{
+  "HomePage": {
+    "subtitle": {
+      "about": "About Crystal Logistics Services",
+      "transport": "Transport and Logistics Solutions"
+    },
+    "cta": {
+      "contact": "Contact Us",
+      "learnMore": "Learn More"
+    }
+  },
+  "BasicHero": {
+    "title": "Crystal Logistics Services",
+    "paragraph": "Whether it's full truckloads or groupage, both national and global, we provide you with a wide range of solutions to transport your goods at the best costs.",
+    "ctaPrimary": "Request a Quote!",
+    "ctaSecondary": "Become a Partner Carrier",
+    "hasCargoTitle": "Do You Have Cargo to Transport?",
+    "hasCargoText1": "Do you need domestic or international freight transport?",
+    "hasCargoText2": "Crystal Logistics Services offers you complete services for road transport, oversized transport, and express shipments through the CLS freight exchange.",
+    "hasCargoText3": "Fill out the form and receive a complete logistics quote in maximum 30 minutes!",
+    "fillForm": "Fill Out the Form"
+  },
+  "Services": {
+    "title": "Choose the right transport solution for you",
+    "learnMore": "Learn More",
+    "cards": {
+      "road": {
+        "title": "International Road Transport",
+        "text": "Complete road freight transport solutions (FCL, LCL, express, oversized, dangerous goods). Own fleet and reliable partnerships."
+      },
+      "maritime": {
+        "title": "Maritime Transport",
+        "text": "We cover the most important ports. We offer flexible and efficient solutions for containerized (FCL/LCL) or conventional cargo transport."
+      },
+      "air": {
+        "title": "Air Transport",
+        "text": "Fast and safe transport of goods, with global coverage. Standard or express transport options, adapted to your urgent needs."
+      },
+      "rail": {
+        "title": "Rail Transport",
+        "text": "An efficient alternative for large volumes, over long distances. Competitive rail freight transport services, including combined transport."
+      },
+      "multimodal": {
+        "title": "Multimodal (Combined) Transport",
+        "text": "We optimize costs and delivery time using a combination of routes. The perfect solution for efficiency and sustainability."
+      }
+    }
+  },
+  "Stats": {
+    "title": "The figures that recommend us",
+    "items": {
+      "km": "Km traveled",
+      "clients": "Satisfied clients",
+      "cargo": "Tons of cargo",
+      "revenue": "Million € Revenue",
+      "satisfaction": "Satisfaction rate (%)"
+    }
+  },
+  "Reviews": {
+    "title": "What Our Clients Say",
+    "cta": "Read all reviews on Google",
+    "readMore": "Read more",
+    "readLess": "Read less"
+  },
+  "Organizatii": {
+    "orgTitle": "Affiliations and Organizations",
+    "clientsTitle": "Our Partners (Selected Clients)"
+  },
+  "BlogFAQ": {
+    "latestPosts": "Latest Articles",
+    "faqTitle": "Frequently Asked Questions (FAQ)",
+    "faqs": [
+      {
+        "question": "What types of transport do you offer?",
+        "answer": {
+          "intro": "We offer a wide range of logistics solutions, tailored to our clients' needs:",
+          "item1": "Road transport (FCL, LCL, express, oversized)",
+          "item2": "Maritime transport (FCL, LCL)",
+          "item3": "Air transport (standard and express)",
+          "item4": "Rail and multimodal (combined) transport"
+        }
+      },
+      {
+        "question": "Are the transports insured?",
+        "answer": "Yes, all transports carried out through Crystal Logistics Services benefit from CMR insurance, in accordance with international regulations, to give you complete peace of mind."
+      },
+      {
+        "question": "How can I request a price quote?",
+        "answer": "You can request a quote directly by filling out the form available on the website. We guarantee a prompt response and a personalized offer within a maximum of 30 minutes."
+      }
+    ]
+  },
+  "Newsletter": {
+    "title": "Subscribe to our newsletter",
+    "iframeTitle": "Newsletter subscription form",
+    "emailLabel": "Your email address",
+    "emailPlaceholder": "name@email.com",
+    "consentText": "I have read and agree to the",
+    "privacyPolicy": "Privacy Policy",
+    "submit": "Submit",
+    "loading": "Loading subscription form..."
+  }
+}

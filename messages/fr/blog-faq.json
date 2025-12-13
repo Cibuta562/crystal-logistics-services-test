@@ -1,0 +1,35 @@
+{
+  "BlogFAQ": {
+    "latestPosts": "Dernières publications",
+    "faqTitle": "Questions fréquemment posées",
+    "loadingText": "Chargement des articles...",
+    "faqs": [
+      {
+        "question": "Transport routier public de marchandises",
+        "answer": {
+          "intro": "Il ne peut être effectué qu'en respectant certaines conditions, y compris la possession des documents nécessaires :",
+          "item1": "Copie conforme de la licence de transport (licences ARR et copies conformes ARR)",
+          "item2": "Document de transport, pour justifier le transport auprès de l'Inspection",
+          "item3": "Certificat concernant la conformité du véhicule aux normes de pollution et de sécurité routière",
+          "item4": "Autorisation de transport international (uniquement pour le transport international)"
+        }
+      },
+      {
+        "question": "Quels documents sont nécessaires pour le transport national ?",
+        "answer": "Une licence ARR valide et le certificat de conformité du véhicule sont requis."
+      },
+      {
+        "question": "Puis-je demander un devis international en ligne ?",
+        "answer": "Oui, vous pouvez le faire directement sur notre plateforme, à tout moment."
+      }
+    ]
+  },
+
+  "Blog": {
+    "Header": {
+      "section": "CRYSTAL LOGISTICS SERVICES",
+      "title": "BLOG",
+      "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+    }
+  }
+}

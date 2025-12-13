@@ -1,0 +1,170 @@
+{
+  "Bursa": {
+    "Client": {
+      "eyebrow": "SOLUTIONS CLIENTS",
+      "title": "Découvrez les avantages du devis de transport instantané",
+      "intro": "Grâce au Devis de Transport Instantané, vous avez la possibilité de publier vos marchandises sur la plateforme et de recevoir des offres à la fois de CLS et de notre réseau de partenaires CLS. De cette manière, vous vous assurez que vos marchandises arrivent à destination en toute sécurité, à temps et à un prix compétitif.",
+      "Accordion": {
+        "items": {
+          "class1": {
+            "title": "C'est gratuit",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["La publication de vos marchandises ne vous coûte rien."]
+          },
+          "class2": {
+            "title": "Cela prend 30 secondes",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Le processus est rapide et efficace."]
+          },
+          "class3": {
+            "title": "Recevez une offre en maximum 3 heures",
+            "short": "",
+            "paragraphs": [""],
+            "listItems": ["Vous ne perdez pas de temps à attendre des réponses."]
+          },
+          "class4": {
+            "title": "Accès à des milliers de transporteurs vérifiés",
+            "short": "Vous travaillez uniquement avec des partenaires soigneusement sélectionnés par CLS.",
+            "paragraphs": [
+              "Les transporteurs enregistrés chez CLS passent par un processus de vérification des documents et de l'historique de collaboration.",
+              "Vous avez la garantie que votre marchandise est prise en charge par des professionnels expérimentés dans le domaine."
+            ],
+            "listItems": [
+              "Réseau étendu de transporteurs dans toute l'Europe",
+              "Partenaires avec une flotte diversifiée et moderne",
+              "Collaboration avec des entreprises stables et fiables"
+            ]
+          },
+          "class5": {
+            "title": "Le transport est assuré",
+            "short": "Votre marchandise est protégée tout au long du transport.",
+            "paragraphs": [
+              "Vous avez accès à des solutions de transport avec une couverture assurée, adaptée au type de marchandise.",
+              "Nous surveillons attentivement le déroulement du transport pour minimiser tout risque."
+            ],
+            "listItems": [
+              "Protection supplémentaire pour les marchandises sensibles",
+              "Traçabilité et communication pendant le trajet",
+              "Solutions rapides en cas de situations imprévues"
+            ]
+          },
+          "class6": {
+            "title": "Assistance 24/7",
+            "short": "L'équipe CLS est disponible en permanence pour vous.",
+            "paragraphs": [
+              "Quelle que soit l'heure, vous avez un point de contact dédié pour les questions ou les situations spéciales.",
+              "Nous vous aidons à trouver rapidement des solutions alternatives lorsque vous en avez besoin."
+            ],
+            "listItems": [
+              "Support téléphonique et par e-mail",
+              "Consultation en temps réel pour les courses urgentes",
+              "Communication claire du chargement au déchargement"
+            ]
+          },
+          "class7": {
+            "title": "Consultation complète",
+            "short": "Nous vous aidons à choisir la meilleure option de transport.",
+            "paragraphs": [
+              "Nous analysons le type de marchandise, la destination et le budget pour vous proposer des solutions efficaces.",
+              "Nous nous assurons que vous bénéficiez d'un rapport optimal entre coût, temps et sécurité."
+            ],
+            "listItems": [
+              "Recommandations personnalisées pour chaque transport",
+              "Optimisation des itinéraires et des coûts",
+              "Soutien pour la gestion du flux de transport à long terme"
+            ]
+          }
+        }
+      }
+    },
+    "Carrier": {
+      "eyebrow": "AVANTAGES TRANSPORTATEUR",
+      "title": "Les avantages de la collaboration avec CLS",
+      "intro": "Vous cherchez du fret et n'en trouvez pas assez ? Avez-vous des camions garés ou parcourez-vous des milliers de kilomètres par mois sans profit ? Grâce au Devis de Transport Instantané CLS, nous mettons à votre disposition des courses adaptées à votre flotte, afin que vous puissiez augmenter votre taux de chargement et devenir rentable.",
+      "Accordion": {
+        "items": {
+          "class1": {
+            "title": "Accès à des milliers de frets spot",
+            "short": "Vous avez toujours de nouvelles courses disponibles, adaptées à vos camions.",
+            "paragraphs": [
+              "Grâce à la plateforme CLS, vous avez accès à une large base de frets spot, provenant de multiples industries et régions.",
+              "Vous pouvez sélectionner uniquement les courses qui correspondent à votre flotte et à vos itinéraires préférés."
+            ],
+            "listItems": [
+              "Paiements rapides et sécurisés",
+              "Flux constant d'opportunités",
+              "Réduction des temps morts entre les courses"
+            ]
+          },
+          "class2": {
+            "title": "Contrats de type tracteur routier",
+            "short": "Stabilité et volume constant de transport.",
+            "paragraphs": [
+              "Vous pouvez conclure des contrats de type tracteur routier avec CLS, assurant un volume récurrent de courses.",
+              "De cette manière, vous pouvez planifier plus facilement votre activité et les investissements dans la flotte."
+            ],
+            "listItems": [
+              "Collaborations à moyen et long terme",
+              "Meilleur taux de chargement pour les camions",
+              "Prévisibilité des encaissements et du flux de trésorerie"
+            ]
+          },
+          "class3": {
+            "title": "Possibilité de location de semi-remorque",
+            "short": "Flexibilité pour le développement de votre flotte.",
+            "paragraphs": [
+              "Si vous avez un tracteur routier, mais pas assez de semi-remorques, vous pouvez bénéficier de solutions de location via CLS.",
+              "Ainsi, vous pouvez prendre plus de courses sans bloquer de capital dans des achats immédiats."
+            ],
+            "listItems": [
+              "Accès rapide à des équipements supplémentaires",
+              "Réduction du risque de surinvestissement",
+              "Adaptation facile aux pics de demande"
+            ]
+          },
+          "class4": {
+            "title": "Paiements ponctuels et encaissement garanti",
+            "short": "Nous nous assurons que votre travail est payé à temps.",
+            "paragraphs": [
+              "Nous mettons l'accent sur des délais de paiement corrects et respectés, afin que vous puissiez planifier vos dépenses.",
+              "Nous travaillons avec des clients stables, avec une bonne solvabilité, pour réduire le risque de non-encaissement."
+            ],
+            "listItems": [
+              "Délais de paiement transparents",
+              "Flux d'encaissements prévisible",
+              "Réduction du risque financier"
+            ]
+          },
+          "class5": {
+            "title": "Prix compétitifs",
+            "short": "Tarifs alignés sur le marché, négociés correctement.",
+            "paragraphs": [
+              "Les offres sur la bourse sont en ligne avec les réalités du marché du transport, afin que vous puissiez couvrir vos coûts et réaliser des bénéfices.",
+              "Vous avez accès à des courses spot et contractuelles, selon votre stratégie."
+            ],
+            "listItems": [
+              "Transparence dans la structure des tarifs",
+              "Possibilité de négociation le cas échéant",
+              "Équilibre entre volume et rentabilité"
+            ]
+          },
+          "class6": {
+            "title": "Une large gamme d'options",
+            "short": "Vous pouvez choisir exactement le type de collaboration dont vous avez besoin.",
+            "paragraphs": [
+              "Que vous soyez une petite entreprise ou une grande flotte, vous trouverez chez CLS des options adaptées à votre modèle commercial.",
+              "Vous pouvez combiner des courses spot, des contrats à long terme et des solutions flexibles d'équipement."
+            ],
+            "listItems": [
+              "Courses nationales et internationales",
+              "Collaborations dédiées ou occasionnelles",
+              "Soutien pour le développement de votre entreprise de transport"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "Carriers": {
+    "Rutier": {
+      "Transportatori": {
+        "Header": {
+          "section": "Îți dorești să valorifici la maximum potențialul flotei tale? La Crystal Logistics Services, oferim soluții de transport complete, atât pentru colaborări de tip spot, cât și contracte pe termen lung, plătite la kilometru. Suntem partenerul de încredere care îți asigură constanță, flexibilitate și profitabilitate!",
+          "title": "Casă de Expediție dedicată transportatorilor",
+          "alt": "Imagine transportatori"
+        },
+
+        "section_1": {
+          "title": "De ce să alegi Crystal Logistics Services pentru parteneriatul tău în transporturi?",
+          "alt": "TransportatoriCrystal",
+          "paragraphs": [
+            "Crystal Logistics Services este mai mult decât o casă de expediție – suntem partenerul de care ai nevoie pentru a-ți duce afacerea de transport la următorul nivel. Cu o echipă experimentată și un portofoliu vast de clienți, îți punem la dispoziție soluții personalizate pentru nevoile tale operaționale. Fie că ești în căutarea de mărfuri spot, fie că vrei să închei un contract pe termen lung, la kilometru, noi suntem soluția ta de încredere."
+          ]
+        },
+        "partnerTransport": {
+          "badge": "Colaborează cu Crystal Logistics Services",
+          "title": "Devino partenerul nostru de transport",
+          "subtitle": "Spune-ne despre flota și rutele preferate, iar noi te conectăm cu proiecte potrivite, proceduri clare și o colaborare predictibilă.",
+
+          "card1": {
+            "title": "Curse de marfă",
+            "text": "Transport intern și internațional, cu ferestre clare de încărcare și livrare."
+          },
+
+          "card2": {
+            "title": "Colaborare stabilă",
+            "text": "Condiții transparente, acorduri clare și viziune de parteneriat pe termen lung."
+          },
+
+          "card3": {
+            "title": "Onboarding rapid",
+            "text": "Analizăm fiecare aplicație și revenim cu un răspuns clar într-un timp scurt."
+          }
+        },
+
+        "form": {
+          "badge": "Aplicații deschise",
+          "title": "Formular partener",
+          "subtitle": "Se completează în mai puțin de 5 minute. Răspundem după analizarea tuturor detaliilor trimise.",
+          "button": "Completează formularul",
+
+          "paragraphs": [
+            "După trimiterea formularului, verificăm capacitatea flotei, tipurile de rute preferate și disponibilitatea echipajelor.",
+            "Indiferent de dimensiunea flotei tale, la Crystal Logistics vei găsi mereu încărcături disponibile și rute bine definite.",
+            "Rețeaua noastră vastă de clienți ne permite să-ți oferim oportunități constante de transport, atât intern, cât și în Comunitate.",
+            "Fiecare zi aduce noi colaborări posibile pentru transporturi profitabile, indiferent de tipul de marfă sau destinație."
+          ]
+        },
+
+        "Accordion": {
+          "title": "Beneficiile colaborării cu Crystal Logistics Services",
+          "intro": "Descoperă de ce tot mai mulți transportatori aleg Crystal Logistics pentru a-și crește eficiența și veniturile. Alătură-te nouă și bucură-te de avantajele unui parteneriat solid.",
+          "items": {
+            "class1": {
+              "title": "Acces la mii de mărfuri, în fiecare zi",
+              "paragraphs": [
+                "Indiferent de dimensiunea flotei tale, la Crystal Logistics vei găsi întotdeauna încărcături disponibile. Rețeaua noastră vastă de clienți ne permite să-ți oferim oportunități constante de transport, atât pe plan intern, cât și pe Comunitate. Fiecare zi aduce noi oportunități de colaborare pentru transporturi profitabile, indiferent de tipul de marfă sau de destinație.",
+                "Ofertele noastre de mărfuri sunt actualizate în timp real, astfel încât să poți lua decizii rapide și să îți menții camioanele în mișcare. Mai mult, nu doar că îți oferim acces la mii de mărfuri, dar îți punem la dispoziție și echipele noastre dedicate care îți vor oferi suport continuu în realizarea fiecărui transport."
+              ]
+            },
+            "class2": {
+              "title": "Contracte de colaborare tractionist pe termen lung, plătite la kilometru",
+              "paragraphs": [
+                "Dacă ești în căutarea unei stabilități financiare și a unei colaborări pe termen lung, contractele de tip tractionist sunt soluția ideală pentru tine. La Crystal Logistics, îți garantăm un număr minim de kilometri lunar, ceea ce înseamnă venituri constante și predictibile pentru afacerea ta.",
+                "Acest tip de contract îți oferă flexibilitate în alegerea traseelor și a tipului de transport – fie că este vorba de transport intern, curse Tur-Retur, sau transport pe Comunitate, noi îți asigurăm încărcături constante și plăți rapide pentru fiecare kilometru parcurs."
+              ]
+            },
+            "class3": {
+              "title": "Plăți rapide și garantate",
+              "paragraphs": [
+                "Unul dintre cele mai mari beneficii pe care le oferim transportatorilor noștri parteneri este plata promptă și garantată. Înțelegem cât de important este pentru afacerea ta să ai un cash flow constant, iar noi ne angajăm să asigurăm acest lucru prin termene de plată rapide și eficiente.",
+                "La Crystal Logistics, poți conta pe noi pentru plăți punctuale, indiferent de tipul de contract ales. Ne ocupăm de toate aspectele administrative, astfel încât tu să te poți concentra pe ceea ce contează cel mai mult – operarea eficientă a flotei tale."
+              ]
+            },
+            "class4": {
+              "title": "Beneficii suplimentare și decontări de cheltuieli",
+              "paragraphs": [
+                "În colaborarea cu Crystal Logistics Services, ai parte nu doar de plăți rapide și garantate, ci și de multiple beneficii suplimentare. Oferim bonusuri atractive pentru încărcări și descărcări suplimentare, ceea ce poate crește considerabil profitul pe fiecare cursă efectuată.",
+                "De asemenea, ne asigurăm că toate cheltuielile legate de taxe de drum, poduri, porturi și autorizări sunt decontate de noi, astfel încât să nu ai nicio grijă suplimentară în gestionarea costurilor operaționale."
+              ]
+            },
+            "class5": {
+              "title": "Închiriere de semi-remorci pentru flexibilitate sporită",
+              "paragraphs": [
+                "Extinderea flotei poate fi un proces costisitor, dar la Crystal Logistics Services îți oferim o alternativă eficientă – posibilitatea de a închiria semi-remorci atunci când ai nevoie. Astfel, vei putea răspunde rapid la cererea de pe piață fără să faci investiții majore inițiale.",
+                "Indiferent dacă ai nevoie de semi-remorci standard, mega sau frigo, noi îți punem la dispoziție soluții flexibile și eficiente care te vor ajuta să onorezi toate comenzile, crescându-ți astfel capacitatea de transport."
+              ]
+            },
+            "class6": {
+              "title": "Asistență dedicată 24/7 și dispecerat profesional",
+              "paragraphs": [
+                "Nu doar că îți oferim acces la mii de mărfuri și contracte avantajoase, dar îți suntem alături pe toată durata transporturilor, asigurându-ne că toate cursele se desfășoară fără probleme. Echipa noastră de dispeceri este disponibilă 24/7 pentru a te ajuta cu orice problemă sau întrebare legată de transport.",
+                "Fie că întâmpini dificultăți pe traseu, fie că ai nevoie de soluții rapide pentru orice situație neprevăzută, dispecerii noștri experimentați sunt întotdeauna pregătiți să intervină și să îți ofere suportul necesar."
+              ]
+            },
+            "class7": {
+              "title": "Carduri de motorină – soluții eficiente pentru reducerea costurilor",
+              "paragraphs": [
+                "Reducerea cheltuielilor operaționale este o prioritate pentru fiecare transportator, iar Crystal Logistics Services te ajută în acest sens prin oferirea de carduri de motorină. Acestea îți permit să achiziționezi combustibil la prețuri preferențiale, reducând astfel costurile pe care le ai cu fiecare cursă.",
+                "Prin utilizarea cardurilor noastre de motorină, îți vei putea optimiza cheltuielile și vei crește profitabilitatea pe termen lung."
+              ]
+            },
+            "class8": {
+              "title": "Flexibilitate în alegerea tipului de transport",
+              "paragraphs": [
+                "Un alt avantaj major pe care îl oferim este flexibilitatea în alegerea tipului de transport. Fie că preferi cursele de tip Tur-Retur, fie că vrei să operezi pe Comunitate sau intern, la Crystal Logistics Services îți oferim opțiuni variate și personalizate.",
+                "Această flexibilitate îți permite să ajustezi activitatea flotei tale în funcție de cerințele pieței și de capacitatea ta operațională, astfel încât să maximizezi eficiența și să crești veniturile."
+              ]
+            }
+          }
+        },
+
+        "Accordion2": {
+          "title": "Cum funcționează contractul de colaborare cu Crystal Logistics Services?",
+          "intro": "La Crystal Logistics, oferim transportatorilor flexibilitatea de a alege tipul de contract care li se potrivește cel mai bine, în funcție de preferințe și de obiectivele afacerii lor. Avem trei variante de colaborare, fiecare cu avantaje specifice și beneficii clare, pentru a asigura stabilitate financiară și venituri constante.",
+          "items": {
+            "class_a": {
+              "title": "1. Tur-Retur (Import-Export) – Colaborare pe rute internaționale cu kilometri garantați",
+              "paragraphs": [
+                "Transporturile de tip Tur-Retur implică curse internaționale în care camioanele tale se vor deplasa între România și diverse țări din Uniunea Europeană, dar și în afara ei. Aceste rute sunt ideale pentru cei care doresc să obțină o combinație între curse internaționale și naționale, cu avantaje semnificative:",
+                "Acest tip de colaborare îți oferă flexibilitate în gestionarea transporturilor internaționale și te ajută să obții profituri consistente, cu riscuri minime."
+              ],
+              "listItems": [
+                "Destinații incluse: majoritatea țărilor din UE, precum Germania, Franța, Italia, Spania, Olanda, Belgia, Austria, Ungaria, Bulgaria, Grecia, Polonia, Cehia, Slovacia, Croația, Slovenia, dar și țări non-UE: Elveția (CH), Turcia (TR), Marea Britanie (GB), Norvegia (NO).",
+                "Kilometri garantați: Asigurăm un număr minim de kilometri pentru fiecare lună, astfel încât să ai certitudinea că flota ta va avea venituri constante.",
+                "Plăți rapide: Beneficiezi de plăți garantate, rapide și fără întârzieri, astfel încât să ai o stabilitate financiară solidă.",
+                "Beneficii adiționale: Acces la mii de mărfuri, bonusuri pentru încărcări suplimentare și decontarea cheltuielilor operaționale (taxe de drum, poduri, porturi)."
+              ]
+            },
+            "class_b": {
+              "title": "2. Comunitate – Transporturi internaționale exclusive pe teritoriul european",
+              "paragraphs": [
+                "Colaborarea de tip Comunitate se adresează transportatorilor care doresc să opereze exclusiv pe rute internaționale, fără a reveni în România pentru o perioadă extinsă. Această opțiune este ideală pentru maximizarea câștigurilor și optimizarea operațiunilor.",
+                "Cu acest tip de contract, ai flexibilitatea de a te concentra pe rute internaționale, fără să te preocupe întoarcerea frecventă în țară, ceea ce optimizează timpul de operare și îți maximizează profitul."
+              ],
+              "listItems": [
+                "Durată colaborare: 2 luni de transporturi continue pe teritoriul Europei, acoperind multiple țări și destinații.",
+                "Taxe de drum: În cadrul acestui tip de contract, Crystal Logistics plătește separat toate taxele de drum aferente transporturilor, ceea ce îți reduce semnificativ costurile operaționale.",
+                "Cel mai mare câștig: Colaborarea pe Comunitate oferă cel mai mare potențial de câștig, având în vedere numărul mare de kilometri parcurși și volumele constante de marfă transportate.",
+                "Stabilitate și securitate financiară: Pe lângă plățile rapide și sigure, îți oferim asistență permanentă și dispecerat disponibil 24/7, astfel încât să te poți concentra pe cursele tale fără griji."
+              ]
+            },
+            "class_c": {
+              "title": "3. Intern – Transport exclusiv național",
+              "paragraphs": [
+                "Pentru cei care doresc să opereze exclusiv pe plan național, colaborarea de tip Intern reprezintă cea mai simplă și eficientă soluție. Aceasta îți permite să te concentrezi pe rutele locale, acoperind cererea de transport pe întreg teritoriul României.",
+                "Colaborarea de tip Intern îți oferă oportunitatea de a te focusa pe piața locală, menținând un flux constant de transporturi și profituri."
+              ],
+              "listItems": [
+                "Stabilitate pe termen lung: Oferim acces la mărfuri spot și contracte de transport național, asigurând curse regulate și venituri constante.",
+                "Costuri de operare reduse: Fiind vorba de transport intern, costurile operaționale, inclusiv taxele de drum și cheltuielile suplimentare, sunt mai mici, ceea ce înseamnă un profit mai mare pentru fiecare cursă.",
+                "Soluții rapide și eficiente: Prin rețeaua noastră extinsă de clienți din România, camioanele tale nu vor sta niciodată fără încărcătură. Asigurăm o planificare eficientă a curselor, astfel încât să optimizezi fiecare zi de operare."
+              ]
+            }
+          }
+        },
+
+        "cta": {
+          "title": "Vrei să devii partener?",
+          "messages": [
+            "Suntem gata să colaborăm cu transportatori serioși și profesioniști.",
+            "Hai să discutăm despre oportunitățile disponibile."
+          ],
+          "buttonLabel": "Contactează-ne"
+        }
+      }
+    }
+  }
+}

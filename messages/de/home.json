@@ -1,0 +1,105 @@
+{
+  "HomePage": {
+    "subtitle": {
+      "about": "Über Crystal Logistics Services",
+      "transport": "Transport- und Logistiklösungen"
+    },
+    "cta": {
+      "contact": "Kontaktieren Sie uns",
+      "learnMore": "Erfahren Sie mehr"
+    }
+  },
+  "BasicHero": {
+    "title": "Crystal Logistics Services",
+    "paragraph": "Egal, ob es sich um Komplettladungen oder Sammelgut handelt, national oder global, wir bieten Ihnen eine breite Palette von Lösungen, um Ihre Waren zu den besten Kosten zu transportieren.",
+    "ctaPrimary": "Angebot anfordern!",
+    "ctaSecondary": "Werden Sie Partner-Spediteur",
+    "hasCargoTitle": "Haben Sie Fracht zu transportieren?",
+    "hasCargoText1": "Benötigen Sie nationalen oder internationalen Gütertransport?",
+    "hasCargoText2": "Crystal Logistics Services bietet Ihnen Komplettdienstleistungen für Straßentransport, Schwerlasttransport und schnelle Sendungen über die CLS Frachtenbörse.",
+    "hasCargoText3": "Füllen Sie das Formular aus und erhalten Sie ein vollständiges Logistikangebot in maximal 30 Minuten!",
+    "fillForm": "Füllen Sie das Formular aus"
+  },
+  "Services": {
+    "title": "Wählen Sie die passende Transportlösung für sich",
+    "learnMore": "Erfahren Sie mehr",
+    "cards": {
+      "road": {
+        "title": "Internationaler Straßentransport",
+        "text": "Komplette Straßentransportlösungen (FCL, LCL, Express, Schwerlast, Gefahrgut). Eigene Flotte und zuverlässige Partnerschaften."
+      },
+      "maritime": {
+        "title": "Seetransport",
+        "text": "Wir decken die wichtigsten Häfen ab. Wir bieten flexible und effiziente Lösungen für den Containertransport (FCL/LCL) oder konventionelle Güter."
+      },
+      "air": {
+        "title": "Luftfracht",
+        "text": "Schneller und sicherer Warentransport mit globaler Abdeckung. Standard- oder Express-Transportoptionen, angepasst an Ihre dringenden Bedürfnisse."
+      },
+      "rail": {
+        "title": "Schienentransport",
+        "text": "Eine effiziente Alternative für große Volumen über lange Distanzen. Wettbewerbsfähige Schienengüterverkehrsdienste, einschließlich Kombiverkehr."
+      },
+      "multimodal": {
+        "title": "Multimodaler (Kombinierter) Transport",
+        "text": "Wir optimieren Kosten und Lieferzeit durch die Nutzung einer Routenkombination. Die perfekte Lösung für Effizienz und Nachhaltigkeit."
+      }
+    }
+  },
+  "Stats": {
+    "title": "Die Zahlen, die uns empfehlen",
+    "items": {
+      "km": "Zurückgelegte Km",
+      "clients": "Zufriedene Kunden",
+      "cargo": "Tonnen Fracht",
+      "revenue": "Millionen € Umsatz",
+      "satisfaction": "Zufriedenheitsrate (%)"
+    }
+  },
+  "Reviews": {
+    "title": "Das sagen unsere Kunden",
+    "cta": "Lesen Sie alle Bewertungen auf Google",
+    "readMore": "Mehr lesen",
+    "readLess": "Weniger lesen"
+  },
+  "Organizatii": {
+    "orgTitle": "Zugehörigkeiten und Organisationen",
+    "clientsTitle": "Unsere Partner (Ausgewählte Kunden)"
+  },
+  "BlogFAQ": {
+    "latestPosts": "Neueste Artikel",
+    "faqTitle": "Häufig gestellte Fragen (FAQ)",
+    "loadingText": "Artikel werden geladen...",
+    "authorPrefix": "Autor",
+    "faqs": [
+      {
+        "question": "Welche Transportarten bieten Sie an?",
+        "answer": {
+          "intro": "Wir bieten eine breite Palette von Logistiklösungen, zugeschnitten auf die Bedürfnisse unserer Kunden:",
+          "item1": "Straßentransport (FCL, LCL, Express, Schwerlast)",
+          "item2": "Seetransport (FCL, LCL)",
+          "item3": "Luftfracht (Standard und Express)",
+          "item4": "Schienen- und multimodaler (kombinierter) Transport"
+        }
+      },
+      {
+        "question": "Sind die Transporte versichert?",
+        "answer": "Ja, alle über Crystal Logistics Services durchgeführten Transporte profitieren von der CMR-Versicherung gemäß den internationalen Vorschriften, um Ihnen absolute Sicherheit zu geben."
+      },
+      {
+        "question": "Wie kann ich ein Preisangebot anfordern?",
+        "answer": "Sie können ein Angebot direkt über das auf der Website verfügbare Formular anfordern. Wir garantieren eine prompte Antwort und ein personalisiertes Angebot innerhalb von maximal 30 Minuten."
+      }
+    ]
+  },
+  "Newsletter": {
+    "title": "Abonnieren Sie unseren Newsletter",
+    "iframeTitle": "Newsletter-Anmeldeformular",
+    "emailLabel": "Ihre E-Mail-Adresse",
+    "emailPlaceholder": "name@email.com",
+    "consentText": "Ich habe die",
+    "privacyPolicy": "Datenschutzrichtlinie gelesen und stimme zu",
+    "submit": "Senden",
+    "loading": "Das Abonnementformular wird geladen..."
+  }
+}

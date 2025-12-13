@@ -1,0 +1,63 @@
+{
+  "Navbar": {
+    "nav": {
+      "home": "Home",
+      "despreNoi": "Chi Siamo",
+      "transport": "Soluzioni",
+      "transportatori": "Trasportatori",
+      "blog": "Blog",
+      "contact": "Contatti"
+    },
+    "submenu": {
+      "transport": {
+        "road": "Trasporto Stradale",
+        "sea": "Trasporto Marittimo",
+        "air": "Trasporto Aereo",
+        "rail": "Trasporto Ferroviario",
+        "multimodal": "Trasporto Multimodale",
+        "roadSub": {
+          "transportInt": "Trasporto Nazionale e Internazionale",
+          "relocari": "Traslochi Internazionali",
+          "armament": "Trasporto Armamenti",
+          "agabaritic": "Trasporto Eccezionale",
+          "frigo": "Trasporto Frigorifero",
+          "adr": "Trasporto ADR",
+          "marfaVrac": "Trasporto Merci Sfuse",
+          "autoturisme": "Trasporto Auto",
+          "other": "Altri Servizi",
+          "bursa": "Preventivo Istantaneo"
+        }
+      }
+    },
+    "locale": {
+      "label": "Lingua",
+      "short": {
+        "ro": "RO",
+        "en": "EN",
+        "de": "DE",
+        "fr": "FR",
+        "it": "IT",
+        "pl": "PL"
+      }
+    },
+    "cta": {
+      "quote": "Richiedi preventivo",
+      "short": "Preventivo",
+      "contact": "Contattaci"
+    },
+    "menu": {
+      "title": "Menu"
+    },
+    "labels": {
+      "phone": "Telefono",
+      "email": "Email",
+      "language": "Lingua"
+    },
+    "a11y": {
+      "home": "Vai alla home page",
+      "menu": "Apri menu",
+      "call": "Chiamaci",
+      "email": "Invia un'email"
+    }
+  }
+}

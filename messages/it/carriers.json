@@ -1,0 +1,163 @@
+{
+  "Carriers": {
+    "Rutier": {
+      "Transportatori": {
+        "Header": {
+          "section": "Vuoi massimizzare il potenziale della tua flotta? Presso Crystal Logistics Services, offriamo soluzioni di trasporto complete, sia per collaborazioni spot che per contratti a lungo termine, pagati al chilometro. Siamo il partner affidabile che ti assicura costanza, flessibilità e redditività!",
+          "title": "Casa di Spedizioni dedicata ai vettori",
+          "alt": "Immagine vettori"
+        },
+        "section_1": {
+          "title": "Perché scegliere Crystal Logistics Services per la tua partnership di trasporto?",
+          "alt": "TransportatoriCrystal",
+          "paragraphs": [
+            "Crystal Logistics Services è più di una casa di spedizioni – siamo il partner di cui hai bisogno per portare la tua attività di trasporto al livello successivo. Con un team esperto e un vasto portafoglio di clienti, ti mettiamo a disposizione soluzioni personalizzate per le tue esigenze operative. Sia che tu stia cercando carichi spot, sia che tu voglia concludere un contratto a lungo termine, pagato al chilometro, noi siamo la tua soluzione affidabile."
+          ]
+        },
+        "partnerTransport": {
+          "badge": "Collabora con Crystal Logistics Services",
+          "title": "Diventa il nostro partner di trasporto",
+          "subtitle": "Parlaci della tua flotta e dei percorsi preferiti, e ti collegheremo con progetti adatti, procedure chiare e una collaborazione prevedibile.",
+          "card1": {
+            "title": "Corse di merci",
+            "text": "Trasporto nazionale e internazionale, con finestre chiare di carico e consegna."
+          },
+          "card2": {
+            "title": "Collaborazione stabile",
+            "text": "Condizioni trasparenti, accordi chiari e visione di partnership a lungo termine."
+          },
+          "card3": {
+            "title": "Onboarding rapido",
+            "text": "Analizziamo ogni candidatura e rispondiamo in modo chiaro in breve tempo."
+          }
+        },
+        "form": {
+          "badge": "Candidature aperte",
+          "title": "Modulo partner",
+          "subtitle": "Si compila in meno di 5 minuti. Rispondiamo dopo aver analizzato tutti i dettagli inviati.",
+          "button": "Compila il modulo",
+          "paragraphs": [
+            "Dopo l'invio del modulo, verifichiamo la capacità della flotta, i tipi di percorsi preferiti e la disponibilità degli equipaggi.",
+            "Indipendentemente dalle dimensioni della tua flotta, in Crystal Logistics troverai sempre carichi disponibili e percorsi ben definiti.",
+            "La nostra vasta rete di clienti ci consente di offrirti costanti opportunità di trasporto, sia nazionale che all'interno della Comunità.",
+            "Ogni giorno porta nuove possibili collaborazioni per trasporti redditizi, indipendentemente dal tipo di merce o destinazione."
+          ]
+        },
+        "Accordion": {
+          "title": "Vantaggi della collaborazione con Crystal Logistics Services",
+          "intro": "Scopri perché sempre più vettori scelgono Crystal Logistics per aumentare la loro efficienza e i loro ricavi. Unisciti a noi e goditi i vantaggi di una partnership solida.",
+          "items": {
+            "class1": {
+              "title": "Accesso a migliaia di carichi, ogni giorno",
+              "paragraphs": [
+                "Indipendentemente dalle dimensioni della tua flotta, in Crystal Logistics troverai sempre carichi disponibili. La nostra vasta rete di clienti ci consente di offrirti costanti opportunità di trasporto, sia a livello nazionale che all'interno della Comunità. Ogni giorno porta nuove opportunità di collaborazione per trasporti redditizi, indipendentemente dal tipo di merce o destinazione.",
+                "Le nostre offerte di carichi sono aggiornate in tempo reale, in modo che tu possa prendere decisioni rapide e mantenere i tuoi camion in movimento. Inoltre, non solo ti offriamo l'accesso a migliaia di carichi, ma ti mettiamo a disposizione anche i nostri team dedicati che ti forniranno supporto continuo nella realizzazione di ogni trasporto."
+              ]
+            },
+            "class2": {
+              "title": "Contratti di collaborazione di servizio di trazione a lungo termine, pagati al chilometro",
+              "paragraphs": [
+                "Se sei alla ricerca di stabilità finanziaria e di una collaborazione a lungo termine, i contratti di tipo servizio di trazione sono la soluzione ideale per te. Presso Crystal Logistics, ti garantiamo un numero minimo di chilometri mensili, il che significa ricavi costanti e prevedibili per la tua attività.",
+                "Questo tipo di contratto ti offre flessibilità nella scelta dei percorsi e del tipo di trasporto – che si tratti di trasporto nazionale, corse Andata-Ritorno o trasporto in Comunità, ti assicuriamo carichi costanti e pagamenti rapidi per ogni chilometro percorso."
+              ]
+            },
+            "class3": {
+              "title": "Pagamenti rapidi e garantiti",
+              "paragraphs": [
+                "Uno dei maggiori benefici che offriamo ai nostri vettori partner è il pagamento pronto e garantito. Comprendiamo quanto sia importante per la tua attività avere un flusso di cassa costante e ci impegniamo a garantire ciò attraverso termini di pagamento rapidi ed efficienti.",
+                "Presso Crystal Logistics, puoi contare su di noi per pagamenti puntuali, indipendentemente dal tipo di contratto scelto. Ci occupiamo di tutti gli aspetti amministrativi, in modo che tu possa concentrarti su ciò che conta di più – l'efficienza operativa della tua flotta."
+              ]
+            },
+            "class4": {
+              "title": "Benefici supplementari e rimborso delle spese",
+              "paragraphs": [
+                "Nella collaborazione con Crystal Logistics Services, non solo ottieni pagamenti rapidi e garantiti, ma anche molteplici benefici supplementari. Offriamo bonus attrattivi per carichi e scarichi aggiuntivi, il che può aumentare notevolmente il profitto per ogni corsa effettuata.",
+                "Inoltre, ci assicuriamo che tutte le spese relative a pedaggi stradali, ponti, porti e autorizzazioni siano rimborsate da noi, in modo che tu non abbia alcuna preoccupazione aggiuntiva nella gestione dei costi operativi."
+              ]
+            },
+            "class5": {
+              "title": "Noleggio di semirimorchi per maggiore flessibilità",
+              "paragraphs": [
+                "L'espansione della flotta può essere un processo costoso, ma presso Crystal Logistics Services ti offriamo un'alternativa efficiente – la possibilità di noleggiare semirimorchi quando ne hai bisogno. In questo modo, potrai rispondere rapidamente alla domanda del mercato senza effettuare investimenti iniziali importanti.",
+                "Sia che tu abbia bisogno di semirimorchi standard, mega o frigo, ti mettiamo a disposizione soluzioni flessibili ed efficienti che ti aiuteranno a onorare tutti gli ordini, aumentando così la tua capacità di trasporto."
+              ]
+            },
+            "class6": {
+              "title": "Assistenza dedicata 24/7 e dispacciamento professionale",
+              "paragraphs": [
+                "Non solo ti offriamo l'accesso a migliaia di carichi e contratti vantaggiosi, ma ti siamo anche al fianco per tutta la durata dei trasporti, assicurandoci che tutte le corse si svolgano senza problemi. Il nostro team di dispacciatori è disponibile 24/7 per aiutarti con qualsiasi problema o domanda relativa al trasporto.",
+                "Sia che incontri difficoltà sul percorso, sia che tu abbia bisogno di soluzioni rapide per qualsiasi situazione imprevista, i nostri dispacciatori esperti sono sempre pronti a intervenire e offrirti il supporto necessario."
+              ]
+            },
+            "class7": {
+              "title": "Carte carburante – soluzioni efficienti per la riduzione dei costi",
+              "paragraphs": [
+                "La riduzione delle spese operative è una priorità per ogni vettore e Crystal Logistics Services ti aiuta in questo senso offrendo carte carburante. Queste ti permettono di acquistare carburante a prezzi preferenziali, riducendo così i costi che hai per ogni corsa.",
+                "Utilizzando le nostre carte carburante, potrai ottimizzare le tue spese e aumentare la redditività a lungo termine."
+              ]
+            },
+            "class8": {
+              "title": "Flessibilità nella scelta del tipo di trasporto",
+              "paragraphs": [
+                "Un altro grande vantaggio che offriamo è la flessibilità nella scelta del tipo di trasporto. Sia che tu preferisca le corse Andata-Ritorno, sia che tu voglia operare in Comunità o a livello nazionale, presso Crystal Logistics Services ti offriamo opzioni variegate e personalizzate.",
+                "Questa flessibilità ti consente di regolare l'attività della tua flotta in base alle esigenze del mercato e alla tua capacità operativa, massimizzando così l'efficienza e aumentando i ricavi."
+              ]
+            }
+          }
+        },
+        "Accordion2": {
+          "title": "Come funziona il contratto di collaborazione con Crystal Logistics Services?",
+          "intro": "Presso Crystal Logistics, offriamo ai vettori la flessibilità di scegliere il tipo di contratto che si adatta meglio a loro, in base alle loro preferenze e agli obiettivi della loro attività. Abbiamo tre varianti di collaborazione, ognuna con vantaggi specifici e benefici chiari, per garantire stabilità finanziaria e ricavi costanti.",
+          "items": {
+            "class_a": {
+              "title": "1. Andata-Ritorno (Import-Export) – Collaborazione su percorsi internazionali con chilometri garantiti",
+              "paragraphs": [
+                "I trasporti di tipo Andata-Ritorno implicano corse internazionali in cui i tuoi camion si sposteranno tra la Romania e diversi paesi dell'Unione Europea, nonché al di fuori di essa. Questi percorsi sono ideali per coloro che desiderano ottenere una combinazione di corse internazionali e nazionali, con vantaggi significativi:",
+                "Questo tipo di collaborazione ti offre flessibilità nella gestione dei trasporti internazionali e ti aiuta a ottenere profitti consistenti con rischi minimi."
+              ],
+              "listItems": [
+                "Destinazioni incluse: la maggior parte dei paesi dell'UE, come Germania, Francia, Italia, Spagna, Paesi Bassi, Belgio, Austria, Ungheria, Bulgaria, Grecia, Polonia, Repubblica Ceca, Slovacchia, Croazia, Slovenia, ma anche paesi extra-UE: Svizzera (CH), Turchia (TR), Regno Unito (GB), Norvegia (NO).",
+                "Chilometri garantiti: Garantiamo un numero minimo di chilometri al mese, in modo che tu abbia la certezza che la tua flotta avrà ricavi costanti.",
+                "Pagamenti rapidi: Benefici di pagamenti garantiti, rapidi e senza ritardi, garantendo così una solida stabilità finanziaria.",
+                "Benefici aggiuntivi: Accesso a migliaia di carichi, bonus per carichi supplementari e rimborso delle spese operative (pedaggi stradali, ponti, porti)."
+              ]
+            },
+            "class_b": {
+              "title": "2. Comunità – Trasporti internazionali esclusivi sul territorio europeo",
+              "paragraphs": [
+                "La collaborazione di tipo Comunità si rivolge ai vettori che desiderano operare esclusivamente su percorsi internazionali, senza tornare in Romania per un periodo prolungato. Questa opzione è ideale per massimizzare i guadagni e ottimizzare le operazioni.",
+                "Con questo tipo di contratto, hai la flessibilità di concentrarti sui percorsi internazionali, senza preoccuparti del ritorno frequente nel paese, il che ottimizza il tempo operativo e massimizza il tuo profitto."
+              ],
+              "listItems": [
+                "Durata collaborazione: 2 mesi di trasporti continui sul territorio europeo, coprendo più paesi e destinazioni.",
+                "Pedaggi stradali: Nell'ambito di questo tipo di contratto, Crystal Logistics paga separatamente tutti i pedaggi stradali relativi ai trasporti, il che riduce significativamente i tuoi costi operativi.",
+                "Maggior potenziale di guadagno: La collaborazione in Comunità offre il maggior potenziale di guadagno, dato il grande numero di chilometri percorsi e i volumi costanti di merci trasportate.",
+                "Stabilità e sicurezza finanziaria: Oltre ai pagamenti rapidi e sicuri, ti offriamo assistenza permanente e dispacciamento disponibile 24/7, in modo che tu possa concentrarti sulle tue corse senza preoccupazioni."
+              ]
+            },
+            "class_c": {
+              "title": "3. Nazionale – Trasporto esclusivamente nazionale",
+              "paragraphs": [
+                "Per coloro che desiderano operare esclusivamente a livello nazionale, la collaborazione di tipo Nazionale rappresenta la soluzione più semplice ed efficiente. Questa ti consente di concentrarti sui percorsi locali, coprendo la domanda di trasporto sull'intero territorio della Romania.",
+                "La collaborazione di tipo Nazionale ti offre l'opportunità di focalizzarti sul mercato locale, mantenendo un flusso costante di trasporti e profitti."
+              ],
+              "listItems": [
+                "Stabilità a lungo termine: Offriamo accesso a carichi spot e contratti di trasporto nazionale, garantendo corse regolari e ricavi costanti.",
+                "Costi operativi ridotti: Trattandosi di trasporto nazionale, i costi operativi, inclusi i pedaggi stradali e le spese supplementari, sono inferiori, il che significa un profitto maggiore per ogni corsa.",
+                "Soluzioni rapide ed efficienti: Attraverso la nostra vasta rete di clienti in Romania, i tuoi camion non rimarranno mai senza carico. Garantiamo una pianificazione efficiente delle corse, in modo da ottimizzare ogni giorno operativo."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Vuoi diventare un partner?",
+          "messages": [
+            "Siamo pronti a collaborare con vettori seri e professionali.",
+            "Discutiamo delle opportunità disponibili."
+          ],
+          "buttonLabel": "Contattaci"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "contact": {
+    "badge": "Kontakt",
+    "title": "Wir sind hier, um Ihnen zu helfen!",
+    "subtitle": "Bei Crystal Logistics Services engagieren wir uns dafür, maßgeschneiderte Lösungen für Kunden, Spediteure und Kandidaten anzubieten, die unserem Team beitreten möchten.",
+    "requestQuote": "Angebot anfordern",
+    "hours_ro": "Montag–Freitag, 09:00–17:30",
+    "hours_ch": "Montag–Freitag, 09:00–17:00",
+    "mapLoading": "Karte wird geladen…"
+  },
+  "contactForms": {
+    "offerButton": "Angebot anfordern",
+    "carrierButton": "Partner werden",
+    "loadingForm": "Formular wird geladen…",
+    "offerTitle": "Angebotsanfrage",
+    "carrierTitle": "Partnerformular"
+  },
+  "Footer": {
+    "about": {
+      "title": "Über Crystal Logistics Services",
+      "text": "Crystal Logistics Services bietet komplette Lösungen für Straßen-, See-, Luft- und multimodalen Transport, angepasst an die Anforderungen von Kunden weltweit.",
+      "contactTitle": "Kontakt",
+      "address": "Str. Exemplu Nr. 25, Bukarest, Rumänien",
+      "phone": "+40 123 456 789",
+      "email": "office@crystallogistics.ro",
+      "followUs": "Folgen Sie uns"
+    },
+    "columns": {
+      "services": {
+        "title": "Dienstleistungen",
+        "links": [
+          "Sofortangebot",
+          "Multimodaler Transport",
+          "Straßentransport",
+          "Luftfracht",
+          "Seetransport",
+          "Schienentransport"
+        ]
+      },
+      "about": {
+        "title": "Über uns",
+        "links": [
+          "Werden Sie CLS-Partner",
+          "Karriere",
+          "Unser Team",
+          "Blog",
+          "Bewertungen",
+          "Broschüren"
+        ]
+      },
+      "contact": {
+        "title": "Kontakt",
+        "address": "Unsere Standorte",
+        "phone": "+40 723 344 599",
+        "email": "logistics@crystal-logistics-services.com",
+        "hours": "Öffnungszeiten: 09:00–17:30"
+      },
+      "licenses": {
+        "title": "Lizenzen",
+        "text": "Vermittlungslizenz Serie CI Nr. 0010969\nTransportlizenz Nr. 023173"
+      }
+    },
+    "bottom": {
+      "rights": "© 2025 Crystal Logistics Services. Alle Rechte vorbehalten.",
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Allgemeine Geschäftsbedingungen",
+      "cookies": "Cookie-Richtlinie"
+    }
+  },
+  "Components": {
+    "whyUs": {
+      "title": "Warum mit uns arbeiten?",
+      "items": {
+        "assistance": "24/7 TRANSPORTASSISTENZ",
+        "response": "WIR ANTWORTEN SCHNELL",
+        "insured": "TRANSPORT IST VERSICHERT",
+        "fairPrice": "FAIRER PREIS",
+        "fullPackage": "KOMPLETTES SERVICEPAKET"
+      }
+    }
+  },
+  "Services": {
+    "title": "Dienstleistungen",
+    "learnMore": "Erfahren Sie mehr",
+    "cards": {
+      "road": {
+        "title": "Straßentransport",
+        "text": "Frachttransportdienste decken eine komplette Palette von Lösungen ab, die auf die Bedürfnisse jedes Kunden zugeschnitten sind, vom Inlandstransport bis hin zu europäischen Routen.\n\nWir bieten Straßentransport für allgemeine Fracht, Schwerlast, ADR, Kühltransport, Tankwagen oder Kipper."
+      },
+      "maritime": {
+        "title": "Seetransport",
+        "text": "Ideale Lösungen für große Volumen, Container oder Massenguttransport, von und zu den wichtigsten Handelshäfen.\n\nUmfasst Verladung, Zolldokumentation, Sendungsverfolgung und optionale Versicherung."
+      },
+      "air": {
+        "title": "Luftfracht",
+        "text": "Die schnelle und effiziente Lösung für internationalen Frachttransport.\n\nIdeal für dringende oder empfindliche Lieferungen."
+      },
+      "rail": {
+        "title": "Schienentransport",
+        "text": "Die wirtschaftliche und nachhaltige Alternative für große Mengen an allgemeiner oder sperriger Fracht.\n\nEmpfohlen für komplexe Logistikprojekte."
+      },
+      "multimodal": {
+        "title": "Multimodaler Transport",
+        "text": "Kombiniert Straße, See, Luft und Schiene für Effizienz und optimierte Kosten.\n\nGeeignet für integrierte Lieferketten und feste Fristen."
+      }
+    }
+  },
+  "Stats": {
+    "title": "Unsere Ergebnisse sprechen",
+    "items": {
+      "km": "gefahrene km",
+      "clients": "zufriedene Kunden",
+      "cargo": "transportierte Fracht",
+      "revenue": "Millionen €",
+      "satisfaction": "Zufriedenheitsgrad"
+    }
+  },
+  "Newsletter": {
+    "title": "Abonnieren Sie unseren Newsletter",
+    "emailLabel": "Ihre E-Mail-Adresse",
+    "emailPlaceholder": "name@email.com",
+    "consentText": "Ich habe die",
+    "privacyPolicy": "Datenschutzrichtlinie gelesen und stimme zu",
+    "submit": "Senden"
+  },
+  "Reviews": {
+    "title": "Was unsere Kunden sagen",
+    "cta": "Alle Bewertungen auf Google ansehen",
+    "readMore": "mehr lesen",
+    "readLess": "weniger"
+  },
+  "Organizatii": {
+    "orgTitle": "Organisationen, denen wir angehören",
+    "clientsTitle": "Kunden und Partner"
+  }
+}

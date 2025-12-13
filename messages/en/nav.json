@@ -1,0 +1,63 @@
+{
+  "Navbar": {
+    "nav": {
+      "home": "Home",
+      "despreNoi": "About Us",
+      "transport": "Solutions",
+      "transportatori": "Carriers",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "submenu": {
+      "transport": {
+        "road": "Road Transport",
+        "sea": "Maritime Transport",
+        "air": "Air Transport",
+        "rail": "Rail Transport",
+        "multimodal": "Multimodal Transport",
+        "roadSub": {
+          "transportInt": "Domestic & International Transport",
+          "relocari": "International Relocations",
+          "armament": "Armament Transport",
+          "agabaritic": "Oversized Transport",
+          "frigo": "Refrigerated Transport",
+          "adr": "ADR Transport",
+          "marfaVrac": "Bulk Cargo Transport",
+          "autoturisme": "Car Transport",
+          "other": "Other Services",
+          "bursa": "Instant Quote"
+        }
+      }
+    },
+    "locale": {
+      "label": "Language",
+      "short": {
+        "ro": "RO",
+        "en": "EN",
+        "de": "DE",
+        "fr": "FR",
+        "it": "IT",
+        "pl": "PL"
+      }
+    },
+    "cta": {
+      "quote": "Request a Quote",
+      "short": "Get Quote",
+      "contact": "Contact Us"
+    },
+    "menu": {
+      "title": "Menu"
+    },
+    "labels": {
+      "phone": "Phone",
+      "email": "Email",
+      "language": "Language"
+    },
+    "a11y": {
+      "home": "Go to homepage",
+      "menu": "Open menu",
+      "call": "Call us",
+      "email": "Send an email"
+    }
+  }
+}

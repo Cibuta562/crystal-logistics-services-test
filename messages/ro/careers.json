@@ -1,0 +1,47 @@
+{
+  "CareersPage": {
+    "hero": {
+      "title": "Alătură-te Echipei Crystal Logistics",
+      "subtitle": "Suntem mereu în căutarea oamenilor ambițioși, pasionați și dedicați. Dacă vrei să crești alături de o echipă puternică, aici este locul tău.",
+      "applyBtn": "Aplică acum"
+    },
+
+    "join": {
+      "title": "De ce să ni te alături?",
+      "item1": {
+        "title": "Stabilitate profesională",
+        "text": "Lucrezi într-o companie logistică solidă, cu experiență internațională."
+      },
+      "item2": {
+        "title": "Program flexibil",
+        "text": "Ținem cont de viața personală și îți oferim echilibru real."
+      },
+      "item3": {
+        "title": "Echipă unită",
+        "text": "Suntem o echipă tânără, profesionistă și foarte prietenoasă."
+      },
+      "item4": {
+        "title": "Industrie dinamică",
+        "text": "Logistica este domeniul perfect dacă îți plac provocările zilnice."
+      },
+      "item5": {
+        "title": "Perspective internaționale",
+        "text": "Colaborezi cu firme din toată Europa și nu numai."
+      },
+      "item6": {
+        "title": "Cultură profesională",
+        "text": "Respect, implicare și rezultate, acestea sunt valorile noastre."
+      },
+      "button": "Aplică acum"
+    },
+
+    "jobs": {
+      "title": "Poziții disponibile",
+      "applyBtn": "Aplică acum!"
+    },
+
+    "form": {
+      "title": "Completează Formularul de Aplicare"
+    }
+  }
+}

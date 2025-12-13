@@ -1,0 +1,35 @@
+{
+  "BlogFAQ": {
+    "latestPosts": "Neueste Beiträge",
+    "faqTitle": "Häufig gestellte Fragen",
+    "loadingText": "Artikel werden geladen...",
+    "faqs": [
+      {
+        "question": "Öffentlicher Straßengüterverkehr",
+        "answer": {
+          "intro": "Er darf nur unter Einhaltung bestimmter Bedingungen durchgeführt werden, einschließlich des Besitzes der erforderlichen Dokumente:",
+          "item1": "Konforme Kopie der Transportlizenz (ARR-Lizenzen und ARR-konforme Kopien)",
+          "item2": "Transportdokument, zur Rechtfertigung des Transports gegenüber der Aufsichtsbehörde",
+          "item3": "Zertifikat über die Einhaltung der Vorschriften zur Umweltverschmutzung und Verkehrssicherheit durch das Fahrzeug",
+          "item4": "Internationale Transportgenehmigung (nur für den internationalen Transport)"
+        }
+      },
+      {
+        "question": "Welche Dokumente sind für den nationalen Transport erforderlich?",
+        "answer": "Es sind eine gültige ARR-Lizenz und die Konformitätsbescheinigung des Fahrzeugs erforderlich."
+      },
+      {
+        "question": "Kann ich online ein internationales Angebot anfordern?",
+        "answer": "Ja, Sie können dies jederzeit direkt auf unserer Plattform tun."
+      }
+    ]
+  },
+
+  "Blog": {
+    "Header": {
+      "section": "CRYSTAL LOGISTICS SERVICES",
+      "title": "BLOG",
+      "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+    }
+  }
+}

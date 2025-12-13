@@ -1,0 +1,143 @@
+{
+
+  "contactForms": {
+    "offerButton": "Cere o ofertă",
+    "carrierButton": "Devino partener",
+    "loadingForm": "Se încarcă formularul…",
+    "offerTitle": "Cerere ofertă",
+    "carrierTitle": "Formular partener"
+  },
+
+"contact": {
+    "badge": "Contact",
+    "title": "Suntem aici să te ajutăm!",
+    "subtitle": "La Crystal Logistics Services, suntem dedicați să oferim soluții personalizate pentru clienți, transportatori și candidații care doresc să se alăture echipei noastre.",
+  "requestQuote": "Cere o ofertă",
+  "hours_ro": "Luni–Vineri, 09:00–17:30",
+  "hours_ch": "Luni–Vineri, 09:00–17:00",
+  "mapLoading": "Se încarcă harta…"
+  },
+
+  "Footer": {
+    "about": {
+      "title": "Despre Crystal Logistics Services",
+      "text": "Crystal Logistics Services oferă soluții complete de transport rutier, maritim, aerian și multimodal, adaptate cerințelor clienților din întreaga lume.",
+      "contactTitle": "Contact",
+      "address": "Str. Exemplu nr. 25, București, România",
+      "phone": "+40 123 456 789",
+      "email": "office@crystallogistics.ro",
+      "followUs": "Urmărește-ne"
+    },
+    "columns": {
+      "services": {
+        "title": "Servicii",
+        "links": [
+          "Cotație Instant",
+          "Transport Multimodal",
+          "Transport Rutier",
+          "Transport Aerian",
+          "Transport Maritim",
+          "Transport Feroviar"
+        ]
+      },
+      "about": {
+        "title": "Despre noi",
+        "links": [
+          "Devino Partener CLS",
+          "Cariere",
+          "Echipa Noastră",
+          "Blog",
+          "Recenzii",
+          "Broșuri"
+        ]
+      },
+      "contact": {
+        "title": "Contact",
+        "address": "Locațiile noastre",
+        "phone": "+40 723 344 599",
+        "email": "logistics@crystal-logistics-services.com",
+        "hours": "Program: 09:00–17:30"
+      },
+      "licenses": {
+        "title": "Licențe",
+        "text": "Licența de intermediere seria CI nr. 0010969\nLicența de transport nr. 023173"
+      }
+    },
+    "bottom": {
+      "rights": "© 2025 Crystal Logistics Services. Toate drepturile rezervate.",
+      "privacy": "Politica de confidențialitate",
+      "terms": "Termeni și condiții",
+      "cookies": "Politica Cookies"
+    }
+  },
+  "Components": {
+    "whyUs": {
+      "title": "De ce să lucrezi cu noi?",
+      "items": {
+        "assistance": "ASISTENȚĂ TRANSPORT 24/7",
+        "response": "RĂSPUNDEM RAPID",
+        "insured": "TRANSPORTUL ESTE ASIGURAT",
+        "fairPrice": "PREȚ CORECT",
+        "fullPackage": "PACHET COMPLET DE SERVICII"
+      }
+    }
+  },
+  "Services": {
+    "title": "Servicii",
+    "learnMore": "Află mai multe",
+    "cards": {
+      "road": {
+        "title": "Transport Rutier",
+        "text": "Serviciile de transport marfă acoperă o gamă completă de soluții adaptate nevoilor fiecărui client, de la transport intern până la rute europene.\n\nAsigurăm transport rutier pentru mărfuri generale, agabaritice, ADR, frigorifice, cisterne sau basculante."
+      },
+      "maritime": {
+        "title": "Transport Maritim",
+        "text": "Soluții ideale pentru volume mari, containere sau transport în vrac, către și dinspre principalele porturi comerciale.\n\nInclude încărcare, documentație vamală, urmărire și asigurare opțională."
+      },
+      "air": {
+        "title": "Transport Aerian",
+        "text": "Soluția rapidă și eficientă pentru transportul internațional de marfă.\n\nIdeal pentru livrări urgente sau sensibile."
+      },
+      "rail": {
+        "title": "Transport Feroviar",
+        "text": "Alternativa economică și sustenabilă pentru volume mari de marfă generală sau agabaritică.\n\nRecomandat în proiecte logistice complexe."
+      },
+      "multimodal": {
+        "title": "Transport Multimodal",
+        "text": "Combină rutier, maritim, aerian și feroviar pentru eficiență și costuri optimizate.\n\nPotrivit pentru lanțuri logistice integrate și termene ferme."
+      }
+    }
+  },
+
+  "Stats": {
+    "title": "Rezultatele noastre vorbesc",
+    "items": {
+      "km": "km parcurși",
+      "clients": "clienți mulțumiți",
+      "cargo": "mărfuri transportate",
+      "revenue": "Miliarde €",
+      "satisfaction": "grad de satisfacție"
+    }
+  },
+
+  "Newsletter": {
+    "title": "Abonează-te la newsletter",
+    "emailLabel": "Adresa ta de e-mail",
+    "emailPlaceholder": "nume@email.com",
+    "consentText": "Am citit și sunt de acord cu",
+    "privacyPolicy": "Politica de confidențialitate",
+    "submit": "Trimite"
+  },
+
+  "Reviews": {
+    "title": "Ce spun clienții noștri",
+    "cta": "Vezi toate recenziile pe Google",
+    "readMore": "citește mai mult",
+    "readLess": "mai puțin"
+  },
+
+  "Organizatii": {
+    "orgTitle": "Organizații din care facem parte",
+    "clientsTitle": "Clienți și parteneri"
+  }
+}

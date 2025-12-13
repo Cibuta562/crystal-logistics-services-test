@@ -1,0 +1,2237 @@
+{
+  "Transport": {
+    "Solutii": {
+      "Header": {
+        "section": "CRYSTAL LOGISTICS SERVICES",
+        "title": "SOLUZIONI DI TRASPORTO",
+        "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+      },
+  "section_1": {
+    "title": "Soluzioni Logistiche Integrate, Adattate al Tuo Business",
+    "paragraphs": [
+      "In Crystal Logistics Services, comprendiamo che ogni merce ha una storia e ogni consegna è critica per il successo della tua attività. Ecco perché non offriamo solo servizi di trasporto, ma costruiamo partnership strategiche basate sulla fiducia, sulle prestazioni e su una profonda comprensione della catena logistica.",
+      "Con un approccio incentrato sull'innovazione e una rete estesa di partner validati, trasformiamo le sfide logistiche in opportunità di crescita. Sia che tu abbia bisogno di un trasporto rapido, della gestione di merci speciali o di una complessa soluzione multimodale, il nostro team dedicato è qui per garantire che la tua merce arrivi a destinazione in condizioni ottimali, in tempo e a un costo equo. Esplora la nostra gamma completa di soluzioni e scopri come possiamo portare efficienza e prevedibilità nelle tue operazioni."
+    ],
+    "alt": "CRYSTAL LOGISTICS SERVICES"
+  },
+      "Accordion": {
+        "title": "Lorem ipsum dolor sit amet",
+        "intro": "Lorem ipsum dolor sit amet",
+        "items": {
+          "class1": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+          "class2": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+          "class3": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+          "class4": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+          "class5": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          },
+          "class6": {
+            "title": "Lorem ipsum dolor sit amet",
+            "short": "",
+            "paragraphs": ["Lorem ipsum dolor sit amet"],
+            "listItems": [""]
+          }
+        }
+      },
+      "Subservicii": {
+        "eyebrow": "Soluzioni per ogni tipo di carico",
+        "title": "I Nostri Sottoservizi",
+        "description": "Indipendentemente dalle vostre esigenze, abbiamo soluzioni personalizzate per ogni tipo di carico – da merci sensibili alla temperatura, a carichi eccezionali e materiali pericolosi.",
+        "agabaritic": {
+          "title": "TRASPORTO ECCEZIONALE",
+          "description": "Nel mondo del trasporto e della logistica, il trasporto eccezionale rappresenta una sfida distinta a causa delle grandi dimensioni e del peso delle merci trasportate. Presso Crystal Logistics, siamo specializzati nella gestione di queste complesse attività con professionalità ed efficienza. Conosciamo la legislazione sul trasporto eccezionale e la rispettiamo in ogni chilometro percorso, assicurando che il vostro carico raggiunga la destinazione con successo.",
+          "alt": "Trasporto eccezionale con rimorchio specializzato"
+        },
+        "adr": {
+          "title": "TRASPORTO ADR",
+          "description": "Comprendiamo la complessità e i rischi connessi al trasporto stradale di materiali pericolosi. Per questo motivo, ci siamo specializzati in questo campo, offrendo soluzioni sicure ed efficienti in conformità con le normative ADR. Il nostro team esperto è formato e certificato per maneggiare e trasportare una vasta gamma di merci pericolose, inclusi prodotti chimici infiammabili, materiali esplosivi e sostanze tossiche.",
+          "alt": "Camion ADR Crystal Logistics in transito"
+        },
+        "frigo": {
+          "title": "TRASPORTO FRIGORIFERO",
+          "description": "Noi, presso l'azienda di spedizioni Crystal Logistics Services, siamo consapevoli dell'importanza di mantenere la temperatura ottimale per garantire la freschezza e la qualità delle merci deperibili. Per questo motivo, abbiamo adattato la nostra flotta e i nostri servizi per offrire il trasporto stradale refrigerato della massima qualità, sia a livello nazionale che internazionale.",
+          "alt": "Camion frigorifero Crystal Logistics in transito"
+        },
+        "marfaVrac": {
+          "title": "CARICO ALLA RINFUSA",
+          "description": "Possediamo una moderna flotta di autocarri ribaltabili specializzati, progettati per il trasporto efficiente e sicuro di una vasta gamma di carichi alla rinfusa, da cereali e aggregati a materiali da costruzione e rifiuti. Con un team di specialisti con licenza per il trasporto di merci e l'attenta osservanza della legislazione sui gestori di trasporto merci, assicuriamo che ogni fase del processo sia gestita in conformità con gli standard più elevati.",
+          "alt": "Veicolo di trasporto espresso in autostrada"
+        },
+        "relocariInternationale": {
+          "title": "TRASLOCHI INTERNAZIONALI",
+          "description": "Con una vasta esperienza nel trasporto e nella logistica, Crystal Logistics Services è il vostro partner affidabile quando si tratta di traslochi internazionali. Che si tratti del trasferimento di un'azienda o di una famiglia, siamo orgogliosi di poter affrontare qualsiasi sfida. Il nostro team di specialisti è al fianco del cliente durante l'intero processo di trasloco.",
+          "alt": "Merci pallettizzate pronte per il trasporto di groupage"
+        },
+        "distributieNationala": {
+          "title": "DISTRIBUZIONE NAZIONALE",
+          "description": "Presso Crystal Logistics Services, offriamo soluzioni complete di distribuzione nazionale. Gestiamo ogni fase del processo di distribuzione, dal ritiro delle merci dal cliente, allo stoccaggio, smistamento e consegna. Il trasporto merci su strada è una componente essenziale dei nostri servizi, consentendoci di raggiungere qualsiasi destinazione nel paese in modo rapido ed efficiente.",
+          "alt": "Magazzino logistico moderno con scaffali e merci preparate per la distribuzione"
+        },
+        "logisticaTarguri": {
+          "title": "Fiere ed Esposizioni Internazionali",
+          "description": "Presso Crystal Logistics Services, offriamo soluzioni complete di distribuzione nazionale. Gestiamo ogni fase del processo di distribuzione, dal ritiro delle merci dal cliente, allo stoccaggio, smistamento e consegna. Il trasporto merci su strada è una componente essenziale dei nostri servizi, consentendoci di raggiungere qualsiasi destinazione nel paese in modo rapido ed efficiente.",
+          "alt": "Magazzino logistico moderno con scaffali e merci preparate per la distribuzione"
+        },
+        "transportArmament": {
+          "title": "TRASPORTO DI ARMAMENTI",
+          "description": "Presso Crystal Logistics Services, offriamo soluzioni complete di distribuzione nazionale. Gestiamo ogni fase del processo di distribuzione, dal ritiro delle merci dal cliente, allo stoccaggio, smistamento e consegna. Il trasporto merci su strada è una componente essenziale dei nostri servizi, consentendoci di raggiungere qualsiasi destinazione nel paese in modo rapido ed efficiente.",
+          "alt": "Magazzino logistico moderno con scaffali e merci preparate per la distribuzione"
+        }
+      },
+      "cta": {
+        "messages": ["Lorem ipsum dolor sit amet", "Contattaci oggi!"],
+        "buttonLabel": "CONTATTACI"
+      }
+    },
+    "Rutier": {
+      "General": {
+        "Header": {
+          "section": "CRYSTAL LOGISTICS SERVICES",
+          "title": "TRASPORTO MERCI SU STRADA",
+          "alt": "Banner Trasporto Merci su Strada - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "CLS: IL VOSTRO PARTNER AFFIDABILE NEL TRASPORTO SU STRADA",
+          "paragraphs": [
+            "Crystal Logistics Services offre servizi completi di trasporto merci, adattati alle esigenze di ogni cliente. Con una flotta moderna e diversificata, garantiamo un trasporto su strada sicuro ed efficiente sia a livello nazionale che internazionale.",
+            "Grazie alla nostra esperienza nel trasporto merci su strada, garantiamo soluzioni flessibili, consegne puntuali e i più alti standard di sicurezza. Scegli un partner affidabile per qualsiasi tipo di trasporto!"
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_2": {
+          "title": "Soluzioni per ogni tipo di carico",
+          "paragraphs": [
+            "Indipendentemente dalle vostre esigenze, abbiamo soluzioni personalizzate:"
+          ],
+          "alt": "Crystal Logistics Services",
+          "listItems": [
+            "Trasporto internazionale e trasporto nazionale, con ampia copertura in tutta Europa",
+            "Trasporto refrigerato, destinato a merci deperibili e prodotti sensibili alla temperatura",
+            "Trasporto pacchi e trasporto pallet, ideale per spedizioni rapide e sicure",
+            "Trasporto ADR, conforme alle normative di sicurezza per materiali pericolosi",
+            "Trasporto eccezionale, per attrezzature e strutture di grandi dimensioni"
+          ]
+        },
+        "section_3": {
+          "eyebrow": "La nostra attività principale:",
+          "title": "Trasporto Nazionale e Internazionale",
+          "subtitle": "Presso Crystal Logistics Services, offriamo una vasta gamma di servizi per affrontare qualsiasi sfida logistica che potreste incontrare. Siamo orgogliosi di essere un partner affidabile per il trasporto su strada, sia a livello nazionale che internazionale.",
+          "paragraphs": [
+            "Nel campo del trasporto su strada, siamo orgogliosi della nostra capacità di trasportare una gamma diversificata di merci su percorsi nazionali e internazionali. Possiamo gestire con successo il trasporto merci internazionale su strada per una varietà di prodotti, dagli alimenti alle attrezzature industriali e ai beni di consumo.",
+            "Inoltre, la nostra esperienza ci consente di gestire facilmente il trasporto di materiali pericolosi o altri carichi speciali, rafforzando la nostra posizione nel settore del trasporto su strada internazionale e nazionale."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_4": {
+          "title": "SUPERIAMO LE SFIDE DEL TRASPORTO CON SOLUZIONI INTELLIGENTI",
+          "paragraphs": [
+            "Presso Crystal Logistics Services, comprendiamo che ogni progetto di trasporto ha le sue sfide. A questo proposito, la flessibilità e l'adattabilità sono due dei nostri principi fondamentali. Ci adattiamo costantemente alle esigenze specifiche di ogni cliente, offrendo soluzioni personalizzate che superano qualsiasi ostacolo. Indipendentemente dal tipo di carico che desiderate trasportare, siamo qui per aiutarvi."
+          ]
+        },
+        "Subservicii": {
+          "eyebrow": "Soluzioni per ogni tipo di carico",
+          "title": "I Nostri Sottoservizi",
+          "description": "Indipendentemente dalle vostre esigenze, abbiamo soluzioni personalizzate per ogni tipo di carico – da merci sensibili alla temperatura, a carichi eccezionali e materiali pericolosi.",
+          "agabaritic": {
+            "title": "TRASPORTO ECCEZIONALE",
+            "description": "Nel mondo del trasporto e della logistica, il trasporto eccezionale rappresenta una sfida distinta a causa delle grandi dimensioni e del peso delle merci trasportate. Presso Crystal Logistics, siamo specializzati nella gestione di queste complesse attività con professionalità ed efficienza. Conosciamo la legislazione sul trasporto eccezionale e la rispettiamo in ogni chilometro percorso, assicurando che il vostro carico raggiunga la destinazione con successo.",
+            "alt": "Trasporto eccezionale con rimorchio specializzato"
+          },
+          "adr": {
+            "title": "TRASPORTO ADR",
+            "description": "Comprendiamo la complessità e i rischi connessi al trasporto stradale di materiali pericolosi. Per questo motivo, ci siamo specializzati in questo campo, offrendo soluzioni sicure ed efficienti in conformità con le normative ADR. Il nostro team esperto è formato e certificato per maneggiare e trasportare una vasta gamma di merci pericolose, inclusi prodotti chimici infiammabili, materiali esplosivi e sostanze tossiche.",
+            "alt": "Camion ADR Crystal Logistics in transito"
+          },
+          "frigo": {
+            "title": "TRASPORTO FRIGORIFERO",
+            "description": "Noi, presso l'azienda di spedizioni Crystal Logistics Services, siamo consapevoli dell'importanza di mantenere la temperatura ottimale per garantire la freschezza e la qualità delle merci deperibili. Per questo motivo, abbiamo adattato la nostra flotta e i nostri servizi per offrire il trasporto stradale refrigerato della massima qualità, sia a livello nazionale che internazionale.",
+            "alt": "Camion frigorifero Crystal Logistics in transito"
+          },
+          "marfaVrac": {
+            "title": "CARICO ALLA RINFUSA",
+            "description": "Possediamo una moderna flotta di autocarri ribaltabili specializzati, progettati per il trasporto efficiente e sicuro di una vasta gamma di carichi alla rinfusa, da cereali e aggregati a materiali da costruzione e rifiuti. Con un team di specialisti con licenza per il trasporto di merci e l'attenta osservanza della legislazione sui gestori di trasporto merci, assicuriamo che ogni fase del processo sia gestita in conformità con gli standard più elevati.",
+            "alt": "Veicolo di trasporto espresso in autostrada"
+          },
+          "relocariInternationale": {
+            "title": "TRASLOCHI INTERNAZIONALI",
+            "description": "Con una vasta esperienza nel trasporto e nella logistica, Crystal Logistics Services è il vostro partner affidabile quando si tratta di traslochi internazionali. Che si tratti del trasferimento di un'azienda o di una famiglia, siamo orgogliosi di poter affrontare qualsiasi sfida. Il nostro team di specialisti è al fianco del cliente durante l'intero processo di trasloco.",
+            "alt": "Merci pallettizzate pronte per il trasporto di groupage"
+          },
+          "distributieNationala": {
+            "title": "DISTRIBUZIONE NAZIONALE",
+            "description": "Presso Crystal Logistics Services, offriamo soluzioni complete di distribuzione nazionale. Gestiamo ogni fase del processo di distribuzione, dal ritiro delle merci dal cliente, allo stoccaggio, smistamento e consegna. Il trasporto merci su strada è una componente essenziale dei nostri servizi, consentendoci di raggiungere qualsiasi destinazione nel paese in modo rapido ed efficiente.",
+            "alt": "Magazzino logistico moderno con scaffali e merci preparate per la distribuzione"
+          },
+          "logisticaTarguri": {
+            "title": "Fiere ed Esposizioni Internazionali",
+            "description": "Presso Crystal Logistics Services, offriamo soluzioni complete di distribuzione nazionale. Gestiamo ogni fase del processo di distribuzione, dal ritiro delle merci dal cliente, allo stoccaggio, smistamento e consegna. Il trasporto merci su strada è una componente essenziale dei nostri servizi, consentendoci di raggiungere qualsiasi destinazione nel paese in modo rapido ed efficiente.",
+            "alt": "Magazzino logistico moderno con scaffali e merci preparate per la distribuzione"
+          },
+          "transportArmament": {
+            "title": "TRASPORTO DI ARMAMENTI",
+            "description": "Presso Crystal Logistics Services, offriamo soluzioni complete di distribuzione nazionale. Gestiamo ogni fase del processo di distribuzione, dal ritiro delle merci dal cliente, allo stoccaggio, smistamento e consegna. Il trasporto merci su strada è una componente essenziale dei nostri servizi, consentendoci di raggiungere qualsiasi destinazione nel paese in modo rapido ed efficiente.",
+            "alt": "Magazzino logistico moderno con scaffali e merci preparate per la distribuzione"
+          }
+        },
+        "Accordion": {
+          "title": "Legislazione sul trasporto merci",
+          "intro": "A quali condizioni viene effettuato il trasporto merci?",
+          "items": {
+            "class1": {
+              "title": "Trasporto merci su strada pubblico",
+              "short": "può essere effettuato dagli operatori di trasporto solo soddisfacendo determinate condizioni, incluso il possesso dei documenti necessari:",
+              "paragraphs": [""],
+              "listItems": [
+                "copia certificata della licenza di trasporto (licenze ARR e copie certificate ARR);",
+                "documento di trasporto, in modo da poter giustificare il trasporto di fronte all'Ispettorato di Stato per il Controllo del Trasporto Stradale;",
+                "certificato riguardante la conformità del veicolo agli standard di inquinamento e sicurezza stradale;",
+                "autorizzazione al trasporto internazionale (solo per il trasporto internazionale)."
+              ]
+            },
+            "class2": {
+              "title": "Gli operatori di trasporto su strada rumeni possono effettuare il trasporto merci su strada pubblico in traffico internazionale:",
+              "short": "",
+              "paragraphs": [""],
+              "listItems": [
+                "solo sulla base di autorizzazioni al trasporto internazionale rilasciate dall'autorità competente;",
+                "in conformità con gli accordi o le convenzioni internazionali di cui la Romania è parte."
+              ]
+            },
+            "class3": {
+              "title": "Documenti richiesti per il trasporto su strada in conto proprio:",
+              "short": "",
+              "paragraphs": [""],
+              "listItems": [
+                "copia certificata del certificato di trasporto in conto proprio (copie certificate ARR);",
+                "documenti che dimostrino che il carico è trasportato in conto proprio."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Volete saperne di più sui nostri servizi di trasporto e logistica?",
+          "messages": [
+            "Per maggiori informazioni sul trasporto su strada e su ogni sottoservizio, cliccate sui link sopra o contattateci direttamente per parlare con uno dei nostri specialisti!"
+          ],
+          "buttonLabel": "CONTATTACI"
+        }
+      },
+      "Agabaritic": {
+        "Header": {
+          "section": "TRASPORTO MERCI SU STRADA",
+          "title": "TRASPORTO ECCEZIONALE",
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+        "section_1": {
+          "title": "ABBIAMO ESPERIENZA NELLA GESTIONE DI CARICHI CON DIMENSIONI ECCEZIONALI",
+          "paragraphs": [
+            "Quando avete un carico che non rientra nelle dimensioni standard di un camion o supera il peso massimo ammissibile, avete bisogno di esperti.",
+            "Presso Crystal Logistics Services, abbiamo l'esperienza e le risorse necessarie per gestire con successo queste complesse attività, attraverso i nostri servizi di trasporto eccezionale internazionali e nazionali."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+        "section_2": {
+          "title": "LA NOSTRA ESPERIENZA",
+          "paragraphs": [
+            "Abbiamo accumulato una vasta esperienza nel campo del trasporto eccezionale, avendo la capacità di gestire con successo il trasporto di carichi con dimensioni eccezionali provenienti da vari settori.",
+            "Da macchinari agricoli, attrezzature industriali, da costruzione e infrastrutturali, a attrezzature per energia rinnovabile e strutture metalliche complesse, abbiamo affrontato una diversità di richieste, ognuna con le sue sfide uniche, rafforzando così la nostra esperienza."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+        "section_3": {
+          "title": "AREE DI COMPETENZA",
+          "alt": "CRYSTAL LOGISTICS SERVICES",
+          "listItems": [
+            "<strong>Macchinari Agricoli:</strong> Dalle mietitrebbie ai serbatoi d'acqua.",
+            "<strong>Costruzione e Infrastruttura:</strong> Escavatori, gru, impianti di perforazione e molti altri.",
+            "<strong>Energia:</strong> Turbine eoliche e altre attrezzature energetiche.",
+            "<strong>Trasporto:</strong> Vagoni, barche e aerei.",
+            "<strong>Costruzioni Modulari:</strong> Case mobili e strutture modulari.",
+            "<strong>Strutture Metalliche:</strong> Di varie dimensioni e applicazioni.",
+            "<strong>Carico Lungo:</strong> Tubi di varie dimensioni.",
+            "<strong>Attrezzature Militari:</strong> Veicoli e macchinari specifici."
+          ]
+        },
+        "highlight": {
+          "eyebrow": "TRASPORTO ECCEZIONALE",
+          "title": "PERCHÉ SCEGLIERE CRYSTAL LOGISTICS SERVICES PER IL TRASPORTO ECCEZIONALE?",
+          "description": "",
+          "items": {
+            "card1": {
+              "title": "Pianificazione e Organizzazione Rigorose",
+              "description": "Presso Crystal Logistics, comprendiamo che la chiave per un trasporto eccezionale di successo risiede in una pianificazione rigorosa e un'organizzazione impeccabile. Come azienda di trasporto eccezionale con vasta esperienza nel settore, sappiamo quanto sia importante valutare l'infrastruttura stradale e identificare potenziali ostacoli prima di iniziare il trasporto. Sappiamo che le dimensioni e il peso del carico possono richiedere percorsi specifici che possono supportare tali specifiche. Ecco perché la scelta del percorso più efficiente è una priorità per noi. Nel trasporto eccezionale e nel trasporto di carico alla rinfusa, incontrare sfide è la norma, non l'eccezione. Ostacoli fisici sul percorso o restrizioni di transito sono solo alcune delle sfide che affrontiamo regolarmente. Tuttavia, presso Crystal Logistics Services, queste sfide vengono anticipate, gestite e superate con successo grazie alla professionalità e serietà del nostro team."
+            },
+            "card2": {
+              "title": "Autorizzazioni, Approvazioni e Scorta",
+              "description": "Comprendiamo la complessità del processo di trasporto eccezionale e sappiamo quanto sia importante rispettare la legislazione vigente. L'ottenimento delle autorizzazioni e approvazioni necessarie per il trasporto eccezionale può essere una sfida, ma ci occupiamo di tutto. Garantiamo licenze di trasporto, licenze ARR, autorizzazioni e tutte le approvazioni necessarie per il trasporto. Offriamo anche la scorta con veicoli di scorta autorizzati, garantendo la sicurezza del trasferimento lungo tutto il percorso. Per il trasporto ADR, offriamo soluzioni sicure e conformi, avendo la certificazione ADR, autisti specializzati nel trasporto di materiali pericolosi e veicoli specializzati. Inoltre, potete beneficiare di una consulenza specializzata da parte del nostro consulente per la sicurezza."
+            },
+            "card3": {
+              "title": "Tutto Incluso (All-Inclusive)",
+              "description": "Il trasporto eccezionale rappresenta molto di più del semplice spostamento di un oggetto dal punto A al punto B. Per questo motivo, offriamo servizi tutto incluso, dalla pianificazione rigorosa del processo di trasporto, all'ottenimento di tutte le autorizzazioni e approvazioni necessarie, nonché alla fornitura di servizi di scorta e sicurezza. Utilizziamo una vasta gamma di veicoli specializzati, adattati per questo tipo di trasporto. Questi sono essenziali per una consegna efficiente e sicura delle merci eccezionali. Che si tratti di autocarri a pianale ribassato, rimorchi modulari o veicoli con elevate capacità di carico, abbiamo la soluzione giusta per le vostre esigenze."
+            }
+          }
+        },
+        "specializedVehicles": {
+          "title": "VEICOLI SPECIALIZZATI",
+          "intro": "Utilizziamo una vasta gamma di veicoli adattati per il trasporto eccezionale: rimorchi piatti, rimorchi ribassati, rimorchi estensibili e rimorchi multi-asse per tonnellaggi elevati.",
+          "items": {
+            "platformaDreaptaDeschisa": {
+              "title": "1. PIANALE APERTO DRITTO",
+              "description": "",
+              "altMain": "Pianale aperto dritto",
+              "altSide": "Pianale aperto dritto - vista laterale"
+            },
+            "plataformaLasata": {
+              "title": "2. SEMIRIMORCHIO RIBASSATO (SEMI LOW BED)",
+              "description": "",
+              "altMain": "Piattaforma ribassata",
+              "altSide": "Piattaforma ribassata - vista laterale"
+            },
+            "gondola": {
+              "title": "3. GONDOLA RIBASSATA",
+              "description": "",
+              "altMain": "Piattaforme estensibili",
+              "altSide": "Piattaforme estensibili - vista laterale"
+            },
+            "gondola4axe": {
+              "title": "4. GONDOLA RIBASSATA A 4 ASSI",
+              "description": "",
+              "altMain": "Rimorchi modulari",
+              "altSide": "Rimorchi modulari - vista laterale"
+            },
+            "trailerExtensibil": {
+              "title": "5. RIMORCHIO ESTENSIBILE",
+              "description": "",
+              "altMain": "Veicolo con collo d'oca staccabile",
+              "altSide": "Veicolo con collo d'oca staccabile - vista laterale"
+            },
+            "trailereCuAlveole": {
+              "title": "6. RIMORCHIO CON ALVEOLE (PER MACCHINARI, ALTEZZA MAX 4M)",
+              "description": "",
+              "altMain": "Rimorchi con pareti laterali",
+              "altSide": "Rimorchi con pareti laterali - vista laterale"
+            },
+            "platformaLasata2": {
+              "title": "7. SEMIRIMORCHIO RIBASSATO (SEMI LOW BED)",
+              "description": "",
+              "altMain": "Piattaforma ribassata",
+              "altSide": "Piattaforma ribassata - vista laterale"
+            }
+          }
+        },
+        "cta": {
+          "title": "Contattaci!",
+          "messages": [
+            "Siamo qui per aiutarvi a superare le sfide logistiche che incontrate.",
+            "Il nostro team di esperti elaborerà un'offerta personalizzata per soddisfare le vostre esigenze specifiche.",
+            "Contattateci oggi stesso per saperne di più sui nostri servizi!"
+          ],
+          "buttonLabel": "CONTATTACI"
+        }
+      },
+      "Adr": {
+        "Header": {
+          "section": "TRASPORTO MERCI SU STRADA",
+          "title": "TRASPORTO ADR",
+          "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "SCEGLIETE IL PERCORSO SICURO – TRASPORTO DI MATERIALI PERICOLOSI ADR",
+          "paragraphs": [
+            "Il trasporto di materiali pericolosi ADR rappresenta una sfida importante.",
+            "Presso Crystal Logistics Services, siamo specializzati nella gestione di questi trasporti, assicurando che le vostre merci siano maneggiate e consegnate in condizioni di massima sicurezza.",
+            "Il nostro team è composto da specialisti qualificati, continuamente formati in conformità con le normative ADR."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+        "section_2": {
+          "title": "IMBALLAGGIO DI MATERIALI PERICOLOSI E MARCATURA DEI COLLI",
+          "introParagraphs": [
+            "Le sostanze pericolose sono classificate e raggruppate secondo l'ADR (Accordo europeo relativo al trasporto internazionale su strada di merci pericolose), in base al loro grado di pericolo. Questa classificazione dettagliata, in conformità con la legislazione ADR per gli imballaggi, ci aiuta a comprendere i requisiti specifici per un imballaggio appropriato per ogni tipo di carico.",
+            "Ai fini dell'imballaggio, qualsiasi prescrizione relativa al livello di prestazione è fornita nell'istruzione di imballaggio applicabile."
+          ],
+          "listTitle": "Gruppi di imballaggio:",
+          "groups": [
+            {
+              "label": "Gruppo I: ",
+              "text": "sostanze molto pericolose;"
+            },
+            {
+              "label": "Gruppo II: ",
+              "text": "sostanze mediamente pericolose;"
+            },
+            {
+              "label": "Gruppo III: ",
+              "text": "sostanze leggermente pericolose."
+            }
+          ],
+          "outroParagraphs": [
+            "L'imballaggio deve essere progettato e costruito per resistere alle condizioni di trasporto e prevenire perdite o danni. Inoltre, gli imballaggi devono essere sottoposti a test rigorosi per verificare la conformità con i requisiti specificati dalle normative ADR."
+          ]
+        },
+        "section_3": {
+          "title": "LA SICUREZZA – LA NOSTRA PRIORITÀ NUMERO UNO",
+          "paragraphs": [
+            "Nel campo del trasporto di materiali pericolosi, la sicurezza non è solo una priorità, ma una necessità. La mancata osservanza delle normative di sicurezza porta non solo a multe considerevoli, ma anche a potenziali incidenti con conseguenze disastrose. Per questo motivo, Crystal Logistics Services detiene una licenza per il trasporto di materiali pericolosi, assicurando che ogni trasporto sia effettuato in condizioni di sicurezza ottimali.",
+            "Potete beneficiare dei servizi di un consulente per la sicurezza specializzato, la cui responsabilità principale è garantire che tutte le normative di sicurezza siano rispettate. Inoltre, i nostri autisti sono formati e esaminati per garantire che possano maneggiare materiali pericolosi in modo sicuro ed efficiente. Anche i camion sono ispezionati e certificati per garantire che siano adeguatamente attrezzati per il trasporto di questo tipo di merci. "
+          ]
+        },
+        "highlight": {
+          "eyebrow": "TRASPORTO ADR",
+          "title": "SCEGLIETE LA SOLUZIONE DI TRASPORTO IDEALE!",
+          "description": "Ogni cliente ha esigenze specifiche quando si tratta di trasportare materiali pericolosi ADR. Pertanto, offriamo due soluzioni principali: il trasporto di groupage (LTL) e il trasporto esclusivo (FTL).",
+          "items": {
+            "card1": {
+              "title": "Trasporto di Groupage (LTL)",
+              "description": "Il trasporto di groupage (LTL) è l'ideale per coloro che hanno quantità minori di materiali pericolosi ADR da trasportare. Questa soluzione comporta la combinazione di più carichi in un unico camion, rendendo il processo più conveniente. Inoltre, per coloro che si occupano di trasporto ADR che richiede il controllo della temperatura, offriamo opzioni di trasporto refrigerato, con contenitori dotati di pareti divisorie, per garantire condizioni di trasporto ottimali."
+            },
+            "card2": {
+              "title": "Trasporto Esclusivo (FTL)",
+              "description": "Il trasporto esclusivo (FTL) è la soluzione giusta per coloro che hanno grandi quantità di merci o merci di alto valore. In questo caso, l'intero camion è riservato a un unico carico, offrendo un livello superiore di controllo e flessibilità."
+            }
+          }
+        },
+        "cards": {
+          "eyebrow": "",
+          "title": "ABBIAMO DIVERSI TIPI DI AUTOCARRI PER IL TRASPORTO ADR",
+          "description": "Presso Crystal Logistics Services, comprendiamo la complessità e i rischi associati al trasporto di materiali pericolosi ADR. Per questo motivo, abbiamo investito in una flotta variegata di autocarri ADR specializzati, progettati per soddisfare le vostre esigenze di spedizione sicura di queste merci.",
+          "items": {
+            "card1": {
+              "title": "AUTOCARRI TELONATI",
+              "short": "",
+              "descriptions": [
+                "Questi costituiscono una soluzione ottimale per il trasporto di materiali pericolosi ADR, essendo ideali per il trasporto di merci pallettizzate o in scatola, grazie al fatto che offrono protezione contro le intemperie e garantiscono un facile accesso per il carico e lo scarico."
+              ]
+            },
+            "card2": {
+              "title": "AUTOCARRI FURGONI",
+              "short": "",
+              "descriptions": [
+                "Con una struttura solida e robusta, questi autocarri sono fabbricati tenendo conto della necessità di trasportare carichi sensibili e pericolosi. La loro carrozzeria è progettata per resistere a qualsiasi tipo di urto o impatto, proteggendo così il carico."
+              ]
+            },
+            "card3": {
+              "title": "AUTOCISTERNE",
+              "short": "Per liquidi pericolosi, gas e polveri.",
+              "descriptions": [
+                "Comprendiamo che il trasporto ADR di materiali pericolosi è un'operazione complessa e delicata. Per questo motivo, abbiamo investito in una flotta variegata di autocisterne specializzate, per garantire di poter soddisfare qualsiasi esigenza di trasporto. Le autocisterne sono ideali per il trasporto di liquidi, gas e polveri. La nostra flotta è dotata di attrezzature specifiche, in modo da poter garantire il trasporto nel modo più sicuro possibile."
+              ]
+            }
+          }
+        },
+        "Accordion": {
+          "title": "CLASSI DI CARICO ADR",
+          "intro": "",
+          "items": {
+            "class1": {
+              "title": "Classe 1: Materiali e oggetti esplosivi",
+              "short": "",
+              "paragraphs": [],
+              "listItems": ["Esempi: dinamite, nitroglicerina, fuochi d'artificio."]
+            },
+            "class2": {
+              "title": "Classe 2: Gas",
+              "short": "",
+              "paragraphs": [
+                "Sottoclasse 2.1: Gas infiammabili",
+                "Sottoclasse 2.2: Gas non infiammabili, non tossici",
+                "Sottoclasse 2.3: Gas tossici"
+              ],
+              "listItems": [
+                "Esempi: butano, propano.",
+                "Esempi: azoto, elio.",
+                "Esempi: cloro, ammoniaca."
+              ]
+            },
+            "class3": {
+              "title": "Classe 3: Liquidi infiammabili",
+              "short": "",
+              "paragraphs": [],
+              "listItems": ["Esempi: benzina, acetone, alcol etilico."]
+            },
+            "class4": {
+              "title": "Classe 4: Solidi infiammabili; sostanze soggette a combustione spontanea; sostanze che a contatto con l'acqua emettono gas infiammabili",
+              "short": "",
+              "paragraphs": [
+                "Sottoclasse 4.1: Solidi infiammabili",
+                "Sottoclasse 4.2: Sostanze soggette a combustione spontanea",
+                "Sottoclasse 4.3: Sostanze che a contatto con l'acqua emettono gas infiammabili"
+              ],
+              "listItems": [
+                "Esempi: zolfo, fosforo rosso.",
+                "Esempi: fosforo bianco.",
+                "Esempi: metallo alcalino, calcio."
+              ]
+            },
+            "class5": {
+              "title": "Classe 5: Sostanze ossidanti e perossidi organici",
+              "short": "",
+              "paragraphs": [
+                "Sottoclasse 5.1: Sostanze ossidanti",
+                "Sottoclasse 5.2: Perossidi organici"
+              ],
+              "listItems": [
+                "Esempi: nitrato di potassio, acqua ossigenata.",
+                "Esempi: perossido di etile."
+              ]
+            },
+            "class6": {
+              "title": "Classe 6: Sostanze tossiche e sostanze infettive",
+              "short": "",
+              "paragraphs": [
+                "Sottoclasse 6.1: Sostanze tossiche",
+                "Sottoclasse 6.2: Sostanze infettive"
+              ],
+              "listItems": [
+                "Esempi: cianuro, stricnina.",
+                "Esempi: campioni biologici, colture di virus."
+              ]
+            },
+            "class7": {
+              "title": "Classe 7: Materiali radioattivi",
+              "short": "",
+              "paragraphs": [],
+              "listItems": [
+                "Esempi: uranio, plutonio, isotopi radioattivi utilizzati in medicina."
+              ]
+            },
+            "class8": {
+              "title": "Classe 8: Sostanze corrosive",
+              "short": "",
+              "paragraphs": [],
+              "listItems": [
+                "Esempi: acido solforico, acido cloridrico, soda caustica."
+              ]
+            },
+            "class9": {
+              "title": "Classe 9: Sostanze e oggetti pericolosi vari",
+              "short": "",
+              "paragraphs": [],
+              "listItems": [
+                "Esempi: amianto, batterie al litio-ion, sostanze pericolose per l'ambiente."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Per maggiori dettagli o un preventivo, vi preghiamo di contattarci.",
+          "messages": [""]
+        }
+      },
+      "Frigo": {
+        "Header": {
+          "section": "TRASPORTO MERCI SU STRADA",
+          "title": "TRASPORTO FRIGORIFERO",
+          "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "AVETE BISOGNO DI TRASPORTO MERCI REFRIGERATE?",
+          "paragraphs": [
+            "Offriamo servizi di trasporto refrigerato di alta qualità, con una flotta adattata per garantire le migliori condizioni di trasporto per merci refrigerate o congelate.",
+            "Crystal Logistics Services vi offre soluzioni personalizzate ed efficienti, adattate alle esigenze specifiche della vostra attività."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_2": {
+          "title": "Quali tipi di merci trasportiamo?",
+          "paragraphs": [
+            "Presso Crystal Logistics Services, possiamo trasportare una vasta gamma di merci, adattandoci continuamente alle esigenze e alle necessità dei nostri clienti.",
+            "Offriamo soluzioni di trasporto refrigerato internazionale per una varietà di prodotti:"
+          ],
+          "alt": "Crystal Logistics Services",
+          "listItems": [
+            "medicinali: temperatura controllata +2/+8°C | +15/+25°C;",
+            "merci congelate (pesce, carne, verdure, piatti pronti, ecc.): -18/-20°C. La temperatura impostata è controllata e costante durante tutto il trasporto;",
+            "merci refrigerate (verdure, frutta, carne fresca, fiori, ecc.): 0°C/+6°C."
+          ]
+        },
+        "section_3": {
+          "col1": {
+            "title": "SUPPORTO PERSONALIZZATO PER IL TRASPORTO REFRIGERATO",
+            "paragraphs": [
+              "Comprendiamo la complessità e lo stress associati al trasporto refrigerato in Romania, motivo per cui offriamo consulenza professionale personalizzata per garantire un'esperienza fluida ed efficiente.",
+              "I nostri consulenti esperti vi guideranno fin dall'inizio, offrendo consigli e assistenza in ogni fase della pianificazione, dalla scelta della temperatura di trasporto ottimale alla selezione del veicolo giusto e al rispetto delle rigorose normative del settore."
+            ]
+          },
+          "col2": {
+            "title": "ESPERTI IN TRASPORTO REFRIGERATO",
+            "paragraphs": [
+              "La conoscenza dettagliata dei requisiti di temperatura per i diversi tipi di prodotti, così come la capacità di gestire i problemi che possono sorgere durante il trasporto, ci rendono un partner affidabile nel trasporto su strada di merci deperibili.",
+              "Per questi motivi, siamo la scelta giusta per tutte le vostre esigenze di trasporto refrigerato."
+            ]
+          }
+        },
+        "highlight": {
+          "eyebrow": "TRASPORTO FRIGORIFERO",
+          "title": "PERCHÉ COLLABORARE CON NOI PER IL TRASPORTO REFRIGERATO?",
+          "description": "La nostra vasta esperienza e le conoscenze specializzate nel trasporto merci refrigerate ci consentono di offrire il miglior servizio possibile.",
+          "items": {
+            "card1": {
+              "title": "Veicoli Adattabili",
+              "description": "Presso Crystal Logistics Services, ci siamo concentrati sulla creazione di una flotta adattabile, in grado di rispondere in modo efficiente a qualsiasi tipo di esigenza di trasporto. Dai furgoni sprinter per brevi distanze e consegne rapide, ai nuovi furgoni refrigerati e autocarri di grande tonnellaggio per il trasporto di merci voluminose o su lunghe distanze, ogni veicolo della nostra flotta è pronto a soddisfare le vostre esigenze di trasporto. Tutti i nostri veicoli sono dotati di sistemi di regolazione della temperatura, in grado di mantenere un clima controllato nell'intervallo da -20°C a +25°C."
+            },
+            "card2": {
+              "title": "Certificazione della Temperatura",
+              "description": "Nel campo del trasporto refrigerato internazionale e nazionale, presso Crystal Logistics Services siamo orgogliosi della stretta conformità, che ci consente di monitorare con precisione le variazioni di temperatura durante l'intera durata del transito. In questo modo, manteniamo la costanza della temperatura e garantiamo che le merci raggiungano la loro destinazione in condizioni ottimali."
+            },
+            "card3": {
+              "title": "Flessibilità e Adattabilità",
+              "description": "Comprendiamo che ogni attività è unica e ha requisiti specifici. Per questo motivo, offriamo una vasta gamma di opzioni, inclusi contratti di trasporto refrigerato di groupage, con l'aiuto dei nostri contenitori dotati di pareti divisorie. Questi consentono il trasporto separato delle merci e il mantenimento di una temperatura specifica per ogni tipo di prodotto. Così, possiamo trasportare contemporaneamente prodotti che richiedono temperature diverse, senza comprometterne la qualità o la sicurezza."
+            }
+          }
+        },
+        "cards": {
+          "eyebrow": "",
+          "title": "OPZIONI VEICOLI",
+          "description": "",
+          "items": {
+            "title": "",
+            "card1": {
+              "title": "Veicoli di trasporto isolati",
+              "short": "Per brevi distanze e merci a bassa deperibilità.",
+              "descriptions": [
+                "Veicoli con pareti termicamente isolate, senza unità di raffreddamento propria, ideali per il trasporto a breve distanza di merci a bassa deperibilità.",
+                "Mantengono la temperatura interna stabile per un tempo limitato."
+              ]
+            },
+            "card2": {
+              "title": "AUTOCISTERNE",
+              "short": "Per liquidi alimentari a temperatura controllata.",
+              "descriptions": [
+                "Autocisterne specializzate per liquidi alimentari (ad esempio, latte, succhi), con isolamento e sistemi per il mantenimento della temperatura preimpostata.",
+                "Consentono una facile pulizia e sanificazione per conformarsi agli standard di sicurezza alimentare."
+              ]
+            },
+            "card3": {
+              "title": "VEICOLI FRIGORIFERI",
+              "short": "Per prodotti che richiedono temperature molto basse.",
+              "descriptions": [
+                "Veicoli dotati di unità di raffreddamento a temperatura controllata, adatti per prodotti congelati o ultra-refrigerati.",
+                "Mantengono il clima impostato durante tutto il trasporto, anche nei regimi internazionali."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Per maggiori dettagli, preventivi o qualsiasi altra informazione, non esitate a contattarci.",
+          "messages": [""]
+        }
+      },
+      "MarfaVrac": {
+        "Header": {
+          "section": "TRASPORTO MERCI SU STRADA",
+          "title": "TRASPORTO CARICO ALLA RINFUSA",
+          "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "SOLUZIONI COMPLETE PER IL TRASPORTO DI CARICO ALLA RINFUSA",
+          "paragraphs": [
+            "Presso Crystal Logistics Services, offriamo soluzioni complete di trasporto per il vostro carico alla rinfusa, adattate alle vostre esigenze specifiche. Comprendiamo che ogni compito di trasporto ha requisiti unici, e le nostre soluzioni sono progettate per soddisfare tali requisiti in modo efficiente e sicuro.",
+            "La nostra flotta di autocarri ribaltabili è dotata di tecnologia all'avanguardia e appositamente adattata per il trasporto merci su strada alla rinfusa. I nostri camion possono trasportare una vasta gamma di merci, da cereali e materiali da costruzione a rifiuti. Sono regolarmente controllati e mantenuti per garantire che siano in condizioni di funzionamento ottimali."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+        "section_2": {
+          "title": "IL NOSTRO TEAM – PRONTO AD AIUTARVI",
+          "paragraphs": [
+            "Con una vasta esperienza in questo settore, i nostri professionisti conoscono in dettaglio le regole e i regolamenti relativi al trasporto merci e le particolarità dei diversi tipi di carico alla rinfusa. Ciò ci consente di fornire servizi di alta qualità e offrire soluzioni personalizzate che corrispondono veramente alle esigenze di ogni cliente.",
+            "La consulenza e il supporto sono due aspetti chiave dei nostri servizi. Il nostro team offre consulenza e supporto durante l'intero processo di trasporto merci alla rinfusa.",
+            "Ciò include raccomandazioni per il modo più efficiente di trasportare il carico, consigli su come imballare e preparare il carico per il trasporto, nonché assistenza con la documentazione necessaria. Ci assicuriamo di prendere in considerazione tutti i dettagli per garantire un trasporto senza intoppi."
+          ]
+        },
+        "highlight": {
+          "eyebrow": "TRASPORTO CARICO ALLA RINFUSA",
+          "title": "PERCHÉ SCEGLIERE I NOSTRI SERVIZI DI TRASPORTO CARICO ALLA RINFUSA",
+          "description": "",
+          "items": {
+            "card1": {
+              "title": "AUTOCARRI RIBALTABILI SPECIALIZZATI PER CARICO ALLA RINFUSA",
+              "description": [
+                "Presso Crystal Logistics, sappiamo quanto sia importante il trasporto efficiente e sicuro del carico alla rinfusa. I nostri autocarri ribaltabili sono specializzati, in grado di resistere a condizioni difficili.",
+                "Il sistema di ribaltamento è stato anche progettato per facilitare il carico e lo scarico delle merci, risparmiando così tempo e risorse."
+              ]
+            },
+            "card2": {
+              "title": "CARICO E SCARICO RAPIDI",
+              "description": [
+                "Presso Crystal Logistics, comprendiamo la vostra necessità di efficienza e velocità in qualsiasi operazione di trasporto.",
+                "Per questo motivo, il sistema di ribaltamento dei nostri autocarri è progettato per accelerare il processo di carico e scarico, risparmiando così tempo e risorse preziose."
+              ]
+            },
+            "card3": {
+              "title": "TRASPORTO CARICO ALLA RINFUSA ADATTATO ALLE VOSTRE ESIGENZE",
+              "description": [
+                "Presso Crystal Logistics Services, ci dedichiamo a offrirvi soluzioni di trasporto carico alla rinfusa adattate alle esigenze specifiche della vostra attività.",
+                "Comprendiamo che ogni cliente è unico e ha requisiti diversi, motivo per cui offriamo un servizio di trasporto carico alla rinfusa personalizzato. Che si tratti di cereali, materiali da costruzione o prodotti chimici, troveremo la soluzione di trasporto ottimale per soddisfare le vostre esigenze."
+              ]
+            },
+            "card4": {
+              "title": "SICUREZZA DEL TRASPORTO",
+              "description": [
+                "Presso Crystal Logistics Services, la sicurezza è sempre al primo posto. Comprendiamo che il trasporto di carico alla rinfusa richiede un'attenzione speciale, motivo per cui investiamo sistematicamente nella revisione e nella manutenzione dei nostri autocarri.",
+                "Tutti i nostri veicoli sono soggetti a rigorosi controlli periodici per garantire che siano in condizioni di funzionamento ottimali e pronti ad affrontare qualsiasi compito.",
+                "Dal motore al sistema frenante, ogni componente dell'autocarro viene controllato per garantire che tutto funzioni correttamente e in sicurezza per il trasporto di carico alla rinfusa."
+              ]
+            },
+            "card5": {
+              "title": "TRASPORTIAMO QUALSIASI TIPO DI CARICO ALLA RINFUSA",
+              "description": [
+                "Presso Crystal Logistics Services, vi forniamo una gamma completa di servizi di trasporto carico alla rinfusa, adattati alle vostre esigenze specifiche.",
+                "Disponiamo di una moderna flotta di autocarri speciali con una capacità da 35-40 metri cubi fino a 90 metri cubi (gru a ponte mobile), che ci consentono di trasportare in modo efficiente una varietà di carichi alla rinfusa, inclusi cereali, aggregati, rifiuti, materiali da costruzione e molti altri.",
+                "I nostri autocarri ribaltabili sono attrezzati per affrontare qualsiasi sfida. A seconda del tipo di carico alla rinfusa che desiderate trasportare, possiamo adattare i nostri metodi di trasporto per soddisfare al meglio le vostre esigenze. Vi forniamo trasporto merci nazionale e internazionale."
+              ]
+            }
+          }
+        },
+        "Accordion": {
+          "title": "Cosa c'è da sapere sul trasporto di carico alla rinfusa",
+          "intro": "Il trasporto merci su strada alla rinfusa, come cereali, segatura, carbone o alcuni prodotti alimentari, richiede un'attenzione speciale da parte di esperti di logistica e aziende di spedizione merci per il trasporto nazionale e internazionale.",
+          "items": {
+            "class1": {
+              "title": "Informazioni specifiche sul carico e anticipazione dei rischi",
+              "short": "",
+              "paragraphs": [
+                "Sono essenziali per la pianificazione ottimale del percorso e delle attrezzature, riducendo i viaggi a vuoto e consentendo reazioni rapide a eventi imprevisti."
+              ],
+              "listItems": [""]
+            },
+            "class2": {
+              "title": "La complessità del trasporto",
+              "short": "",
+              "paragraphs": [
+                "È data dalla diversità delle merci, dalle rigorose condizioni di trasporto, dall'infrastruttura specializzata richiesta, dalle procedure logistiche dedicate e dalle risorse supplementari coinvolte."
+              ],
+              "listItems": []
+            },
+            "class3": {
+              "title": "Prontezza e sicurezza",
+              "short": "",
+              "paragraphs": [
+                "Sono essenziali per i clienti, in particolare per le merci sensibili. Gli operatori che offrono l'intermediazione del trasporto merci spesso forniscono servizi complessi che includono sia il trasporto che la gestione logistica."
+              ],
+              "listItems": [""]
+            },
+            "class4": {
+              "title": "Il tipo di veicolo utilizzato",
+              "short": "",
+              "paragraphs": [
+                "Deve corrispondere al tipo di carico trasportato e rispettare le normative legali. Una rigorosa sanificazione è essenziale per evitare la contaminazione."
+              ],
+              "listItems": []
+            },
+            "class5": {
+              "title": "Il trasporto di prodotti alimentari",
+              "short": "",
+              "paragraphs": [
+                "È regolamentato a livello europeo, specificando le condizioni di trasporto e i requisiti dei veicoli."
+              ],
+              "listItems": [""]
+            },
+            "class6": {
+              "title": "Pulizia, disinfezione e asciugatura completa",
+              "short": "",
+              "paragraphs": [
+                "La pulizia, la disinfezione e l'asciugatura completa dei veicoli sono obbligatorie dopo ogni trasporto, in conformità con i requisiti del cliente."
+              ],
+              "listItems": [""]
+            }
+          }
+        },
+        "cta": {
+          "title": "Scegli Crystal Logistics Services per un trasporto alla rinfusa senza preoccupazioni!",
+          "messages": [
+            "Beneficiate di soluzioni personalizzate per ogni compito di trasporto! Il nostro team di professionisti è sempre a vostra disposizione per offrirvi consulenza e assistenza. Per qualsiasi domanda o richiesta, non esitate a contattarci!"
+          ],
+          "buttonLabel": "CONTATTACI"
+        }
+      },
+      "Autoturisme": {
+        "Header": {
+          "section": "TRASPORTO MERCI SU STRADA",
+          "title": "TRASPORTO AUTO",
+          "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "TRASPORTO AUTO SICURO CON CRYSTAL LOGISTICS SERVICES",
+          "paragraphs": [
+            "Presso Crystal Logistics Services, offriamo soluzioni di trasporto auto di alta qualità. Ogni veicolo che trasportiamo è trattato con la massima cura e rispetto.",
+            "Il nostro processo di trasporto è allineato agli standard internazionali, a partire dal carico del veicolo, che viene effettuato dal nostro personale specializzato, e proseguendo con il trasporto e lo scarico in condizioni di massima sicurezza.",
+            "Ogni fase è eseguita con precisione e professionalità, garantendo così che il vostro veicolo raggiunga la destinazione in sicurezza."
+          ],
+          "alt": "CRYSTAL LOGISTICS SERVICES"
+        },
+        "section_2": {
+          "col1": {
+            "title": "Un Partner Affidabile nel Trasporto Auto",
+            "paragraphs": [
+              "Presso Crystal Logistics Services, siamo orgogliosi della nostra vasta esperienza nel campo del trasporto auto, offrendo servizi di trasporto auto internazionali e nazionali su piattaforme.",
+              "L'interazione con una varietà di esigenze e situazioni ci ha permesso di adattare e perfezionare le nostre competenze, per poter offrire soluzioni personalizzate a ogni cliente."
+            ]
+          },
+          "col2": {
+            "title": "Prenotate Adesso il Vostro Trasporto Auto!",
+            "paragraphs": [
+              "Se avete deciso di aver bisogno di un servizio di trasporto auto su piattaforma, allora Crystal Logistics Services è il partner ideale per voi. Accettiamo una vasta gamma di veicoli, incluse auto di lusso, veicoli d'epoca o flotte di auto per esposizioni o eventi automobilistici.",
+              "Con noi, il vostro veicolo raggiungerà la sua destinazione in modo sicuro e puntuale."
+            ]
+          }
+        },
+        "section_3": {
+          "title": "PERCHÉ SCEGLIERE CRYSTAL LOGISTICS SERVICES",
+          "paragraphs": [
+            "Siamo orgogliosi della reputazione che ci siamo costruiti nel tempo, attraverso dedizione e duro lavoro. La nostra rete di clienti soddisfatti è una chiara prova del nostro costante impegno verso l'eccellenza. Il feedback positivo che riceviamo costantemente dai nostri clienti non solo ci motiva, ma conferma anche che siamo un partner affidabile nel trasporto auto."
+          ]
+        },
+        "highlight": {
+          "eyebrow": "TRASPORTO AUTO",
+          "title": "Piattaforme Adattate",
+          "description": "Presso Crystal Logistics Services, comprendiamo che ogni veicolo ha esigenze di trasporto uniche, motivo per cui offriamo una varietà di tipi di piattaforme per soddisfare tutte le esigenze. Sappiamo che non tutti i veicoli sono uguali e che alcuni potrebbero avere esigenze speciali di carico e scarico. Ecco perché le nostre piattaforme di trasporto possono essere adattate per soddisfare diverse esigenze.",
+          "items": {
+            "card1": {
+              "title": "Piattaforme Aperte o Coperte",
+              "description": [
+                "Piattaforme aperte: ideali per il trasporto di veicoli di lusso, offrendo una maggiore visibilità e una ventilazione ottimale.",
+                "Piattaforme coperte: offrono una protezione supplementare contro le intemperie e i danni, essendo perfette per il trasporto di veicoli sensibili."
+              ]
+            },
+            "card2": {
+              "title": "Capacità Variata",
+              "description": [
+                "Piattaforme a posizione singola: ideali per il trasporto di un singolo veicolo, offrendo un'eccellente manovrabilità e un carico/scarico rapido.",
+                "Piattaforme a 8-9 posizioni: ideali per il trasporto di flotte di veicoli o veicoli più grandi."
+              ]
+            },
+            "card3": {
+              "title": "Trasporto su Piattaforma per Veicoli Commerciali, Macchinari ed Eccezionali",
+              "description": [
+                "Oltre al trasporto auto, l'azienda di spedizioni Crystal Logistics offre soluzioni personalizzate per il trasporto di veicoli commerciali, macchinari e veicoli eccezionali (che superano le dimensioni/tonnellaggio standard). Il nostro team di esperti analizzerà attentamente le specifiche del vostro trasporto e raccomanderà la piattaforma ottimale per garantire la sicurezza e l'efficienza dell'operazione."
+              ]
+            }
+          }
+        },
+        "cards": {
+          "eyebrow": "",
+          "title": "Caratteristiche dei nostri servizi di trasporto auto",
+          "description": "Comprendiamo che ogni cliente ha esigenze specifiche e, pertanto, offriamo soluzioni di trasporto auto su piattaforme che possono essere adattate per soddisfare tali requisiti. Che si tratti di tempo, posizione o del tipo di veicolo da trasportare, il nostro team è pronto a offrirvi le migliori soluzioni.",
+          "items": {
+            "card1": {
+              "title": "Sicurezza al Primo Posto",
+              "short": "",
+              "descriptions": [
+                "Abbiamo sviluppato una serie di procedure di sicurezza rigorose per il trasporto di auto dall'estero. Utilizziamo i dispositivi di fissaggio più avanzati del settore per fissare i veicoli sulle nostre piattaforme di trasporto. Tutti i nostri dispositivi di fissaggio sono progettati per prevenire il movimento del veicolo durante il trasporto, riducendo sostanzialmente il rischio di danni."
+              ]
+            },
+            "card2": {
+              "title": "Copertura Geografica Estesa",
+              "short": "",
+              "descriptions": [
+                "I nostri servizi di trasporto auto coprono una vasta gamma di località, sia a livello nazionale che internazionale. Offriamo il trasporto di veicoli in numerosi paesi e regioni, senza significative limitazioni geografiche."
+              ]
+            },
+            "card3": {
+              "title": "Assicurazione Completa",
+              "short": "",
+              "descriptions": [
+                "Tutti i nostri trasporti auto sono coperti da assicurazione, offrendovi la tranquillità di cui avete bisogno."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Contattateci oggi per ottenere un preventivo per il trasporto auto!",
+          "messages": [
+            "Se avete bisogno di maggiori informazioni sui nostri servizi o avete esigenze speciali, vi preghiamo di contattarci.",
+            "Il nostro team di professionisti è sempre pronto a rispondere alle vostre domande e a offrirvi le migliori soluzioni di trasporto auto."
+          ],
+          "buttonLabel": "CONTATTACI"
+        }
+      },
+      "TransportInt": {
+        "Header": {
+          "section": "TRASPORTO MERCI SU STRADA",
+          "title": "TRASPORTO NAZIONALE E INTERNAZIONALE",
+          "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "Trasporto Nazionale e Internazionale per Tutti i Tipi di Carichi",
+          "paragraphs": [
+            "La nostra flotta di veicoli è una delle più diversificate sul mercato, progettata per soddisfare una vasta gamma di esigenze nel trasporto e nella logistica.",
+            "Da autocarri di varie dimensioni, a rimorchi eccezionali e autocarri semirimorchi ribaltabili, abbiamo soluzioni per qualsiasi tipo di carico.",
+            "Presso Crystal Logistics Services, comprendiamo la complessità e la diversità del mercato del trasporto e della logistica, e la variegata gamma di carichi che gestiamo ne è un riflesso."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_2": {
+          "title": "LA SICUREZZA – LA NOSTRA PRIORITÀ NUMERO UNO",
+          "paragraphs": [
+            "La sicurezza del trasporto è un pilastro fondamentale per noi.",
+            "Ogni veicolo della nostra flotta è ben mantenuto, ispezionato regolarmente e guidato da equipaggi esperti, garantendo così che le vostre merci arrivino a destinazione nelle migliori condizioni."
+          ]
+        },
+        "Subservices": {
+          "eyebrow": "SOTTO-SERVIZI",
+          "title": "LA NOSTRA FLOTTA",
+          "intro": "",
+          "ctaLabel": "VEDI ALTRO",
+          "items": {
+            "fleetMini": {
+              "title": "FLOTTA LEGGERA",
+              "description": "Scegliete tra diversi veicoli compatti — ideali per la distribuzione urbana e le consegne veloci.",
+              "groupedItems": {
+                "sprinter": {
+                  "title": "Sprinter Telonato/Furgone (MMA 3.5T)",
+                  "description": "Questo veicolo compatto ma potente è ideale per il trasporto di merci generiche, come pacchi o beni di consumo. Con una capacità di carico di 3,5 tonnellate, questo veicolo è perfetto per consegne rapide in aree urbane o su brevi distanze. Possediamo licenze di trasporto per 3,5 tonnellate.",
+                  "imageAlt": "Flotta di sprinter allineati",
+                  "href": ""
+                },
+                "van75": {
+                  "title": "Furgone Telonato/Furgone (MMA 7.5T)",
+                  "description": "Un veicolo con maggiore capacità, adatto per il trasporto di merci più pesanti o più voluminose. Può trasportare una varietà di carichi, dalle attrezzature industriali ai materiali da costruzione. Il vantaggio di questo tipo di veicolo è la sua capacità di accedere ad aree più difficili da raggiungere ed effettuare consegne efficienti su medie distanze.",
+                  "imageAlt": "Furgone 7.5t",
+                  "href": ""
+                },
+                "van10": {
+                  "title": "Autocarro Telonato/Furgone (MMA 7.5-40T)",
+                  "description": "È l'anello più forte della nostra catena di veicoli. Con una capacità di carico fino a 40 tonnellate, questo autocarro è destinato al trasporto di merci pesanti e voluminose su lunghe distanze. Grazie alle sue dimensioni, può trasportare carichi eccezionali, alla rinfusa o container, in condizioni di massima sicurezza.",
+                  "imageAlt": "Furgone 10t",
+                  "href": ""
+                }
+              }
+            },
+            "marfa_generala": {
+              "title": "Carico Generale",
+              "description": "Il carico generale include quei prodotti che non sono soggetti a regimi di trasporto speciali. Che si tratti di elettronica, tessuti, prodotti alimentari o qualsiasi altro bene che non richieda condizioni specifiche, garantiamo che ogni articolo arrivi a destinazione in perfette condizioni.",
+              "imageAlt": "Pallet con carico in un magazzino",
+              "href": ""
+            },
+            "agabaritic": {
+              "title": "Rimorchio Eccezionale",
+              "description": "Nel mondo del trasporto e della logistica, i rimorchi eccezionali sono elementi chiave nella realizzazione di operazioni complesse. Utilizziamo questi rimorchi per trasportare carichi che superano le dimensioni e i pesi standard. Che si tratti di macchinari massivi, strutture industriali o attrezzature di grandi dimensioni, vengono trasportati con la massima sicurezza ed efficienza. I rimorchi eccezionali che utilizziamo sono dotati delle più recenti attrezzature di sicurezza e hanno una costruzione robusta per garantire un trasporto sicuro ed efficiente. Possono essere adattati per adattarsi a diversi tipi di carichi e la loro capacità di carico è impressionante.",
+              "imageAlt": "Camion frigorifero scarica carico alla rampa",
+              "href": "/trasporto-merci-su-strada/trasporto-eccezionale"
+            },
+            "marafa_agabaritica": {
+              "title": "Carico Eccezionale",
+              "description": "L'elaborazione del carico eccezionale inizia con un'analisi approfondita delle sue dimensioni e del peso, al fine di determinare l'attrezzatura necessaria e il percorso ottimale. Segue la preparazione del carico per il trasporto, una fase che include l'imballaggio e il fissaggio per il trasporto. Il trasporto effettivo viene effettuato con l'aiuto di attrezzature e veicoli speciali, in grado di supportare pesi elevati e gestire dimensioni impressionanti. Se il percorso richiede di attraversare aree difficili da raggiungere, possono essere utilizzati anche convogli speciali. Infine, il carico viene consegnato a destinazione, in conformità con la legislazione per il trasporto eccezionale, dove viene scaricato utilizzando attrezzature appropriate.",
+              "imageAlt": "Rimorchio eccezionale caricato con macchinari pesanti",
+              "href": "/trasporto-merci-su-strada/trasporto-eccezionale"
+            },
+            "camion_cu_semiremorca_basculabila": {
+              "title": "Autocarro Semirimorchio Ribaltabile",
+              "description": "Questi sono ideali per il trasporto di materiali solidi come sabbia, cereali o rifiuti, grazie al loro design specializzato che consente uno scarico rapido ed efficiente delle merci. Pertanto, questi autocarri diventano una soluzione pratica ed efficiente per diverse attività di trasporto.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-con-autocarro-ribaltabile"
+            },
+            "marfa_vrac_basculanta": {
+              "title": "Carico alla Rinfusa – Ribaltabile",
+              "description": "Il trasporto di carico alla rinfusa con un ribaltabile è utilizzato specialmente per il trasporto di prodotti solidi, come cereali, minerali o altri materiali da costruzione. Può trasportare grandi quantità di carico in un unico viaggio. Inoltre, il processo di scarico è estremamente veloce, riducendo così il tempo richiesto per lo scarico e il carico.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-con-autocarro-ribaltabile"
+            },
+            "sasiu_container": {
+              "title": "Telaio Portacontainer",
+              "description": "Il telaio portacontainer è un elemento essenziale nell'industria dei trasporti, fornendo una soluzione efficiente e sicura per il trasporto di carichi containerizzati. È costruito per resistere a carichi pesanti, con una capacità di carico che varia a seconda del modello di telaio.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-container-strada"
+            },
+            "containere": {
+              "title": "Container",
+              "description": "Il trasporto containerizzato è essenziale per molte operazioni commerciali moderne. Presso Crystal Logistics Services, comprendiamo l'importanza del trasporto containerizzato e ci siamo specializzati nella gestione di questo tipo di servizio. Che si tratti di container standard da 20 o 40 piedi, o di quelli con specifiche speciali – come quelli per il trasporto di merci pericolose o refrigerate – il nostro team di professionisti è preparato a gestire qualsiasi tipo di container.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-container-strada"
+            },
+            "cisterna_pentru_lichide": {
+              "title": "Autocisterna per Liquidi",
+              "description": "Il trasporto di liquidi rappresenta una branca specifica dell'industria dei trasporti, che richiede un'attenzione particolare e un approccio specializzato. Che si tratti di alimenti, sostanze chimiche o altri fluidi, questo tipo di trasporto esige alta cautela e precisione. Crystal Logistics Services, attraverso autocisterne appositamente attrezzate, assicura un trasporto a prova di perdite e sicuro, essenziale per preservare l'integrità e la qualità dei liquidi trasportati.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-con-autocisterna"
+            },
+            "marafa_lichida_cisterna": {
+              "title": "Carico Liquido – Autocisterna",
+              "description": "Presso Crystal Logistics Services, comprendiamo la complessità e la sensibilità del trasporto di carico liquido. Questi vanno dai prodotti alimentari, come vino o olio, alle sostanze chimiche o petrolifere. Ognuno di essi richiede un diverso livello di attenzione e preparazione, ma garantiamo il trasporto di liquidi in contenitori sicuri e specializzati.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-con-autocisterna"
+            },
+            "platforma_pentru_transport_autoturisme": {
+              "title": "Piattaforma per Trasporto Auto",
+              "description": "Offriamo soluzioni efficienti per il trasporto di auto singole o lotti. Sia che abbiate bisogno di trasportare un singolo veicolo o un intero lotto, le nostre piattaforme sono pronte a soddisfare le vostre esigenze. Efficienza e convenienza sono due delle nostre principali preoccupazioni, in modo da poter risparmiare tempo e denaro senza compromettere la sicurezza o l'integrità dei veicoli.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-auto"
+            },
+            "autoturisme_platforma_pentru_auto": {
+              "title": "Auto – Piattaforma per AUTO",
+              "description": "Il trasporto auto è un processo complesso che richiede un'attenzione speciale in ogni fase, dal carico allo scarico. Presso Crystal Logistics Services, utilizziamo piattaforme specializzate per il trasporto auto, che garantiscono un fissaggio sicuro dei veicoli per prevenire qualsiasi movimento durante il trasporto. Così, i veicoli arrivano a destinazione nelle stesse condizioni in cui sono stati consegnati.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-auto"
+            },
+            "camion_pentru_marfuri_periculoase": {
+              "title": "Autocarro per Materiali Pericolosi",
+              "description": "Quando parliamo di materiali pericolosi, ci riferiamo a quei materiali o sostanze le cui proprietà possono mettere in pericolo la salute e la sicurezza delle persone, così come l'ambiente durante il trasporto. Il trasporto di questi materiali è regolamentato dalla normativa ADR – un insieme di regole internazionali che stabiliscono requisiti specifici per l'imballaggio, l'etichettatura e il trasporto di questi tipi di merci.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-merci-su-strada/trasporto-adr"
+            },
+            "marfa_periculoasa_adr": {
+              "title": "Materiali Pericolosi (ADR)",
+              "description": "Il trasporto di materiali pericolosi implica un'attenzione maggiore e un alto livello di competenza. Presso Crystal Logistics Services, rispettiamo rigorosamente le normative internazionali in vigore. Ci assicuriamo che ogni prodotto sia correttamente imballato, etichettato correttamente e trasportato in condizioni di massima sicurezza. Implementiamo procedure rigorose e utilizziamo attrezzature speciali per proteggere sia i nostri dipendenti che le merci trasportate.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-merci-su-strada/trasporto-adr"
+            },
+            "camion_frigorific_frigo": {
+              "title": "Autocarro Frigorifero (FRIGO)",
+              "description": "Nel mondo del trasporto e della logistica, l'adattabilità della flotta è un aspetto essenziale. Presso Crystal Logistics Services, abbiamo tenuto conto di questo aspetto e dotato i nostri autocarri della più avanzata tecnologia di refrigerazione per poter trasportare merci refrigerate o congelate. Così, riusciamo ad adattarci alle esigenze di ogni ordine, regolando la temperatura in base alla natura specifica del carico. Ciò ci consente di offrire soluzioni personalizzate per ogni cliente, assicurando che il carico arrivi a destinazione in condizioni ottimali.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-merci-su-strada/trasporto-frigo"
+            },
+            "marfa_frigorifica_frigo": {
+              "title": "Carico Refrigerato/Congelato (FRIGO)",
+              "description": "I nostri veicoli specializzati per il trasporto di merci refrigerate sono dotati di tecnologia di isolamento termico superiore e sistemi di controllo della temperatura ad alte prestazioni. Così, trasportiamo carne e prodotti a base di carne, prodotti lattiero-caseari, frutta, verdura, prodotti di pasticceria, uova, bevande e altro in condizioni eccellenti, a seconda delle esigenze di ogni carico.",
+              "imageAlt": "Corriere carica pacco",
+              "href": "/trasporto-merci-su-strada/trasporto-frigo"
+            }
+          }
+        },
+        "Accordion": {
+          "title": "Legislazione sul trasporto merci",
+          "intro": "A quali condizioni viene effettuato il trasporto merci?",
+          "items": {
+            "class1": {
+              "title": "Trasporto merci su strada pubblico",
+              "short": "può essere effettuato dagli operatori di trasporto solo soddisfacendo determinate condizioni, incluso il possesso dei documenti necessari:",
+              "paragraphs": [""],
+              "listItems": [
+                "copia certificata della licenza di trasporto (licenze ARR e copie certificate ARR);",
+                "documento di trasporto, in modo da poter giustificare il trasporto di fronte all'Ispettorato di Stato per il Controllo del Trasporto Stradale;",
+                "certificato riguardante la conformità del veicolo agli standard di inquinamento e sicurezza stradale;",
+                "autorizzazione al trasporto internazionale (solo per il trasporto internazionale)."
+              ]
+            },
+            "class2": {
+              "title": "Gli operatori di trasporto su strada rumeni possono effettuare il trasporto merci su strada pubblico in traffico internazionale:",
+              "short": "",
+              "paragraphs": [""],
+              "listItems": [
+                "solo sulla base di autorizzazioni al trasporto internazionale rilasciate dall'autorità competente;",
+                "in conformità con gli accordi o le convenzioni internazionali di cui la Romania è parte."
+              ]
+            },
+            "class3": {
+              "title": "Documenti richiesti per il trasporto su strada in conto proprio:",
+              "short": "",
+              "paragraphs": [""],
+              "listItems": [
+                "copia certificata del certificato di trasporto in conto proprio (copie certificate ARR);",
+                "documenti che dimostrino che il carico è trasportato in conto proprio."
+              ]
+            }
+          }
+        },
+        "highlight": {
+          "eyebrow": "TRASPORTO NAZIONALE E INTERNAZIONALE",
+          "title": "OPZIONI DI TRASPORTO",
+          "items": {
+            "card1": {
+              "title": "Carico Completo di Autocarro - FTL (Full Truck Load)",
+              "description": "FTL rappresenta la scelta ideale quando si ha un grande volume di carico che deve essere consegnato rapidamente ed efficientemente. In questo caso, l'autocarro è dedicato esclusivamente al vostro carico. Per questo tipo di trasporto su strada, offriamo un percorso ottimizzato e una consegna senza ritardi."
+            },
+            "card2": {
+              "title": "Regime di Groupage - LTL (Less-than-Truck Load)",
+              "description": "Il servizio LTL è progettato per il trasporto di merci di volume inferiore che non occupano l'intera capacità di un autocarro. Combinando il carico di più clienti, garantiamo che beneficiate di un prezzo vantaggioso e di una consegna puntuale. L'azienda di spedizioni Crystal Logistics Services offre servizi di trasporto affidabili, collegando le aziende con soluzioni efficienti per il trasporto merci su strada attraverso la borsa merci."
+            }
+          }
+        },
+        "cta": {
+          "title": "Avete bisogno di un trasporto efficiente e conveniente?",
+          "messages": [
+            "Scegliete Crystal Logistics Services per una vasta gamma di soluzioni di trasporto adattate alle vostre esigenze! Offriamo trasporto merci su strada, trasporto refrigerato, trasporto LTL, trasporto carico alla rinfusa e molto altro ancora.",
+            "Contattateci oggi stesso per saperne di più sulle nostre tariffe di trasporto su strada e sui servizi di intermediazione del trasporto merci!"
+          ],
+          "buttonLabel": "CONTATTACI"
+        }
+      },
+      "Transportatori": {
+        "Header": {
+          "section": "AZIENDA DI SPEDIZIONI DEDICATA AI VETTORI",
+          "title": "VETTORI",
+          "alt": "Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "Azienda di Spedizioni Dedicata ai Vettori",
+          "paragraphs": [
+            "Volete massimizzare il potenziale della vostra flotta?",
+            "Presso Crystal Logistics Services, offriamo soluzioni complete di trasporto, sia per collaborazioni spot che per contratti a lungo termine, pagati al chilometro.",
+            "Siamo il partner affidabile che vi assicura costanza, flessibilità e redditività!"
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+        "section_2": {
+          "title": "Perché scegliere Crystal Logistics Services per la vostra partnership di trasporto?",
+          "paragraphs": [
+            "Crystal Logistics Services è più di una casa di spedizioni – siamo il partner di cui avete bisogno per portare la vostra attività di trasporto al livello successivo.",
+            "Con un team esperto e un vasto portafoglio clienti, vi forniamo soluzioni personalizzate per le vostre esigenze operative.",
+            "Sia che cerchiate carichi spot, sia che vogliate concludere un contratto a lungo termine, pagato al chilometro, siamo la vostra soluzione affidabile."
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+        "Accordion": {
+          "title": "Vantaggi della collaborazione con Crystal Logistics Services",
+          "intro": "Scoprite perché sempre più vettori scelgono Crystal Logistics per aumentare la loro efficienza e i loro ricavi. Unitevi a noi e godetevi i vantaggi di una solida partnership.",
+          "items": {
+            "class1": {
+              "title": "Accesso a migliaia di carichi, ogni giorno",
+              "short": "",
+              "paragraphs": [
+                "Indipendentemente dalle dimensioni della vostra flotta, presso Crystal Logistics troverete sempre carichi disponibili. La nostra vasta rete di clienti ci consente di offrirvi costanti opportunità di trasporto, sia a livello nazionale che all'interno della Comunità. Ogni giorno porta nuove opportunità di collaborazione per trasporti redditizi, indipendentemente dal tipo di merce o destinazione.",
+                "Le nostre offerte di carico sono aggiornate in tempo reale, consentendovi di prendere decisioni rapide e di mantenere i vostri camion in movimento. Inoltre, non solo vi offriamo l'accesso a migliaia di carichi, ma vi mettiamo a disposizione anche i nostri team dedicati che vi offriranno supporto continuo nella realizzazione di ogni trasporto."
+              ],
+              "listItems": [""]
+            },
+            "class2": {
+              "title": "Contratti di collaborazione di servizio di trazione a lungo termine, pagati al chilometro",
+              "short": "",
+              "paragraphs": [
+                "Se siete alla ricerca di stabilità finanziaria e di una collaborazione a lungo termine, i contratti di tipo servizio di trazione sono la soluzione ideale per voi. Presso Crystal Logistics, vi garantiamo un numero minimo di chilometri al mese, il che significa ricavi costanti e prevedibili per la vostra attività.",
+                "Questo tipo di contratto vi offre flessibilità nella scelta dei percorsi e del tipo di trasporto – che si tratti di trasporto nazionale, corse Andata-Ritorno o trasporto in Comunità, vi assicuriamo carichi costanti e pagamenti rapidi per ogni chilometro percorso."
+              ],
+              "listItems": [""]
+            },
+            "class3": {
+              "title": "Pagamenti rapidi e garantiti",
+              "short": "",
+              "paragraphs": [
+                "Uno dei maggiori benefici che offriamo ai nostri vettori partner è il pagamento pronto e garantito. Comprendiamo quanto sia importante per la vostra attività avere un flusso di cassa costante, e ci impegniamo a garantire ciò attraverso termini di pagamento rapidi ed efficienti.",
+                "Presso Crystal Logistics, potete contare su di noi per pagamenti puntuali, indipendentemente dal tipo di contratto scelto. Ci occupiamo di tutti gli aspetti amministrativi, in modo che possiate concentrarvi su ciò che conta di più – l'efficienza operativa della vostra flotta."
+              ],
+              "listItems": [""]
+            },
+            "class4": {
+              "title": "Benefici supplementari e rimborso delle spese",
+              "short": "",
+              "paragraphs": [
+                "Nella collaborazione con Crystal Logistics Services, ottenete non solo pagamenti rapidi e garantiti, ma anche molteplici benefici supplementari. Offriamo bonus attrattivi per carichi e scarichi supplementari, il che può aumentare notevolmente il profitto per ogni corsa effettuata.",
+                "Inoltre, assicuriamo che tutte le spese relative a pedaggi stradali, ponti, porti e autorizzazioni siano rimborsate da noi, in modo che non abbiate preoccupazioni aggiuntive nella gestione dei costi operativi."
+              ],
+              "listItems": [""]
+            },
+            "class5": {
+              "title": "Noleggio di semirimorchi per maggiore flessibilità",
+              "short": "",
+              "paragraphs": [
+                "L'espansione della flotta può essere un processo costoso, ma presso Crystal Logistics Services, vi offriamo un'alternativa efficiente – la possibilità di noleggiare semirimorchi quando ne avete bisogno. In questo modo, potrete rispondere rapidamente alla domanda del mercato senza effettuare investimenti iniziali importanti.",
+                "Sia che abbiate bisogno di semirimorchi standard, mega o frigoriferi, vi forniamo soluzioni flessibili ed efficienti che vi aiuteranno a onorare tutti gli ordini, aumentando così la vostra capacità di trasporto."
+              ],
+              "listItems": [""]
+            },
+            "class6": {
+              "title": "Assistenza dedicata 24/7 e dispacciamento professionale",
+              "short": "",
+              "paragraphs": [
+                "Non solo vi offriamo l'accesso a migliaia di carichi e contratti vantaggiosi, ma vi siamo anche al fianco durante tutti i trasporti, assicurando che tutte le corse si svolgano senza problemi. Il nostro team di dispacciatori è disponibile 24/7 per aiutarvi con qualsiasi problema o domanda relativa al trasporto.",
+                "Sia che incontriate difficoltà sul percorso, sia che abbiate bisogno di soluzioni rapide per qualsiasi situazione imprevista, i nostri dispacciatori esperti sono sempre pronti a intervenire e a offrirvi il supporto necessario."
+              ],
+              "listItems": [""]
+            },
+            "class7": {
+              "title": "Carte carburante – soluzioni efficienti per la riduzione dei costi",
+              "short": "",
+              "paragraphs": [
+                "La riduzione delle spese operative è una priorità per ogni vettore, e Crystal Logistics Services vi aiuta in questo senso offrendo carte carburante. Queste vi consentono di acquistare carburante a prezzi preferenziali, riducendo così i costi che avete per ogni corsa.",
+                "Utilizzando le nostre carte carburante, potrete ottimizzare le vostre spese e aumentare la redditività a lungo termine."
+              ],
+              "listItems": [""]
+            },
+            "class8": {
+              "title": "Flessibilità nella scelta del tipo di trasporto",
+              "short": "",
+              "paragraphs": [
+                "Un altro grande vantaggio che offriamo è la flessibilità nella scelta del tipo di trasporto. Sia che preferiate le corse Andata-Ritorno, sia che vogliate operare in Comunità o a livello nazionale, presso Crystal Logistics Services vi offriamo opzioni variegate e personalizzate.",
+                "Questa flessibilità vi consente di regolare l'attività della vostra flotta in base alle esigenze del mercato e alla vostra capacità operativa, massimizzando così l'efficienza e aumentando i ricavi."
+              ],
+              "listItems": [""]
+            }
+          }
+        },
+        "Accordion2": {
+          "title": "Come funziona il contratto di collaborazione con Crystal Logistics Services?",
+          "intro": "Presso Crystal Logistics, offriamo ai vettori la flessibilità di scegliere il tipo di contratto che si adatta meglio a loro, in base alle loro preferenze e agli obiettivi della loro attività. Abbiamo tre varianti di collaborazione, ognuna con vantaggi specifici e benefici chiari, per garantire stabilità finanziaria e ricavi costanti.",
+          "items": {
+            "class_a": {
+              "title": "1. Andata-Ritorno (Import-Export) – Collaborazione su percorsi internazionali con chilometri garantiti",
+              "short": "I trasporti di tipo Andata-Ritorno implicano corse internazionali in cui i vostri camion si sposteranno tra la Romania e diversi paesi dell'Unione Europea, nonché al di fuori di essa. Questi percorsi sono ideali per coloro che desiderano ottenere una combinazione di corse internazionali e nazionali, con vantaggi significativi:",
+              "paragraphs": [
+                "Destinazioni incluse:",
+                "Chilometri garantiti:",
+                "Pagamenti rapidi:",
+                "Benefici aggiuntivi:"
+              ],
+              "listItems": [
+                "la maggior parte dei paesi dell'UE, come Germania, Francia, Italia, Spagna, Paesi Bassi, Belgio, Austria, Ungheria, Bulgaria, Grecia, Polonia, Repubblica Ceca, Slovacchia, Croazia, Slovenia, ma anche paesi extra-UE: Svizzera (CH), Turchia (TR), Regno Unito (GB), Norvegia (NO).",
+                "Garantiamo un numero minimo di chilometri al mese, in modo che abbiate la certezza che la vostra flotta avrà ricavi costanti.",
+                "Beneficiate di pagamenti garantiti, rapidi e senza ritardi, garantendo così una solida stabilità finanziaria.",
+                "Accesso a migliaia di carichi, bonus per carichi supplementari e rimborso delle spese operative (pedaggi stradali, ponti, porti)."
+              ]
+            },
+            "class_b": {
+              "title": "2. Comunità – Trasporti internazionali esclusivi sul territorio europeo",
+              "short": "La collaborazione di tipo Comunità si rivolge ai vettori che desiderano operare esclusivamente su percorsi internazionali, senza tornare in Romania per un periodo prolungato. Questa opzione è ideale per massimizzare i guadagni e ottimizzare le operazioni.",
+              "paragraphs": [
+                "Durata collaborazione:",
+                "Pedaggi stradali:",
+                "Maggior potenziale di guadagno:",
+                "Stabilità e sicurezza finanziaria:"
+              ],
+              "listItems": [
+                "2 mesi di trasporti continui sul territorio europeo, coprendo più paesi e destinazioni.",
+                "Nell'ambito di questo tipo di contratto, Crystal Logistics paga separatamente tutti i pedaggi stradali relativi ai trasporti, il che riduce significativamente i vostri costi operativi.",
+                "La collaborazione in Comunità offre il maggior potenziale di guadagno, dato il grande numero di chilometri percorsi e i volumi costanti di merci trasportate.",
+                "Oltre ai pagamenti rapidi e sicuri, vi offriamo assistenza permanente e dispacciamento disponibile 24/7, in modo che possiate concentrarvi sulle vostre corse senza preoccupazioni."
+              ]
+            },
+            "class_c": {
+              "title": "3. Nazionale – Trasporto esclusivamente nazionale",
+              "short": "Per coloro che desiderano operare esclusivamente a livello nazionale, la collaborazione di tipo Nazionale rappresenta la soluzione più semplice ed efficiente. Questa vi consente di concentrarvi sui percorsi locali, coprendo la domanda di trasporto sull'intero territorio della Romania.",
+              "paragraphs": [
+                "Stabilità a lungo termine:",
+                "Costi operativi ridotti:",
+                "Soluzioni rapide ed efficienti:"
+              ],
+              "listItems": [
+                "Offriamo accesso a carichi spot e contratti di trasporto nazionale, garantendo corse regolari e ricavi costanti.",
+                "Essendo trasporto nazionale, i costi operativi, inclusi i pedaggi stradali e le spese supplementari, sono inferiori, il che significa un profitto maggiore per ogni corsa.",
+                "Attraverso la nostra vasta rete di clienti in Romania, i vostri camion non rimarranno mai senza carico. Garantiamo una pianificazione efficiente delle corse, in modo da ottimizzare ogni giorno operativo."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Collaborate con noi e scoprite le soluzioni personalizzate di Crystal Logistics Services!",
+          "messages": [
+            "Volete una partnership stabile e redditizia? Presso Crystal Logistics Services, siamo dedicati al vostro successo."
+          ],
+          "buttonLabel": "CONTATTACI"
+        }
+      },
+      "Relocari": {
+        "Header": {
+          "section": "TRASPORTO MERCI SU STRADA",
+          "title": "TRASLOCHI INTERNAZIONALI",
+          "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "Traslochi internazionali senza preoccupazioni con Crystal Logistics Services",
+          "paragraphs": [
+            "Con Crystal Logistics Services, i traslochi internazionali non sono più una sfida. Grazie al nostro team esperto, il processo di trasferimento diventa molto più semplice ed efficiente.",
+            "Il nostro personale qualificato è ben formato e ha una vasta esperienza nel trasporto e nella logistica, in modo da potervi assistere in ogni fase del processo di trasloco.",
+            "La nostra moderna flotta di veicoli è dotata delle ultime tecnologie per garantire un trasporto sicuro ed efficiente. Sia che vi stiate trasferendo a livello internazionale per affari, nuove opportunità o semplicemente per un cambio di scenario, siamo qui per aiutarvi."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_2": {
+          "title": "Disponiamo della logistica completa necessaria",
+          "paragraphs": [
+            "Il nostro processo di trasloco internazionale è meticoloso e ben organizzato. Ci impegniamo a fornirvi un'esperienza di trasloco senza soluzione di continuità. Con le nostre risorse logistiche complete, siamo preparati a gestire con successo qualsiasi trasloco internazionale."
+          ]
+        },
+        "section_3": {
+          "title": "Carico di Effetti Personali",
+          "paragraphs": [
+            "Abbiamo un team di professionisti con esperienza nel maneggio e nel carico delle merci.",
+            "Su richiesta, potete beneficiare dei nostri servizi di carico e scarico.",
+            "Possiamo garantire che maneggeremo le vostre merci con maggiore cura per prevenire eventuali danni."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_4": {
+          "title": "Stoccaggio delle merci",
+          "paragraphs": [
+            "Se necessario, offriamo strutture di stoccaggio di prima classe, progettate per garantire la sicurezza e l'integrità delle vostre merci.",
+            "I nostri magazzini sono dotati di sistemi di sicurezza ultramoderni, e le condizioni di stoccaggio sono rigorosamente controllate per mantenere parametri ottimali.",
+            "Inoltre, abbiamo a disposizione spazi di stoccaggio di varie dimensioni, il che ci consente di adattarci alle esigenze specifiche di ogni cliente."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_5": {
+          "title": "Trasporto Sicuro",
+          "paragraphs": [
+            "Presso Crystal Logistics Services, siamo orgogliosi della nostra flotta moderna e affidabile.",
+            "Questa include una varietà di veicoli di trasporto, dagli autocarri per merci ai veicoli specializzati per il trasporto di merci fragili.",
+            "Ogni veicolo è dotato di tecnologia avanzata di tracciamento e comunicazione, che ci consente di monitorare la posizione e lo stato di ogni trasporto in tempo reale."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_6": {
+          "title": "Scarico a Destinazione",
+          "paragraphs": [
+            "Il nostro servizio di traslochi internazionali include il trasporto delle vostre merci.",
+            "Su richiesta, possiamo anche occuparci del loro scarico a destinazione.",
+            "La nostra procedura di scarico è progettata per garantire che tutte le vostre merci arrivino in sicurezza alla nuova ubicazione."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_7": {
+          "title": "Esperti di trasloco: vi guidiamo ad ogni passo",
+          "paragraphs": [
+            "Comprendiamo che il trasloco può essere un processo complesso e stressante, motivo per cui offriamo consulenza professionale per garantire una transizione fluida ed efficiente.",
+            "I nostri consulenti vi guideranno fin dall'inizio, offrendo consigli e assistenza in ogni fase della pianificazione.",
+            "Crystal Logistics è un'azienda di spedizioni internazionali affidabile con vasta esperienza nell'organizzazione e gestione di traslochi di qualsiasi complessità."
+          ]
+        },
+        "section_8": {
+          "title": "Dedizione ed Esperienza",
+          "paragraphs": [
+            "Scegliere il partner giusto per il vostro trasloco internazionale è una decisione importante, e Crystal Logistics ha tutto il necessario per rendere questo processo semplice ed efficiente.",
+            "Comprendiamo che il trasloco è un momento di stress, motivo per cui abbiamo sviluppato un sistema trasparente che vi consente di comprendere ogni fase del processo. Che si tratti di trasporto su strada, trasporto aereo, stoccaggio o scarico, dettagliamo tutti i servizi che offriamo, in modo che possiate fidarvi che le vostre merci siano in mani sicure."
+          ]
+        },
+        "section_9": {
+          "title": "Traslochi internazionali più veloci ed efficienti con Crystal Logistics Services",
+          "paragraphs": [
+            "Siamo al vostro fianco ad ogni passo del processo di trasloco internazionale, sia che vi stiate trasferendo a migliaia di chilometri di distanza o solo oltre qualche confine.",
+            "Abbiamo l'esperienza, la conoscenza e le risorse necessarie per rendere ogni trasloco un'esperienza positiva.",
+            "Scegliete l'efficienza, scegliete la qualità, scegliete Crystal Logistics Services!"
+          ]
+        },
+        "Accordion": {
+          "title": "Fasi di un trasloco internazionale di successo",
+          "intro": "",
+          "items": {
+            "class1": {
+              "title": "1. Processo di Preventivo",
+              "short": "",
+              "paragraphs": [
+                "Questo processo comporta la valutazione e la determinazione del costo del trasporto delle vostre merci. Vengono presi in considerazione fattori come la distanza, il peso e il volume delle merci, nonché eventuali requisiti speciali che avete.",
+                "Questo processo è essenziale per fornirvi un costo stimato realistico e trasparente."
+              ],
+              "listItems": [""]
+            },
+            "class2": {
+              "title": "2. Pianificazione e Coordinamento",
+              "short": "",
+              "paragraphs": [
+                "Questa fase comporta l'organizzazione dei dettagli logistici del trasloco. Crystal Logistics Services può aiutarvi con una pianificazione attenta e un coordinamento efficiente per garantire un trasloco senza intoppi."
+              ],
+              "listItems": []
+            },
+            "class3": {
+              "title": "3. Imballaggio delle Merci",
+              "short": "",
+              "paragraphs": [
+                "Questo passaggio è essenziale per garantire che le vostre merci arrivino in sicurezza a destinazione."
+              ],
+              "listItems": [""]
+            },
+            "class4": {
+              "title": "4. Trasporto",
+              "short": "",
+              "paragraphs": [
+                "Questo è il punto centrale del vostro trasloco internazionale. Vi informeremo sul tempo di transito stimato e su come vengono gestiti potenziali problemi o ritardi."
+              ],
+              "listItems": []
+            },
+            "class5": {
+              "title": "5. Scarico",
+              "short": "",
+              "paragraphs": [
+                "La fase finale è lo scarico e l'installazione nella nuova ubicazione."
+              ],
+              "listItems": [""]
+            }
+          }
+        }
+      },
+      "AlteServicii": {
+        "Header": {
+          "section": "CRYSTAL LOGISTICS SERVICES",
+          "title": "ALTRI SERVIZI",
+          "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "Magazzinaggio e Manutenzione",
+          "paragraphs": [
+            "Collaboriamo con una rete estesa di partner per offrire soluzioni integrate di magazzinaggio e maneggio. Comprendiamo che ognuno dei nostri clienti ha esigenze uniche e le specificità della loro attività possono richiedere un approccio specializzato. Pertanto, abbiamo costruito la nostra rete di partner con cura, per garantire di poter soddisfare una vasta gamma di requisiti.",
+            "I magazzini dei nostri partner sono dotati delle ultime tecnologie, assicurando che i vostri prodotti siano conservati in condizioni ottimali. I servizi di maneggio sono eseguiti da specialisti qualificati, garantendo una manipolazione appropriata e una consegna sicura delle vostre merci.",
+            "Quindi, indipendentemente dal tipo di carico – da prodotti deperibili a attrezzature tecnologiche o materiali da costruzione – possiamo garantire un maneggio adeguato, senza compromettere l'integrità del prodotto."
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+        "section_2": {
+          "title": "Assicurazione del Carico",
+          "paragraphs": [
+            "Comprendiamo che ogni attività è unica e ha esigenze specifiche. Per questo motivo, in collaborazione con la nostra rete di partner specializzati, offriamo servizi di assicurazione del carico personalizzati, per corrispondere perfettamente ai vostri requisiti.",
+            "Che si tratti di assicurazione per diversi tipi di carico, per trasporto nazionale o internazionale, o per materiali pericolosi, siamo qui per offrirvi la soluzione giusta.",
+            "Il nostro obiettivo è proteggere il vostro investimento e darvi la tranquillità di cui avete bisogno, sapendo che le vostre merci sono coperte contro eventi imprevisti."
+          ],
+          "alt": "assicurazione del carico"
+        },
+        "section_3": {
+          "title": "Servizi Doganali",
+          "paragraphs": [
+            "Le procedure doganali possono essere complesse e stressanti, coinvolgendo una serie di regolamenti e tasse che devono essere strettamente rispettati al fine di garantire il trasporto legale ed efficiente delle merci.",
+            "Crystal Logistics vi offre la soluzione completa per la gestione delle procedure doganali, semplificando questo processo ed eliminando la preoccupazione della documentazione. Offriamo consulenza per la corretta preparazione delle dichiarazioni doganali di importazione/esportazione, documenti di transito e qualsiasi altro documento necessario.",
+            "Con l'aiuto dei nostri partner specializzati, assicuriamo che le vostre merci transitino rapidamente e senza impedimenti. Consideriamo sia il trasporto merci che l'intera legislazione per il trasporto merci, assicurando che ogni aspetto sia coperto."
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+        "section_4": {
+          "title": "ASSISTENZA NEL CARICO E SCARICO",
+          "paragraphs": [
+            "Ci occupiamo del carico efficiente e sicuro delle vostre merci, che si tratti di mobili, elettrodomestici, scatole o altro carico.",
+            "Trasportiamo attentamente le vostre merci nella posizione desiderata e le scarichiamo con attenzione, assicurandone l'integrità."
+          ],
+          "alt": "crystal-logistics-services.com"
+        },
+        "cards": {
+          "items": {
+            "title": "Metodi di carico e scarico:",
+            "description": "",
+            "card1": {
+              "title": "MANUALE",
+              "short": "",
+              "descriptions": [
+                "il nostro team maneggerà manualmente le vostre merci"
+              ]
+            },
+            "card2": {
+              "title": "CON ASCENSORE",
+              "descriptions": [
+                "utilizziamo l'ascensore dell'edificio per trasportare le vostre merci rapidamente ed efficientemente al piano desiderato"
+              ]
+            },
+            "card3": {
+              "title": "CON GRU",
+              "short": "",
+              "descriptions": [
+                "utilizziamo una gru per sollevare e abbassare merci ingombranti o pesanti, garantendo una maneggevolezza sicura"
+              ]
+            },
+            "card4": {
+              "title": "CON CARRELLO ELEVATORE",
+              "short": "",
+              "descriptions": [
+                "il carrello elevatore è l'ideale per il trasporto di merci pallettizzate o impilate, risparmiando tempo e fatica."
+              ]
+            }
+          }
+        },
+        "cta": {
+          "title": "Crystal Logistics Services: il vostro partner strategico per una logistica efficiente",
+          "messages": [
+            "Le aziende che scelgono di collaborare con noi beneficiano di servizi di alta qualità, personalizzati per le loro esigenze specifiche, e di un partner affidabile, dedicato al loro successo a lungo termine.",
+            "Contattateci per maggiori dettagli!"
+          ],
+          "buttonLabel": "CONTATTACI"
+        }
+      },
+      "Armament": {
+        "Header": {
+          "section": "TRASPORTO MERCI SU STRADA",
+          "title": "TRASPORTO DI ARMAMENTI",
+          "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+        },
+        "section_1": {
+          "title": "TRASPORTO INTERNAZIONALE DI CARICO MILITARE E STRATEGICO",
+          "paragraphs": [
+            "Offriamo soluzioni sicure e conformi per il trasporto militare internazionale di attrezzature militari, armamenti, tecnologia militare, veicoli blindati e altro carico strategico – inclusi articoli a doppio uso, materiali pericolosi, munizioni, esplosivi e attrezzature classificate – ovunque in Europa.",
+            "Garantiamo consegne sicure, consulenza ADR, servizi doganali specializzati, stoccaggio militare sicuro e supporto completo per qualsiasi tipo di trasporto logistico speciale o trasporto di carico militare.",
+            "Crystal Logistics Services offre servizi di trasporto militare specializzati, adattati agli standard più esigenti. Con una vasta rete logistica e partner autorizzati, garantiamo trasporti sicuri in conformità con la legislazione internazionale in vigore."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_2": {
+          "title": "PERCHÉ SCEGLIERCI?",
+          "paragraphs": [
+            "Indipendentemente dalla natura del carico, offriamo soluzioni logistiche complete per prodotti strategici e attrezzature militari:",
+            "Le nostre partnership includono strutture dell'industria della difesa, produttori, importatori e autorità pubbliche, e la nostra vasta esperienza nel trasporto logistico speciale e nel trasporto di carico militare garantisce consegne sicure, puntuali e in piena conformità con tutti i protocolli nazionali e internazionali.",
+            "Indipendentemente dalla natura del carico – armamenti, attrezzature tattiche, veicoli blindati, attrezzature militari, tecnologia militare, attrezzature classificate, componenti sensibili, prodotti strategici, articoli a doppio uso, materiali pericolosi, munizioni o esplosivi – offriamo soluzioni logistiche complete di trasporto militare e trasporto militare internazionale, conformi alle più severe normative europee e NATO."
+          ],
+          "alt": "Crystal Logistics Services",
+          "listItems": [""]
+        },
+        "section_3": {
+          "title": "Trasporto militare internazionale e soluzioni logistiche specializzate",
+          "paragraphs": [
+            "Crystal Logistics Services è il vostro partner affidabile per il trasporto militare internazionale e la logistica militare specializzata.",
+            "Siamo esperti nella gestione del trasporto militare di attrezzature militari, armamenti, munizioni, tecnologia militare, veicoli blindati e articoli a doppio uso. Con un team di professionisti e una vasta rete logistica, Crystal Logistics Services assicura trasporti sicuri in conformità con le normative internazionali in vigore, rispettando tutti i requisiti legali per i materiali pericolosi, inclusa la Classe 1 ADR e gli esplosivi.",
+            "Nell'ambito della logistica militare, offriamo soluzioni complete per il trasporto di armamenti e attrezzature militari, inclusi veicoli blindati, carri armati, auto blindate, cannoni semoventi e droni di difesa. Ogni trasporto è monitorato 24/7 e gestito in condizioni di massima sicurezza, per garantire consegne sicure in conformità con le normative internazionali. Assicuriamo che le attrezzature militari siano protette durante il trasporto e la consegna, utilizzando le soluzioni di stoccaggio militare e le soluzioni multimodali più avanzate per coprire tutte le esigenze logistiche dei nostri clienti."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "section_4": {
+          "title": "Servizi avanzati di trasporto militare per attrezzature sensibili",
+          "paragraphs": [
+            "Siamo autorizzati per il maneggio e il trasporto militare di carico sensibile, inclusi attrezzature classificate, articoli a doppio uso, materiali pericolosi, esplosivi, munizioni, armamenti e altri prodotti strategici destinati all'industria della difesa. Offriamo servizi specializzati di trasporto militare internazionale, in conformità con le leggi NATO, UE e internazionali in vigore.",
+            "Forniamo trasporto di carico militare porta a porta, utilizzando soluzioni multimodali e una flotta adattata per tecnologia militare, attrezzature militari e veicoli blindati, insieme a scorta autorizzata, consulenza ADR, assistenza documentale, servizi doganali e supporto dedicato nelle relazioni con le autorità nazionali e internazionali.",
+            "Gestiamo con precisione le consegne a basi militari, zone strategiche, impianti di produzione a regime speciale e altre ubicazioni sensibili, incluso lo stoccaggio militare sicuro per tutti i tipi di attrezzature, inclusi attrezzature tattiche e componenti classificati. Aderiamo ai più alti standard di riservatezza, sicurezza operativa e trasporto logistico speciale, offrendo ai nostri clienti consegne sicure, veloci e conformi, indipendentemente dalla complessità della missione."
+          ],
+          "alt": "Crystal Logistics Services"
+        },
+        "cards": {
+          "title": "SOLUZIONI LOGISTICHE MILITARI COMPLETE",
+          "items": {
+            "card1": {
+              "title": "Trasporto di armamenti e munizioni",
+              "descriptions": [
+                "in condizioni di massima sicurezza e riservatezza"
+              ]
+            },
+            "card2": {
+              "title": "Trasporto ADR – Classe 1",
+              "descriptions": ["per esplosivi e materiali pericolosi"]
+            },
+            "card3": {
+              "title": "Trasporto di veicoli militari",
+              "descriptions": ["carri armati, veicoli blindati e tecnologia speciale"]
+            },
+            "card4": {
+              "title": "Trasporto di attrezzature elettroniche e droni",
+              "descriptions": ["inclusi radar e sensori classificati"]
+            },
+            "card5": {
+              "title": "Trasporto di articoli a doppio uso",
+              "descriptions": [
+                "regolamentato dalla legislazione europea sul controllo delle esportazioni"
+              ]
+            },
+            "card6": {
+              "title": "Stoccaggio militare sicuro",
+              "descriptions": ["con regime doganale o di transito internazionale"]
+            }
+          }
+        },
+        "highlight": {
+          "eyebrow": "TRASPORTO DI ARMAMENTI",
+          "title": "PERCHÉ SCEGLIERE CRYSTAL LOGISTICS SERVICES PER IL TRASPORTO DI ARMAMENTI?",
+          "description": "",
+          "items": {
+            "card1": {
+              "title": "Competenza nel Trasporto Militare",
+              "description": "Siamo specialisti nel trasporto di armamenti, munizioni, veicoli blindati e attrezzature militari."
+            },
+            "card2": {
+              "title": "Soluzioni Logistiche Multimodali",
+              "description": "Offriamo trasporto su strada, marittimo, aereo e ferroviario per consegne rapide e sicure."
+            },
+            "card3": {
+              "title": "Conformità con le Normative Internazionali",
+              "description": "Rispettiamo la Classe 1 ADR e le normative per i materiali pericolosi."
+            },
+            "card4": {
+              "title": "Monitoraggio 24/7",
+              "description": "Tracciamo ogni trasporto per una tracciabilità completa e la massima sicurezza."
+            },
+            "card5": {
+              "title": "Stoccaggio Militare Sicuro",
+              "description": "Proteggiamo prodotti strategici e armamenti in magazzini sicuri, conformi agli standard internazionali."
+            },
+            "card6": {
+              "title": "Consulenza ADR e Servizi Doganali",
+              "description": "Offriamo consulenza per materiali pericolosi e gestiamo le formalità doganali."
+            },
+            "card7": {
+              "title": "Partnership Solide",
+              "description": "Collaboriamo con autorità e organizzazioni NATO, consegnando in oltre 300 località globali."
+            },
+            "card8": {
+              "title": "Riservatezza e sicurezza operativa",
+              "description": "Trattiamo ogni trasporto con il massimo livello di discrezione. Aderiamo a rigorose procedure di sicurezza e proteggiamo le informazioni sensibili durante tutte le fasi logistiche."
+            }
+          }
+        },
+        "cta": {
+          "title": "Avete bisogno di un trasporto efficiente e conveniente?",
+          "messages": [
+            "Contattateci oggi stesso per saperne di più sulle nostre tariffe di trasporto su strada e sui servizi di intermediazione del trasporto merci!"
+          ],
+          "buttonLabel": "CONTATTACI"
+        }
+      }
+    },
+    "Feroviar": {
+      "Header": {
+        "section": "",
+        "title": "TRASPORTO MERCI SU ROTAIA",
+        "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+      },
+      "section_1": {
+        "title": "Soluzioni Personalizzate per le Vostre Esigenze",
+        "paragraphs": [
+          "L'industria ferroviaria ha registrato uno sviluppo significativo negli ultimi anni, raggiungendo nuovi livelli di efficienza ed economia. Presso Crystal Logistics, siamo orgogliosi delle nostre relazioni di lunga data con gli operatori ferroviari.",
+          "Queste, insieme alla nostra vasta esperienza nel trasporto merci nazionale e internazionale, ci consentono di offrire soluzioni di trasporto altamente efficienti.",
+          "Abbiamo la capacità di adattarci alle vostre esigenze specifiche e di offrirvi le migliori opzioni per il trasporto merci."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+      "section_2": {
+        "title": "Vantaggi del Trasporto Ferroviario",
+        "paragraphs": [""],
+        "alt": "Crystal Logistics Services",
+        "listItems": [
+          "Il trasporto merci ferroviario ha un impatto ambientale ridotto. I treni emettono meno gas serra e inquinanti atmosferici per unità di merce trasportata, rendendoli una scelta più ecologica.",
+          "I treni possono trasportare un gran numero di unità di carico su lunghe distanze con un'efficienza energetica significativamente superiore rispetto ad altri metodi di trasporto.",
+          "Il trasporto ferroviario è una delle modalità di trasporto più sicure, con incidenti estremamente rari.",
+          "La consegna di un container via ferrovia può essere molto più economica rispetto ad altri metodi di trasporto, specialmente su lunghe distanze.",
+          "La solida infrastruttura ferroviaria garantisce inoltre un tempo di transito più breve. Il trasporto ferroviario beneficia di una rete estesa di percorsi, il che significa che le tue merci possono raggiungere la destinazione più velocemente."
+        ]
+      },
+      "Accordion": {
+        "title": "Perché scegliere CLS per il trasporto merci su rotaia?",
+        "intro": "",
+        "items": {
+          "class1": {
+            "title": "Oltre 1.500 clienti soddisfatti",
+            "short": "",
+            "paragraphs": [
+              "Siamo orgogliosi degli oltre 1.500 clienti soddisfatti che hanno utilizzato i nostri servizi di trasporto merci.",
+              "Questi numeri non sono solo cifre, ma rappresentano storie di successo, problemi risolti in modo efficiente e feedback prezioso che ci aiuta a migliorare costantemente i nostri servizi."
+            ],
+            "listItems": [""]
+          },
+          "class2": {
+            "title": "Vasta esperienza nel settore del trasporto merci",
+            "short": "",
+            "paragraphs": [
+              "Nel corso degli anni, abbiamo realizzato progetti di trasporto merci su larga scala, collaborando con partner di alto livello, sia a livello nazionale che internazionale.",
+              "Il nostro team è composto da professionisti con esperienza nel settore del trasporto merci, e ogni membro del team svolge un ruolo chiave nella fornitura di un servizio di trasporto merci di alta qualità."
+            ],
+            "listItems": [""]
+          },
+          "class3": {
+            "title": "Le consegne sono programmabili",
+            "short": "",
+            "paragraphs": [
+              "Presso Crystal Logistics, comprendiamo che ogni attività ha esigenze specifiche e uniche quando si tratta di trasporto merci. La flessibilità di programmazione è un aspetto essenziale che offriamo, consentendovi di scegliere il momento esatto in cui desiderate che il carico venga consegnato.",
+              "Questo è un vantaggio importante del trasporto ferroviario che vi consente di pianificare meglio le vostre attività e ottimizzare le vostre operazioni."
+            ],
+            "listItems": [""]
+          },
+          "class4": {
+            "title": "Il vostro carico è assicurato",
+            "short": "",
+            "paragraphs": [
+              "Insieme a una vasta rete di partner esperti, vi forniamo soluzioni di assicurazione del carico adattate alle vostre esigenze specifiche.",
+              "La nostra missione è proteggere il vostro investimento e darvi la certezza completa che le vostre merci siano al sicuro contro qualsiasi evento imprevisto."
+            ],
+            "listItems": [""]
+          },
+          "class5": {
+            "title": "Tracciamento in tempo reale",
+            "short": "",
+            "paragraphs": [
+              "Abbiamo integrato un sistema di tracciamento in tempo reale nei nostri servizi, che vi consente di monitorare da vicino il movimento e lo stato delle merci trasportate. Ottenendo informazioni tempestive, potete sostenere i vostri piani e le vostre strategie in base alla situazione effettiva sul campo."
+            ],
+            "listItems": [""]
+          },
+          "class6": {
+            "title": "Trasporto ferroviario internazionale",
+            "short": "",
+            "paragraphs": [
+              "Offriamo una vasta gamma di opzioni di trasporto ferroviario e stradale dalla Romania verso destinazioni in tutta Europa, Turchia e Asia. Sia che abbiate bisogno di un trasporto merci veloce, abbiamo la soluzione perfetta per voi."
+            ],
+            "listItems": [""]
+          },
+          "class7": {
+            "title": "Connessioni estese",
+            "short": "",
+            "paragraphs": [
+              "Offriamo connessioni dirette con i più grandi hub e terminali di trasporto merci su rotaia internazionali, garantendo un trasporto rapido ed efficiente delle vostre merci.",
+              "Utilizzando i nostri servizi, accedete a una vasta rete di connessioni ferroviarie di alta qualità in Europa centrale, sud-orientale e nord-occidentale."
+            ],
+            "listItems": [""]
+          }
+        }
+      },
+      "tractionSection": {
+        "title": "SOLUZIONI COMPLETE DI TRAZIONE FERROVIARIA INTERNAZIONALE",
+        "items": {
+          "item1": {
+            "title": "Trazione internazionale integrata:",
+            "description": "beneficiate di un'unica fonte per tutte le vostre esigenze di trazione ferroviaria internazionale, con vagoni moderni e ad alte prestazioni."
+          },
+          "item2": {
+            "title": "Produzione internazionale costante e di alta qualità:",
+            "description": "assicurate una produzione internazionale fluida ed efficiente, con consegne pronte e costanti."
+          },
+          "item3": {
+            "title": "Tempo di trasporto rapido e puntualità migliorata:",
+            "description": "riducete significativamente i tempi di trasporto e migliorate notevolmente la puntualità delle vostre consegne."
+          },
+          "item4": {
+            "title": "Servizi di altissima qualità:",
+            "description": "sperimentate un livello eccezionale di qualità del servizio, con grande attenzione ai dettagli e un approccio orientato al cliente."
+          },
+          "item5": {
+            "title": "Connessioni ferroviarie di punta:",
+            "description": "accedete a una vasta rete di connessioni ferroviarie di alta qualità in Europa centrale, sud-orientale e nord-occidentale."
+          }
+        }
+      },
+      "audience": {
+        "title": "PER CHI È ADATTO IL TRASPORTO MERCI SU ROTAIA?",
+        "intro1": "Il trasporto merci su rotaia è un'opzione eccellente per una vasta gamma di industrie e tipi di attività, grazie ai suoi numerosi vantaggi.",
+        "intro2": "Di seguito sono riportate alcune categorie di entità che possono beneficiare significativamente del trasporto ferroviario:",
+        "items": {
+          "card1": {
+            "title": "Aziende che trasportano grandi volumi di merci",
+            "description": "produttori di acciaio, produttori di cereali, produttori di prodotti chimici, produttori di materiali da costruzione, ecc."
+          },
+          "card2": {
+            "title": "Aziende che cercano soluzioni sostenibili",
+            "description": "aziende con obiettivi di sostenibilità, aziende attive nel settore dell'energia verde, ecc."
+          },
+          "card3": {
+            "title": "Aziende che necessitano di soluzioni convenienti",
+            "description": "aziende con margini di profitto ridotti, aziende che affrontano l'aumento dei prezzi del carburante, ecc."
+          },
+          "card4": {
+            "title": "Aziende che richiedono soluzioni sicure",
+            "description": "aziende che trasportano merci fragili o di valore, aziende che operano in settori rigorosamente regolamentati, ecc."
+          },
+          "card5": {
+            "title": "Aziende che richiedono consegne regolari",
+            "description": "produttori con catene di approvvigionamento complesse, rivenditori con un programma di fornitura fisso, ecc."
+          }
+        }
+      },
+      "cta": {
+        "title": "Per maggiori dettagli o un preventivo, vi preghiamo di contattarci!",
+        "messages": [
+          "Ciò che ci distingue è la nostra passione e dedizione per ciò che facciamo. Ci sforziamo sempre di offrire la migliore esperienza possibile ai nostri clienti e siamo impegnati nell'innovazione e nel miglioramento continuo.",
+          "Siamo qui per aiutarvi a far crescere la vostra attività e offrirvi le migliori soluzioni di trasporto. Contattateci oggi!"
+        ],
+        "buttonLabel": "CONTATTACI"
+      }
+    },
+    "Maritim": {
+      "Header": {
+        "section": "CRYSTAL LOGISTICS SERVICES",
+        "title": "TRASPORTO MERCI MARITTIMO",
+        "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+      },
+      "section_1": {
+        "title": "Consegne Sicure e Puntuali",
+        "paragraphs": [
+          "Dai container standard a quelli a temperatura controllata, dalle consegne all'origine al porta a porta, offriamo soluzioni personalizzate per aiutarvi a completare con successo i vostri progetti di trasporto marittimo di merci.",
+          "Con un approccio flessibile, una vasta gamma di servizi e un team di esperti dedicato, assicuriamo che il vostro carico raggiunga la sua destinazione in modo sicuro e puntuale."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+      "Accordion": {
+        "title": "Tipi di trasporto merci marittimo",
+        "intro": "Presso Crystal Logistics Services, offriamo una vasta gamma di servizi di trasporto merci marittimo per soddisfare le vostre esigenze specifiche.",
+        "items": {
+          "class1": {
+            "title": "Trasporto marittimo di Groupage (LCL)",
+            "short": "",
+            "paragraphs": [
+              "Il trasporto marittimo di Groupage (LCL – Less-than-Container-Load) offerto da Crystal Logistics Services è la soluzione ideale per le aziende che non hanno bisogno di riempire un intero container con il carico.",
+              "Sia che stiate inviando un carico piccolo o complesso, offriamo soluzioni LCL personalizzate per soddisfare le vostre esigenze. Collaboriamo con partner affidabili in tutto il mondo per garantire un servizio di alta qualità."
+            ],
+            "listItems": [""]
+          },
+          "class2": {
+            "title": "Container Completo (FCL)",
+            "short": "",
+            "paragraphs": [
+              "Gestiamo il trasporto di container marittimi caricati con merce da un unico mittente a un unico destinatario. Presso Crystal Logistics Services, ci impegniamo a fornire un servizio FCL di alta qualità, adattato alle esigenze di ogni cliente.",
+              "La nostra vasta esperienza nella gestione del trasporto marittimo ci consente di offrire soluzioni personalizzate, indipendentemente dalla natura specifica del carico o dalla complessità logistica."
+            ],
+            "listItems": [""]
+          },
+          "class3": {
+            "title": "Trasporto refrigerato",
+            "short": "",
+            "paragraphs": [
+              "Una vasta gamma di prodotti richiede questo tipo di trasporto, sia che si tratti di prodotti alimentari congelati o refrigerati, fiori freschi, prodotti di bellezza o farmaceutici.",
+              "Per questo motivo, abbiamo adattato i nostri servizi marittimi per poter gestire la notevole diversità di carichi che richiedono temperature controllate durante il trasporto."
+            ],
+            "listItems": [""]
+          },
+          "class4": {
+            "title": "Soluzioni FCL per trasporto cross-trade",
+            "short": "",
+            "paragraphs": [
+              "Offriamo servizi di pre-trasporto e post-trasporto che assicurano un trasporto fluido e sicuro del vostro carico dal punto di origine alla destinazione.",
+              "Questi servizi includono tutte le fasi necessarie per trasportare le vostre merci, a partire dal carico, il trasporto al porto e il caricamento sulla nave da trasporto, fino allo scarico al porto di destinazione e il trasporto finale alla vostra ubicazione.",
+              "Nei porti di destinazione, offriamo soluzioni di magazzinaggio su richiesta che vi offrono sicurezza e flessibilità."
+            ],
+            "listItems": [""]
+          }
+        }
+      },
+      "container40": {
+        "title": "DIMENSIONI CONTAINER MARITTIMI DA 40 PIEDI",
+        "items": {
+          "standard": {
+            "title": "STANDARD",
+            "description": "È un container rettangolare, metallico con dimensioni standardizzate, progettato per essere trasportato in modo sicuro ed efficiente attraverso vari mezzi di trasporto: nave, treno e camion.",
+            "specs": [
+              "Lunghezza interna 12.032 m",
+              "Larghezza interna 2.352 m",
+              "Altezza interna 2.393 m",
+              "Carico massimo 26,830 kg"
+            ]
+          },
+          "openTop": {
+            "title": "OPEN TOP",
+            "description": "Simile ai container Standard, ma con un tetto aperto. I teloni consentono un facile carico e scarico di carichi ingombranti o non convenzionali.",
+            "specs": [
+              "Lunghezza interna 12.032 m",
+              "Larghezza interna 2.352 m",
+              "Altezza interna 2.350 m",
+              "Carico massimo 26,680 kg"
+            ]
+          },
+          "flatRack": {
+            "title": "FLAT RACK",
+            "description": "Non hanno pareti laterali o superiori, solo un telaio di base e montanti angolari. Consentono il trasporto di carichi voluminosi che superano le dimensioni standard dei container.",
+            "specs": [
+              "Lunghezza interna 12.180 m",
+              "Larghezza interna 2.230 m",
+              "Altezza interna 1.955 m",
+              "Carico massimo 40,000 kg"
+            ]
+          },
+          "reefer": {
+            "title": "REEFER",
+            "description": "Dotati di sistemi di refrigerazione e riscaldamento per mantenere una temperatura controllata. Utilizzati per il trasporto di merci deperibili, come alimenti, medicinali, prodotti chimici, ecc.",
+            "specs": [
+              "Lunghezza interna 11.587 m",
+              "Larghezza interna 2.259 m",
+              "Altezza interna 2.119 m",
+              "Carico massimo 27,650 kg"
+            ]
+          },
+          "highCube": {
+            "title": "HIGH CUBE",
+            "description": "Hanno un'altezza maggiore rispetto ai container Standard, offrendo uno spazio di carico supplementare. Ideali per il trasporto di carichi voluminosi a basso peso.",
+            "specs": [
+              "Lunghezza interna 12.032 m",
+              "Larghezza interna 2.352 m",
+              "Altezza interna 2.698 m",
+              "Carico massimo 26,650 kg"
+            ]
+          }
+        }
+      },
+      "container20": {
+        "title": "DIMENSIONI CONTAINER MARITTIMI DA 20 PIEDI",
+        "items": {
+          "standard": {
+            "title": "STANDARD",
+            "specs": [
+              "Lunghezza interna 5.898 m",
+              "Larghezza interna 2.352 m",
+              "Altezza interna 2.393 m",
+              "Carico massimo 28,300 kg"
+            ]
+          },
+          "openTop": {
+            "title": "OPEN TOP",
+            "specs": [
+              "Lunghezza interna 5.900 m",
+              "Larghezza interna 2.352 m",
+              "Altezza interna 2.352 m",
+              "Carico massimo 28,360 kg"
+            ]
+          },
+          "flatRack": {
+            "title": "FLAT RACK",
+            "specs": [
+              "Lunghezza interna 5.618 m",
+              "Larghezza interna 2.230 m",
+              "Altezza interna 2.233 m",
+              "Carico massimo 27,730 kg"
+            ]
+          },
+          "reefer": {
+            "title": "REEFER",
+            "specs": [
+              "Lunghezza interna 5.455 m",
+              "Larghezza interna 2.292 m",
+              "Altezza interna 2.174 m",
+              "Carico massimo 27,480 kg"
+            ]
+          }
+        }
+      },
+      "worldServices": {
+        "title": "Offriamo servizi di trasporto merci marittimo in tutto il mondo!",
+        "description": "Le soluzioni CSL sono personalizzate, adattate al tipo di carico e al contesto internazionale. I nostri servizi di trasporto merci marittimo sono flessibili e completi:",
+        "columns": {
+          "left": [
+            "Trasporto Container Completo (FCL) e Groupage (LCL);",
+            "servizi di assicurazione del carico;",
+            "formalità doganali e dogana fiscale;",
+            "trasporto globale da porto a porto;",
+            "servizi porta a porta, dal ritiro del carico presso la vostra ubicazione alla consegna a destinazione;",
+            "consegna di carico non containerizzato;"
+          ],
+          "right": [
+            "magazzinaggio;",
+            "temperatura controllata;",
+            "moderna tecnologia dell'informazione;",
+            "trasporto eccezionale;",
+            "progetti speciali;",
+            "materiali pericolosi."
+          ]
+        }
+      },
+      "fclHero": {
+        "title": "TIPI DI CONTAINER MARITTIMI FCL",
+        "alt": "Nave portacontainer vista dall'alto, caricata con container marittimi"
+      },
+      "cta": {
+        "title": "Ottimizzate i vostri trasporti marittimi!",
+        "messages": [
+          "Utilizzate con fiducia i nostri servizi di trasporto merci marittimo verso qualsiasi destinazione nel mondo e per qualsiasi volume di carico, sia LCL che FCL! Contattateci oggi stesso!"
+        ],
+        "buttonLabel": "CONTATTACI"
+      }
+    },
+    "Aerian": {
+      "Header": {
+        "section": "",
+        "title": "TRASPORTO AEREO",
+        "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+      },
+      "section_1": {
+        "title": "SOLUZIONI LOGISTICHE PER IL TRASPORTO MERCI AEREO",
+        "paragraphs": [
+          "Nel mondo degli affari di oggi, velocità ed efficienza sono essenziali. I nostri servizi di trasporto merci aereo sono esattamente ciò di cui avete bisogno per garantire che le vostre merci raggiungano la destinazione in modo sicuro e puntuale.",
+          "Sia che stiate spedendo merci deperibili, prodotti di alto valore o altre merci che richiedono una consegna rapida e sicura, l'azienda di spedizioni Crystal Logistics Services è la soluzione perfetta per voi."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+      "section_2": {
+        "title": "Sicurezza e Protezione sono Priorità",
+        "paragraphs": [
+          "Utilizziamo mezzi di trasporto aereo all'avanguardia e implementiamo rigorose procedure di sicurezza per garantire il trasporto sicuro delle vostre merci.",
+          "Il nostro processo include rigorosi controlli di sicurezza, imballaggio adeguato, maneggio attento e l'uso di tecnologia avanzata per prevenire la perdita o il danneggiamento delle merci.",
+          "Rispettiamo anche tutte le regole e i regolamenti relativi al trasporto aereo di merci, otteniamo tutti i permessi e le licenze necessari e garantiamo la conformità a tutti gli standard di sicurezza."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+      "highlight": {
+        "eyebrow": "TRASPORTO AEREO",
+        "title": "PERCHÉ SCEGLIERE I SERVIZI DI TRASPORTO AEREO DI CRYSTAL LOGISTICS SERVICES?",
+        "description": "",
+        "items": {
+          "card1": {
+            "title": "Copertura Globale",
+            "description": "Man mano che la globalizzazione e il commercio internazionale si intensificano, il trasporto aereo si distingue come un'opzione sempre più popolare per numerose aziende in tutto il mondo. Presso Crystal Logistics Services, siamo orgogliosi delle nostre partnership con alcune delle più importanti compagnie aeree a livello globale. Queste ci consentono di detenere licenze di trasporto e di garantire servizi di trasporto merci aereo efficienti e veloci, indipendentemente dalla destinazione."
+          },
+          "card2": {
+            "title": "Flessibilità",
+            "description": "Presso Crystal Logistics Services, la flessibilità è un attributo essenziale che ci distingue nel settore del trasporto merci aereo. Abbiamo la capacità di adattarci a qualsiasi tipo di esigenza di trasporto, che si tratti di un piccolo pacco o di un carico di grandi dimensioni. Indipendentemente dalla complessità delle vostre esigenze, ci impegniamo a trovare la soluzione ottimale per ogni contesto. Scoprite anche il nostro servizio di trasloco internazionale!"
+          },
+          "card3": {
+            "title": "Carico e Scarico Efficienti",
+            "description": "Comprendiamo che le vostre merci rappresentano un investimento significativo e ci impegniamo a trattarle con la massima cura e rispetto. Le nostre procedure di carico e scarico, meticolosamente pianificate, sono progettate per ottimizzare i tempi e garantire la sicurezza del carico. Utilizziamo attrezzature adeguate per la corretta maneggio delle merci e aderiamo a rigorose regole di sicurezza per prevenire incidenti."
+          },
+          "card4": {
+            "title": "Tracciamento in Tempo Reale",
+            "description": "Il nostro sistema di tracciamento avanzato è appositamente progettato per fornire un trasporto merci aereo efficiente e trasparente. Con l'aiuto di questa tecnologia, potete monitorare attentamente il movimento esatto del vostro carico, dal momento del carico alla consegna."
+          }
+        }
+      },
+      "cards": {
+        "items": {
+          "title": "PARTICOLARITÀ DEL TRASPORTO MERCI AEREO",
+          "description": "",
+          "card1": {
+            "title": "Velocità",
+            "short": "",
+            "descriptions": [
+              "La velocità di viaggio degli aeromobili è incomparabilmente superiore a qualsiasi altro mezzo di trasporto, rendendo la velocità una caratteristica essenziale del trasporto aereo.",
+              "Ciò si traduce in tempi di consegna significativamente più brevi, un vantaggio chiave per le aziende e i clienti che cercano maggiore efficienza."
+            ]
+          },
+          "card2": {
+            "title": "Regolarità",
+            "short": "",
+            "descriptions": [
+              "Il trasporto aereo si distingue per la sua regolarità, essendo effettuato secondo un programma preciso, indipendentemente dalla stagione o dall'ora del giorno.",
+              "Questa prevedibilità consente una pianificazione operativa efficiente e una consegna sicura delle merci, rafforzando la fiducia degli utenti."
+            ]
+          },
+          "card3": {
+            "title": "Opportunità",
+            "short": "",
+            "descriptions": [
+              "La copertura globale delle reti aeree offre un'opportunità unica per accedere rapidamente ed efficientemente a destinazioni lontane, indipendentemente dall'ubicazione dei punti terminali."
+            ]
+          }
+        }
+      },
+      "Accordion": {
+        "title": "Crystal Logistics Services: soluzioni rapide e sicure per il vostro trasporto merci urgente!",
+        "intro": "Avete bisogno di una soluzione rapida e sicura per il trasporto delle vostre merci? Crystal Logistics Services è il vostro partner affidabile per il trasporto urgente, offrendovi:",
+        "items": {
+          "class1": {
+            "title": "Il trasporto merci più veloce",
+            "short": "",
+            "paragraphs": [
+              "Il vostro carico raggiungerà la destinazione nel più breve tempo possibile, con tempi di transito ben definiti sul percorso specificato;"
+            ],
+            "listItems": [""]
+          },
+          "class2": {
+            "title": "Trasporto quotidiano",
+            "short": "",
+            "paragraphs": [
+              "Operiamo quotidianamente con aeromobili di prima classe, garantendo una consegna rapida ed efficiente delle vostre merci;"
+            ],
+            "listItems": [""]
+          },
+          "class3": {
+            "title": "Monitoraggio costante",
+            "short": "",
+            "paragraphs": [
+              "Offriamo una trasparenza totale monitorando attentamente le vostre merci durante l'intero processo di trasporto, dal carico allo scarico, garantendo la sicurezza totale delle vostre merci;"
+            ],
+            "listItems": [""]
+          },
+          "class4": {
+            "title": "Velocità sorprendente",
+            "short": "",
+            "paragraphs": [
+              "Con Crystal Logistics Services, il vostro carico raggiungerà la destinazione entro 1-2 giorni dall'aeroporto di partenza all'aeroporto di destinazione."
+            ],
+            "listItems": [""]
+          }
+        }
+      },
+      "cta": {
+        "title": "Ottenete un'offerta speciale di trasporto aereo!",
+        "messages": [
+          "Crystal Logistics Services è la scelta giusta per le vostre esigenze di trasporto aereo internazionale. Combiniamo velocità, flessibilità e sicurezza per offrirvi i migliori servizi sul mercato. Approfittate subito dei nostri servizi di alta qualità!"
+        ],
+        "buttonLabel": "CONTATTACI"
+      }
+    },
+    "Multimodal": {
+      "Header": {
+        "section": "",
+        "title": "TRASPORTO MULTIMODALE",
+        "alt": "Banner Trasporto Eccezionale - Crystal Logistics Services"
+      },
+      "section_1": {
+        "title": "Soluzioni di Trasporto Ottimizzate",
+        "paragraphs": [
+          "Crystal Logistics Services vi offre soluzioni complete di trasporto multimodale per ottimizzare la vostra catena di approvvigionamento e ridurre i vostri costi.",
+          "Sia che abbiate bisogno di trasporto marittimo, aereo, ferroviario o una combinazione di tutti, il nostro team di esperti vi aiuterà a trovare la soluzione migliore per le esigenze della vostra attività!"
+        ],
+        "alt": "CRYSTAL LOGISTICS SERVICES"
+      },
+      "section_2": {
+        "title": "Cos'è il trasporto multimodale?",
+        "introParagraphs": [
+          "Il trasporto multimodale è un sistema di trasporto che combina due o più diversi modi di trasporto per trasportare merci da un punto all'altro.",
+          "Questo tipo di trasporto può includere diverse combinazioni di trasporto stradale, marittimo, aereo o ferroviario, a seconda delle esigenze specifiche dei clienti e dell'infrastruttura disponibile."
+        ],
+        "listTitle": "Esempio di trasporto multimodale",
+        "groups": [
+          {
+            "label": "- ",
+            "text": "Il carico viene inizialmente trasportato tramite camion dal luogo di produzione a un porto."
+          },
+          {
+            "label": "- ",
+            "text": "Lì, viene caricato su un container marittimo e trasportato via mare a un altro porto."
+          },
+          {
+            "label": "- ",
+            "text": "All'arrivo, il carico viene scaricato e trasportato in treno fino alla destinazione finale."
+          }
+        ]
+      },
+      "section_3": {
+        "title": "Trasporto aereo",
+        "paragraphs": [
+          "I nostri servizi di trasporto aereo sono progettati per garantire la consegna rapida e sicura delle vostre merci.",
+          "Sia che stiate inviando merci deperibili, prodotti di alto valore o altri articoli che richiedono una consegna pronta e sicura, Crystal Logistics Services è il partner ideale per le vostre esigenze logistiche."
+        ],
+        "alt": "CRYSTAL LOGISTICS SERVICES"
+      },
+      "section_4": {
+        "title": "Trasporto ferroviario",
+        "paragraphs": [
+          "Dai container standard a quelli open top, dalle consegne al punto di origine al porta a porta, offriamo soluzioni personalizzate per supportarvi nella realizzazione dei vostri progetti di trasporto marittimo.",
+          "Attraverso un approccio flessibile, una varietà di servizi e un team di esperti dedicato, assicuriamo che il vostro carico raggiunga la sua destinazione in modo sicuro e puntuale."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+      "section_5": {
+        "title": "Trasporto marittimo",
+        "paragraphs": [
+          "Offriamo connessioni dirette con i più grandi hub e terminali di trasporto merci su rotaia internazionali, garantendo un trasporto rapido ed efficiente delle vostre merci.",
+          "Utilizzando i nostri servizi, accedete a una vasta rete di connessioni ferroviarie di alta qualità in Europa centrale, sud-orientale e nord-occidentale."
+        ],
+        "alt": "crystal-logistics-services.com"
+      },
+      "highlight": {
+        "eyebrow": "TRASPORTO MULTIMODALE",
+        "title": "Perché scegliere il trasporto multimodale?",
+        "description": "Ci sono molti vantaggi nello scegliere il trasporto multimodale, tra cui:",
+        "items": {
+          "card1": {
+            "title": "efficienza",
+            "description": "Il trasporto multimodale può essere più rapido ed efficiente rispetto all'utilizzo di un unico modo di trasporto"
+          },
+          "card2": {
+            "title": "costi ridotti",
+            "description": "Il trasporto multimodale può essere più economico rispetto all'utilizzo di un unico modo di trasporto, specialmente per lunghe distanze"
+          },
+          "card3": {
+            "title": "flessibilità",
+            "description": "Il trasporto multimodale vi offre maggiore flessibilità per spostare le vostre merci in base alle vostre esigenze"
+          },
+          "card4": {
+            "title": "impatto ambientale ridotto",
+            "description": "Il trasporto multimodale può essere un modo più ecologico per trasportare le vostre merci"
+          },
+          "card5": {
+            "title": "formalità minime",
+            "description": "Il trasporto viene effettuato sulla base di un unico contratto"
+          }
+        }
+      },
+      "cards": {
+        "items": {
+          "title": "Crystal Logistics Services vi offre una vasta gamma di servizi di trasporto multimodale, tra cui:",
+          "description": "Pianificazione e implementazione: il nostro team di esperti vi aiuterà a pianificare e implementare la migliore soluzione di trasporto multimodale per le vostre esigenze.",
+          "card1": {
+            "title": "Consolidamento e disimballaggio",
+            "short": "",
+            "descriptions": [
+              "possiamo consolidare le vostre merci da più fonti e disimballarle a destinazione (su richiesta)"
+            ]
+          },
+          "card2": {
+            "title": "Tracciamento e monitoraggio",
+            "short": "",
+            "descriptions": [
+              "vi forniremo informazioni aggiornate in tempo reale sullo stato del vostro trasporto"
+            ]
+          },
+          "card3": {
+            "title": "Servizi doganali",
+            "short": "",
+            "descriptions": [
+              "vi assisteremo con tutti i documenti e le procedure doganali necessari"
+            ]
+          },
+          "card4": {
+            "title": "Massima sicurezza",
+            "short": "",
+            "descriptions": [
+              "facciamo tutto il possibile affinché le vostre merci raggiungano la destinazione senza comprometterne la qualità"
+            ]
+          }
+        }
+      },
+      "cta": {
+        "title": "Crystal Logistics Services - Il vostro partner affidabile per il trasporto multimodale!",
+        "messages": [
+          "Le nostre soluzioni di trasporto multimodale sono progettate per soddisfare diverse industrie, dall'automotive e prodotti di consumo alle attrezzature industriali e tecnologiche."
+        ],
+        "buttonLabel": "CONTATTACI"
+      }
+    },
+    "BursaDeTransport": {
+      "Header": {
+        "section": "CRYSTAL LOGISTICS SERVICES",
+        "title": "BORSA MERCI",
+        "alt": "Banner Borsa Merci - Crystal Logistics Services"
+      },
+      "section_1": {
+        "title": "Pubblicate il vostro carico sulla Borsa Merci CLS e ricevete offerte rapidamente!",
+        "paragraphs": [
+          "Compilate il modulo sottostante e ricevete l'offerta con pochi clic, nel più breve tempo possibile e senza alcun costo!",
+          "Scoprite una vasta rete di partner affidabili e beneficiate di soluzioni di trasporto efficienti adattate alle vostre esigenze!",
+          "Sviluppate la vostra attività con fiducia in Europa insieme a Crystal Logistics Services!"
+        ],
+        "alt": "Crystal Logistics Services"
+      },
+      "Accordion": {
+        "title": "Perché scegliere la Borsa Merci Crystal Logistics Services?",
+        "intro": "",
+        "items": {
+          "class1": {
+            "title": "Accesso Facile e Veloce",
+            "short": "",
+            "paragraphs": [
+              "Presso Crystal Logistics, la borsa merci su strada vi fornisce tutti gli strumenti necessari per facilitare il vostro lavoro. Sia che abbiate bisogno di trasporto o che siate un vettore in cerca di carico, potete trovare la soluzione giusta con pochi clic. Con l'aiuto dei nostri algoritmi avanzati, il nostro sistema di ricerca vi offre le opzioni di trasporto più efficienti, basate sulle vostre esigenze specifiche."
+            ],
+            "listItems": [""]
+          },
+          "class2": {
+            "title": "Flessibilità e Diversità",
+            "short": "",
+            "paragraphs": [
+              "Indipendentemente dal tipo di carico o dalle distanze stradali percorse, sulla borsa merci, abbiamo la soluzione giusta per voi.",
+              "La Borsa Merci Crystal Logistics Services vi offre una gamma completa di soluzioni di trasporto adattate alle vostre esigenze, sia che abbiate bisogno di trasporto internazionale, cabotaggio o cross-trade.",
+              "Collaboriamo con una vasta rete di produttori e spedizionieri in tutta Europa, offrendovi l'accesso a una vasta gamma di carichi per qualsiasi tipo di veicolo."
+            ],
+            "listItems": [""]
+          },
+          "class3": {
+            "title": "Prezzi Competitivi",
+            "short": "",
+            "paragraphs": [
+              "Beneficiate delle migliori offerte sul mercato, adattate alle vostre esigenze.",
+              "Sulla borsa merci CLS, avete accesso a una vasta gamma di vettori, consentendovi di confrontare i prezzi e scegliere l'opzione migliore per le vostre esigenze.",
+              "Ogni vettore disponibile sulla nostra piattaforma ha caratteristiche e vantaggi unici, in modo da poter scegliere l'opzione più adatta a voi."
+            ],
+            "listItems": [""]
+          },
+          "class4": {
+            "title": "Eliminate i viaggi a vuoto e ottimizzate i trasporti",
+            "short": "",
+            "paragraphs": [
+              "Siete proprietari di camion o avete un'azienda di trasporto che affronta il problema dei viaggi a vuoto o dei trasporti parziali? Crystal Logistics Services vi offre la soluzione ideale: la borsa merci che vi collega con gli spedizionieri che hanno bisogno di trasporto per piccole quantità di carico (LTL).",
+              "Sulla nostra piattaforma, potete trovare facilmente carichi LTL che corrispondono ai vostri percorsi esistenti. In questo modo, riducete il tempo speso per la ricerca di carichi e migliorate la pianificazione dei percorsi."
+            ],
+            "listItems": [""]
+          },
+          "class5": {
+            "title": "Supporto al Cliente",
+            "short": "",
+            "paragraphs": [
+              "Vi forniamo un team di supporto specializzato, che è sempre pronto ad assistervi.",
+              "Qualunque domanda o problema incontriate, potete contare su di noi per fornirvi risposte rapide ed efficienti."
+            ],
+            "listItems": [""]
+          }
+        }
+      },
+      "cta": {
+        "title": "",
+        "messages": ["Per maggiori dettagli, vi preghiamo di contattarci."],
+        "buttonLabel": "CONTATTACI"
+      }
+    }
+  }
+}

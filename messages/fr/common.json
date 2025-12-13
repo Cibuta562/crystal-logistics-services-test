@@ -1,0 +1,136 @@
+{
+  "contact": {
+    "badge": "Contact",
+    "title": "Nous sommes là pour vous aider !",
+    "subtitle": "Chez Crystal Logistics Services, nous nous engageons à fournir des solutions personnalisées aux clients, transporteurs et candidats souhaitant rejoindre notre équipe.",
+    "requestQuote": "Demander un devis",
+    "hours_ro": "Lundi–Vendredi, 09:00–17:30",
+    "hours_ch": "Lundi–Vendredi, 09:00–17:00",
+    "mapLoading": "Chargement de la carte…"
+  },
+  "contactForms": {
+    "offerButton": "Demander un devis",
+    "carrierButton": "Devenir partenaire",
+    "loadingForm": "Chargement du formulaire…",
+    "offerTitle": "Demande de devis",
+    "carrierTitle": "Formulaire partenaire"
+  },
+  "Footer": {
+    "about": {
+      "title": "À propos de Crystal Logistics Services",
+      "text": "Crystal Logistics Services propose des solutions complètes de transport routier, maritime, aérien et multimodal, adaptées aux exigences des clients du monde entier.",
+      "contactTitle": "Contact",
+      "address": "Rue Exemplu n° 25, Bucarest, Roumanie",
+      "phone": "+40 123 456 789",
+      "email": "office@crystallogistics.ro",
+      "followUs": "Suivez-nous"
+    },
+    "columns": {
+      "services": {
+        "title": "Services",
+        "links": [
+          "Devis Instantané",
+          "Transport multimodal",
+          "Transport routier",
+          "Transport aérien",
+          "Transport maritime",
+          "Transport ferroviaire"
+        ]
+      },
+      "about": {
+        "title": "À propos de nous",
+        "links": [
+          "Devenir partenaire CLS",
+          "Carrières",
+          "Notre équipe",
+          "Blog",
+          "Avis",
+          "Brochures"
+        ]
+      },
+      "contact": {
+        "title": "Contact",
+        "address": "Nos emplacements",
+        "phone": "+40 723 344 599",
+        "email": "logistics@crystal-logistics-services.com",
+        "hours": "Horaires : 09:00–17:30"
+      },
+      "licenses": {
+        "title": "Licences",
+        "text": "Licence de courtage série CI n° 0010969\nLicence de transport n° 023173"
+      }
+    },
+    "bottom": {
+      "rights": "© 2025 Crystal Logistics Services. Tous droits réservés.",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions générales",
+      "cookies": "Politique relative aux cookies"
+    }
+  },
+  "Components": {
+    "whyUs": {
+      "title": "Pourquoi travailler avec nous ?",
+      "items": {
+        "assistance": "ASSISTANCE TRANSPORT 24/7",
+        "response": "NOUS RÉPONDONS RAPIDEMENT",
+        "insured": "TRANSPORT ASSURÉ",
+        "fairPrice": "PRIX JUSTE",
+        "fullPackage": "OFFRE DE SERVICES COMPLÈTE"
+      }
+    }
+  },
+  "Services": {
+    "title": "Services",
+    "learnMore": "En savoir plus",
+    "cards": {
+      "road": {
+        "title": "Transport Routier",
+        "text": "Les services de transport de marchandises couvrent une gamme complète de solutions adaptées aux besoins de chaque client, du transport national aux itinéraires européens.\n\nNous assurons le transport routier de marchandises générales, exceptionnelles, ADR, frigorifiques, citernes ou bennes."
+      },
+      "maritime": {
+        "title": "Transport Maritime",
+        "text": "Solutions idéales pour les grands volumes, conteneurs ou transport en vrac, vers et depuis les principaux ports commerciaux.\n\nInclut le chargement, la documentation douanière, le suivi et l'assurance optionnelle."
+      },
+      "air": {
+        "title": "Transport Aérien",
+        "text": "La solution rapide et efficace pour le transport international de marchandises.\n\nIdéal pour les livraisons urgentes ou sensibles."
+      },
+      "rail": {
+        "title": "Transport Ferroviaire",
+        "text": "L'alternative économique et durable pour de grands volumes de marchandises générales ou encombrantes.\n\nRecommandé pour les projets logistiques complexes."
+      },
+      "multimodal": {
+        "title": "Transport Multimodal",
+        "text": "Combine routier, maritime, aérien et ferroviaire pour l'efficacité et l'optimisation des coûts.\n\nAdapté aux chaînes logistiques intégrées et aux délais fermes."
+      }
+    }
+  },
+  "Stats": {
+    "title": "Nos résultats parlent",
+    "items": {
+      "km": "km parcourus",
+      "clients": "clients satisfaits",
+      "cargo": "marchandises transportées",
+      "revenue": "millions €",
+      "satisfaction": "taux de satisfaction"
+    }
+  },
+  "Newsletter": {
+    "title": "Abonnez-vous à la newsletter",
+    "emailLabel": "Votre adresse e-mail",
+    "emailPlaceholder": "nom@email.com",
+    "consentText": "J'ai lu et j'accepte la",
+    "privacyPolicy": "Politique de confidentialité",
+    "submit": "Envoyer"
+  },
+  "Reviews": {
+    "title": "Ce que disent nos clients",
+    "cta": "Voir tous les avis sur Google",
+    "readMore": "lire la suite",
+    "readLess": "réduire"
+  },
+  "Organizatii": {
+    "orgTitle": "Organisations dont nous sommes membres",
+    "clientsTitle": "Clients et partenaires"
+  }
+}

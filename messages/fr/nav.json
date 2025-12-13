@@ -1,0 +1,63 @@
+{
+  "Navbar": {
+    "nav": {
+      "home": "Accueil",
+      "despreNoi": "À Propos",
+      "transport": "Solutions",
+      "transportatori": "Transporteurs",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "submenu": {
+      "transport": {
+        "road": "Transport Routier",
+        "sea": "Transport Maritime",
+        "air": "Transport Aérien",
+        "rail": "Transport Ferroviaire",
+        "multimodal": "Transport Multimodal",
+        "roadSub": {
+          "transportInt": "Transport National et International",
+          "relocari": "Déménagements Internationaux",
+          "armament": "Transport d'Armement",
+          "agabaritic": "Transport Exceptionnel",
+          "frigo": "Transport Frigorifique",
+          "adr": "Transport ADR",
+          "marfaVrac": "Transport de Vrac",
+          "autoturisme": "Transport de Voitures",
+          "other": "Autres Services",
+          "bursa": "Devis Instantané"
+        }
+      }
+    },
+    "locale": {
+      "label": "Langue",
+      "short": {
+        "ro": "RO",
+        "en": "EN",
+        "de": "DE",
+        "fr": "FR",
+        "it": "IT",
+        "pl": "PL"
+      }
+    },
+    "cta": {
+      "quote": "Demander un devis",
+      "short": "Devis",
+      "contact": "Contactez-nous"
+    },
+    "menu": {
+      "title": "Menu"
+    },
+    "labels": {
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "language": "Langue"
+    },
+    "a11y": {
+      "home": "Aller à la page d'accueil",
+      "menu": "Ouvrir le menu",
+      "call": "Appelez-nous",
+      "email": "Envoyer un e-mail"
+    }
+  }
+}
