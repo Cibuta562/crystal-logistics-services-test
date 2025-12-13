@@ -18,7 +18,7 @@ const raleway = Raleway({
 });
 
 export const metadata: Metadata = {
-  title: "Crystal Logistics Services",
+  title: "Crystal Logistics",
   description: "Crystal Logistics Services",
 };
 
