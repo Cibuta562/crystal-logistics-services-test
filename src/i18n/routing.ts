@@ -16,6 +16,14 @@ export const routing = defineRouting({
     "/cookies": "/cookies",
     "/privacy": "/privacy",
 
+    "/blog": {
+      en: "/blog",
+      de: "/blog",
+      fr: "/blog",
+      it: "/blog",
+      pl: "/blog",
+    },
+
     // If locales use different paths, you can
     // specify the relevant external pathnames
 
