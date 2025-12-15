@@ -178,11 +178,10 @@ export default function ContactPage() {
                                           href="mailto:logistics@crystal-logistics-services.com"
                                           aria-label="Trimite email către Crystal Logistics Services"
                                           title="Trimite email"
-                                          className="w-8 h-8 rounded-full flex items-center justify-center"
+                                          className="rounded-full flex items-center justify-center"
                                       >
-                                          <Mail aria-hidden="true"/>
+                                          logistics@crystal-logistics-services.com
                                       </a>
-
                                   </li>
 
                                   <li className="flex gap-3">
