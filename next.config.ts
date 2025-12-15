@@ -14,10 +14,19 @@ const nextConfig: NextConfig = {
     ],
   },
 
-  // Recomandat dacă ai multe warning-uri ESLint care îți opresc build-ul
   eslint: {
     ignoreDuringBuilds: true,
   },
+
+  async redirects() {
+    return [
+      {
+        source: "/ro/stiri/:slug",
+        destination: "/ro/:slug",
+        permanent: true,
+      },
+    ];
+  }
 };
 
 const withNextIntl = createNextIntlPlugin();

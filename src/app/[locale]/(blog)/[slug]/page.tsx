@@ -175,12 +175,14 @@ function ResponsiveImage({
 }
 
 export default async function BlogPostPage({
-  params,
-}: {
-  params: { slug: string };
+                                             params,
+                                           }: {
+  params: Promise<{ slug: string; locale: string }>;
 }) {
+  const { slug: routeSlug } = await params;
+
   const db = getFirestore();
-  const snap = await db.collection("posts").doc(params.slug).get();
+  const snap = await db.collection("posts").doc(routeSlug).get();
   if (!snap.exists) return notFound();
 
   const p = (snap.data() ?? {}) as FirestorePost;
@@ -192,115 +194,123 @@ export default async function BlogPostPage({
   const title = asString(p.title, "");
   const subtitle = asString(p.subtitle, "");
   const author = asString(p.author, "");
-  const slug = asString(p.slug, params.slug);
+
+  // slug sigur pentru chei React etc.
+  const postSlug = asString(p.slug, routeSlug);
+
   const coverUrl = asStringOrNull(p.coverUrl);
 
   return (
-    <>
-      <main className="py-6 md:py-10">
-        <div className="mx-auto w-full max-w-[1400px] px-4 sm:px-8 lg:px-12">
-          <div className="mb-3 flex items-center gap-2 text-sm opacity-70">
-            <span>{date.toLocaleDateString()}</span>
-            {author && (
-              <>
-                <span>•</span>
-                <span>{author}</span>
-              </>
-            )}
-          </div>
-
-          <h1 className="text-3xl font-semibold uppercase leading-tight md:text-4xl">
-            {title}
-          </h1>
-
-          {subtitle && (
-            <h2 className="-mt-2 text-xl opacity-80 md:text-2xl">{subtitle}</h2>
-          )}
-
-          {coverUrl && (
-            <div className="my-5">
-              <ResponsiveImage src={coverUrl} />
+      <>
+        <main className="py-6 md:py-10">
+          <div className="mx-auto w-full max-w-[1400px] px-4 sm:px-8 lg:px-12">
+            <div className="mb-3 flex items-center gap-2 text-sm opacity-70">
+              <span>{date.toLocaleDateString()}</span>
+              {author && (
+                  <>
+                    <span>•</span>
+                    <span>{author}</span>
+                  </>
+              )}
             </div>
-          )}
 
-          <article className="prose max-w-none">
-            {sections.map((s, i) => {
-              const layoutTwoCol = Boolean(
-                s.imageUrl && s.imagePosition !== "full"
-              );
-              return (
-                <section key={`${slug}-s-${i}`} className="my-8">
-                  {s.heading && (
-                    <header className="mb-4">
-                      <div className="mb-2 h-[2px] w-10 bg-[#FFD500]" />
-                      <h2 className="text-2xl font-semibold uppercase tracking-tight md:text-3xl">
-                        {s.heading}
-                      </h2>
-                    </header>
-                  )}
+            <h1 className="text-3xl font-semibold uppercase leading-tight md:text-4xl">
+              {title}
+            </h1>
 
-                  <div
-                    className={
-                      layoutTwoCol
-                        ? "grid items-start gap-6 md:grid-cols-2"
-                        : ""
-                    }
-                  >
-                    {s.imageUrl &&
-                      (s.imagePosition === "left" ||
-                        s.imagePosition === "full") && (
-                        <div
-                          className={s.imagePosition === "full" ? "mb-3" : ""}
-                        >
-                          <ResponsiveImage
-                            src={s.imageUrl}
-                            aspectClassName={
-                              s.imagePosition === "full"
-                                ? "aspect-[16/9]"
-                                : "aspect-[4/3]"
-                            }
-                          />
-                        </div>
+            {subtitle && (
+                <h2 className="-mt-2 text-xl opacity-80 md:text-2xl">
+                  {subtitle}
+                </h2>
+            )}
+
+            {coverUrl && (
+                <div className="my-5">
+                  <ResponsiveImage src={coverUrl} />
+                </div>
+            )}
+
+            <article className="prose max-w-none">
+              {sections.map((s, i) => {
+                const layoutTwoCol = Boolean(
+                    s.imageUrl && s.imagePosition !== "full"
+                );
+
+                return (
+                    <section key={`${postSlug}-s-${i}`} className="my-8">
+                      {s.heading && (
+                          <header className="mb-4">
+                            <div className="mb-2 h-[2px] w-10 bg-[#FFD500]" />
+                            <h2 className="text-2xl font-semibold uppercase tracking-tight md:text-3xl">
+                              {s.heading}
+                            </h2>
+                          </header>
                       )}
 
-                    <div>
-                      <ReactMarkdown
-                        remarkPlugins={[remarkGfm, remarkBreaks]}
-                        components={markdownComponents}
+                      <div
+                          className={
+                            layoutTwoCol
+                                ? "grid items-start gap-6 md:grid-cols-2"
+                                : ""
+                          }
                       >
-                        {s.bodyMd || ""}
-                      </ReactMarkdown>
-                    </div>
+                        {s.imageUrl &&
+                            (s.imagePosition === "left" ||
+                                s.imagePosition === "full") && (
+                                <div
+                                    className={
+                                      s.imagePosition === "full" ? "mb-3" : ""
+                                    }
+                                >
+                                  <ResponsiveImage
+                                      src={s.imageUrl}
+                                      aspectClassName={
+                                        s.imagePosition === "full"
+                                            ? "aspect-[16/9]"
+                                            : "aspect-[4/3]"
+                                      }
+                                  />
+                                </div>
+                            )}
 
-                    {s.imageUrl && s.imagePosition === "right" && (
-                      <ResponsiveImage
-                        src={s.imageUrl}
-                        aspectClassName="aspect-[4/3]"
-                      />
-                    )}
-                  </div>
-                </section>
-              );
-            })}
-          </article>
+                        <div>
+                          <ReactMarkdown
+                              remarkPlugins={[remarkGfm, remarkBreaks]}
+                              components={markdownComponents}
+                          >
+                            {s.bodyMd || ""}
+                          </ReactMarkdown>
+                        </div>
 
-          {tags.length > 0 && (
-            <div className="mt-10 flex flex-wrap items-center gap-2">
-              <span className="text-sm opacity-70">Tags:</span>
-              {tags.map((t) => (
-                <span
-                  key={t}
-                  className="rounded-full border px-3 py-1 text-sm italic"
-                >
+                        {s.imageUrl && s.imagePosition === "right" && (
+                            <ResponsiveImage
+                                src={s.imageUrl}
+                                aspectClassName="aspect-[4/3]"
+                            />
+                        )}
+                      </div>
+                    </section>
+                );
+              })}
+            </article>
+
+            {tags.length > 0 && (
+                <div className="mt-10 flex flex-wrap items-center gap-2">
+                  <span className="text-sm opacity-70">Tags:</span>
+                  {tags.map((t) => (
+                      <span
+                          key={t}
+                          className="rounded-full border px-3 py-1 text-sm italic"
+                      >
                   {t}
                 </span>
-              ))}
-            </div>
-          )}
-        </div>
-      </main>
+                  ))}
+                </div>
+            )}
+          </div>
+        </main>
 
-      <Footer />
-    </>
+        <Footer />
+      </>
   );
 }

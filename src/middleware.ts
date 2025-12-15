@@ -21,33 +21,66 @@ function splitLocale(pathname: string) {
   return {
     noLoc: hasLocale ? pathname.replace(`/${first}`, "") : pathname,
     loc: (hasLocale ? first : routing.defaultLocale) as AppLocale,
+    hasLocale,
   };
 }
 
 export default function middleware(req: NextRequest) {
-  // rulează mai întâi i18n (detectează/normalizează locale)
+  const { pathname } = req.nextUrl;
+
+  // ignoră assets / next internals
+  if (
+      pathname.startsWith("/_next") ||
+      pathname.startsWith("/api") ||
+      pathname.includes(".")
+  ) {
+    return;
+  }
+
+  const { noLoc, loc, hasLocale } = splitLocale(pathname);
+
+  /* ----------------------------------
+   * 1️⃣ REDIRECT URL-URI VECHI BLOG
+   * ---------------------------------- */
+  if (
+      noLoc.startsWith("/blog/") ||
+      noLoc.startsWith("/stiri/")
+  ) {
+    const slug = noLoc.replace(/^\/(blog|stiri)\//, "");
+    return NextResponse.redirect(
+        new URL(`/${slug}`, req.url),
+        301
+    );
+  }
+
+
+  /* ----------------------------------
+   * 3️⃣ next-intl (detect / normalize)
+   * ---------------------------------- */
   const res = intl(req);
   if (res.redirected) return res;
 
-  const { pathname } = req.nextUrl;
-  const { noLoc, loc } = splitLocale(pathname);
-
-  // tot ce e în /admin/* trece prin guard
+  /* ----------------------------------
+   * 4️⃣ ADMIN GUARD (logica ta existentă)
+   * ---------------------------------- */
   if (noLoc.startsWith("/admin")) {
     const hasSession = Boolean(req.cookies.get("session")?.value);
 
-    // 1) /admin/login este accesibil public
+    // /admin/login e public
     if (noLoc === "/admin/login") {
-      // dacă are deja sesiune, du-l direct în dashboard
       if (hasSession) {
-        return NextResponse.redirect(new URL(`/${loc}/admin/posts`, req.url));
+        return NextResponse.redirect(
+            new URL(`/${loc}/admin/posts`, req.url)
+        );
       }
       return res;
     }
 
-    // 2) orice alt /admin/* cere sesiune
+    // restul /admin/* cere sesiune
     if (!hasSession) {
-      return NextResponse.redirect(new URL(`/${loc}/admin/login`, req.url));
+      return NextResponse.redirect(
+          new URL(`/${loc}/admin/login`, req.url)
+      );
     }
   }
 
