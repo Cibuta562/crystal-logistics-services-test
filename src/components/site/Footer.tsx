@@ -34,6 +34,7 @@ const fadeText: Variants = {
 ============================= */
 const localizedRoutes: Record<string, Record<string, string>> = {
   ro: {
+    "Cotație Instant": "/bursa-de-transport",
     "Bursa de Transport": "/bursa-de-transport",
     "Transport Multimodal": "/transport-multimodal",
     "Transport Rutier": "/transport-marfa-rutier",
@@ -45,12 +46,13 @@ const localizedRoutes: Record<string, Record<string, string>> = {
     Cariere: "/cariere",
     "Echipa Noastră": "/despre-noi",
     Blog: "/blog",
-    Recenzii: "/",
+    Recenzii: "/#reviews",
 
     Broșuri: "/brochures/brochure-ro.pdf",
   },
 
   en: {
+    "Instant Quote": "/Freight Exchange",
     "Freight Exchange": "/bursa-de-transport",
     "Multimodal Transport": "/transport-multimodal",
     "Road Transport": "/transport-marfa-rutier",
@@ -62,10 +64,31 @@ const localizedRoutes: Record<string, Record<string, string>> = {
     Careers: "/cariere",
     "Our Team": "/despre-noi",
     Blog: "/blog",
-    Reviews: "/",
+    Reviews: "/#reviews",
 
     Brochures: "/brochures/brochure-en.pdf",
   },
+
+  de: {
+    "Sofortangebot": "/transportboerse",
+  },
+
+  fr: {
+    "Devis instantané": "/bourse-de-transport",
+  },
+
+  it: {
+    "Preventivo immediato": "/scambio-di-trasporto",
+  },
+
+  pl: {
+    "Natychmiastowa wycena": "/giełda-transportowa",
+  },
+
+
+
+
+
 };
 
 /* ============================
@@ -278,9 +301,9 @@ function FooterColumn({
                     {label}
                   </a>
                 ) : (
-                  <Link href={href} className="hover:text-[#FFD84D]">
-                    {label}
-                  </Link>
+                    <Link href={`/${locale}${href}`} className="hover:text-[#FFD84D]">
+                      {label}
+                    </Link>
                 )}
               </motion.li>
             );

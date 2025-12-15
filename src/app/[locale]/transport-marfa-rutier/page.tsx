@@ -270,7 +270,7 @@ export default function TransportRutierPage() {
       <ContentSplitLeft
         title={t("section_2.title")}
         paragraphs={t.raw("section_2.paragraphs") as string[]}
-        imageSrc="/example.jpg"
+        imageSrc="/images/homeBanner.webp"
         imageAlt={t("section_2.alt")}
         headingLevel="h1"
         listType="unordered"

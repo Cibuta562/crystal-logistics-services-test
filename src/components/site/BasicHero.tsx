@@ -452,7 +452,7 @@ export default function PageHero({
           >
             <div className="relative w-full h-[40vh] md:h-[60vh] lg:h-[55vh]">
               <Image
-                  src="/images/homeBanner.webp"
+                  src="/images/homeBannerHero.webp"
                   alt="Crystal Logistics banner"
                   fill
                   sizes="100vw"
