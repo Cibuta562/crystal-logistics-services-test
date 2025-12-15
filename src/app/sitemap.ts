@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { routing } from "@/i18n/routing";
 
-const BASE_URL = "https://www.crystal-logistics-services.com";
+const BASE_URL = "https://crystal-logistics-services-test-o77nc3ud8-cibuta562s-projects.vercel.app/";
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const entries: MetadataRoute.Sitemap = [];
