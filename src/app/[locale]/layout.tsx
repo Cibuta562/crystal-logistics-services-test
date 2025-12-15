@@ -7,9 +7,9 @@ import { Raleway } from "next/font/google";
 import "../globals.css";
 import Navbar from "@/components/site/Navbar";
 import CookieBanner from "@/components/CookieConsent/CookieBanner";
-import Script from "next/script"; // 👈 IMPORTANT: import Script
+import Script from "next/script";
 
-// Load Raleway with desired weights
+// Load Raleway font
 const raleway = Raleway({
   variable: "--font-raleway",
   subsets: ["latin"],
@@ -39,34 +39,46 @@ export default async function LocaleLayout({ children, params }: Props) {
   }
 
   return (
-    <html lang={locale} className={raleway.className} suppressHydrationWarning>
+      <html lang={locale} className={raleway.className} suppressHydrationWarning>
       <head>
-        {/* 🌐 Google Analytics Script */}
+        {/* ✅ Google Tag Manager */}
         <Script
-          strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-6FWM0KXD6P"
+            id="gtm-head"
+            strategy="afterInteractive"
+            dangerouslySetInnerHTML={{
+              __html: `
+              (function(w,d,s,l,i){w[l]=w[l]||[];
+              w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+              var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+              j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+              f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer','GTM-K3P77WV');
+            `,
+            }}
         />
-
-        <Script id="ga4-init" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-6FWM0KXD6P');
-          `}
-        </Script>
       </head>
 
       <body
-        className={`${raleway.variable} antialiased`}
-        suppressHydrationWarning
+          className={`${raleway.variable} antialiased`}
+          suppressHydrationWarning
       >
-        <NextIntlClientProvider>
-          <Navbar />
-          {children}
-          <CookieBanner />
-        </NextIntlClientProvider>
+      {/* ✅ Google Tag Manager (noscript) */}
+      <noscript>
+        <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-K3P77WV"
+            height="0"
+            width="0"
+            style={{ display: "none", visibility: "hidden" }}
+        />
+      </noscript>
+
+      <NextIntlClientProvider>
+        <Navbar />
+        {children}
+        <CookieBanner />
+      </NextIntlClientProvider>
       </body>
-    </html>
+      </html>
   );
 }
