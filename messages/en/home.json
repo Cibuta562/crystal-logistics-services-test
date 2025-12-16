@@ -17,7 +17,7 @@
     "hasCargoTitle": "Do You Have Cargo to Transport?",
     "hasCargoText1": "Do you need domestic or international freight transport?",
     "hasCargoText2": "Crystal Logistics Services offers you complete services for road transport, oversized transport, and express shipments through the CLS freight exchange.",
-    "hasCargoText3": "Fill out the form and receive a complete logistics quote in maximum 30 minutes!",
+    "hasCargoText3": "Fill out the form and receive a complete logistics quote within 30 minutes!",
     "fillForm": "Fill Out the Form"
   },
   "Services": {
@@ -52,7 +52,7 @@
       "km": "Km traveled",
       "clients": "Satisfied clients",
       "cargo": "Tons of cargo",
-      "revenue": "Million € Revenue",
+      "revenue": "Total Revenue",
       "satisfaction": "Satisfaction rate (%)"
     }
   },

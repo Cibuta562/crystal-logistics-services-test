@@ -1,26 +1,26 @@
 {
   "BlogFAQ": {
-    "latestPosts": "Ultimele postări",
-    "faqTitle": "Întrebări frecvente",
-    "loadingText": "Se încarcă articolele...",
+    "latestPosts": "Latest Posts",
+    "faqTitle": "Frequently Asked Questions",
+    "loadingText": "Loading articles...",
     "faqs": [
       {
-        "question": "Transport rutier public de mărfuri",
+        "question": "Public Road Freight Transport",
         "answer": {
-          "intro": "Poate fi realizat doar cu respectarea anumitor condiții, inclusiv deținerea documentelor necesare:",
-          "item1": "Copie conformă a licenței de transport (licențe ARR și copii conforme ARR)",
-          "item2": "Document de transport, pentru justificarea transportului în fața Inspectoratului",
-          "item3": "Certificat privind încadrarea vehiculului în normele de poluare și siguranță rutieră",
-          "item4": "Autorizație de transport internațional (doar pentru transportul internațional)"
+          "intro": "It can only be carried out under certain conditions, including possessing the necessary documents:",
+          "item1": "Certified copy of the transport license (ARR licenses and ARR certified copies)",
+          "item2": "Transport document, for justifying the transport to the Inspectorate",
+          "item3": "Certificate regarding the vehicle's compliance with pollution and road safety standards",
+          "item4": "International transport authorization (only for international transport)"
         }
       },
       {
-        "question": "Ce documente sunt necesare pentru transport intern?",
-        "answer": "Este necesară o licență ARR validă și certificatul de conformitate al vehiculului."
+        "question": "What documents are required for domestic transport?",
+        "answer": "A valid ARR license and the vehicle's certificate of conformity are required."
       },
       {
-        "question": "Pot solicita o cotație internațională online?",
-        "answer": "Da, poți face acest lucru direct pe platforma noastră, oricând."
+        "question": "Can I request an international quote online?",
+        "answer": "Yes, you can do this directly on our platform, at any time."
       }
     ]
   },
@@ -29,7 +29,7 @@
     "Header": {
       "section": "CRYSTAL LOGISTICS SERVICES",
       "title": "BLOG",
-      "alt": "Banner Transport Agabaritic - Crystal Logistics Services"
+      "alt": "Oversize/Abnormal Load Transport Banner - Crystal Logistics Services"
     }
   }
 }

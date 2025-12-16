@@ -202,7 +202,7 @@
           "items": {
             "class1": {
               "title": "Public road freight transport",
-              "short": "can be carried out by transport operators only by meeting certain conditions, including possessing the necessary documents:",
+              "short": "can only be carried out by transport operators who only meet certain conditions, including possessing the necessary documents:",
               "paragraphs": [""],
               "listItems": [
                 "certified copy of the transport license (ARR licenses and ARR certified copies);",

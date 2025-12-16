@@ -13,7 +13,7 @@ function isLocale(value: string | undefined): value is AppLocale {
   return (routing.locales as readonly string[]).includes(value);
 }
 
-// helper: scoate prefixul de locale din pathname
+
 function splitLocale(pathname: string) {
   const first = pathname.split("/")[1];
   const hasLocale = isLocale(first);
@@ -39,9 +39,7 @@ export default function middleware(req: NextRequest) {
 
   const { noLoc, loc, hasLocale } = splitLocale(pathname);
 
-  /* ----------------------------------
-   * 1️⃣ REDIRECT URL-URI VECHI BLOG
-   * ---------------------------------- */
+
   if (
       noLoc.startsWith("/blog/") ||
       noLoc.startsWith("/stiri/")
@@ -54,19 +52,15 @@ export default function middleware(req: NextRequest) {
   }
 
 
-  /* ----------------------------------
-   * 3️⃣ next-intl (detect / normalize)
-   * ---------------------------------- */
+
   const res = intl(req);
   if (res.redirected) return res;
 
-  /* ----------------------------------
-   * 4️⃣ ADMIN GUARD (logica ta existentă)
-   * ---------------------------------- */
+
   if (noLoc.startsWith("/admin")) {
     const hasSession = Boolean(req.cookies.get("session")?.value);
 
-    // /admin/login e public
+
     if (noLoc === "/admin/login") {
       if (hasSession) {
         return NextResponse.redirect(
