@@ -8,15 +8,18 @@ const STORAGE_KEY = "cookie-preferences";
 const COOKIE_NAME = "cookie_preferences";
 const MAX_AGE = 60 * 60 * 24 * 180;
 
-type GtagCommand = "js" | "config";
-type GtagFn = (command: GtagCommand, ...args: unknown[]) => void;
+type ConsentStatus = "granted" | "denied";
 
 declare global {
   interface Window {
     dataLayer?: unknown[];
-    gtag?: GtagFn;
+    gtag?: (...args: unknown[]) => void;
   }
 }
+
+/* =========================
+   Cookie helpers (PĂSTRATE)
+   ========================= */
 
 function isSecure(): boolean {
   return typeof window !== "undefined" && window.location.protocol === "https:";
@@ -26,15 +29,15 @@ function setCookie(name: string, value: string, maxAge: number): void {
   if (typeof document === "undefined") return;
   const secure = isSecure() ? "; Secure" : "";
   document.cookie = `${name}=${encodeURIComponent(
-    value
+      value
   )}; Path=/; Max-Age=${maxAge}; SameSite=Lax${secure}`;
 }
 
 function getCookie(name: string): string | null {
   if (typeof document === "undefined") return null;
   const match = document.cookie
-    .split("; ")
-    .find((row) => row.startsWith(`${name}=`));
+      .split("; ")
+      .find((row) => row.startsWith(`${name}=`));
   if (!match) return null;
   return decodeURIComponent(match.split("=").slice(1).join("="));
 }
@@ -43,11 +46,15 @@ function isCookiePreferences(v: unknown): v is CookiePreferences {
   if (typeof v !== "object" || v === null) return false;
   const o = v as Record<string, unknown>;
   return (
-    typeof o.functional === "boolean" &&
-    typeof o.analytics === "boolean" &&
-    typeof o.marketing === "boolean"
+      typeof o.functional === "boolean" &&
+      typeof o.analytics === "boolean" &&
+      typeof o.marketing === "boolean"
   );
 }
+
+/* =========================
+   Public API
+   ========================= */
 
 export function getPreferences(): CookiePreferences | null {
   if (typeof window === "undefined") return null;
@@ -55,7 +62,7 @@ export function getPreferences(): CookiePreferences | null {
   const fromCookie = getCookie(COOKIE_NAME);
   if (fromCookie) {
     try {
-      const parsed: unknown = JSON.parse(fromCookie);
+      const parsed = JSON.parse(fromCookie);
       return isCookiePreferences(parsed) ? parsed : null;
     } catch {
       return null;
@@ -66,7 +73,7 @@ export function getPreferences(): CookiePreferences | null {
   if (!raw) return null;
 
   try {
-    const parsed: unknown = JSON.parse(raw);
+    const parsed = JSON.parse(raw);
     return isCookiePreferences(parsed) ? parsed : null;
   } catch {
     return null;
@@ -81,27 +88,35 @@ export function savePreferences(prefs: CookiePreferences): void {
   window.localStorage.setItem(STORAGE_KEY, json);
 }
 
-export function enableAnalytics(): void {
+/* =========================
+   🔥 GTM + Consent Mode v2
+   ========================= */
+
+function map(value: boolean): ConsentStatus {
+  return value ? "granted" : "denied";
+}
+
+export function enableAnalytics(prefs?: CookiePreferences): void {
   if (typeof window === "undefined") return;
 
-  const prefs = getPreferences();
-  if (!prefs?.analytics) return;
+  const p = prefs ?? getPreferences();
+  if (!p) return;
 
-  if (typeof window.gtag === "function") return;
+  window.dataLayer = window.dataLayer || [];
 
-  const script = document.createElement("script");
-  script.src = "https://www.googletagmanager.com/gtag/js?id=G-6FWM0KXD6P";
-  script.async = true;
-  document.head.appendChild(script);
+  // 🔔 eveniment custom pt. GTM (opțional, dar util)
+  window.dataLayer.push({
+    event: "cookie_consent_update",
+    consent: p,
+  });
 
-  window.dataLayer = window.dataLayer ?? [];
-
-  const gtag: GtagFn = (command, ...args) => {
-    window.dataLayer?.push([command, ...args]);
-  };
-
-  window.gtag = gtag;
-
-  gtag("js", new Date());
-  gtag("config", "G-6FWM0KXD6P");
+  // Google Consent Mode v2
+  if (typeof window.gtag === "function") {
+    window.gtag("consent", "update", {
+      analytics_storage: map(p.analytics),
+      ad_storage: map(p.marketing),
+      ad_user_data: map(p.marketing),
+      ad_personalization: map(p.marketing),
+    });
+  }
 }
