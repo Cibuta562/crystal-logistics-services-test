@@ -6,8 +6,9 @@ import type { Metadata } from "next";
 import { Raleway } from "next/font/google";
 import "../globals.css";
 import Navbar from "@/components/site/Navbar";
-import CookieBanner from "@/components/CookieConsent/CookieBanner";
+
 import Script from "next/script";
+import CookieBannerDynamic from "@/app/[locale]/cookie-banner/CookieBannerDynamic";
 
 // Load Raleway font
 const raleway = Raleway({
@@ -90,7 +91,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       <NextIntlClientProvider>
         <Navbar />
         {children}
-        <CookieBanner />
+        <CookieBannerDynamic />
       </NextIntlClientProvider>
       </body>
       </html>
