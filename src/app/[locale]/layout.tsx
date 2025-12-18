@@ -45,16 +45,19 @@ export default async function LocaleLayout({ children, params }: Props) {
         {/* ✅ Google Tag Manager */}
           <Script id="gtm-consent-default" strategy="beforeInteractive">
               {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('consent', 'default', {
-              analytics_storage: 'denied',
-              ad_storage: 'denied',
-              ad_user_data: 'denied',
-              ad_personalization: 'denied'
-            });
-          `}
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    gtag('consent', 'default', {
+      analytics_storage: 'denied',
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      wait_for_update: 1000
+    });
+  `}
           </Script>
+
 
           {/* ✅ GTM – EXACT codul tău */}
           <Script
