@@ -547,7 +547,7 @@ function AnimatedStatsSection({
       label: t("items.revenue"),
       icon: "/images/numbers4.svg",
       prefix: "€",
-      suffix: "B",
+      suffix: "B+",
     },
     { value: 98, label: t("items.satisfaction"), icon: "/images/numbers5.svg" },
   ];
@@ -583,7 +583,7 @@ function AnimatedStatsSection({
                     numberLocale={numberLocale}
                     fadeTransition={fadeTransition}
                     prefix={("prefix" in s && s.prefix) || ""}
-                    suffix={("suffix" in s && s.suffix) || ""}
+                    suffix={("suffix" in s && s.suffix) || "+"}
                 />
             ))}
           </div>

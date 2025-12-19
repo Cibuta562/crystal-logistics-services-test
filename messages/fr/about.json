@@ -125,6 +125,11 @@
           "img": "/images/team/Rafael.webp"
         },
         {
+          "name": "Bianca Gabriela Onișoară",
+          "role": "Directeur Financier",
+          "img": "/images/team/bianca-gabriela-onisoara.webp"
+        },
+        {
           "name": "Serafim Bogdan",
           "role": "Directeur Département Expéditions",
           "img": "/images/team/Serafim.webp"
@@ -133,11 +138,6 @@
           "name": "Liță Alin",
           "role": "Directeur Département Expéditions",
           "img": "/images/team/Lita.webp"
-        },
-        {
-          "name": "Ciobănoiu Bogdan",
-          "role": "Agent de Vente & Transport",
-          "img": "/images/team/Ciobanoiu.webp"
         },
         {
           "name": "Ionescu Denisa",

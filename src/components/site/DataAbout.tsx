@@ -149,7 +149,7 @@ export default function DataAbout() {
   const t = useTranslations("about.dataAbout");
 
   const stats: StatItemProps[] = [
-    { value: 4500, suffix: "+", label: t("stats.clients"), Icon: Users },
+    { value: 7000, suffix: "+", label: t("stats.clients"), Icon: Users },
     { value: 4000, suffix: "+", label: t("stats.partners"), Icon: Truck },
     { value: 500, suffix: "+", label: t("stats.orders"), Icon: Package },
     {

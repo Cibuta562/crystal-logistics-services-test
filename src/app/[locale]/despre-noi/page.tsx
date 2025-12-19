@@ -536,7 +536,7 @@ export default function AboutPage() {
                 width={160}
                 height={160}
                 className={`mx-auto rounded-full w-28 h-28 mb-4 border-2 border-[#FFD500] object-cover ${
-                  i === 1 ? "object-[center_0px]" : "object-[center_-12px]"
+                  i === 1 || i === 2 ? "object-[center_0px]" : "object-[center_-12px]"
                 }`}
               />
 

@@ -1,7 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { usePathname } from "next/navigation";
+import { useEffect, useRef, useState } from "react";
+import { usePathname, useRouter } from "next/navigation";
 import CookieSettings from "./CookieSettings";
 import {
   getPreferences,
@@ -11,7 +11,7 @@ import {
 } from "./cookieHelpers";
 
 /* =========================
-   TRANSLATIONS (INLINE)
+   TRANSLATIONS
    ========================= */
 
 const TRANSLATIONS = {
@@ -45,7 +45,7 @@ const TRANSLATIONS = {
   },
   de: {
     message:
-        "Wir verwenden Cookies, um Ihre Erfahrung auf der Website zu verbessern. Sie können alle Cookies akzeptieren, ablehnen oder konfigurieren.",
+        "Wir verwenden Cookies, um Ihre Erfahrung auf der Website zu verbessern. Sie können alle Cookies akzeptieren, ablehnen oder configurieren.",
     settings: "Einstellungen",
     denyAll: "Alle ablehnen",
     acceptAll: "Alle akzeptieren",
@@ -61,28 +61,54 @@ const TRANSLATIONS = {
 
 type Locale = keyof typeof TRANSLATIONS;
 
+const FOREIGN_LOCALES: Locale[] = ["en", "fr", "it", "de", "pl"];
+
 /* =========================
    COMPONENT
    ========================= */
 
 export default function CookieBanner() {
   const pathname = usePathname();
+  const router = useRouter();
+  const dropdownRef = useRef<HTMLDivElement>(null);
 
-  // detectăm limba din URL (/ro, /en, etc.)
   const locale = (pathname.split("/")[1] as Locale) || "ro";
   const t = TRANSLATIONS[locale] ?? TRANSLATIONS.ro;
 
   const [showBanner, setShowBanner] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
+  const [showLangDropdown, setShowLangDropdown] = useState(false);
 
   useEffect(() => {
     const prefs = getPreferences();
-    if (!prefs) {
-      setShowBanner(true);
-    } else {
-      enableAnalytics(prefs);
-    }
+    if (!prefs) setShowBanner(true);
+    else enableAnalytics(prefs);
   }, []);
+
+  // close dropdown on outside click
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (
+          dropdownRef.current &&
+          !dropdownRef.current.contains(e.target as Node)
+      ) {
+        setShowLangDropdown(false);
+      }
+    };
+    document.addEventListener("mousedown", handler);
+    return () => document.removeEventListener("mousedown", handler);
+  }, []);
+
+  /* =========================
+     LANGUAGE CHANGE
+     ========================= */
+
+  const changeLanguage = (newLocale: Locale) => {
+    const segments = pathname.split("/");
+    segments[1] = newLocale;
+    router.push(segments.join("/"));
+    setShowLangDropdown(false);
+  };
 
   /* =========================
      CTA HANDLERS
@@ -94,7 +120,6 @@ export default function CookieBanner() {
       analytics: true,
       marketing: true,
     };
-
     savePreferences(prefs);
     enableAnalytics(prefs);
     setShowBanner(false);
@@ -106,7 +131,6 @@ export default function CookieBanner() {
       analytics: false,
       marketing: false,
     };
-
     savePreferences(prefs);
     enableAnalytics(prefs);
     setShowBanner(false);
@@ -134,24 +158,83 @@ export default function CookieBanner() {
             {t.message}
           </p>
 
-          <div className="flex w-full flex-col gap-2 md:w-auto md:flex-row md:gap-3">
+          <div className="flex w-full flex-col gap-2 md:w-auto md:flex-row md:gap-3 md:items-center">
+            {/* LANGUAGE DROPDOWN */}
+            <div ref={dropdownRef} className="relative w-full md:w-auto">
+              <button
+                  onClick={() => setShowLangDropdown((v) => !v)}
+                  className="
+                flex w-full items-center justify-between gap-2
+                rounded-md border border-white/10
+                bg-neutral-700 px-4 py-3
+                text-sm font-semibold uppercase
+                hover:bg-neutral-600 transition
+                md:w-auto md:px-3 md:py-2 md:text-xs
+              "
+              >
+                {locale}
+                <span className="text-white/60">▴</span>
+              </button>
+
+              {showLangDropdown && (
+                  <div
+                      className="
+                  absolute left-0 right-0 bottom-full mb-1
+                  rounded-md
+                  bg-neutral-800 border border-white/10
+                  shadow-lg
+                  md:left-auto md:right-0 md:w-20
+                "
+                  >
+                    {locale !== "ro" && (
+                        <button
+                            onClick={() => changeLanguage("ro")}
+                            className="
+                      block w-full px-4 py-3
+                      text-left text-sm uppercase
+                      hover:bg-neutral-700
+                      md:px-3 md:py-2 md:text-xs
+                    "
+                        >
+                          ro
+                        </button>
+                    )}
+
+                    {FOREIGN_LOCALES.filter((l) => l !== locale).map((lng) => (
+                        <button
+                            key={lng}
+                            onClick={() => changeLanguage(lng)}
+                            className="
+                      block w-full px-4 py-3
+                      text-left text-sm uppercase
+                      hover:bg-neutral-700
+                      md:px-3 md:py-2 md:text-xs
+                    "
+                        >
+                          {lng}
+                        </button>
+                    ))}
+                  </div>
+              )}
+            </div>
+
             <button
                 onClick={() => setShowSettings(true)}
-                className="rounded-md border border-white/10 bg-neutral-700 px-4 py-2 text-sm hover:bg-neutral-600 transition"
+                className="rounded-md border border-white/10 bg-neutral-700 px-4 py-3 text-sm hover:bg-neutral-600 transition"
             >
               {t.settings}
             </button>
 
             <button
                 onClick={denyAll}
-                className="rounded-md border border-white/10 bg-neutral-700 px-4 py-2 text-sm hover:bg-neutral-600 transition"
+                className="rounded-md border border-white/10 bg-neutral-700 px-4 py-3 text-sm hover:bg-neutral-600 transition"
             >
               {t.denyAll}
             </button>
 
             <button
                 onClick={acceptAll}
-                className="rounded-md bg-yellow-400 px-4 py-2 text-sm font-semibold text-black hover:bg-yellow-300 transition"
+                className="rounded-md bg-yellow-400 px-4 py-3 text-sm font-semibold text-black hover:bg-yellow-300 transition"
             >
               {t.acceptAll}
             </button>
