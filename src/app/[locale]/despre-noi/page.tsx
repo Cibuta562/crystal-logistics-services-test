@@ -497,6 +497,7 @@ export default function AboutPage() {
 
       <section className="bg-neutral-900 py-20 px-6 md:px-16">
         <motion.h2
+            id="echipa"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}

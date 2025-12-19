@@ -44,7 +44,7 @@ const localizedRoutes: Record<string, Record<string, string>> = {
 
     "Devino Partener CLS": "/transportatori",
     Cariere: "/cariere",
-    "Echipa Noastră": "/despre-noi",
+    "Echipa Noastră": "/despre-noi#echipa",
     Blog: "/blog",
     Recenzii: "/#reviews",
 
