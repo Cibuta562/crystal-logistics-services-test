@@ -62,7 +62,7 @@ const localizedRoutes: Record<string, Record<string, string>> = {
 
     "Become a CLS Partner": "/transportatori",
     Careers: "/cariere",
-    "Our Team": "/despre-noi",
+    "Our Team": "/despre-noi#echipa",
     Blog: "/blog",
     Reviews: "/#reviews",
 
@@ -71,7 +71,22 @@ const localizedRoutes: Record<string, Record<string, string>> = {
 
   de: {
     "Sofortangebot": "/transportboerse",
+    "Transportbörse": "/transportboerse",
+    "Multimodaler Transport": "/transport-multimodal",
+    "Straßentransport": "/transport-marfa-rutier",
+    "Lufttransport": "/transport-aerian",
+    "Seetransport": "/transport-maritim",
+    "Schienentransport": "/transport-feroviar",
+
+    "CLS-Partner werden": "/transportatori",
+    Karriere: "/cariere",
+    "Unser Team": "/ueber-uns#echipa",
+    Blog: "/blog",
+    Bewertungen: "/#reviews",
+
+    Broschüren: "/brochures/brochure-en.pdf",
   },
+
 
   fr: {
     "Devis instantané": "/bourse-de-transport",
