@@ -1,0 +1,11 @@
+{
+  "BlogIndex": {
+    "searchPlaceholder": "Caută articole",
+    "filters": "Filtre",
+    "categories": "Categorii",
+    "latestPosts": "Ultimele articole",
+    "reset": "Resetează",
+    "close": "Închide",
+    "noResults": "Nu au fost găsite articole"
+  }
+}
