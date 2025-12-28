@@ -78,7 +78,7 @@ const localizedRoutes: Record<string, Record<string, string>> = {
     "Seetransport": "/transport-maritim",
     "Schienentransport": "/transport-feroviar",
 
-    "CLS-Partner werden": "/trager",
+    "Werden Sie CLS-Partner": "/trager",
     Karriere: "/cariere",
     "Unser Team": "/despre-noi#echipa",
     Blog: "/blog",
@@ -87,17 +87,55 @@ const localizedRoutes: Record<string, Record<string, string>> = {
     Broschüren: "/brochures/brochure-en.pdf",
   },
 
-
   fr: {
-    "Devis instantané": "/bourse-de-transport",
+    "Devis Instantané": "/bourse-de-transport",
+    "Transport multimodal": "/transport-multimodal",
+    "Transport routier": "/transport-marfa-rutier",
+    "Transport aérien": "/transport-aerian",
+    "Transport maritime": "/transport-maritim",
+    "Transport ferroviaire": "/transport-feroviar",
+
+    "Devenir partenaire CLS": "/porteurs",
+     "Carrières": "/carrieres",
+    "Notre équipe": "/despre-noi#echipa",
+    Blog: "/blog",
+    Avis: "/#reviews",
+
+    Brochures: "/brochures/brochure-en.pdf",
   },
 
   it: {
-    "Preventivo immediato": "/scambio-di-trasporto",
+    "Preventivo Istantaneo": "/scambio-di-trasporto",
+    "Trasporto Multimodale": "/transport-multimodal",
+    "Trasporto Stradale": "/transport-marfa-rutier",
+    "Trasporto Aereo": "/transport-aerian",
+    "Trasporto Marittimo": "/transport-maritim",
+    "Trasporto Ferroviario": "/transport-feroviar",
+
+    "Diventa Partner CLS": "/vettori",
+    "Carriere": "/carriere",
+    "Il nostro team": "/despre-noi#echipa",
+    Blog: "/blog",
+    Recensioni: "/#reviews",
+
+    Brochure: "/brochures/brochure-en.pdf",
   },
 
   pl: {
-    "Natychmiastowa wycena": "/giełda-transportowa",
+    "Natychmiastowa Wycena": "/giełda-transportowa",
+    "Transport Multimodalny": "/transport-multimodal",
+    "Transport Drogowy": "/transport-marfa-rutier",
+    "Transport Lotniczy": "/transport-aerian",
+    "Transport Morski": "/transport-maritim",
+    "Transport Kolejowy": "/transport-feroviar",
+
+    "Zostań Partnerem CLS": "/przewoznicy",
+    "Kariera": "/carriere",
+    "Nasz Zespół": "/despre-noi#echipa",
+    Blog: "/blog",
+    Opinie: "/#reviews",
+
+    Broszury: "/brochures/brochure-en.pdf",
   },
 
 
