@@ -22,6 +22,7 @@ type InitialPost = {
   articleDate?: string;
   coverUrl: string | null;
   tags: string[];
+  locale: string;
   sections: SectionType[];
 };
 
@@ -511,14 +512,17 @@ export default function EditPostClient({ initial }: { initial: InitialPost }) {
   const router = useRouter();
   const locale = useLocale();
 
-  const [title, setTitle] = useState(initial.title ?? "");
+    const [postLocale, setPostLocale] = useState(initial.locale);
+
+
+    const [title, setTitle] = useState(initial.title ?? "");
   const [subtitle, setSubtitle] = useState(initial.subtitle ?? "");
   const [excerpt, setExcerpt] = useState(initial.excerpt ?? "");
   const [author, setAuthor] = useState(initial.author ?? "");
   const [articleDate, setArticleDate] = useState(initial.articleDate ?? "");
   const [coverUrl, setCoverUrl] = useState<string | null>(initial.coverUrl);
   const [tagsInput, setTagsInput] = useState<string>(initial.tags.join(", "));
-  const [sections, setSections] = useState<SectionType[]>(
+    const [sections, setSections] = useState<SectionType[]>(
     initial.sections.length > 0 ? initial.sections : [emptySection()]
   );
 
@@ -564,48 +568,62 @@ export default function EditPostClient({ initial }: { initial: InitialPost }) {
       coverUrl: coverUrl || undefined,
       tags: tagsArr,
       sections,
+        locale: postLocale,
       published: false,
     };
   }
 
-  async function handleSaveDraft() {
-    try {
-      setBusy(true);
-      setErr(null);
-      const payload = buildPayload(draftId ?? undefined);
-      const result = await saveDraft(payload);
-      setDraftId(result.id);
-    } catch (e: unknown) {
-      setErr(getErrorMessage(e, "Eroare la salvare"));
-    } finally {
-      setBusy(false);
+    async function handleSaveDraft() {
+        if (!postLocale) {
+            setErr("Selectează limba articolului");
+            return;
+        }
+
+        try {
+            setBusy(true);
+            setErr(null);
+
+            const payload = buildPayload(draftId ?? undefined);
+            const result = await saveDraft(payload);
+            setDraftId(result.id);
+        } catch (e: unknown) {
+            setErr(getErrorMessage(e, "Eroare la salvare"));
+        } finally {
+            setBusy(false);
+        }
     }
-  }
 
-  async function handlePublish() {
-    try {
-      setBusy(true);
-      setErr(null);
 
-      let id = draftId;
-      if (!id) {
-        const saved = await saveDraft(buildPayload());
-        id = saved.id;
-        setDraftId(saved.id);
-      }
+    async function handlePublish() {
+        if (!postLocale) {
+            setErr("Selectează limba articolului");
+            return;
+        }
 
-      if (!id) throw new Error("Draft ID lipsă");
+        try {
+            setBusy(true);
+            setErr(null);
 
-      await publishDraft(id);
-      router.replace(`/${locale}/admin/posts`);
-    } catch (e: unknown) {
-      setErr(getErrorMessage(e, "Eroare la publicare"));
-    } finally {
-      setBusy(false);
+            let id = draftId;
+            if (!id) {
+                const saved = await saveDraft(buildPayload());
+                id = saved.id;
+                setDraftId(saved.id);
+            }
+
+            if (!id) throw new Error("Draft ID lipsă");
+
+            await publishDraft(id);
+            router.replace(`/${locale}/admin/posts`);
+        } catch (e: unknown) {
+            setErr(getErrorMessage(e, "Eroare la publicare"));
+        } finally {
+            setBusy(false);
+        }
     }
-  }
 
-  const previewArticle = (
+
+    const previewArticle = (
     <article className="prose max-w-none">
       <p className="text-sm opacity-60">
         {getPreviewDateString()} • {author || "Autor"}
@@ -714,83 +732,102 @@ export default function EditPostClient({ initial }: { initial: InitialPost }) {
           </div>
         </div>
 
-        <div className="grid gap-3 md:grid-cols-2">
-          <div className="flex flex-col gap-1">
-            <label className="text-sm text-neutral-700">Slug</label>
-            <input
-              className="cursor-not-allowed rounded-xl border bg-neutral-50 p-2 text-neutral-500"
-              value={initial.slug}
-              disabled
-            />
-            <span className="text-xs text-neutral-500">
-              Slug-ul nu poate fi modificat din editorul de față.
+          <div className="grid gap-3 md:grid-cols-2">
+              <div className="flex flex-col gap-1">
+                  <label className="text-sm text-neutral-700">URL</label>
+                  <input
+                      className="cursor-not-allowed rounded-xl border bg-neutral-50 p-2 text-neutral-500"
+                      value={initial.slug}
+                      disabled
+                  />
+                  <span className="text-xs text-neutral-500">
+              URL-ul nu poate fi modificat din editorul de față.
             </span>
-          </div>
+              </div>
 
-          <div className="flex flex-col gap-1">
-            <label className="text-sm text-neutral-700">Autor</label>
-            <input
-              className="rounded-xl border p-2"
-              placeholder="Autor"
-              value={author}
-              onChange={(e) => setAuthor(e.target.value)}
-            />
-          </div>
+              <div className="flex flex-col gap-1">
+                  <label className="text-sm text-neutral-700">Autor</label>
+                  <input
+                      className="rounded-xl border p-2"
+                      placeholder="Autor"
+                      value={author}
+                      onChange={(e) => setAuthor(e.target.value)}
+                  />
+              </div>
 
-          <input
-            className="rounded-xl border p-2 md:col-span-2"
-            placeholder="Titlu"
-            value={title}
-            onChange={(e) => setTitle(e.target.value)}
-          />
+              <div className="flex flex-col gap-1 md:col-span-2">
+                  <label className="text-sm text-neutral-700">
+                      Limba articolului
+                  </label>
+                  <select
+                      className="max-w-xs rounded-xl border p-2"
+                      value={postLocale}
+                      onChange={(e) => setPostLocale(e.target.value)}
+                  >
+                      <option value="ro">Română</option>
+                      <option value="en">English</option>
+                      <option value="de">Deutsch</option>
+                      <option value="fr">Français</option>
+                      <option value="it">Italiano</option>
+                      <option value="pl">Polski</option>
+                  </select>
+              </div>
 
-          <input
-            className="rounded-xl border p-2 md:col-span-2"
-            placeholder="Subtitlu"
-            value={subtitle}
-            onChange={(e) => setSubtitle(e.target.value)}
-          />
 
-          <textarea
-            className="min-h-[80px] rounded-xl border p-2 text-sm md:col-span-2"
-            placeholder="Rezumat (excerpt) – apare în listă și ajută la SEO"
-            value={excerpt}
-            onChange={(e) => setExcerpt(e.target.value)}
-          />
+              <input
+                  className="rounded-xl border p-2 md:col-span-2"
+                  placeholder="Titlu"
+                  value={title}
+                  onChange={(e) => setTitle(e.target.value)}
+              />
 
-          <div className="flex flex-col gap-1 md:col-span-2">
-            <label className="text-sm text-neutral-700">
-              Dată articol (opțional)
-            </label>
-            <input
-              type="date"
-              className="max-w-xs rounded-xl border p-2"
-              value={articleDate}
-              onChange={(e) => setArticleDate(e.target.value)}
-            />
-            <span className="text-xs text-neutral-500">
+              <input
+                  className="rounded-xl border p-2 md:col-span-2"
+                  placeholder="Subtitlu"
+                  value={subtitle}
+                  onChange={(e) => setSubtitle(e.target.value)}
+              />
+
+              <textarea
+                  className="min-h-[80px] rounded-xl border p-2 text-sm md:col-span-2"
+                  placeholder="Rezumat (excerpt) – apare în listă și ajută la SEO"
+                  value={excerpt}
+                  onChange={(e) => setExcerpt(e.target.value)}
+              />
+
+              <div className="flex flex-col gap-1 md:col-span-2">
+                  <label className="text-sm text-neutral-700">
+                      Dată articol (opțional)
+                  </label>
+                  <input
+                      type="date"
+                      className="max-w-xs rounded-xl border p-2"
+                      value={articleDate}
+                      onChange={(e) => setArticleDate(e.target.value)}
+                  />
+                  <span className="text-xs text-neutral-500">
               Dacă este completată, această dată va fi afișată în locul datei de
               publicare.
             </span>
+              </div>
           </div>
-        </div>
 
-        <div className="flex items-center gap-3">
-          <ImageUploader
-            pathPrefix={`posts/${initial.slug || "draft"}/cover`}
-            onUploaded={setCoverUrl}
-            label={coverUrl ? "Schimbă cover" : "Încarcă cover"}
-          />
-          {coverUrl && (
-            <span className="break-all text-xs opacity-70">cover setat</span>
-          )}
-        </div>
+          <div className="flex items-center gap-3">
+              <ImageUploader
+                  pathPrefix={`posts/${initial.slug || "draft"}/cover`}
+                  onUploaded={setCoverUrl}
+                  label={coverUrl ? "Schimbă cover" : "Încarcă cover"}
+              />
+              {coverUrl && (
+                  <span className="break-all text-xs opacity-70">cover setat</span>
+              )}
+          </div>
 
-        <div>
-          <label className="mb-1 block text-sm">
-            Tag-uri (separate prin virgulă)
-          </label>
-          <input
+          <div>
+              <label className="mb-1 block text-sm">
+                  Tag-uri (separate prin virgulă)
+              </label>
+              <input
             className="w-full rounded-xl border p-2"
             placeholder="logistică, transport, supply-chain"
             value={tagsInput}

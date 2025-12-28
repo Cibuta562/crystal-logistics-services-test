@@ -23,6 +23,7 @@ export const PostInput = z.object({
   // dates (server-populate)
   createdAt: z.any().optional(),
   updatedAt: z.any().optional(),
+  locale: z.enum(["ro", "en", "de", "fr", "it", "pl"]),
   publishedAt: z.any().optional(),
 });
 

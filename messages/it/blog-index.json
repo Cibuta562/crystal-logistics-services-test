@@ -1,0 +1,12 @@
+{
+  "BlogIndex": {
+    "searchPlaceholder": "Cerca articoli",
+    "filters": "Filtri",
+    "categories": "Categorie",
+    "latestPosts": "Ultimi articoli",
+    "reset": "Reimposta",
+    "close": "Chiudi",
+    "noResults": "Nessun articolo trovato",
+    "readArticle": "Leggi l’articolo"
+  }
+}

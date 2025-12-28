@@ -74,13 +74,13 @@ const localizedRoutes: Record<string, Record<string, string>> = {
     "Transportbörse": "/transportboerse",
     "Multimodaler Transport": "/transport-multimodal",
     "Straßentransport": "/transport-marfa-rutier",
-    "Lufttransport": "/transport-aerian",
+    "Luftfracht": "/transport-aerian",
     "Seetransport": "/transport-maritim",
     "Schienentransport": "/transport-feroviar",
 
-    "CLS-Partner werden": "/transportatori",
+    "CLS-Partner werden": "/trager",
     Karriere: "/cariere",
-    "Unser Team": "/ueber-uns#echipa",
+    "Unser Team": "/despre-noi#echipa",
     Blog: "/blog",
     Bewertungen: "/#reviews",
 

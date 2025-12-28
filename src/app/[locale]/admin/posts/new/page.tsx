@@ -498,7 +498,7 @@ function PreviewImage({
 export default function NewPostPage() {
     const router = useRouter();
     const locale = useLocale();
-
+    const [postLocale, setPostLocale] = useState<string>(locale);
     const [slug, setSlug] = useState("");
     const [title, setTitle] = useState("");
     const [subtitle, setSubtitle] = useState("");
@@ -549,6 +549,7 @@ export default function NewPostPage() {
             coverUrl: coverUrl || undefined,
             tags: tagsArr,
             sections,
+            locale: postLocale,
             published: false,
         };
     }
@@ -687,7 +688,7 @@ export default function NewPostPage() {
                 <div className="grid gap-3 md:grid-cols-2">
                     <input
                         className="rounded-xl border p-2"
-                        placeholder="Slug (ex: viitorul-transportului)"
+                        placeholder="URL: (ex: viitorul-transportului-2026)"
                         value={slug}
                         onChange={(e) => setSlug(e.target.value)}
                     />
@@ -697,6 +698,22 @@ export default function NewPostPage() {
                         value={author}
                         onChange={(e) => setAuthor(e.target.value)}
                     />
+                    <div className="flex flex-col gap-1 md:col-span-2">
+                        <label className="text-sm text-neutral-700">Limba articolului</label>
+                        <select
+                            className="max-w-xs rounded-xl border p-2"
+                            value={postLocale}
+                            onChange={(e) => setPostLocale(e.target.value)}
+                        >
+                            <option value="ro">Română</option>
+                            <option value="en">English</option>
+                            <option value="de">Deutsch</option>
+                            <option value="fr">Français</option>
+                            <option value="it">Italiano</option>
+                            <option value="pl">Polski</option>
+                        </select>
+                    </div>
+
                     <input
                         className="rounded-xl border p-2 md:col-span-2"
                         placeholder="Titlu"
@@ -745,7 +762,7 @@ export default function NewPostPage() {
                 </div>
 
                 <div>
-                    <label className="mb-1 block text-sm">
+                <label className="mb-1 block text-sm">
                         Tag-uri (separate prin virgulă)
                     </label>
                     <input

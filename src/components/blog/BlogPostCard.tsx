@@ -4,6 +4,8 @@ import type { BlogPost } from "@/types/blog";
 import { formatRoDate } from "@/lib/date";
 import Image from "next/image";
 import Link from "next/link";
+import { useTranslations } from "next-intl";
+
 
 export default function BlogPostCard({
   post,
@@ -15,7 +17,10 @@ export default function BlogPostCard({
   const date = post.publishedAt ? new Date(post.publishedAt) : null;
   const tag = post.tags?.[0];
 
-  const coverHeight = featured
+  const t = useTranslations("BlogIndex");
+
+
+    const coverHeight = featured
     ? "h-[260px] md:h-[360px]"
     : "h-[220px] md:h-[300px]";
 
@@ -96,7 +101,7 @@ export default function BlogPostCard({
           />
 
           {/* text */}
-          <span className="relative z-10 font-semibold">Vezi articolul</span>
+          <span className="relative z-10 font-semibold">{t("readArticle")}</span>
 
           {/* cartuș cu icon */}
           <span

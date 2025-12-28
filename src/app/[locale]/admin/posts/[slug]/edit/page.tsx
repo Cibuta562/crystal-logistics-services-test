@@ -25,6 +25,7 @@ type FirestorePost = {
   coverUrl?: unknown;
   tags?: unknown;
   sections?: unknown;
+  locale?: unknown;
   publishedAt?: unknown;
   createdAt?: unknown;
 };
@@ -106,6 +107,7 @@ export default async function EditPostPage({ params }: { params: Params }) {
     coverUrl: asStringOrNull(p.coverUrl),
     tags,
     sections,
+    locale: asString(p.locale, "ro"),
   };
 
   return <EditPostClient initial={initial} />;

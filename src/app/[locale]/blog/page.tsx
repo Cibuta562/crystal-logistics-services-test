@@ -24,10 +24,10 @@ type FirestorePost = {
 
 function isTimestampLike(v: unknown): v is TimestampLike {
   return (
-    typeof v === "object" &&
-    v !== null &&
-    "toDate" in v &&
-    typeof (v as { toDate?: unknown }).toDate === "function"
+      typeof v === "object" &&
+      v !== null &&
+      "toDate" in v &&
+      typeof (v as { toDate?: unknown }).toDate === "function"
   );
 }
 
@@ -42,7 +42,7 @@ function asStringOrNull(v: unknown): string | null {
 function normalizeTags(v: unknown): string[] {
   if (!Array.isArray(v)) return [];
   return v.filter(
-    (x): x is string => typeof x === "string" && x.trim().length > 0
+      (x): x is string => typeof x === "string" && x.trim().length > 0
   );
 }
 
@@ -52,13 +52,20 @@ function toDateOrNull(v: unknown): Date | null {
   return null;
 }
 
-export default async function BlogIndex() {
+export default async function BlogIndex({
+                                          params,
+                                        }: {
+  params: { locale: string };
+}) {
+  const { locale } = params;
+
   const db = getFirestore();
   const snap = await db
-    .collection("posts")
-    .orderBy("publishedAt", "desc")
-    .limit(100)
-    .get();
+      .collection("posts")
+      .where("locale", "==", locale) // 🔥 FILTRARE LIMBĂ
+      .orderBy("publishedAt", "desc")
+      .limit(100)
+      .get();
 
   const posts: BlogPost[] = snap.docs.map((d) => {
     const p = (d.data() ?? {}) as FirestorePost;
@@ -84,15 +91,15 @@ export default async function BlogIndex() {
   }, {});
 
   const categories = Object.entries(tagCounts)
-    .sort((a, b) => b[1] - a[1])
-    .map(([tag, count]) => ({ tag, count }));
+      .sort((a, b) => b[1] - a[1])
+      .map(([tag, count]) => ({ tag, count }));
 
   return (
-    <div>
-      <BlogHero />
-      <BlogIndexClient posts={posts} categories={categories} latest={latest} />
-      <NewsletterFormSection />
-      <Footer />
-    </div>
+      <div>
+        <BlogHero />
+        <BlogIndexClient posts={posts} categories={categories} latest={latest} />
+        <NewsletterFormSection />
+        <Footer />
+      </div>
   );
 }

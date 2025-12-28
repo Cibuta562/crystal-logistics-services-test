@@ -47,6 +47,7 @@ type DraftPayload = {
     coverUrl?: string;
     tags: string[];
     sections: unknown[];
+    locale: string;
     published?: boolean;
     createdAt?: unknown;
 };
