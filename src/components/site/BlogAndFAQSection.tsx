@@ -1,10 +1,16 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { collection, getDocs, query, where, orderBy, limit } from "firebase/firestore";
+import {
+    collection,
+    getDocs,
+    query,
+    where,
+    orderBy,
+    limit,
+} from "firebase/firestore";
 import { db } from "@/lib/firebase-client";
 import { ChevronDown } from "lucide-react";
-// 1. Importăm useLocale pentru a ști limba curentă
 import { useTranslations, useLocale } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
@@ -18,21 +24,19 @@ interface Post {
     publishedAt: string;
 }
 
-// Helper pentru formatarea datei
+// helper pentru data localizată
 const getLocaleDateString = (locale: string): string => {
-    if (locale === 'de') return 'de-DE';
-    if (locale === 'fr') return 'fr-FR';
-    if (locale === 'it') return 'it-IT';
-    if (locale === 'pl') return 'pl-PL';
-    return locale === 'ro' ? 'ro-RO' : 'en-US';
+    if (locale === "de") return "de-DE";
+    if (locale === "fr") return "fr-FR";
+    if (locale === "it") return "it-IT";
+    if (locale === "pl") return "pl-PL";
+    return locale === "ro" ? "ro-RO" : "en-US";
 };
 
 export default function BlogAndFAQSection() {
     const [openIndex, setOpenIndex] = useState<number | null>(0);
     const [posts, setPosts] = useState<Post[]>([]);
 
-    // 2. Inițializăm traducerile și locale-ul
-    // Asigurați-vă că "BlogFAQ" există în fișierul de traduceri încărcat
     const t = useTranslations("BlogFAQ");
     const locale = useLocale();
 
@@ -42,43 +46,27 @@ export default function BlogAndFAQSection() {
                 const q = query(
                     collection(db, "posts"),
                     where("published", "==", true),
+                    where("locale", "==", locale), // 🔥 FILTRARE PE LIMBĂ
                     orderBy("publishedAt", "desc"),
                     limit(3)
                 );
+
                 const snapshot = await getDocs(q);
+                const dateFormat = getLocaleDateString(locale);
 
-                const fetched = snapshot.docs.map((doc) => {
+                const fetched: Post[] = snapshot.docs.map((doc) => {
                     const data = doc.data();
-                    const dateFormat = getLocaleDateString(locale);
-
-                    // --- LOGICA DE TRADUCERE DIN BAZA DE DATE ---
-
-                    // Verificăm dacă titlul este un obiect (are traduceri) sau un string simplu
-                    let displayTitle = "";
-                    if (data.title && typeof data.title === 'object') {
-                        // Încercăm limba curentă -> apoi engleză -> apoi română -> apoi string gol
-                        displayTitle = data.title[locale] || data.title['en'] || data.title['ro'] || "";
-                    } else {
-                        // Fallback pentru postările vechi care sunt doar string
-                        displayTitle = data.title || "";
-                    }
-
-                    // Aceeași logică pentru autor
-                    let displayAuthor = "";
-                    if (data.author && typeof data.author === 'object') {
-                        displayAuthor = data.author[locale] || data.author['en'] || data.author['ro'] || "";
-                    } else {
-                        displayAuthor = data.author || "";
-                    }
 
                     return {
                         id: doc.id,
-                        title: displayTitle,
+                        title: data.title || "",
                         slug: data.slug || "",
-                        author: displayAuthor,
+                        author: data.author || "",
                         coverUrl: data.coverUrl || "",
                         publishedAt: data.publishedAt
-                            ? new Date(data.publishedAt.seconds * 1000).toLocaleDateString(dateFormat, {
+                            ? new Date(
+                                data.publishedAt.seconds * 1000
+                            ).toLocaleDateString(dateFormat, {
                                 day: "2-digit",
                                 month: "long",
                                 year: "numeric",
@@ -86,6 +74,7 @@ export default function BlogAndFAQSection() {
                             : "",
                     };
                 });
+
                 setPosts(fetched);
             } catch (err) {
                 console.error("Error fetching posts:", err);
@@ -93,7 +82,7 @@ export default function BlogAndFAQSection() {
         };
 
         fetchPosts();
-    }, [locale]); // 3. Se re-execută când schimbi limba
+    }, [locale]);
 
     const faqs = [
         {
@@ -122,8 +111,7 @@ export default function BlogAndFAQSection() {
 
     return (
         <section className="bg-white text-gray-900 w-full grid grid-cols-1 md:grid-cols-2 gap-16 py-20 px-8 md:px-24">
-
-            {/* === LEFT: Recent Posts === */}
+            {/* === LEFT: Latest Blog Posts === */}
             <div>
                 <h2 className="text-3xl font-semibold mb-6 border-b-2 border-yellow-500 inline-block pb-1">
                     {t("latestPosts")}
@@ -137,6 +125,7 @@ export default function BlogAndFAQSection() {
                             <Link
                                 key={post.id}
                                 href={`/blog/${post.slug}`}
+                                locale={locale} // 🔥 /ro/stiri vs /en/blog automat
                                 className="flex gap-6 group items-center"
                             >
                                 <Image
@@ -147,11 +136,15 @@ export default function BlogAndFAQSection() {
                                     className="w-44 h-28 object-cover rounded-lg shadow-md transition-transform duration-300 group-hover:scale-105"
                                 />
                                 <div>
-                                    <p className="text-gray-500 font-semibold text-sm">{post.publishedAt}</p>
+                                    <p className="text-gray-500 font-semibold text-sm">
+                                        {post.publishedAt}
+                                    </p>
                                     <p className="font-bold text-lg leading-snug text-gray-900 group-hover:text-yellow-600 transition">
                                         {post.title}
                                     </p>
-                                    <p className="text-sm text-gray-600 mt-1">{post.author}</p>
+                                    <p className="text-sm text-gray-600 mt-1">
+                                        {post.author}
+                                    </p>
                                 </div>
                             </Link>
                         ))
@@ -161,7 +154,10 @@ export default function BlogAndFAQSection() {
 
             {/* === RIGHT: FAQ Section === */}
             <div>
-                <h2 className="text-3xl font-semibold mb-6 text-gray-900">{t("faqTitle")}</h2>
+                <h2 className="text-3xl font-semibold mb-6 text-gray-900">
+                    {t("faqTitle")}
+                </h2>
+
                 <div className="space-y-3">
                     {faqs.map((faq, idx) => {
                         const isOpen = openIndex === idx;
@@ -176,12 +172,14 @@ export default function BlogAndFAQSection() {
                   </span>
                                     <ChevronDown
                                         className={`w-5 h-5 transform transition-transform ${
-                                            isOpen ? "rotate-180 text-yellow-600" : "text-gray-500"
+                                            isOpen
+                                                ? "rotate-180 text-yellow-600"
+                                                : "text-gray-500"
                                         }`}
                                     />
                                 </button>
                                 {isOpen && (
-                                    <div className="pl-4 pb-3 text-gray-800 transition-colors duration-300">
+                                    <div className="pl-4 pb-3 text-gray-800">
                                         {faq.answer}
                                     </div>
                                 )}
